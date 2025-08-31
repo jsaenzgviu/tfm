@@ -1,0 +1,51 @@
+
+=== INFORME DE REDIMENSIONADO DE IMÁGENES ===
+Generado para trazabilidad en ciencia de datos
+
+INFORMACIÓN GENERAL:
+- Fecha y hora: 2025-08-21 10:33:24
+- Directorio procesado: leaf_mold
+- Script utilizado: 0_resize_image.py
+- Usuario/Sistema: xxxx@unknown
+
+CONFIGURACIÓN DE PROCESAMIENTO:
+- Directorio fuente: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/./same2/leaf_mold
+- Directorio destino: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/./same3/train/leaf_mold
+- Tamaño objetivo: 224x224 píxeles
+- Algoritmo de redimensionado: Lanczos
+- Calidad JPEG: 96%
+- Formato de salida: JPEG
+- Relleno: Color promedio de bordes
+
+RESULTADOS:
+- Imágenes procesadas exitosamente: 3094
+- Errores encontrados: 0
+- Total de archivos analizados: 3094
+- Tasa de éxito: 100.0%
+- Tiempo de procesamiento: 9.50 segundos
+- Promedio por imagen: 0.003 segundos
+
+TRANSFORMACIONES APLICADAS:
+1. Redimensionado proporcional con algoritmo Lanczos
+2. Padding con color promedio de bordes para mantener aspecto cuadrado
+3. Conversión de PNG a JPEG (si aplica)
+4. Compresión JPEG optimizada
+5. Normalización a formato estándar para machine learning
+
+ARCHIVOS GENERADOS:
+- Directorio de salida: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/./same3/train/leaf_mold
+- Formato: Todos los archivos convertidos a .jpg
+- Dimensiones: Todas las imágenes son exactamente 224x224 píxeles
+
+TRAZABILIDAD:
+- Esta transformación es parte del preprocesamiento del dataset
+- Mantiene la calidad visual mientras estandariza dimensiones
+- Compatible con frameworks de deep learning (PyTorch, TensorFlow)
+- Conserva las proporciones originales sin distorsión
+
+NOTAS PARA REPRODUCIBILIDAD:
+- Comando usado: resize_image.py --source leaf_mold --output leaf_mold --size 224 224 --quality 96
+- Versión de PIL/Pillow: 11.3.0
+- Python: 3.11.13
+
+=== FIN DEL INFORME ===

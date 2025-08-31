@@ -1,0 +1,3488 @@
+ANÁLISIS DE ARCHIVOS BASE EN GRUPOS
+================================================================================
+
+Directorio: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same4/train/septoria_leaf_spot
+Tiempo de análisis: 0.041s
+Fecha: 2025-08-24 21:34:56
+
+ESTADÍSTICAS FINALES:
+- Total de archivos: 1570
+- Grupos analizados: 380
+- Archivos base identificados: 380
+
+MÉTODOS UTILIZADOS:
+- pattern_analysis: 360 grupos
+- single_file: 20 grupos
+
+GRUPOS ANALIZADOS:
+--------------------------------------------------
+
+Grupo: cg_1584 (3 archivos)
+Método: pattern_analysis
+Archivo base: c6f780d6693180e3_1a88e419_7d5c_45c7_a10f_4e1f80280cd2_matt_s_cg_1584.jpg
+Archivos del grupo:
+  🎯 c6f780d6693180e3_1a88e419_7d5c_45c7_a10f_4e1f80280cd2_matt_s_cg_1584.jpg
+     a11df1cb7c4b7cf6_1a88e419_7d5c_45c7_a10f_4e1f80280cd2_matt_s_cg_1584_180deg.jpg
+     7a1fab2cf6d9591f_1a88e419_7d5c_45c7_a10f_4e1f80280cd2_matt_s_cg_1584_fliptb.jpg
+
+Grupo: leaf_spot (23 archivos)
+Método: pattern_analysis
+Archivo base: be6cec4dece67fc6_septoria_leaf_spot.jpg
+Archivos del grupo:
+     4540b3bd2aa4b3e6_tomato_plant_is_infected_with_septoria_leaf_spot_jpg_rf_e06ba74ce8ed6d554d3f77ee1f5e3750.jpg
+     34a14a8890d752d6_32_septoria_leaf_spot_jpg_rf_d85a31a0d6b3b8b6bc511628cda00158.jpg
+     31a2f62bb8e66939_septoria_leaf_spot_jpg_rf_722c2bd6cd9ce2393cbd1b0cb4f34d18.jpg
+     e66fa4982b2682c7_septoria_leaf_spot_jpg_rf_bf8b552dbd97ffb4e26716b9491b6957.jpg
+     9166ecfc29f13951_septoria_leaf_spot_jpg_rf_64fa5678cf26bd168c8280e3b2f47d2c.jpg
+     3d0874dcfdc9d332_tomato_plant_with_septoria_leaf_spot.jpg
+     b0e14e9e703eac09_tomato_septoria_leaf_spot_jpg_rf_ed1a1e387dca9071fa1995020cbb2740.jpg
+     6dbf93d855598504_septoria_leaf_spot_jpg_rf_2e120e8305109d95299f5b6ded51b3a0.jpg
+     37ebfd063f57337c_49_septoria_leaf_spot_jpg_rf_943608800bfa0d84a47e4409db0b1315.jpg
+     321af5188364f1e9_tomato_plant_is_infected_with_septoria_leaf_spot_jpg_rf_08ca9739372cc7eba9357a61676d5c96.jpg
+     8d11355227a0d0e8_tomato_septoria_leaf_spot_jpg_rf_843f711317d958611f0181028ce7b2de.jpg
+     5f2b87f3df1c8743_tomato_plant_is_infected_with_septoria_leaf_spot_jpg_rf_18696f214227b2ca13cfae8f3f3cd1a3.jpg
+     f310171819f262f9_septoria_leaf_spot_jpg_rf_0cbc8b4d9c5c1f9853b8ea49a7e3618b.jpg
+     a46558ec514a5426_32_septoria_leaf_spot_jpg_rf_9856033337032e587e819ac4bf931cbe.jpg
+     cd224052580a8d85_tomato_septoria_leaf_spot_jpg_rf_3454928fd49b42711229a45449178f84.jpg
+     0d3994f3a7a5f2e3_49_septoria_leaf_spot_jpg_rf_3319656f9f423581845746b07e341420.jpg
+     fc07d4ffead720ba_49_septoria_leaf_spot_jpg_rf_3d29cd4fa6fe8b3c9514dd3e4b070e16.jpg
+     15c2ebd9ea4750f2_32_septoria_leaf_spot_jpg_rf_bc1e0f5fe63b39fb8a98ae43809d0bba.jpg
+  🎯 be6cec4dece67fc6_septoria_leaf_spot.jpg
+     f3d797085410b946_tomato_septoria_leaf_spot_jpg_rf_81de953bc484ce4f684be30c4bd5f81d.jpg
+     8fa5e9018324d5b0_tomato_septoria_leaf_spot_jpg_rf_5e63d9a20f5557b9bb3617e79b48ef85.jpg
+     b81f0e8506476cc3_septoria_leaf_spot_jpg_rf_7c230476edabf7d5ef758a6fabec7a04.jpg
+     590f107247a1c089_tomato_septoria_leaf_spot_jpg_rf_06783859d6d3e49976374e4146674e0b.jpg
+
+Grupo: jpeg (14 archivos)
+Método: pattern_analysis
+Archivo base: ab24f2a4a6762444_5775225744523264_jpeg_jpg_rf_712d4171aebe12416b672ced19d7690c.jpg
+Archivos del grupo:
+  🎯 ab24f2a4a6762444_5775225744523264_jpeg_jpg_rf_712d4171aebe12416b672ced19d7690c.jpg
+     05b1c8f4978d830b_5516100468998144_jpeg_jpg_rf_3cee73d42ad8fab4b61f22dfdf41a0ee.jpg
+     45ee3b55162d5a88_5866245865865216_jpeg_jpg_rf_3131c6a0b9f66fdf26d82254e717917b.jpg
+     eb5f93d64cc6780e_6078710516023296_jpeg_jpg_rf_3d25f504deab6af109d153752d2864fe.jpg
+     ee8d69becd5c40eb_5516100468998144_jpeg_jpg_rf_82519bf1f4c1f0adf3deb85f8834dd8a.jpg
+     b8f0fb8dc67bcf57_5866245865865216_jpeg_jpg_rf_706f143d53d924f40e1f3c18f9a3fa8b.jpg
+     e9de65426035c670_5315825271570432_jpeg_jpg_rf_b30c2fd9775d29a0b548d1e33ce8fead.jpg
+     b21c6cf72692cd87_5315825271570432_jpeg_jpg_rf_74f25d01f15bcdc44a0acb553b036d35.jpg
+     e8d1e0386ae197af_5866245865865216_jpeg_jpg_rf_1afb659f96a29653fb0ba62700863749.jpg
+     26e81158d2a71774_6078710516023296_jpeg_jpg_rf_cf404590b622cd4540bf715b31dca05c.jpg
+     188d86ba88ae35ed_5516100468998144_jpeg_jpg_rf_270d5926e5696be9c092a59fa6436b95.jpg
+     700cf136f43b1af9_6336392950972416_jpeg_jpg_rf_18c814f1c3e55fc8355b3534cfcd270e.jpg
+     32202ea603426a3a_6078710516023296_jpeg_jpg_rf_9769368c1bee97c8d26cc41176320d5d.jpg
+     cd78ea5ee2f0ffee_5315825271570432_jpeg_jpg_rf_65d816f4bb7cf9c74a39f75fb491da23.jpg
+
+Grupo: gls35 (8 archivos)
+Método: pattern_analysis
+Archivo base: 8f1803b135a1a38e_gls35.jpg
+Archivos del grupo:
+     be242f8eb35906a9_gls35_mirror_vertical.jpg
+     621b48aebea0c8d3_gls35_hight.jpg
+  🎯 8f1803b135a1a38e_gls35.jpg
+     bc112ddcb6557239_gls35_change_270.jpg
+     83af32a3cc6c71c0_gls35_lower.jpg
+     378edca80a56c768_gls35_change_90.jpg
+     7de10b9e07eba9b1_gls35_mirror.jpg
+     32a043e1fbe529b9_gls35_change_180.jpg
+
+Grupo: gls38 (8 archivos)
+Método: pattern_analysis
+Archivo base: 322dfc2eff219985_gls38.jpg
+Archivos del grupo:
+  🎯 322dfc2eff219985_gls38.jpg
+     5e02ba9b9789c723_gls38_change_180.jpg
+     2db631f44924484e_gls38_mirror_vertical.jpg
+     bc111885f21170f9_gls38_mirror.jpg
+     3926dffb224cd1a8_gls38_lower.jpg
+     b02786c70517a3b6_gls38_change_270.jpg
+     0914b64e1f5ec458_gls38_change_90.jpg
+     1b336b350e588ba2_gls38_hight.jpg
+
+Grupo: cg_7674 (3 archivos)
+Método: pattern_analysis
+Archivo base: afd810f66faa8c78_2cf6759a_c628_4861_a83d_b009c83682a2_matt_s_cg_7674.jpg
+Archivos del grupo:
+     69df52e7a90d4ed6_2cf6759a_c628_4861_a83d_b009c83682a2_matt_s_cg_7674_180deg.jpg
+  🎯 afd810f66faa8c78_2cf6759a_c628_4861_a83d_b009c83682a2_matt_s_cg_7674.jpg
+     c29c8245b191bf90_2cf6759a_c628_4861_a83d_b009c83682a2_matt_s_cg_7674_fliptb.jpg
+
+Grupo: cg_6653 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5588b281cc1ccead_0b36c5a2_6c9f_40d9_af4b_d4b0e66997da_matt_s_cg_6653.jpg
+Archivos del grupo:
+  🎯 5588b281cc1ccead_0b36c5a2_6c9f_40d9_af4b_d4b0e66997da_matt_s_cg_6653.jpg
+     8b4061ee1bfa4fb6_0b36c5a2_6c9f_40d9_af4b_d4b0e66997da_matt_s_cg_6653_180deg.jpg
+     697196d4b77ca3c7_0b36c5a2_6c9f_40d9_af4b_d4b0e66997da_matt_s_cg_6653_fliptb.jpg
+
+Grupo: cg_7598 (3 archivos)
+Método: pattern_analysis
+Archivo base: d854c76a75b12369_2c51b21d_6890_491a_9fd0_08fd5628f26f_matt_s_cg_7598.jpg
+Archivos del grupo:
+  🎯 d854c76a75b12369_2c51b21d_6890_491a_9fd0_08fd5628f26f_matt_s_cg_7598.jpg
+     46d42a8fe704c6f0_2c51b21d_6890_491a_9fd0_08fd5628f26f_matt_s_cg_7598_180deg.jpg
+     3c2822194ee3879f_2c51b21d_6890_491a_9fd0_08fd5628f26f_matt_s_cg_7598_fliptb.jpg
+
+Grupo: cg_2488 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9e48646f2635805b_0b6a9374_858d_49ce_8a94_ab57c957718c_matt_s_cg_2488.jpg
+Archivos del grupo:
+     30447e69b9d0618b_0b6a9374_858d_49ce_8a94_ab57c957718c_matt_s_cg_2488_fliptb.jpg
+     884f773d98afe683_0b6a9374_858d_49ce_8a94_ab57c957718c_matt_s_cg_2488_180deg.jpg
+  🎯 9e48646f2635805b_0b6a9374_858d_49ce_8a94_ab57c957718c_matt_s_cg_2488.jpg
+
+Grupo: sept_2455 (3 archivos)
+Método: pattern_analysis
+Archivo base: 89e69e3c428ab199_1eb51af9_a622_4f97_a47b_b7474771d414_jr_sept_l_s_2455.jpg
+Archivos del grupo:
+     1323fb6e4f66af49_1eb51af9_a622_4f97_a47b_b7474771d414_jr_sept_l_s_2455_180deg.jpg
+     dd61c2af39c92d36_1eb51af9_a622_4f97_a47b_b7474771d414_jr_sept_l_s_2455_fliptb.jpg
+  🎯 89e69e3c428ab199_1eb51af9_a622_4f97_a47b_b7474771d414_jr_sept_l_s_2455.jpg
+
+Grupo: gls36 (8 archivos)
+Método: pattern_analysis
+Archivo base: 4ed10ada3d698f04_gls36.jpg
+Archivos del grupo:
+     707520bbb54e609c_gls36_change_180.jpg
+  🎯 4ed10ada3d698f04_gls36.jpg
+     698e90951d35cab2_gls36_mirror_vertical.jpg
+     d9b0f610a3899527_gls36_change_270.jpg
+     4eb117e4af006fd4_gls36_hight.jpg
+     fff076ec2665dd65_gls36_change_90.jpg
+     0ccb2409b552f463_gls36_mirror.jpg
+     007645bcde61616d_gls36_lower.jpg
+
+Grupo: cg_2578 (3 archivos)
+Método: pattern_analysis
+Archivo base: dffbcdee743f3fd1_3edb3c6a_ff33_4ace_a754_0d807ef8019a_matt_s_cg_2578.jpg
+Archivos del grupo:
+     3b5b34f9736230a9_3edb3c6a_ff33_4ace_a754_0d807ef8019a_matt_s_cg_2578_fliptb.jpg
+  🎯 dffbcdee743f3fd1_3edb3c6a_ff33_4ace_a754_0d807ef8019a_matt_s_cg_2578.jpg
+     e7701807911bea23_3edb3c6a_ff33_4ace_a754_0d807ef8019a_matt_s_cg_2578_180deg.jpg
+
+Grupo: gls6 (8 archivos)
+Método: pattern_analysis
+Archivo base: e70de13cbc75456c_gls6.jpg
+Archivos del grupo:
+  🎯 e70de13cbc75456c_gls6.jpg
+     9c2ae3431be71734_gls6_lower.jpg
+     76b9c5fcd4a1cb6e_gls6_change_180.jpg
+     f94fb6fc6a45281c_gls6_change_270.jpg
+     41515d8f16e210f1_gls6_change_90.jpg
+     2154e0f6c7174dbc_gls6_mirror.jpg
+     6b32efd1e6cd882a_gls6_hight.jpg
+     b21633c1193041f3_gls6_mirror_vertical.jpg
+
+Grupo: gls8 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5c9e4b17298894b5_gls8.jpg
+Archivos del grupo:
+     d67ac91df45edcc3_gls8_lower.jpg
+  🎯 5c9e4b17298894b5_gls8.jpg
+     8b7556db058d1264_gls8_change_270.jpg
+     d4c4a4f6fd6dc5ed_gls8_mirror_vertical.jpg
+     88a58777fa826e1f_gls8_hight.jpg
+     6be0bb78f8b585e9_gls8_mirror.jpg
+     a69141b65bbe4d35_gls8_change_180.jpg
+     e938b919c1093a8d_gls8_change_90.jpg
+
+Grupo: 600x272_jpeg (12 archivos)
+Método: pattern_analysis
+Archivo base: 95430e76d4b8ee72_5315825271570432_600x272_jpeg_jpg_rf_17f3e26ce2b7450dfbdf349b69bdd9c8.jpg
+Archivos del grupo:
+  🎯 95430e76d4b8ee72_5315825271570432_600x272_jpeg_jpg_rf_17f3e26ce2b7450dfbdf349b69bdd9c8.jpg
+     6c0609ea73f7b0a8_5336411888680960_600x272_jpeg_jpg_rf_f051e95cd6530ad204c29a3ce9d5a02d.jpg
+     d17ca87f172fbe18_6078710516023296_600x272_jpeg_jpg_rf_c87fec3b4e5e56dc9d90304acf63cc3a.jpg
+     c03ad33947c238cb_5336411888680960_600x272_jpeg_jpg_rf_d59ab4d387ffac30a0d17b87663d76dd.jpg
+     d329c787b77ffb90_5336411888680960_600x272_jpeg_jpg_rf_e69e13fefed6128377c845c14cec800f.jpg
+     cb92446a90aa358f_5516100468998144_600x272_jpeg_jpg_rf_3fad0cf84ad161de6c0a0f097ac8e517.jpg
+     cb496d217bd3243b_5775225744523264_600x272_jpeg_jpg_rf_812a3a530672d5db37daf0ff863ce8b6.jpg
+     e2e90c44edad71f0_6134794031202304_600x272_jpeg_jpg_rf_6e5ac105b9d934d5c1cb19859b0ed43d.jpg
+     136de3316781d994_5315825271570432_600x272_jpeg_jpg_rf_0037b0b29c5fe30d6e7c4f993776defb.jpg
+     ad29ad3aaa7761b7_6134794031202304_600x272_jpeg_jpg_rf_5482c323fe160b26426628094ae3646b.jpg
+     d3657838e2e973ce_5315825271570432_600x272_jpeg_jpg_rf_e4f86c7a2254c757719af1fa4f4f9a89.jpg
+     b9cd59615fa62e52_6134794031202304_600x272_jpeg_jpg_rf_09b3829b2731b56e23e243f90216a104.jpg
+
+Grupo: cg_7835 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4397eb4e82691f1d_0bcb24a9_bf45_4008_b9df_1c729f977b17_matt_s_cg_7835.jpg
+Archivos del grupo:
+     f6c0e832dd05642b_0bcb24a9_bf45_4008_b9df_1c729f977b17_matt_s_cg_7835_180deg.jpg
+     2f66dceb916f85a8_0bcb24a9_bf45_4008_b9df_1c729f977b17_matt_s_cg_7835_fliptb.jpg
+  🎯 4397eb4e82691f1d_0bcb24a9_bf45_4008_b9df_1c729f977b17_matt_s_cg_7835.jpg
+
+Grupo: gls10 (8 archivos)
+Método: pattern_analysis
+Archivo base: 1315301dd6cb4166_gls10.jpg
+Archivos del grupo:
+     eaae1be12772e563_gls10_mirror_vertical.jpg
+     1df68101fba3e6e4_gls10_change_180.jpg
+     55e0c3b586802ea2_gls10_hight.jpg
+     d5e74aec3f01ff9f_gls10_change_90.jpg
+  🎯 1315301dd6cb4166_gls10.jpg
+     4235cf915a353f85_gls10_mirror.jpg
+     b2ff606b4dd8ff72_gls10_change_270.jpg
+     858bd3a5d06cffe5_gls10_lower.jpg
+
+Grupo: gls82 (8 archivos)
+Método: pattern_analysis
+Archivo base: f07b0aa915439114_gls82.jpg
+Archivos del grupo:
+     179a384cfee3e667_gls82_change_270.jpg
+     71b5ba467bea3181_gls82_change_90.jpg
+  🎯 f07b0aa915439114_gls82.jpg
+     0597e29095cbf74b_gls82_mirror.jpg
+     67a9ceb15dff9590_gls82_change_180.jpg
+     ac863802dfaaa3ff_gls82_mirror_vertical.jpg
+     7425cff83992c447_gls82_hight.jpg
+     5c4f3f9b23659be7_gls82_lower.jpg
+
+Grupo: sept_8533 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3126a32d2dfd7c3d_0ea612c0_8416_4771_a8bb_d5d255800f94_jr_sept_l_s_8533.jpg
+Archivos del grupo:
+     9400af5b8615bbc3_0ea612c0_8416_4771_a8bb_d5d255800f94_jr_sept_l_s_8533_180deg.jpg
+     41578881c51aea53_0ea612c0_8416_4771_a8bb_d5d255800f94_jr_sept_l_s_8533_fliptb.jpg
+  🎯 3126a32d2dfd7c3d_0ea612c0_8416_4771_a8bb_d5d255800f94_jr_sept_l_s_8533.jpg
+
+Grupo: septoria_3 (3 archivos)
+Método: pattern_analysis
+Archivo base: 98df6756fad0b6a2_tomato_septoria_3_jpg_rf_2103f89524cdbc6e9b3334222599e126.jpg
+Archivos del grupo:
+  🎯 98df6756fad0b6a2_tomato_septoria_3_jpg_rf_2103f89524cdbc6e9b3334222599e126.jpg
+     d458c5d0b0b792ab_tomato_septoria_3_jpg_rf_8ef34c80dbf26ae1c04c363f43561ddb.jpg
+     98d3e9289e217f88_tomato_septoria_3_jpg_rf_2b690fbd6adb1de85438123fd1ffedcf.jpg
+
+Grupo: gls61 (8 archivos)
+Método: pattern_analysis
+Archivo base: a0b6bf75cc57ea41_gls61.jpg
+Archivos del grupo:
+     e52b1843027f95ed_gls61_mirror.jpg
+     65f5013d96980e70_gls61_change_180.jpg
+     93a06994b54890d7_gls61_change_270.jpg
+     b31011cf7a3f3cbe_gls61_change_90.jpg
+  🎯 a0b6bf75cc57ea41_gls61.jpg
+     3468db038f6f4019_gls61_lower.jpg
+     e7827d266b7d3d09_gls61_mirror_vertical.jpg
+     a2da5142931492a0_gls61_hight.jpg
+
+Grupo: gls42 (8 archivos)
+Método: pattern_analysis
+Archivo base: 4f1fa2d46a699421_gls42.jpg
+Archivos del grupo:
+     228064805e793747_gls42_change_180.jpg
+     fdf9e9cf5a34f4be_gls42_change_90.jpg
+  🎯 4f1fa2d46a699421_gls42.jpg
+     f3e42f3e216d8f19_gls42_hight.jpg
+     868b17fc528c8f42_gls42_change_270.jpg
+     f7b6a49305cdf02d_gls42_mirror_vertical.jpg
+     4259e4b2a835ca25_gls42_lower.jpg
+     ceb5ae61be30ca42_gls42_mirror.jpg
+
+Grupo: leaf_rp (3 archivos)
+Método: pattern_analysis
+Archivo base: 8df399aaa4bacf80_septoria_leafspot_on_tomato_leaf_rp_c_jpg_rf_3fa007a82bfdba890cbefc3709d9d3cd.jpg
+Archivos del grupo:
+  🎯 8df399aaa4bacf80_septoria_leafspot_on_tomato_leaf_rp_c_jpg_rf_3fa007a82bfdba890cbefc3709d9d3cd.jpg
+     920a7df496c15035_septoria_leafspot_on_tomato_leaf_rp_c_jpg_rf_a366a35fcf656641baa42fa871c6e973.jpg
+     b28037eca1e7d3aa_septoria_leafspot_on_tomato_leaf_rp_c_jpg_rf_2fa21dba8df784c6f3beb6d633adf226.jpg
+
+Grupo: cg_7657 (3 archivos)
+Método: pattern_analysis
+Archivo base: c9606f21d587469a_1de3c0cc_04c3_48d0_9493_96b9e9a237af_matt_s_cg_7657.jpg
+Archivos del grupo:
+  🎯 c9606f21d587469a_1de3c0cc_04c3_48d0_9493_96b9e9a237af_matt_s_cg_7657.jpg
+     e793ff6d4229dd36_1de3c0cc_04c3_48d0_9493_96b9e9a237af_matt_s_cg_7657_fliptb.jpg
+     a0818e50ce5646c8_1de3c0cc_04c3_48d0_9493_96b9e9a237af_matt_s_cg_7657_180deg.jpg
+
+Grupo: 9055_jpg (3 archivos)
+Método: pattern_analysis
+Archivo base: 80f36ffd1b18c112_img_9055_jpg_jpg_rf_0ddbb3959d7056c23bf432f51d3b30f4.jpg
+Archivos del grupo:
+  🎯 80f36ffd1b18c112_img_9055_jpg_jpg_rf_0ddbb3959d7056c23bf432f51d3b30f4.jpg
+     4ef214d84bcaa749_img_9055_jpg_jpg_rf_109bd55025a95219ce4a8d6ecad486fc.jpg
+     98ebe00324522347_img_9055_jpg_jpg_rf_a5a5ab93aabb8a098d90aa368f064546.jpg
+
+Grupo: cg_7843 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9b7b7d09f973aafa_4d19cd34_0257_4c33_99eb_c1036c018b71_matt_s_cg_7843.jpg
+Archivos del grupo:
+     0ddc17bc5b6401f7_4d19cd34_0257_4c33_99eb_c1036c018b71_matt_s_cg_7843_fliptb.jpg
+     247e37c5da69d5ef_4d19cd34_0257_4c33_99eb_c1036c018b71_matt_s_cg_7843_180deg.jpg
+  🎯 9b7b7d09f973aafa_4d19cd34_0257_4c33_99eb_c1036c018b71_matt_s_cg_7843.jpg
+
+Grupo: gls15 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5e724943a595e46e_gls15.jpg
+Archivos del grupo:
+  🎯 5e724943a595e46e_gls15.jpg
+     4885b4ea2567ff34_gls15_change_90.jpg
+     24efd020225d8a9e_gls15_mirror_vertical.jpg
+     a116018e91f186a2_gls15_lower.jpg
+     86d22d4bbe2bf508_gls15_hight.jpg
+     76d80ece09dfcc6c_gls15_mirror.jpg
+     99ad26e0e9745342_gls15_change_180.jpg
+     838c2635ce7c2b25_gls15_change_270.jpg
+
+Grupo: cg_7852 (3 archivos)
+Método: pattern_analysis
+Archivo base: 64b6cb8ed150fff1_3b746726_44a4_450e_b8e7_1bf33d5d8d4b_matt_s_cg_7852.jpg
+Archivos del grupo:
+     12c2e319d9ec1eec_3b746726_44a4_450e_b8e7_1bf33d5d8d4b_matt_s_cg_7852_180deg.jpg
+  🎯 64b6cb8ed150fff1_3b746726_44a4_450e_b8e7_1bf33d5d8d4b_matt_s_cg_7852.jpg
+     6ce44e5f04e161be_3b746726_44a4_450e_b8e7_1bf33d5d8d4b_matt_s_cg_7852_fliptb.jpg
+
+Grupo: cg_1825 (3 archivos)
+Método: pattern_analysis
+Archivo base: 1f5767ae6ae7c5f2_1f01e6fc_e4a2_4f40_bd17_bb3852cef631_keller_st_cg_1825.jpg
+Archivos del grupo:
+     580cf456282af211_1f01e6fc_e4a2_4f40_bd17_bb3852cef631_keller_st_cg_1825_fliptb.jpg
+  🎯 1f5767ae6ae7c5f2_1f01e6fc_e4a2_4f40_bd17_bb3852cef631_keller_st_cg_1825.jpg
+     c4997d119b05e45f_1f01e6fc_e4a2_4f40_bd17_bb3852cef631_keller_st_cg_1825_180deg.jpg
+
+Grupo: gls41 (8 archivos)
+Método: pattern_analysis
+Archivo base: cf4a9f56dc0c20e8_gls41.jpg
+Archivos del grupo:
+     2c0a3c30cb82c496_gls41_change_180.jpg
+     6ece26e1856a30b9_gls41_change_90.jpg
+     3db933eca6fd59d4_gls41_mirror_vertical.jpg
+     fb470bd001287a0c_gls41_hight.jpg
+     53166c246e7c228d_gls41_lower.jpg
+     e1b0c88e198d6e5b_gls41_change_270.jpg
+     a1519477cd885788_gls41_mirror.jpg
+  🎯 cf4a9f56dc0c20e8_gls41.jpg
+
+Grupo: sept_8538 (3 archivos)
+Método: pattern_analysis
+Archivo base: fec7b3ccfc74536a_2e69e7bc_a60d_43b4_84f9_637c90eb71bb_jr_sept_l_s_8538.jpg
+Archivos del grupo:
+  🎯 fec7b3ccfc74536a_2e69e7bc_a60d_43b4_84f9_637c90eb71bb_jr_sept_l_s_8538.jpg
+     53f65c9002d4b824_2e69e7bc_a60d_43b4_84f9_637c90eb71bb_jr_sept_l_s_8538_fliptb.jpg
+     7b470cc04b0b7cbf_2e69e7bc_a60d_43b4_84f9_637c90eb71bb_jr_sept_l_s_8538_180deg.jpg
+
+Grupo: 9_03 (3 archivos)
+Método: pattern_analysis
+Archivo base: 08ab4e88f438bd20_2010_jul_5_jul_9_03_jpg_rf_8a1aa72da11e877173393ae8dd559250.jpg
+Archivos del grupo:
+  🎯 08ab4e88f438bd20_2010_jul_5_jul_9_03_jpg_rf_8a1aa72da11e877173393ae8dd559250.jpg
+     e64de4041acf673e_2010_jul_5_jul_9_03_jpg_rf_42ac337c1a6a0cecb3e10aca9b3ac411.jpg
+     a347a88c3d2a7f77_2010_jul_5_jul_9_03_jpg_rf_53ef588d57388da959ef66e56466b351.jpg
+
+Grupo: cg_1359 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8f728e2a7242f4d5_2dd9eb69_138d_4cb6_98f6_e328c5ea25e1_matt_s_cg_1359.jpg
+Archivos del grupo:
+  🎯 8f728e2a7242f4d5_2dd9eb69_138d_4cb6_98f6_e328c5ea25e1_matt_s_cg_1359.jpg
+     c80e3d7e10b754ee_2dd9eb69_138d_4cb6_98f6_e328c5ea25e1_matt_s_cg_1359_fliptb.jpg
+     38aecc360ed05278_2dd9eb69_138d_4cb6_98f6_e328c5ea25e1_matt_s_cg_1359_180deg.jpg
+
+Grupo: gls73 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3ab3a17048ace740_gls73.jpg
+Archivos del grupo:
+     556e18555fdda775_gls73_hight.jpg
+     766de5c0300dcb43_gls73_lower.jpg
+  🎯 3ab3a17048ace740_gls73.jpg
+     b338f7567a4d3fd9_gls73_mirror.jpg
+     4abaf8d717c15976_gls73_change_90.jpg
+     35768f83cad5c718_gls73_change_180.jpg
+     fffada44d869ab28_gls73_change_270.jpg
+     d9ff47bc085519c4_gls73_mirror_vertical.jpg
+
+Grupo: cg_1309 (3 archivos)
+Método: pattern_analysis
+Archivo base: 191cc8464fd9b4aa_4e41fd20_20df_48ef_9e9b_d916950ceda8_matt_s_cg_1309.jpg
+Archivos del grupo:
+     fcb5920bb0bf62c7_4e41fd20_20df_48ef_9e9b_d916950ceda8_matt_s_cg_1309_fliptb.jpg
+     c5445155d7d75649_4e41fd20_20df_48ef_9e9b_d916950ceda8_matt_s_cg_1309_180deg.jpg
+  🎯 191cc8464fd9b4aa_4e41fd20_20df_48ef_9e9b_d916950ceda8_matt_s_cg_1309.jpg
+
+Grupo: gls83 (8 archivos)
+Método: pattern_analysis
+Archivo base: a753d0104a3b4193_gls83.jpg
+Archivos del grupo:
+     041ea819d40e188e_gls83_mirror.jpg
+     1e52182d91ccc137_gls83_change_90.jpg
+     48a6ae6f8ee41ad1_gls83_change_270.jpg
+     8f97b2dee0bf9dd0_gls83_lower.jpg
+     ddf72106b560088a_gls83_change_180.jpg
+     fc1532188f905318_gls83_hight.jpg
+     e2500b5b519a0790_gls83_mirror_vertical.jpg
+  🎯 a753d0104a3b4193_gls83.jpg
+
+Grupo: cg_1542 (3 archivos)
+Método: pattern_analysis
+Archivo base: 56ed6d2b85560b00_0d1d305a_e4d1_4037_b0bd_1276c5200488_matt_s_cg_1542.jpg
+Archivos del grupo:
+     df2aafaf5e3229fc_0d1d305a_e4d1_4037_b0bd_1276c5200488_matt_s_cg_1542_fliptb.jpg
+  🎯 56ed6d2b85560b00_0d1d305a_e4d1_4037_b0bd_1276c5200488_matt_s_cg_1542.jpg
+     bef9761d349b2cbc_0d1d305a_e4d1_4037_b0bd_1276c5200488_matt_s_cg_1542_180deg.jpg
+
+Grupo: cg_1931 (3 archivos)
+Método: pattern_analysis
+Archivo base: f0da8b19f270083c_0aa486df_97b6_4764_89a9_d193e16aabbb_keller_st_cg_1931.jpg
+Archivos del grupo:
+     1c07c38765d62667_0aa486df_97b6_4764_89a9_d193e16aabbb_keller_st_cg_1931_180deg.jpg
+     68eb6635f18a268a_0aa486df_97b6_4764_89a9_d193e16aabbb_keller_st_cg_1931_fliptb.jpg
+  🎯 f0da8b19f270083c_0aa486df_97b6_4764_89a9_d193e16aabbb_keller_st_cg_1931.jpg
+
+Grupo: gls58 (8 archivos)
+Método: pattern_analysis
+Archivo base: 1647ea10abf26e0b_gls58.jpg
+Archivos del grupo:
+  🎯 1647ea10abf26e0b_gls58.jpg
+     83376a207d0679c0_gls58_mirror.jpg
+     1d07bfb132f834f3_gls58_hight.jpg
+     28b49fef76b1725c_gls58_change_180.jpg
+     759b5479ff000dd4_gls58_mirror_vertical.jpg
+     bf8dd4ebf7ad1799_gls58_change_90.jpg
+     bff088d5efd6ba11_gls58_lower.jpg
+     eb2109c55b8b792f_gls58_change_270.jpg
+
+Grupo: cg_1966 (3 archivos)
+Método: pattern_analysis
+Archivo base: a5fbe7025d92b47e_4ca205ed_57b5_4d2a_ba00_a706e9b9ffed_keller_st_cg_1966.jpg
+Archivos del grupo:
+     cfa4602049cddd89_4ca205ed_57b5_4d2a_ba00_a706e9b9ffed_keller_st_cg_1966_180deg.jpg
+  🎯 a5fbe7025d92b47e_4ca205ed_57b5_4d2a_ba00_a706e9b9ffed_keller_st_cg_1966.jpg
+     c8c1a06c52abd6c3_4ca205ed_57b5_4d2a_ba00_a706e9b9ffed_keller_st_cg_1966_fliptb.jpg
+
+Grupo: cg_7848 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3033d6ca7c8c1239_0bbf4db7_38a1_4d5c_8fd7_503e9f37ef8f_matt_s_cg_7848.jpg
+Archivos del grupo:
+  🎯 3033d6ca7c8c1239_0bbf4db7_38a1_4d5c_8fd7_503e9f37ef8f_matt_s_cg_7848.jpg
+     99a02450076df0f8_0bbf4db7_38a1_4d5c_8fd7_503e9f37ef8f_matt_s_cg_7848_fliptb.jpg
+     3e9c954afc0724ab_0bbf4db7_38a1_4d5c_8fd7_503e9f37ef8f_matt_s_cg_7848_180deg.jpg
+
+Grupo: cg_6731 (3 archivos)
+Método: pattern_analysis
+Archivo base: c6326b92feeb0b6e_0ea8a7c0_74f4_404b_81f4_233e501dab60_matt_s_cg_6731.jpg
+Archivos del grupo:
+     58a78b12e16bf7c1_0ea8a7c0_74f4_404b_81f4_233e501dab60_matt_s_cg_6731_180deg.jpg
+     f1ca0a77030a9634_0ea8a7c0_74f4_404b_81f4_233e501dab60_matt_s_cg_6731_fliptb.jpg
+  🎯 c6326b92feeb0b6e_0ea8a7c0_74f4_404b_81f4_233e501dab60_matt_s_cg_6731.jpg
+
+Grupo: 0002_25004 (3 archivos)
+Método: pattern_analysis
+Archivo base: e7cfa91aab360e92_septoria_tomato_margaret_20b_p8170755_0002_25004_jpg_rf_3fbb14d553c623c77f342b3a54baddab.jpg
+Archivos del grupo:
+  🎯 e7cfa91aab360e92_septoria_tomato_margaret_20b_p8170755_0002_25004_jpg_rf_3fbb14d553c623c77f342b3a54baddab.jpg
+     b77b243e7c82e79d_septoria_tomato_margaret_20b_p8170755_0002_25004_jpg_rf_44954327da1d2f71e16b632dceebb24c.jpg
+     267f469fb4ba9f89_septoria_tomato_margaret_20b_p8170755_0002_25004_jpg_rf_8dc977c5e9893288fe84a34775a437d6.jpg
+
+Grupo: gls20 (8 archivos)
+Método: pattern_analysis
+Archivo base: b595ab351dc91564_gls20.jpg
+Archivos del grupo:
+     504b83bceeaca2a7_gls20_change_270.jpg
+     9a2c4db7bf7d4eda_gls20_hight.jpg
+     aa88983fabcf3548_gls20_change_90.jpg
+     dd0a700ae63edce3_gls20_mirror.jpg
+     a5ee6f51935e69fc_gls20_change_180.jpg
+  🎯 b595ab351dc91564_gls20.jpg
+     b940c4f8f9984ebc_gls20_mirror_vertical.jpg
+     8e7b79ba75c31bde_gls20_lower.jpg
+
+Grupo: gls33 (8 archivos)
+Método: pattern_analysis
+Archivo base: c16661cf72ff7b8e_gls33.jpg
+Archivos del grupo:
+     b47eee668c7d5605_gls33_change_90.jpg
+     32aacbd54ec902f4_gls33_change_270.jpg
+     87bfacf670af58db_gls33_lower.jpg
+  🎯 c16661cf72ff7b8e_gls33.jpg
+     448ed103c2f506bf_gls33_change_180.jpg
+     31207a0ebc76a054_gls33_hight.jpg
+     2d6896d3f3f35ef1_gls33_mirror.jpg
+     0344336fa979e8e3_gls33_mirror_vertical.jpg
+
+Grupo: sept_2663 (3 archivos)
+Método: pattern_analysis
+Archivo base: c076cdfc4ba4b09c_3dd32fea_62e8_4ae9_b307_5513e845b519_jr_sept_l_s_2663.jpg
+Archivos del grupo:
+     1fbde18886bda762_3dd32fea_62e8_4ae9_b307_5513e845b519_jr_sept_l_s_2663_fliptb.jpg
+  🎯 c076cdfc4ba4b09c_3dd32fea_62e8_4ae9_b307_5513e845b519_jr_sept_l_s_2663.jpg
+     e966cd198b532692_3dd32fea_62e8_4ae9_b307_5513e845b519_jr_sept_l_s_2663_180deg.jpg
+
+Grupo: cg_7453 (3 archivos)
+Método: pattern_analysis
+Archivo base: 20b7da78984c5884_3d9cf11d_eb78_481a_a94a_ca6629b757a0_matt_s_cg_7453.jpg
+Archivos del grupo:
+  🎯 20b7da78984c5884_3d9cf11d_eb78_481a_a94a_ca6629b757a0_matt_s_cg_7453.jpg
+     b026fe7337becd90_3d9cf11d_eb78_481a_a94a_ca6629b757a0_matt_s_cg_7453_fliptb.jpg
+     72baf13aec2f48ee_3d9cf11d_eb78_481a_a94a_ca6629b757a0_matt_s_cg_7453_180deg.jpg
+
+Grupo: gls25 (8 archivos)
+Método: pattern_analysis
+Archivo base: 76473b20284ed90e_gls25.jpg
+Archivos del grupo:
+     7d6c9eadf840a52a_gls25_mirror.jpg
+     48c5da39800cdefc_gls25_mirror_vertical.jpg
+  🎯 76473b20284ed90e_gls25.jpg
+     b4566125e38685d6_gls25_change_180.jpg
+     6a486e8d5da73fe8_gls25_change_270.jpg
+     83992cc2234f5740_gls25_lower.jpg
+     85c8b79b8548dc2a_gls25_change_90.jpg
+     93b91081aa1bd546_gls25_hight.jpg
+
+Grupo: gls4 (8 archivos)
+Método: pattern_analysis
+Archivo base: aa30d19971281cca_gls4.jpg
+Archivos del grupo:
+     cd1bf561de751c93_gls4_mirror_vertical.jpg
+     35128c2c7f0c22de_gls4_lower.jpg
+     a44d01f7fb56f497_gls4_change_180.jpg
+     b662597d761735e3_gls4_mirror.jpg
+     d2325a6accdb9309_gls4_change_90.jpg
+     5325d0a0b6c4f023_gls4_change_270.jpg
+  🎯 aa30d19971281cca_gls4.jpg
+     916668711b84071c_gls4_hight.jpg
+
+Grupo: cg_6855 (3 archivos)
+Método: pattern_analysis
+Archivo base: e3e46ed726b66549_2d9f575c_7ce7_43d7_be22_fbbf53361ba5_matt_s_cg_6855.jpg
+Archivos del grupo:
+     015f1d1b0e1306d6_2d9f575c_7ce7_43d7_be22_fbbf53361ba5_matt_s_cg_6855_fliptb.jpg
+  🎯 e3e46ed726b66549_2d9f575c_7ce7_43d7_be22_fbbf53361ba5_matt_s_cg_6855.jpg
+     c9f972387fbfa739_2d9f575c_7ce7_43d7_be22_fbbf53361ba5_matt_s_cg_6855_180deg.jpg
+
+Grupo: cg_6719 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5cb16ce396a90818_3ddb7094_9ee7_473d_8a01_b48ce8eda506_matt_s_cg_6719.jpg
+Archivos del grupo:
+     5e3a1da654292c95_3ddb7094_9ee7_473d_8a01_b48ce8eda506_matt_s_cg_6719_fliptb.jpg
+     60aebafe5f658d4c_3ddb7094_9ee7_473d_8a01_b48ce8eda506_matt_s_cg_6719_180deg.jpg
+  🎯 5cb16ce396a90818_3ddb7094_9ee7_473d_8a01_b48ce8eda506_matt_s_cg_6719.jpg
+
+Grupo: gls32 (8 archivos)
+Método: pattern_analysis
+Archivo base: 12ec89f621f6fec6_gls32.jpg
+Archivos del grupo:
+  🎯 12ec89f621f6fec6_gls32.jpg
+     24b33cb79b1389d5_gls32_lower.jpg
+     291cc429bb063225_gls32_hight.jpg
+     29de19c3d71a1b80_gls32_change_180.jpg
+     a911c60e1b4d781f_gls32_mirror.jpg
+     37112d4c69ad66a9_gls32_change_270.jpg
+     26ef4b4f7ab1c6fc_gls32_mirror_vertical.jpg
+     43dec680818d2a18_gls32_change_90.jpg
+
+Grupo: gls49 (8 archivos)
+Método: pattern_analysis
+Archivo base: ec5ffb6b50793213_gls49.jpg
+Archivos del grupo:
+  🎯 ec5ffb6b50793213_gls49.jpg
+     8701733412bb501b_gls49_hight.jpg
+     7a715e9d9cdf9c52_gls49_mirror_vertical.jpg
+     a040901d188929ec_gls49_change_180.jpg
+     fae3cc6ed0d69606_gls49_change_270.jpg
+     90c7d57fd4afc995_gls49_change_90.jpg
+     1329ba0c4b603fe8_gls49_lower.jpg
+     418ef8eb96c6e746_gls49_mirror.jpg
+
+Grupo: gls27 (8 archivos)
+Método: pattern_analysis
+Archivo base: 90a271389dc33bc6_gls27.jpg
+Archivos del grupo:
+     01b7175f15500f01_gls27_change_90.jpg
+  🎯 90a271389dc33bc6_gls27.jpg
+     4397792d9809468a_gls27_hight.jpg
+     d0de54161ff3f8d2_gls27_mirror.jpg
+     865b84f416f33a4a_gls27_change_180.jpg
+     3bdbd015f721e3ba_gls27_lower.jpg
+     649765349bd2fa47_gls27_change_270.jpg
+     7a232a54197b7d28_gls27_mirror_vertical.jpg
+
+Grupo: septorialeaf_t3 (3 archivos)
+Método: pattern_analysis
+Archivo base: 59e12ec59bc07ad4_septorialeaf_t3_jpg_rf_0f7f52ea24aed3f8cf9c7ca64d23df39.jpg
+Archivos del grupo:
+  🎯 59e12ec59bc07ad4_septorialeaf_t3_jpg_rf_0f7f52ea24aed3f8cf9c7ca64d23df39.jpg
+     68083ee8c0279f3e_septorialeaf_t3_jpg_rf_e31ecb61360a7b1ad07f28cdc2055cad.jpg
+     650471506d517233_septorialeaf_t3_jpg_rf_89fabfaeb55f6abb63053db17b1e41d6.jpg
+
+Grupo: cg_1523 (3 archivos)
+Método: pattern_analysis
+Archivo base: e564952e4b9fa9a1_3b7f264d_4d60_46c4_9e36_f4f032d47c5b_matt_s_cg_1523.jpg
+Archivos del grupo:
+     b128710ee0547ff9_3b7f264d_4d60_46c4_9e36_f4f032d47c5b_matt_s_cg_1523_180deg.jpg
+     456e95de8600870e_3b7f264d_4d60_46c4_9e36_f4f032d47c5b_matt_s_cg_1523_fliptb.jpg
+  🎯 e564952e4b9fa9a1_3b7f264d_4d60_46c4_9e36_f4f032d47c5b_matt_s_cg_1523.jpg
+
+Grupo: cg_2477 (3 archivos)
+Método: pattern_analysis
+Archivo base: 20ae08383292e78c_1f8a9dd1_e501_430d_9c80_7eaf0904961c_matt_s_cg_2477.jpg
+Archivos del grupo:
+     bf6697e5aebbb371_1f8a9dd1_e501_430d_9c80_7eaf0904961c_matt_s_cg_2477_fliptb.jpg
+     37dafa241d395c79_1f8a9dd1_e501_430d_9c80_7eaf0904961c_matt_s_cg_2477_180deg.jpg
+  🎯 20ae08383292e78c_1f8a9dd1_e501_430d_9c80_7eaf0904961c_matt_s_cg_2477.jpg
+
+Grupo: gls54 (8 archivos)
+Método: pattern_analysis
+Archivo base: d5ba6ad218ee19bd_gls54.jpg
+Archivos del grupo:
+     40d8642e21298dd5_gls54_change_180.jpg
+     af433f804186fe5f_gls54_mirror.jpg
+  🎯 d5ba6ad218ee19bd_gls54.jpg
+     1cf9feb57af788a0_gls54_hight.jpg
+     1560b14a2aac5f8c_gls54_change_270.jpg
+     f915f117ab09d431_gls54_change_90.jpg
+     10756ef96ec0b61d_gls54_mirror_vertical.jpg
+     63ee6e997ff1922e_gls54_lower.jpg
+
+Grupo: gls45 (8 archivos)
+Método: pattern_analysis
+Archivo base: 4f5bf1bb6036e626_gls45.jpg
+Archivos del grupo:
+     e26d7f67ffbbafd3_gls45_change_180.jpg
+     225d876f29005091_gls45_change_270.jpg
+     57a71971528ec50c_gls45_change_90.jpg
+     dd0b52cbd88af411_gls45_mirror.jpg
+     1f404497b419f111_gls45_hight.jpg
+     c514fb90fa5bd30d_gls45_mirror_vertical.jpg
+  🎯 4f5bf1bb6036e626_gls45.jpg
+     e6f83a0600eac160_gls45_lower.jpg
+
+Grupo: sept_8439 (3 archivos)
+Método: pattern_analysis
+Archivo base: ceaeee3e86798003_0d8187e2_00e2_40e7_b1a5_c94db561057c_jr_sept_l_s_8439.jpg
+Archivos del grupo:
+  🎯 ceaeee3e86798003_0d8187e2_00e2_40e7_b1a5_c94db561057c_jr_sept_l_s_8439.jpg
+     3cabd13623706787_0d8187e2_00e2_40e7_b1a5_c94db561057c_jr_sept_l_s_8439_fliptb.jpg
+     96ea70be625d1946_0d8187e2_00e2_40e7_b1a5_c94db561057c_jr_sept_l_s_8439_180deg.jpg
+
+Grupo: tomato2241_450x300 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8d09b348b8663aa6_septoria_leaf_spot_of_tomato2241_450x300_jpg_rf_5097976c47179c775ad8c53e0f70bb3b.jpg
+Archivos del grupo:
+  🎯 8d09b348b8663aa6_septoria_leaf_spot_of_tomato2241_450x300_jpg_rf_5097976c47179c775ad8c53e0f70bb3b.jpg
+     7f3e2fc842cf78ac_septoria_leaf_spot_of_tomato2241_450x300_jpg_rf_f0d086fd4291ed08f7f1db9044d03192.jpg
+     c056bd1c182dc58e_septoria_leaf_spot_of_tomato2241_450x300_jpg_rf_a5213e82880b36835a5309c528c2d1cb.jpg
+
+Grupo: sept_8443 (3 archivos)
+Método: pattern_analysis
+Archivo base: a346cf089b7e9cfe_0a68a294_30d1_4422_ab7e_a1909ec277f7_jr_sept_l_s_8443.jpg
+Archivos del grupo:
+     7e49c72a27aeef4a_0a68a294_30d1_4422_ab7e_a1909ec277f7_jr_sept_l_s_8443_fliptb.jpg
+  🎯 a346cf089b7e9cfe_0a68a294_30d1_4422_ab7e_a1909ec277f7_jr_sept_l_s_8443.jpg
+     a1b5b80c1e7aa392_0a68a294_30d1_4422_ab7e_a1909ec277f7_jr_sept_l_s_8443_180deg.jpg
+
+Grupo: cg_1771 (3 archivos)
+Método: pattern_analysis
+Archivo base: 08232a2bde46d4bc_1c85a28a_19b9_487a_b9e4_0e6d7c08e4a8_keller_st_cg_1771.jpg
+Archivos del grupo:
+  🎯 08232a2bde46d4bc_1c85a28a_19b9_487a_b9e4_0e6d7c08e4a8_keller_st_cg_1771.jpg
+     0af62b00880f57ec_1c85a28a_19b9_487a_b9e4_0e6d7c08e4a8_keller_st_cg_1771_fliptb.jpg
+     14115f3eec7cc55e_1c85a28a_19b9_487a_b9e4_0e6d7c08e4a8_keller_st_cg_1771_180deg.jpg
+
+Grupo: leaf_20spot (3 archivos)
+Método: pattern_analysis
+Archivo base: 0a179a658cc44999_leaf_20spot_jpg_rf_d6dc0b7712ebc5db55c4c10bca86e861.jpg
+Archivos del grupo:
+  🎯 0a179a658cc44999_leaf_20spot_jpg_rf_d6dc0b7712ebc5db55c4c10bca86e861.jpg
+     d295b72abe276f7b_leaf_20spot_jpg_rf_ffdbcb897278b50353081699e8c25f72.jpg
+     2f96732affcf894b_leaf_20spot_jpg_rf_1fa42f65b037e5774fbec26b35511000.jpg
+
+Grupo: tomatoseptorialeafspotjpg (3 archivos)
+Método: pattern_analysis
+Archivo base: d55b8ad24ef97abc_tomatoseptorialeafspotjpg_788d20798a3c74e7_jpg_rf_08af77cda67d5eb20d596356d86e3adb.jpg
+Archivos del grupo:
+  🎯 d55b8ad24ef97abc_tomatoseptorialeafspotjpg_788d20798a3c74e7_jpg_rf_08af77cda67d5eb20d596356d86e3adb.jpg
+     3af58aeecc098b9a_tomatoseptorialeafspotjpg_788d20798a3c74e7_jpg_rf_fcd2d72b1ec4b0e074a9d7d5a9d6c2a3.jpg
+     ada06bc5b651cd78_tomatoseptorialeafspotjpg_788d20798a3c74e7_jpg_rf_225631dfccbf871e96b6d02625473d23.jpg
+
+Grupo: cg_7799 (3 archivos)
+Método: pattern_analysis
+Archivo base: 30ff6d8655e9a625_1c1dd567_a2fd_4dc5_8034_aee3c4a259a0_matt_s_cg_7799.jpg
+Archivos del grupo:
+     409f0b90b8c7d1cc_1c1dd567_a2fd_4dc5_8034_aee3c4a259a0_matt_s_cg_7799_fliptb.jpg
+     37cfdcf323c5773f_1c1dd567_a2fd_4dc5_8034_aee3c4a259a0_matt_s_cg_7799_180deg.jpg
+  🎯 30ff6d8655e9a625_1c1dd567_a2fd_4dc5_8034_aee3c4a259a0_matt_s_cg_7799.jpg
+
+Grupo: gls21 (8 archivos)
+Método: pattern_analysis
+Archivo base: d9630e5605bda3fd_gls21.jpg
+Archivos del grupo:
+  🎯 d9630e5605bda3fd_gls21.jpg
+     8c3b35865b637d9d_gls21_change_90.jpg
+     b9abe197480da2d2_gls21_mirror_vertical.jpg
+     01947edd79ddb907_gls21_change_180.jpg
+     414be0aae8a22ec4_gls21_lower.jpg
+     cf2a1302d9c62ad8_gls21_change_270.jpg
+     391baaebf2f59967_gls21_mirror.jpg
+     3b1d68cb0224c1cd_gls21_hight.jpg
+
+Grupo: septoria_461x346 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0af1e46269c4d94a_septoria_461x346_jpg_rf_5ef9d762389ec97569a0132202a62db6.jpg
+Archivos del grupo:
+  🎯 0af1e46269c4d94a_septoria_461x346_jpg_rf_5ef9d762389ec97569a0132202a62db6.jpg
+     0f1a19f2ddeefe98_septoria_461x346_jpg_rf_19201370c6c9f1a9448e7c9b966ae84d.jpg
+     1c67daf2374fce00_septoria_461x346_jpg_rf_3dd4b00772f6d636b2e282cec35580ed.jpg
+
+Grupo: sept_8502 (3 archivos)
+Método: pattern_analysis
+Archivo base: 58875fd2527c2b52_1f6955e1_0c57_45ef_a769_8578aa3425d6_jr_sept_l_s_8502.jpg
+Archivos del grupo:
+     5d974db9a292b674_1f6955e1_0c57_45ef_a769_8578aa3425d6_jr_sept_l_s_8502_180deg.jpg
+     bb7e837d0dd8bcd6_1f6955e1_0c57_45ef_a769_8578aa3425d6_jr_sept_l_s_8502_fliptb.jpg
+  🎯 58875fd2527c2b52_1f6955e1_0c57_45ef_a769_8578aa3425d6_jr_sept_l_s_8502.jpg
+
+Grupo: sept_2589 (3 archivos)
+Método: pattern_analysis
+Archivo base: 906038cae9af4542_2f161206_d4aa_4e2a_a0a5_96213d42198d_jr_sept_l_s_2589.jpg
+Archivos del grupo:
+  🎯 906038cae9af4542_2f161206_d4aa_4e2a_a0a5_96213d42198d_jr_sept_l_s_2589.jpg
+     e134243f8e77d96d_2f161206_d4aa_4e2a_a0a5_96213d42198d_jr_sept_l_s_2589_fliptb.jpg
+     48ecb681f2f583a6_2f161206_d4aa_4e2a_a0a5_96213d42198d_jr_sept_l_s_2589_180deg.jpg
+
+Grupo: sept_8475 (3 archivos)
+Método: pattern_analysis
+Archivo base: 87e166daa6bbadab_04eb9fee_df68_4917_a639_d68e12c08bbc_jr_sept_l_s_8475.jpg
+Archivos del grupo:
+  🎯 87e166daa6bbadab_04eb9fee_df68_4917_a639_d68e12c08bbc_jr_sept_l_s_8475.jpg
+     09704fb7ba96d73e_04eb9fee_df68_4917_a639_d68e12c08bbc_jr_sept_l_s_8475_180deg.jpg
+     b85a62cc69645512_04eb9fee_df68_4917_a639_d68e12c08bbc_jr_sept_l_s_8475_fliptb.jpg
+
+Grupo: cg_7451 (3 archivos)
+Método: pattern_analysis
+Archivo base: e16cce0fb9c95179_1f51fffd_4e03_4aca_be68_d78e12538d50_matt_s_cg_7451.jpg
+Archivos del grupo:
+     3d6e6a92412a2a52_1f51fffd_4e03_4aca_be68_d78e12538d50_matt_s_cg_7451_fliptb.jpg
+  🎯 e16cce0fb9c95179_1f51fffd_4e03_4aca_be68_d78e12538d50_matt_s_cg_7451.jpg
+     c512bad3d24fb899_1f51fffd_4e03_4aca_be68_d78e12538d50_matt_s_cg_7451_180deg.jpg
+
+Grupo: cg_2762 (3 archivos)
+Método: pattern_analysis
+Archivo base: f53db3ac99c40e09_4ff32de5_d688_468f_b6db_9cb89e12f6f4_matt_s_cg_2762.jpg
+Archivos del grupo:
+  🎯 f53db3ac99c40e09_4ff32de5_d688_468f_b6db_9cb89e12f6f4_matt_s_cg_2762.jpg
+     f8b3cb7300971b35_4ff32de5_d688_468f_b6db_9cb89e12f6f4_matt_s_cg_2762_180deg.jpg
+     8a7a68a36df6cb4b_4ff32de5_d688_468f_b6db_9cb89e12f6f4_matt_s_cg_2762_fliptb.jpg
+
+Grupo: cg_6915 (3 archivos)
+Método: pattern_analysis
+Archivo base: ab3d58c6b96a2724_3af1fd7b_aca5_405e_b4ab_3615eaa6c0df_matt_s_cg_6915.jpg
+Archivos del grupo:
+     6c70fcb395e6aeef_3af1fd7b_aca5_405e_b4ab_3615eaa6c0df_matt_s_cg_6915_fliptb.jpg
+     4a642abb062fb63b_3af1fd7b_aca5_405e_b4ab_3615eaa6c0df_matt_s_cg_6915_180deg.jpg
+  🎯 ab3d58c6b96a2724_3af1fd7b_aca5_405e_b4ab_3615eaa6c0df_matt_s_cg_6915.jpg
+
+Grupo: gls76 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3c0d7466c7b5854b_gls76.jpg
+Archivos del grupo:
+     b3b793589beea952_gls76_mirror_vertical.jpg
+  🎯 3c0d7466c7b5854b_gls76.jpg
+     0999f2ce5f65a299_gls76_hight.jpg
+     27812ea9901e8428_gls76_change_90.jpg
+     cf2a4d1a36530715_gls76_lower.jpg
+     9a7e3764701e0cfd_gls76_mirror.jpg
+     8a64435ad13cb75b_gls76_change_180.jpg
+     8ec1d80e6d623014_gls76_change_270.jpg
+
+Grupo: cg_6645 (3 archivos)
+Método: pattern_analysis
+Archivo base: e5625146f91ea015_0d60ecc0_bb8e_4c07_9ad7_5e78aed53b1c_matt_s_cg_6645.jpg
+Archivos del grupo:
+     132d1bd322d9bed3_0d60ecc0_bb8e_4c07_9ad7_5e78aed53b1c_matt_s_cg_6645_180deg.jpg
+  🎯 e5625146f91ea015_0d60ecc0_bb8e_4c07_9ad7_5e78aed53b1c_matt_s_cg_6645.jpg
+     ef3402f31bd647c7_0d60ecc0_bb8e_4c07_9ad7_5e78aed53b1c_matt_s_cg_6645_fliptb.jpg
+
+Grupo: gls46 (8 archivos)
+Método: pattern_analysis
+Archivo base: 7d4c0db8d51931df_gls46.jpg
+Archivos del grupo:
+     e62e04a8e350dd80_gls46_mirror.jpg
+     2103e13359258985_gls46_mirror_vertical.jpg
+     7c802de9ef2e9550_gls46_change_180.jpg
+     ee8015893de11c2f_gls46_lower.jpg
+     1d297b50a6c9ae88_gls46_change_270.jpg
+     79bd56c753ea7876_gls46_hight.jpg
+  🎯 7d4c0db8d51931df_gls46.jpg
+     fb0845a6d53bc422_gls46_change_90.jpg
+
+Grupo: cg_7373 (3 archivos)
+Método: pattern_analysis
+Archivo base: 401f487c68b59d74_4cf0ee3d_a8b5_47f5_be25_e578d60b6cfd_matt_s_cg_7373.jpg
+Archivos del grupo:
+     2b941872bf12fffe_4cf0ee3d_a8b5_47f5_be25_e578d60b6cfd_matt_s_cg_7373_fliptb.jpg
+  🎯 401f487c68b59d74_4cf0ee3d_a8b5_47f5_be25_e578d60b6cfd_matt_s_cg_7373.jpg
+     00723514db1e050c_4cf0ee3d_a8b5_47f5_be25_e578d60b6cfd_matt_s_cg_7373_180deg.jpg
+
+Grupo: gls59 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2103c8a3219a6e09_gls59.jpg
+Archivos del grupo:
+     c89d70e72038214c_gls59_mirror.jpg
+     4ed20a6b93f5d49c_gls59_change_270.jpg
+  🎯 2103c8a3219a6e09_gls59.jpg
+     a4ca5734692a3bf3_gls59_hight.jpg
+     baaf1ce1b8cb2be5_gls59_lower.jpg
+     4dc5a6934c9c76f8_gls59_change_90.jpg
+     c05a8ba2bea49287_gls59_mirror_vertical.jpg
+     54f8fb4aa3470f03_gls59_change_180.jpg
+
+Grupo: cg_2598 (3 archivos)
+Método: pattern_analysis
+Archivo base: cf801acce43b97fc_1dbd5efc_4fec_40a2_aca2_d257a7ad823b_matt_s_cg_2598.jpg
+Archivos del grupo:
+     feda030878d7fdc4_1dbd5efc_4fec_40a2_aca2_d257a7ad823b_matt_s_cg_2598_180deg.jpg
+  🎯 cf801acce43b97fc_1dbd5efc_4fec_40a2_aca2_d257a7ad823b_matt_s_cg_2598.jpg
+     b02ca7e5da81b0b4_1dbd5efc_4fec_40a2_aca2_d257a7ad823b_matt_s_cg_2598_fliptb.jpg
+
+Grupo: cg_2679 (3 archivos)
+Método: pattern_analysis
+Archivo base: 586134d591a2b728_4a699992_4610_4a4f_98d3_942fc402731a_matt_s_cg_2679.jpg
+Archivos del grupo:
+     6a3fcc461dcf8880_4a699992_4610_4a4f_98d3_942fc402731a_matt_s_cg_2679_fliptb.jpg
+     314cd64abaedac12_4a699992_4610_4a4f_98d3_942fc402731a_matt_s_cg_2679_180deg.jpg
+  🎯 586134d591a2b728_4a699992_4610_4a4f_98d3_942fc402731a_matt_s_cg_2679.jpg
+
+Grupo: gls11 (8 archivos)
+Método: pattern_analysis
+Archivo base: 10ed8e623660267d_gls11.jpg
+Archivos del grupo:
+     ac4796e6ea600953_gls11_change_180.jpg
+     db6e9d92262017d8_gls11_change_90.jpg
+     4997f8fcbfd3539d_gls11_mirror.jpg
+     9ac9838affebd943_gls11_lower.jpg
+  🎯 10ed8e623660267d_gls11.jpg
+     3fe55154ad04717e_gls11_hight.jpg
+     acdced733a169369_gls11_mirror_vertical.jpg
+     f8fb096b02f57918_gls11_change_270.jpg
+
+Grupo: gls68 (8 archivos)
+Método: pattern_analysis
+Archivo base: d33bc4dff33d7834_gls68.jpg
+Archivos del grupo:
+     24a1faf26b771c6b_gls68_change_180.jpg
+     0e1742ed528a24d4_gls68_mirror.jpg
+     c946b2365d7f1fee_gls68_change_90.jpg
+     a819bafc999d1215_gls68_hight.jpg
+  🎯 d33bc4dff33d7834_gls68.jpg
+     26f64850dae6c522_gls68_lower.jpg
+     6e1fce11c93b1ef5_gls68_mirror_vertical.jpg
+     3e866c0a8327d2df_gls68_change_270.jpg
+
+Grupo: cg_6618 (3 archivos)
+Método: pattern_analysis
+Archivo base: deac1488a2732a23_3b8e8f98_bbc7_446d_82a9_5130e10f1b4a_matt_s_cg_6618.jpg
+Archivos del grupo:
+     4ce579f196138530_3b8e8f98_bbc7_446d_82a9_5130e10f1b4a_matt_s_cg_6618_fliptb.jpg
+     bff14af0a83489b7_3b8e8f98_bbc7_446d_82a9_5130e10f1b4a_matt_s_cg_6618_180deg.jpg
+  🎯 deac1488a2732a23_3b8e8f98_bbc7_446d_82a9_5130e10f1b4a_matt_s_cg_6618.jpg
+
+Grupo: cg_7756 (3 archivos)
+Método: pattern_analysis
+Archivo base: bfcba7a3d1cf84b4_0cff7307_2103_4aaf_b2af_899221b15e34_matt_s_cg_7756.jpg
+Archivos del grupo:
+  🎯 bfcba7a3d1cf84b4_0cff7307_2103_4aaf_b2af_899221b15e34_matt_s_cg_7756.jpg
+     2574e806a8f5bacb_0cff7307_2103_4aaf_b2af_899221b15e34_matt_s_cg_7756_fliptb.jpg
+     b02e63ee6a74d669_0cff7307_2103_4aaf_b2af_899221b15e34_matt_s_cg_7756_180deg.jpg
+
+Grupo: cg_6079 (3 archivos)
+Método: pattern_analysis
+Archivo base: 61c0c1716df59d69_0a146952_538a_41e5_a422_b5d50e91771e_matt_s_cg_6079.jpg
+Archivos del grupo:
+  🎯 61c0c1716df59d69_0a146952_538a_41e5_a422_b5d50e91771e_matt_s_cg_6079.jpg
+     4d5836f4fd37c298_0a146952_538a_41e5_a422_b5d50e91771e_matt_s_cg_6079_fliptb.jpg
+     926d838a6f084085_0a146952_538a_41e5_a422_b5d50e91771e_matt_s_cg_6079_180deg.jpg
+
+Grupo: sept_2673 (3 archivos)
+Método: pattern_analysis
+Archivo base: d98b97463b2dcafc_2cc68344_7fcb_49cc_8a1b_5c956696dd4c_jr_sept_l_s_2673.jpg
+Archivos del grupo:
+     9ffa47085dfb3095_2cc68344_7fcb_49cc_8a1b_5c956696dd4c_jr_sept_l_s_2673_fliptb.jpg
+  🎯 d98b97463b2dcafc_2cc68344_7fcb_49cc_8a1b_5c956696dd4c_jr_sept_l_s_2673.jpg
+     bfbe277187d91e1d_2cc68344_7fcb_49cc_8a1b_5c956696dd4c_jr_sept_l_s_2673_180deg.jpg
+
+Grupo: cg_7778 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7bcadd153a9daba9_1f55c2e9_67b2_4377_a426_4932a77c3439_matt_s_cg_7778.jpg
+Archivos del grupo:
+     76683aeab4cd4904_1f55c2e9_67b2_4377_a426_4932a77c3439_matt_s_cg_7778_fliptb.jpg
+     2a0dc225f85fb25c_1f55c2e9_67b2_4377_a426_4932a77c3439_matt_s_cg_7778_180deg.jpg
+  🎯 7bcadd153a9daba9_1f55c2e9_67b2_4377_a426_4932a77c3439_matt_s_cg_7778.jpg
+
+Grupo: gls29 (8 archivos)
+Método: pattern_analysis
+Archivo base: e927d170e7dfc0dc_gls29.jpg
+Archivos del grupo:
+     2b778bcd16a21e95_gls29_change_90.jpg
+  🎯 e927d170e7dfc0dc_gls29.jpg
+     db79f366509adcd2_gls29_hight.jpg
+     e2f3f3edc79d6fbf_gls29_mirror_vertical.jpg
+     452ab1ec914dbefe_gls29_change_270.jpg
+     c9c815e636d33d4c_gls29_change_180.jpg
+     5d7ecdda89aea9ce_gls29_lower.jpg
+     f76ed5a125cc5ec9_gls29_mirror.jpg
+
+Grupo: tom_seedlings5x1200 (3 archivos)
+Método: pattern_analysis
+Archivo base: cb3433ee2dc40d43_septoria_tom_seedlings5x1200_jpg_rf_6ddaf3b5ad947abced57b7e25aeec12e.jpg
+Archivos del grupo:
+  🎯 cb3433ee2dc40d43_septoria_tom_seedlings5x1200_jpg_rf_6ddaf3b5ad947abced57b7e25aeec12e.jpg
+     f17328f846e0cc40_septoria_tom_seedlings5x1200_jpg_rf_ce1e90e55b1c793baf8ed7197c8834eb.jpg
+     183f39a977ac8ad9_septoria_tom_seedlings5x1200_jpg_rf_7439bc9cccc7e81ef006c276114a29ed.jpg
+
+Grupo: fig_3 (3 archivos)
+Método: pattern_analysis
+Archivo base: a193132b2e70f3f0_early_blight_septoria_ls_fig_3_jpg_rf_46f9e211967e83a1aad5f223a7c205e5.jpg
+Archivos del grupo:
+  🎯 a193132b2e70f3f0_early_blight_septoria_ls_fig_3_jpg_rf_46f9e211967e83a1aad5f223a7c205e5.jpg
+     cdd40dc16ffb761f_early_blight_septoria_ls_fig_3_jpg_rf_f8e673119c9fe80ac57ebde23cf49608.jpg
+     ba8a95a777ee05dd_early_blight_septoria_ls_fig_3_jpg_rf_ecc0206c27e2350510e7f3cadde2faf8.jpg
+
+Grupo: gls78 (8 archivos)
+Método: pattern_analysis
+Archivo base: e90d05f9cc6b91f7_gls78.jpg
+Archivos del grupo:
+     c3a4708b39609302_gls78_change_270.jpg
+     05bbecdcedd89777_gls78_hight.jpg
+  🎯 e90d05f9cc6b91f7_gls78.jpg
+     cf84d1d85c5bdd18_gls78_lower.jpg
+     89356f94034a5099_gls78_change_90.jpg
+     92c6e615ac2fbb6e_gls78_mirror_vertical.jpg
+     7316d072d7afe8eb_gls78_mirror.jpg
+     1629b224d1aaaa5a_gls78_change_180.jpg
+
+Grupo: cg_1769 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3cd2e328541a38bf_0d1ab917_ea01_43d7_8a63_232bffcfbb08_keller_st_cg_1769.jpg
+Archivos del grupo:
+     ff786f8ed7ec980e_0d1ab917_ea01_43d7_8a63_232bffcfbb08_keller_st_cg_1769_fliptb.jpg
+  🎯 3cd2e328541a38bf_0d1ab917_ea01_43d7_8a63_232bffcfbb08_keller_st_cg_1769.jpg
+     ae3a8cf208cd379a_0d1ab917_ea01_43d7_8a63_232bffcfbb08_keller_st_cg_1769_180deg.jpg
+
+Grupo: cg_1840 (3 archivos)
+Método: pattern_analysis
+Archivo base: f22e3370e7123294_0d12d6ee_bc90_413e_8638_e476cd8ba8ee_keller_st_cg_1840.jpg
+Archivos del grupo:
+     e307f4a5f6142102_0d12d6ee_bc90_413e_8638_e476cd8ba8ee_keller_st_cg_1840_180deg.jpg
+  🎯 f22e3370e7123294_0d12d6ee_bc90_413e_8638_e476cd8ba8ee_keller_st_cg_1840.jpg
+     a2b7c9c5d380d96c_0d12d6ee_bc90_413e_8638_e476cd8ba8ee_keller_st_cg_1840_fliptb.jpg
+
+Grupo: septoria2_600px (3 archivos)
+Método: pattern_analysis
+Archivo base: 6e8547f613e89e4f_septoria2_600px_jpg_rf_7c43e497a4faa35aa3336ed0332129d9.jpg
+Archivos del grupo:
+  🎯 6e8547f613e89e4f_septoria2_600px_jpg_rf_7c43e497a4faa35aa3336ed0332129d9.jpg
+     23d0b9d5f8df7008_septoria2_600px_jpg_rf_38ed1adcbeffd5abfc69ae19be331d26.jpg
+     1ae620f54f1abfd8_septoria2_600px_jpg_rf_7cd4f0bc27894da6479cba7d5590d45d.jpg
+
+Grupo: cg_6570 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2d9c7b57fb9b1bfd_3fc4d8fe_a68b_4d84_b987_be97052f0436_matt_s_cg_6570.jpg
+Archivos del grupo:
+  🎯 2d9c7b57fb9b1bfd_3fc4d8fe_a68b_4d84_b987_be97052f0436_matt_s_cg_6570.jpg
+     9a3727cec8bf2683_3fc4d8fe_a68b_4d84_b987_be97052f0436_matt_s_cg_6570_fliptb.jpg
+     5710f55d672cf4f5_3fc4d8fe_a68b_4d84_b987_be97052f0436_matt_s_cg_6570_180deg.jpg
+
+Grupo: cg_1363 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6e6cb60d4b2e5fa2_1ab6abd3_f48e_4176_9871_84e611f5b53f_matt_s_cg_1363.jpg
+Archivos del grupo:
+     ca180b344a0510f5_1ab6abd3_f48e_4176_9871_84e611f5b53f_matt_s_cg_1363_180deg.jpg
+     f6ed85df2aa7b089_1ab6abd3_f48e_4176_9871_84e611f5b53f_matt_s_cg_1363_fliptb.jpg
+  🎯 6e6cb60d4b2e5fa2_1ab6abd3_f48e_4176_9871_84e611f5b53f_matt_s_cg_1363.jpg
+
+Grupo: cg_1961 (3 archivos)
+Método: pattern_analysis
+Archivo base: 82867c5a7ee3374a_4b712088_62f3_43ff_8358_6f07279f0b8c_keller_st_cg_1961.jpg
+Archivos del grupo:
+     f14f68fb560fd000_4b712088_62f3_43ff_8358_6f07279f0b8c_keller_st_cg_1961_fliptb.jpg
+     3f69e167ee3da357_4b712088_62f3_43ff_8358_6f07279f0b8c_keller_st_cg_1961_180deg.jpg
+  🎯 82867c5a7ee3374a_4b712088_62f3_43ff_8358_6f07279f0b8c_keller_st_cg_1961.jpg
+
+Grupo: 05_zoom (3 archivos)
+Método: pattern_analysis
+Archivo base: 5c0a684966fcad68_tomato_septoria_05_zoom_jpg_rf_8fea8a1bfd92d1854dde2b4b3720a932.jpg
+Archivos del grupo:
+  🎯 5c0a684966fcad68_tomato_septoria_05_zoom_jpg_rf_8fea8a1bfd92d1854dde2b4b3720a932.jpg
+     3a0a641591727d25_tomato_septoria_05_zoom_jpg_rf_e1087a76e162152e3376c23dc730d35a.jpg
+     3c262daf7d0b140b_tomato_septoria_05_zoom_jpg_rf_0cec063303b5461f75f2ec4402fa2c8a.jpg
+
+Grupo: gls19 (8 archivos)
+Método: pattern_analysis
+Archivo base: 673aace81b0cc98e_gls19.jpg
+Archivos del grupo:
+     cdb20b20fff33332_gls19_mirror.jpg
+     4f71c19258950266_gls19_mirror_vertical.jpg
+     e09d6a8d43da3eaa_gls19_lower.jpg
+     8e0710b1ff374412_gls19_hight.jpg
+     ac941709565199cb_gls19_change_180.jpg
+     27e73c5f34663550_gls19_change_90.jpg
+  🎯 673aace81b0cc98e_gls19.jpg
+     d621a70e3a2049bb_gls19_change_270.jpg
+
+Grupo: gls9 (8 archivos)
+Método: pattern_analysis
+Archivo base: a13b9609230f304f_gls9.jpg
+Archivos del grupo:
+  🎯 a13b9609230f304f_gls9.jpg
+     ccccd1ebf5e20870_gls9_lower.jpg
+     fd4d51244f9b8064_gls9_hight.jpg
+     5a165b0508440f5c_gls9_change_90.jpg
+     4397f5b4fdbd26ff_gls9_mirror_vertical.jpg
+     08ab2541de754ae8_gls9_change_180.jpg
+     dd90eb8ea172fa3d_gls9_change_270.jpg
+     5bddfdd0915e46ea_gls9_mirror.jpg
+
+Grupo: tomatoes1x2400_17g2jzo (3 archivos)
+Método: pattern_analysis
+Archivo base: 94e740d5efb7e691_septoria_leaf_spot_tomatoes1x2400_17g2jzo_jpg_rf_77a28b9438de5a0c74d8c1ab5360aec4.jpg
+Archivos del grupo:
+  🎯 94e740d5efb7e691_septoria_leaf_spot_tomatoes1x2400_17g2jzo_jpg_rf_77a28b9438de5a0c74d8c1ab5360aec4.jpg
+     5cacd4478e70cf53_septoria_leaf_spot_tomatoes1x2400_17g2jzo_jpg_rf_3be39e12b951d9706fe15f9830eae469.jpg
+     6425b570f6f951d4_septoria_leaf_spot_tomatoes1x2400_17g2jzo_jpg_rf_063bb766faf07b75c8b553de44fddd29.jpg
+
+Grupo: cg_7777 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8d3d81e8d7c489ad_1a10c809_8303_4457_9875_bedd4eb9625b_matt_s_cg_7777.jpg
+Archivos del grupo:
+  🎯 8d3d81e8d7c489ad_1a10c809_8303_4457_9875_bedd4eb9625b_matt_s_cg_7777.jpg
+     eabdece9820adf88_1a10c809_8303_4457_9875_bedd4eb9625b_matt_s_cg_7777_fliptb.jpg
+     d6a58756013e895c_1a10c809_8303_4457_9875_bedd4eb9625b_matt_s_cg_7777_180deg.jpg
+
+Grupo: gls22 (8 archivos)
+Método: pattern_analysis
+Archivo base: 6bfb02c09a7fb3e0_gls22.jpg
+Archivos del grupo:
+     26779f6b6c13e32a_gls22_change_180.jpg
+     2418fa5d39b4c12e_gls22_change_90.jpg
+     c0ebd81f92bb8ff3_gls22_mirror_vertical.jpg
+     842f270801c8bc27_gls22_lower.jpg
+     090c9a624db8a1a4_gls22_mirror.jpg
+     f3426f6a84e0b54e_gls22_hight.jpg
+  🎯 6bfb02c09a7fb3e0_gls22.jpg
+     18f4f7f0fd282151_gls22_change_270.jpg
+
+Grupo: gls70 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2a793c5e5f2acf47_gls70.jpg
+Archivos del grupo:
+     fe80f1fdb1947690_gls70_lower.jpg
+     2de33fd1f8391695_gls70_change_180.jpg
+     3dd81c4886465fef_gls70_mirror.jpg
+     435de9f32ad88872_gls70_change_90.jpg
+     92d6a560b10af07b_gls70_hight.jpg
+     61e2279690d61e92_gls70_change_270.jpg
+     e83cba734812e0be_gls70_mirror_vertical.jpg
+  🎯 2a793c5e5f2acf47_gls70.jpg
+
+Grupo: gls44 (8 archivos)
+Método: pattern_analysis
+Archivo base: e9ac4b8c591acb92_gls44.jpg
+Archivos del grupo:
+     e6fe299f2395e3aa_gls44_change_90.jpg
+     da5243e0b661ba35_gls44_hight.jpg
+     cb021b19af2fc7af_gls44_change_270.jpg
+     593e1706f95293f0_gls44_change_180.jpg
+     dd48620948f7bec6_gls44_mirror_vertical.jpg
+     a74141260c2b13e0_gls44_lower.jpg
+     4e2c506a783f6458_gls44_mirror.jpg
+  🎯 e9ac4b8c591acb92_gls44.jpg
+
+Grupo: gls66 (8 archivos)
+Método: pattern_analysis
+Archivo base: 68b270f3d77830b7_gls66.jpg
+Archivos del grupo:
+     0b156086b3432c24_gls66_change_90.jpg
+     21d88ea21586cb8e_gls66_change_270.jpg
+     3db56ae682ca4444_gls66_change_180.jpg
+     f8346f396b7a0092_gls66_mirror.jpg
+     6524e6040727a29f_gls66_mirror_vertical.jpg
+     ffb510057e8f4edb_gls66_lower.jpg
+     12e989d5c35e7c7b_gls66_hight.jpg
+  🎯 68b270f3d77830b7_gls66.jpg
+
+Grupo: cg_0757 (3 archivos)
+Método: pattern_analysis
+Archivo base: 17360c3cb68843ef_2b66d465_d98a_405a_9775_3b03ac58e7e5_matt_s_cg_0757.jpg
+Archivos del grupo:
+  🎯 17360c3cb68843ef_2b66d465_d98a_405a_9775_3b03ac58e7e5_matt_s_cg_0757.jpg
+     c252a208b6487cbb_2b66d465_d98a_405a_9775_3b03ac58e7e5_matt_s_cg_0757_fliptb.jpg
+     a9b3bcf5b4aace43_2b66d465_d98a_405a_9775_3b03ac58e7e5_matt_s_cg_0757_180deg.jpg
+
+Grupo: gls65 (8 archivos)
+Método: pattern_analysis
+Archivo base: adc730a2224d8c3a_gls65.jpg
+Archivos del grupo:
+  🎯 adc730a2224d8c3a_gls65.jpg
+     cdaac3928a6f27ba_gls65_change_180.jpg
+     a5b9669805008d85_gls65_change_270.jpg
+     6a4eade13e299559_gls65_change_90.jpg
+     57ef76bbbfda63ab_gls65_lower.jpg
+     6e38076f2665dc69_gls65_hight.jpg
+     8e544643ea5a1d2c_gls65_mirror_vertical.jpg
+     29700164ca6301c1_gls65_mirror.jpg
+
+Grupo: sept_2458 (3 archivos)
+Método: pattern_analysis
+Archivo base: 083b9eb5be6b8bf8_2a803f39_ff07_4e5d_aabc_4941aaa81472_jr_sept_l_s_2458.jpg
+Archivos del grupo:
+  🎯 083b9eb5be6b8bf8_2a803f39_ff07_4e5d_aabc_4941aaa81472_jr_sept_l_s_2458.jpg
+     3c579b910de49edc_2a803f39_ff07_4e5d_aabc_4941aaa81472_jr_sept_l_s_2458_fliptb.jpg
+     16c7a41724f0a09e_2a803f39_ff07_4e5d_aabc_4941aaa81472_jr_sept_l_s_2458_180deg.jpg
+
+Grupo: gls67 (8 archivos)
+Método: pattern_analysis
+Archivo base: 573ad9fbdb405b76_gls67.jpg
+Archivos del grupo:
+     f0784d40ef531def_gls67_change_270.jpg
+     5619aaeb4f88790b_gls67_mirror.jpg
+     6f3093d2e5517af6_gls67_change_180.jpg
+  🎯 573ad9fbdb405b76_gls67.jpg
+     c22fa3335063f142_gls67_hight.jpg
+     0b685f8c198c3480_gls67_change_90.jpg
+     a1a00eba096d2fc6_gls67_mirror_vertical.jpg
+     014d6534df52557f_gls67_lower.jpg
+
+Grupo: cg_2025 (3 archivos)
+Método: pattern_analysis
+Archivo base: c58c04f7175c871d_2b63b39d_7d3b_4421_9d68_b81b0862977b_keller_st_cg_2025.jpg
+Archivos del grupo:
+  🎯 c58c04f7175c871d_2b63b39d_7d3b_4421_9d68_b81b0862977b_keller_st_cg_2025.jpg
+     266a45b29e682371_2b63b39d_7d3b_4421_9d68_b81b0862977b_keller_st_cg_2025_180deg.jpg
+     fb98acb5d4d690f8_2b63b39d_7d3b_4421_9d68_b81b0862977b_keller_st_cg_2025_fliptb.jpg
+
+Grupo: gls18 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2ff17671b6658649_gls18.jpg
+Archivos del grupo:
+     ad09844ce5b33973_gls18_hight.jpg
+     63a221b848d373cc_gls18_change_180.jpg
+     9febeb6cbed81880_gls18_change_270.jpg
+     936f04276f5d905c_gls18_change_90.jpg
+     a860302ef3b5afd0_gls18_mirror.jpg
+  🎯 2ff17671b6658649_gls18.jpg
+     f234a94a10f32d20_gls18_mirror_vertical.jpg
+     a002925370e6a0c7_gls18_lower.jpg
+
+Grupo: cg_1920 (3 archivos)
+Método: pattern_analysis
+Archivo base: ad8374ae143b61b6_2c6932ac_9d51_4af0_93a9_89b639fb9c12_keller_st_cg_1920.jpg
+Archivos del grupo:
+     c33473d6b127d28f_2c6932ac_9d51_4af0_93a9_89b639fb9c12_keller_st_cg_1920_180deg.jpg
+     6fe1d6cd206c12c3_2c6932ac_9d51_4af0_93a9_89b639fb9c12_keller_st_cg_1920_fliptb.jpg
+  🎯 ad8374ae143b61b6_2c6932ac_9d51_4af0_93a9_89b639fb9c12_keller_st_cg_1920.jpg
+
+Grupo: gls31 (8 archivos)
+Método: pattern_analysis
+Archivo base: cf57dad1829aeaa4_gls31.jpg
+Archivos del grupo:
+     ab39007d96a0da63_gls31_change_180.jpg
+     0782541396953064_gls31_mirror_vertical.jpg
+     87991446eaac45bc_gls31_mirror.jpg
+     234d09320471cc38_gls31_change_270.jpg
+     02bd878144ea81f8_gls31_change_90.jpg
+     a1224ccabcb739f0_gls31_hight.jpg
+     b249130e279a3598_gls31_lower.jpg
+  🎯 cf57dad1829aeaa4_gls31.jpg
+
+Grupo: 66e7583ebe11cf0bd06435e4167bd4fd_jpg_rf (3 archivos)
+Método: pattern_analysis
+Archivo base: 6b72b80d8ecf4b3f_66e7583ebe11cf0bd06435e4167bd4fd_jpg_rf_6c43c3c2c9aac1e76d4e1e15cef4c5d3.jpg
+Archivos del grupo:
+  🎯 6b72b80d8ecf4b3f_66e7583ebe11cf0bd06435e4167bd4fd_jpg_rf_6c43c3c2c9aac1e76d4e1e15cef4c5d3.jpg
+     09e8f5c9488c0c5f_66e7583ebe11cf0bd06435e4167bd4fd_jpg_rf_b850c3e5ab3d4d027f21e816ba39156f.jpg
+     5b19810656bdc90a_66e7583ebe11cf0bd06435e4167bd4fd_jpg_rf_1a4026cb50ce34f71e228ceb00f51820.jpg
+
+Grupo: cg_7415 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4a29996b382e3355_1a555e99_78f6_459f_8572_b877b2e7b73c_matt_s_cg_7415.jpg
+Archivos del grupo:
+  🎯 4a29996b382e3355_1a555e99_78f6_459f_8572_b877b2e7b73c_matt_s_cg_7415.jpg
+     c1e202d5c07b0606_1a555e99_78f6_459f_8572_b877b2e7b73c_matt_s_cg_7415_180deg.jpg
+     80f9b57e21f3df7c_1a555e99_78f6_459f_8572_b877b2e7b73c_matt_s_cg_7415_fliptb.jpg
+
+Grupo: cg_7846 (3 archivos)
+Método: pattern_analysis
+Archivo base: 32763fce071c5a17_4a2f0e3e_8769_4550_a111_7755bc2c74db_matt_s_cg_7846.jpg
+Archivos del grupo:
+  🎯 32763fce071c5a17_4a2f0e3e_8769_4550_a111_7755bc2c74db_matt_s_cg_7846.jpg
+     95c3be7659fa8c0e_4a2f0e3e_8769_4550_a111_7755bc2c74db_matt_s_cg_7846_180deg.jpg
+     dce7bf04ddc157d5_4a2f0e3e_8769_4550_a111_7755bc2c74db_matt_s_cg_7846_fliptb.jpg
+
+Grupo: picture_id128110611 (3 archivos)
+Método: pattern_analysis
+Archivo base: 271590805cb0679d_septoria_lycopersici_ascomycota_common_fungal_leaf_disease_of_tomato_picture_id128110611_jpg_rf_a524457d03cbb3cd7dc3fc7cb2aa4d9e.jpg
+Archivos del grupo:
+  🎯 271590805cb0679d_septoria_lycopersici_ascomycota_common_fungal_leaf_disease_of_tomato_picture_id128110611_jpg_rf_a524457d03cbb3cd7dc3fc7cb2aa4d9e.jpg
+     a1cc023bea56f79d_septoria_lycopersici_ascomycota_common_fungal_leaf_disease_of_tomato_picture_id128110611_jpg_rf_6165d3893b44fc314122b510e7f9adcd.jpg
+     a8124d5faa53b641_septoria_lycopersici_ascomycota_common_fungal_leaf_disease_of_tomato_picture_id128110611_jpg_rf_ea2dff1a9f92ee666885647ad8e8abc5.jpg
+
+Grupo: cg_0975 (3 archivos)
+Método: pattern_analysis
+Archivo base: f4c520e577f0854d_02d2c484_8bdb_4ef2_8d07_0bdb3ac330cc_matt_s_cg_0975.jpg
+Archivos del grupo:
+     7300dee48acbc701_02d2c484_8bdb_4ef2_8d07_0bdb3ac330cc_matt_s_cg_0975_180deg.jpg
+  🎯 f4c520e577f0854d_02d2c484_8bdb_4ef2_8d07_0bdb3ac330cc_matt_s_cg_0975.jpg
+     27ad196468998d20_02d2c484_8bdb_4ef2_8d07_0bdb3ac330cc_matt_s_cg_0975_fliptb.jpg
+
+Grupo: cg_1951 (3 archivos)
+Método: pattern_analysis
+Archivo base: 046ee0f82c26de2b_4b0ff251_1da4_4f9c_bf92_46441043c6cf_keller_st_cg_1951.jpg
+Archivos del grupo:
+  🎯 046ee0f82c26de2b_4b0ff251_1da4_4f9c_bf92_46441043c6cf_keller_st_cg_1951.jpg
+     dd8ec93b946d8364_4b0ff251_1da4_4f9c_bf92_46441043c6cf_keller_st_cg_1951_fliptb.jpg
+     468914249cc56265_4b0ff251_1da4_4f9c_bf92_46441043c6cf_keller_st_cg_1951_180deg.jpg
+
+Grupo: gls2 (8 archivos)
+Método: pattern_analysis
+Archivo base: 26d2dc283c5ae35d_gls2.jpg
+Archivos del grupo:
+     cd9ecb9813179da8_gls2_change_270.jpg
+     0fd040342270c8ad_gls2_mirror.jpg
+     249b3419b37355ee_gls2_mirror_vertical.jpg
+     9f97d7133975989e_gls2_change_180.jpg
+     48b842f74bfba93d_gls2_hight.jpg
+     b0ccedcf41d33f3f_gls2_lower.jpg
+  🎯 26d2dc283c5ae35d_gls2.jpg
+     bf899879d0256a3e_gls2_change_90.jpg
+
+Grupo: cg_2752 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4f00f261f0df11a5_3fc5146d_71b5_4764_8a78_481e098e661e_matt_s_cg_2752.jpg
+Archivos del grupo:
+     0c26e55ade863093_3fc5146d_71b5_4764_8a78_481e098e661e_matt_s_cg_2752_180deg.jpg
+  🎯 4f00f261f0df11a5_3fc5146d_71b5_4764_8a78_481e098e661e_matt_s_cg_2752.jpg
+     59104e6fbccd2ecc_3fc5146d_71b5_4764_8a78_481e098e661e_matt_s_cg_2752_fliptb.jpg
+
+Grupo: cg_1808 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0ee27dc6cb5de424_4ebf92f9_6f78_4a23_a244_35c89106ea18_keller_st_cg_1808.jpg
+Archivos del grupo:
+     918594d1643b3022_4ebf92f9_6f78_4a23_a244_35c89106ea18_keller_st_cg_1808_fliptb.jpg
+  🎯 0ee27dc6cb5de424_4ebf92f9_6f78_4a23_a244_35c89106ea18_keller_st_cg_1808.jpg
+     1bb0a99e3826169e_4ebf92f9_6f78_4a23_a244_35c89106ea18_keller_st_cg_1808_180deg.jpg
+
+Grupo: cg_7401 (3 archivos)
+Método: pattern_analysis
+Archivo base: 25f1c17af7ac53f9_1cffba8e_40e0_43ce_914b_c184feb2cb2e_matt_s_cg_7401.jpg
+Archivos del grupo:
+  🎯 25f1c17af7ac53f9_1cffba8e_40e0_43ce_914b_c184feb2cb2e_matt_s_cg_7401.jpg
+     6c5cdc53e8cf27e6_1cffba8e_40e0_43ce_914b_c184feb2cb2e_matt_s_cg_7401_fliptb.jpg
+     22a27c0e86319625_1cffba8e_40e0_43ce_914b_c184feb2cb2e_matt_s_cg_7401_180deg.jpg
+
+Grupo: cg_7393 (3 archivos)
+Método: pattern_analysis
+Archivo base: d95b965a53ef2762_4c7b64ad_9bc8_4f71_b481_13ab966f8d6a_matt_s_cg_7393.jpg
+Archivos del grupo:
+     9e3cd8b11d1106ec_4c7b64ad_9bc8_4f71_b481_13ab966f8d6a_matt_s_cg_7393_180deg.jpg
+     0df0709eb14a07ca_4c7b64ad_9bc8_4f71_b481_13ab966f8d6a_matt_s_cg_7393_fliptb.jpg
+  🎯 d95b965a53ef2762_4c7b64ad_9bc8_4f71_b481_13ab966f8d6a_matt_s_cg_7393.jpg
+
+Grupo: sept_2679 (3 archivos)
+Método: pattern_analysis
+Archivo base: e40c6fdd5a2f7002_2f8bcf08_19de_4aa3_a60d_fa6593a53359_jr_sept_l_s_2679.jpg
+Archivos del grupo:
+     ed8b2f75f9c9405c_2f8bcf08_19de_4aa3_a60d_fa6593a53359_jr_sept_l_s_2679_180deg.jpg
+  🎯 e40c6fdd5a2f7002_2f8bcf08_19de_4aa3_a60d_fa6593a53359_jr_sept_l_s_2679.jpg
+     ae18a032feabbc81_2f8bcf08_19de_4aa3_a60d_fa6593a53359_jr_sept_l_s_2679_fliptb.jpg
+
+Grupo: gls50 (8 archivos)
+Método: pattern_analysis
+Archivo base: 31ed8677028deb7d_gls50.jpg
+Archivos del grupo:
+     73e35ca4222f26c4_gls50_change_90.jpg
+     57ac33d8aafb4c4a_gls50_lower.jpg
+     ed0f5f9a87604a0d_gls50_mirror.jpg
+     444c598c97c4929f_gls50_mirror_vertical.jpg
+     8064ba0e611aecfd_gls50_change_270.jpg
+     011929c32ce0a97a_gls50_hight.jpg
+  🎯 31ed8677028deb7d_gls50.jpg
+     1921b93dc2aa5ab0_gls50_change_180.jpg
+
+Grupo: cg_0751 (3 archivos)
+Método: pattern_analysis
+Archivo base: 710c5025fe393ad3_3d638a43_43eb_4f93_85bf_b1cc41ab117f_matt_s_cg_0751.jpg
+Archivos del grupo:
+     98ff7cef1362ff74_3d638a43_43eb_4f93_85bf_b1cc41ab117f_matt_s_cg_0751_180deg.jpg
+  🎯 710c5025fe393ad3_3d638a43_43eb_4f93_85bf_b1cc41ab117f_matt_s_cg_0751.jpg
+     619bb4db96fcae53_3d638a43_43eb_4f93_85bf_b1cc41ab117f_matt_s_cg_0751_fliptb.jpg
+
+Grupo: gls79 (8 archivos)
+Método: pattern_analysis
+Archivo base: e7a7f711e750b73a_gls79.jpg
+Archivos del grupo:
+     2dd6b75cf75dd643_gls79_hight.jpg
+     0a341c08e1fe66d5_gls79_change_270.jpg
+     d6910da9d3c3934d_gls79_lower.jpg
+     53f5820ae63c9941_gls79_change_180.jpg
+  🎯 e7a7f711e750b73a_gls79.jpg
+     7c37aa31bb270736_gls79_mirror_vertical.jpg
+     c028b106d25b7df2_gls79_change_90.jpg
+     1483ab8ec25d4ba5_gls79_mirror.jpg
+
+Grupo: 1b (3 archivos)
+Método: pattern_analysis
+Archivo base: c1f5976064d0e609_1b_jpg_rf_c967c6d5e30e4555e412750e16814ee4.jpg
+Archivos del grupo:
+  🎯 c1f5976064d0e609_1b_jpg_rf_c967c6d5e30e4555e412750e16814ee4.jpg
+     531a3814e2e8daf5_1b_jpg_rf_f6bea33d55aa7db3c970494bca521f59.jpg
+     fe07f6e54db1e95c_1b_jpg_rf_f3df569ade0e8c8c440a3e32e566376a.jpg
+
+Grupo: cg_6071 (3 archivos)
+Método: pattern_analysis
+Archivo base: 714ea92e6bf2b7fe_1d3dc5a7_5c0a_4852_8210_b06eede5d40a_matt_s_cg_6071.jpg
+Archivos del grupo:
+  🎯 714ea92e6bf2b7fe_1d3dc5a7_5c0a_4852_8210_b06eede5d40a_matt_s_cg_6071.jpg
+     e3dcf9d3c4fa305e_1d3dc5a7_5c0a_4852_8210_b06eede5d40a_matt_s_cg_6071_fliptb.jpg
+     c1a54cc29e3a5ce8_1d3dc5a7_5c0a_4852_8210_b06eede5d40a_matt_s_cg_6071_180deg.jpg
+
+Grupo: gls30 (8 archivos)
+Método: pattern_analysis
+Archivo base: 095bdb6326e19c19_gls30.jpg
+Archivos del grupo:
+     cfc2e565b4054b93_gls30_mirror_vertical.jpg
+     cb65abac544f05b9_gls30_change_90.jpg
+  🎯 095bdb6326e19c19_gls30.jpg
+     366c30761766b0a0_gls30_change_180.jpg
+     4f749abadfbd227b_gls30_hight.jpg
+     53eb8d891ed071b6_gls30_change_270.jpg
+     80dec00705d84d86_gls30_lower.jpg
+     8b116c3b621b7c06_gls30_mirror.jpg
+
+Grupo: cg_7724 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6f12e47d39de532e_0c48052c_232b_4ea7_b77d_322f5f642612_matt_s_cg_7724.jpg
+Archivos del grupo:
+     b259cd9a85f01de1_0c48052c_232b_4ea7_b77d_322f5f642612_matt_s_cg_7724_fliptb.jpg
+     38846b653c8be12d_0c48052c_232b_4ea7_b77d_322f5f642612_matt_s_cg_7724_180deg.jpg
+  🎯 6f12e47d39de532e_0c48052c_232b_4ea7_b77d_322f5f642612_matt_s_cg_7724.jpg
+
+Grupo: single_leaf (3 archivos)
+Método: pattern_analysis
+Archivo base: 7b88122e1bbd8382_august_11_early_leaf_blight_single_leaf_jpg_rf_fb21334a31918b583fcca4b742ec980d.jpg
+Archivos del grupo:
+  🎯 7b88122e1bbd8382_august_11_early_leaf_blight_single_leaf_jpg_rf_fb21334a31918b583fcca4b742ec980d.jpg
+     625c9ec9e3e5fe6f_august_11_early_leaf_blight_single_leaf_jpg_rf_7edd264b93796cb9041801f1cf439aee.jpg
+     0788d6d39f11fd3a_august_11_early_leaf_blight_single_leaf_jpg_rf_44c197120a76e00dd316998b05c4461d.jpg
+
+Grupo: cg_7806 (3 archivos)
+Método: pattern_analysis
+Archivo base: 41b9237fb9db3790_2e8ffaaa_1ddd_436d_8672_b3274acf0067_matt_s_cg_7806.jpg
+Archivos del grupo:
+  🎯 41b9237fb9db3790_2e8ffaaa_1ddd_436d_8672_b3274acf0067_matt_s_cg_7806.jpg
+     e7ae9fd2a8ba0a0c_2e8ffaaa_1ddd_436d_8672_b3274acf0067_matt_s_cg_7806_fliptb.jpg
+     6308148e5d4b7b1a_2e8ffaaa_1ddd_436d_8672_b3274acf0067_matt_s_cg_7806_180deg.jpg
+
+Grupo: image (8 archivos)
+Método: pattern_analysis
+Archivo base: eeb5a7c1ed192646_image.jpg
+Archivos del grupo:
+  🎯 eeb5a7c1ed192646_image.jpg
+     0360d61d84a0ddde_5579e3247db73_image_jpg_rf_636d1fa1a840092c2da4833ad3d5a082.jpg
+     ee3adcaf24dcbf86_55830b60a7cf2_image_jpg_rf_131d8ca6025871a61eea778657c6b656.jpg
+     81de1954fc673785_5579e3247db73_image_jpg_rf_f3f2798e2281fb1d8deef1a9dbf43c7c.jpg
+     c13a0f7039f490a5_55830b60a7cf2_image_jpg_rf_398ae2e07123a38e0bb88eb02b86e0fd.jpg
+     274cfcd63b94032e_5592c2e0b6df8_image.jpg
+     e95fd1c0a6b187df_55830b60a7cf2_image_jpg_rf_f2e50e156dd9405a24dcf98ab785b169.jpg
+     c9ce53a1246b7e9f_5579e3247db73_image_jpg_rf_9fd7b2239fe358662ecd5e7e0d246d69.jpg
+
+Grupo: sept_8501 (3 archivos)
+Método: pattern_analysis
+Archivo base: 41ab0fb5c5a1aa52_4ff7ff02_1fce_4994_bea2_bc46bd60fa4f_jr_sept_l_s_8501.jpg
+Archivos del grupo:
+  🎯 41ab0fb5c5a1aa52_4ff7ff02_1fce_4994_bea2_bc46bd60fa4f_jr_sept_l_s_8501.jpg
+     bd56508cbdf6ed94_4ff7ff02_1fce_4994_bea2_bc46bd60fa4f_jr_sept_l_s_8501_fliptb.jpg
+     db373443ea0a1335_4ff7ff02_1fce_4994_bea2_bc46bd60fa4f_jr_sept_l_s_8501_180deg.jpg
+
+Grupo: gls60 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5b418b143e153602_gls60.jpg
+Archivos del grupo:
+     9d1db9bb8ae74a00_gls60_change_180.jpg
+     24172ffda8727185_gls60_mirror_vertical.jpg
+  🎯 5b418b143e153602_gls60.jpg
+     ab834fc1b383d1f1_gls60_lower.jpg
+     50455ad9e37e27fa_gls60_hight.jpg
+     29dfc884ad329ba9_gls60_change_270.jpg
+     72772219309a872f_gls60_mirror.jpg
+     21aae08916ee48e0_gls60_change_90.jpg
+
+Grupo: cg_2505 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3d33178bea3f7899_3e06fe16_f6e0_4681_8049_f362ee0aafba_matt_s_cg_2505.jpg
+Archivos del grupo:
+     66a19e936c1b5d94_3e06fe16_f6e0_4681_8049_f362ee0aafba_matt_s_cg_2505_180deg.jpg
+  🎯 3d33178bea3f7899_3e06fe16_f6e0_4681_8049_f362ee0aafba_matt_s_cg_2505.jpg
+     2c215c72016e35a1_3e06fe16_f6e0_4681_8049_f362ee0aafba_matt_s_cg_2505_fliptb.jpg
+
+Grupo: cg_1897 (3 archivos)
+Método: pattern_analysis
+Archivo base: fa81bcfc644d4070_4bdfdc7b_5822_45b6_8c3f_65df82717447_keller_st_cg_1897.jpg
+Archivos del grupo:
+  🎯 fa81bcfc644d4070_4bdfdc7b_5822_45b6_8c3f_65df82717447_keller_st_cg_1897.jpg
+     16181616316bad6b_4bdfdc7b_5822_45b6_8c3f_65df82717447_keller_st_cg_1897_180deg.jpg
+     958e8604fa24fb79_4bdfdc7b_5822_45b6_8c3f_65df82717447_keller_st_cg_1897_fliptb.jpg
+
+Grupo: gls5 (8 archivos)
+Método: pattern_analysis
+Archivo base: d197e3900e742656_gls5.jpg
+Archivos del grupo:
+     5bae91e3ec34f61c_gls5_change_270.jpg
+     c8b28ef86b6cd8c4_gls5_hight.jpg
+     e45ef389ff991a51_gls5_mirror.jpg
+  🎯 d197e3900e742656_gls5.jpg
+     42f4f00c4aff722b_gls5_lower.jpg
+     6a57d5eca0da4af6_gls5_mirror_vertical.jpg
+     5f667aae1d8aad32_gls5_change_180.jpg
+     8b63b96af8536baa_gls5_change_90.jpg
+
+Grupo: sept_8386 (3 archivos)
+Método: pattern_analysis
+Archivo base: 05a2faac1f71dcd6_3f310f1d_9837_4e44_ab1e_cfd22cae224b_jr_sept_l_s_8386.jpg
+Archivos del grupo:
+     5e8bfc0992f8f41a_3f310f1d_9837_4e44_ab1e_cfd22cae224b_jr_sept_l_s_8386_fliptb.jpg
+  🎯 05a2faac1f71dcd6_3f310f1d_9837_4e44_ab1e_cfd22cae224b_jr_sept_l_s_8386.jpg
+     838cf8b8803cf482_3f310f1d_9837_4e44_ab1e_cfd22cae224b_jr_sept_l_s_8386_180deg.jpg
+
+Grupo: gls74 (8 archivos)
+Método: pattern_analysis
+Archivo base: 18b35a9d320860bc_gls74.jpg
+Archivos del grupo:
+     8df9d9da6adb4c34_gls74_change_180.jpg
+     161645f15af15ac2_gls74_change_90.jpg
+     d7e39977f01c9cd2_gls74_change_270.jpg
+  🎯 18b35a9d320860bc_gls74.jpg
+     6bc1bb1922d65601_gls74_hight.jpg
+     41ae8d6deb3fd1bf_gls74_lower.jpg
+     25f0b84e71c3b87d_gls74_mirror.jpg
+     4573378edaefb0fb_gls74_mirror_vertical.jpg
+
+Grupo: septorialeafspot2 (3 archivos)
+Método: pattern_analysis
+Archivo base: 32f5f96cc1ac094c_septorialeafspot2_jpg_rf_834822270bdfa446b6796ac0619764d9.jpg
+Archivos del grupo:
+  🎯 32f5f96cc1ac094c_septorialeafspot2_jpg_rf_834822270bdfa446b6796ac0619764d9.jpg
+     b11844fbe643a59c_septorialeafspot2_jpg_rf_31a9a56d7c30f34cc41e3837dbe88421.jpg
+     eec14444a2446c3a_septorialeafspot2_jpg_rf_8839e70b483ff12d77327d57b6eb93b8.jpg
+
+Grupo: cg_1219 (3 archivos)
+Método: pattern_analysis
+Archivo base: 382bf59ef517be97_3a89c017_4b4b_4f64_a018_05c98a2fa611_matt_s_cg_1219.jpg
+Archivos del grupo:
+     4ce308417bf0452f_3a89c017_4b4b_4f64_a018_05c98a2fa611_matt_s_cg_1219_180deg.jpg
+  🎯 382bf59ef517be97_3a89c017_4b4b_4f64_a018_05c98a2fa611_matt_s_cg_1219.jpg
+     c750f5777bf97175_3a89c017_4b4b_4f64_a018_05c98a2fa611_matt_s_cg_1219_fliptb.jpg
+
+Grupo: gls72 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5c7441567d0186b9_gls72.jpg
+Archivos del grupo:
+     504cdeac1f79f3e3_gls72_mirror.jpg
+     bf2af85d4c78108b_gls72_hight.jpg
+  🎯 5c7441567d0186b9_gls72.jpg
+     0847ca9953b085ff_gls72_change_180.jpg
+     166cc2a7972e8ffa_gls72_change_90.jpg
+     88c91100241d4522_gls72_change_270.jpg
+     a1d70e8f099af305_gls72_lower.jpg
+     b8bc6a65852b03f5_gls72_mirror_vertical.jpg
+
+Grupo: 6447731_orig (3 archivos)
+Método: pattern_analysis
+Archivo base: d969412d9ebba548_6447731_orig_jpg_rf_3f8a3c42daf37a870a2808e0140a26e6.jpg
+Archivos del grupo:
+  🎯 d969412d9ebba548_6447731_orig_jpg_rf_3f8a3c42daf37a870a2808e0140a26e6.jpg
+     ecba83f01dd19c38_6447731_orig_jpg_rf_268237633c1dbb5c49b25a7a74b2cb0d.jpg
+     559487d38f5e669f_6447731_orig_jpg_rf_f4c5abefbbf00a36cad6711548523d3b.jpg
+
+Grupo: cg_6455 (3 archivos)
+Método: pattern_analysis
+Archivo base: a831e60ec7747a0d_2d0ef151_4728_4b00_b70c_ab59ef5d5f9e_matt_s_cg_6455.jpg
+Archivos del grupo:
+     d613645fc00a565c_2d0ef151_4728_4b00_b70c_ab59ef5d5f9e_matt_s_cg_6455_fliptb.jpg
+     9902382cb840175d_2d0ef151_4728_4b00_b70c_ab59ef5d5f9e_matt_s_cg_6455_180deg.jpg
+  🎯 a831e60ec7747a0d_2d0ef151_4728_4b00_b70c_ab59ef5d5f9e_matt_s_cg_6455.jpg
+
+Grupo: cg_2437 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8124319882474674_3c128fd7_83d2_4202_b612_7e29f1ac4357_matt_s_cg_2437.jpg
+Archivos del grupo:
+  🎯 8124319882474674_3c128fd7_83d2_4202_b612_7e29f1ac4357_matt_s_cg_2437.jpg
+     6d47f5778e01a12a_3c128fd7_83d2_4202_b612_7e29f1ac4357_matt_s_cg_2437_180deg.jpg
+     9bbbc2b51d2304b3_3c128fd7_83d2_4202_b612_7e29f1ac4357_matt_s_cg_2437_fliptb.jpg
+
+Grupo: cg_0678 (3 archivos)
+Método: pattern_analysis
+Archivo base: 65bb47653bbc90a0_4dc663c9_994d_4204_ae40_30d5eab53bc9_matt_s_cg_0678.jpg
+Archivos del grupo:
+     b18dc23bb0cc8616_4dc663c9_994d_4204_ae40_30d5eab53bc9_matt_s_cg_0678_fliptb.jpg
+  🎯 65bb47653bbc90a0_4dc663c9_994d_4204_ae40_30d5eab53bc9_matt_s_cg_0678.jpg
+     8f2823ae69098e58_4dc663c9_994d_4204_ae40_30d5eab53bc9_matt_s_cg_0678_180deg.jpg
+
+Grupo: cg_6876 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8fdd08fb5f878f78_2b400c69_36a9_4b78_90a0_3702cd38c896_matt_s_cg_6876.jpg
+Archivos del grupo:
+     663f2e4fe3fd23aa_2b400c69_36a9_4b78_90a0_3702cd38c896_matt_s_cg_6876_fliptb.jpg
+  🎯 8fdd08fb5f878f78_2b400c69_36a9_4b78_90a0_3702cd38c896_matt_s_cg_6876.jpg
+     7935a7e1bb6c4585_2b400c69_36a9_4b78_90a0_3702cd38c896_matt_s_cg_6876_180deg.jpg
+
+Grupo: sept_8532 (3 archivos)
+Método: pattern_analysis
+Archivo base: 448daa6fc5fe1371_1a2ce36b_89e9_43ea_9e54_b2da024c08fc_jr_sept_l_s_8532.jpg
+Archivos del grupo:
+     7c5a44f1674065c8_1a2ce36b_89e9_43ea_9e54_b2da024c08fc_jr_sept_l_s_8532_fliptb.jpg
+  🎯 448daa6fc5fe1371_1a2ce36b_89e9_43ea_9e54_b2da024c08fc_jr_sept_l_s_8532.jpg
+     0e474aca9c1bfb28_1a2ce36b_89e9_43ea_9e54_b2da024c08fc_jr_sept_l_s_8532_180deg.jpg
+
+Grupo: gls39 (8 archivos)
+Método: pattern_analysis
+Archivo base: 0b273ddf378b0a13_gls39.jpg
+Archivos del grupo:
+     8e9262f5f2b8c46d_gls39_change_270.jpg
+     de77f65aa51a8e3e_gls39_mirror.jpg
+     9c34540f5a371589_gls39_mirror_vertical.jpg
+     0995a3bf768f21b4_gls39_hight.jpg
+  🎯 0b273ddf378b0a13_gls39.jpg
+     5829ce43e2c8ff6d_gls39_lower.jpg
+     90982ef7fa2f9fd6_gls39_change_180.jpg
+     9ae867d9728c2268_gls39_change_90.jpg
+
+Grupo: gls34 (8 archivos)
+Método: pattern_analysis
+Archivo base: b0f2ffd4b6389faa_gls34.jpg
+Archivos del grupo:
+     e67285f1b3f1b54a_gls34_mirror_vertical.jpg
+  🎯 b0f2ffd4b6389faa_gls34.jpg
+     db09667e290eaa56_gls34_hight.jpg
+     3c875e7cb03b9e21_gls34_change_270.jpg
+     15c8fb531209423d_gls34_lower.jpg
+     2acbc2bd3fb24cfe_gls34_change_180.jpg
+     9e2fbefa9426bab2_gls34_change_90.jpg
+     994be848a34857db_gls34_mirror.jpg
+
+Grupo: sept_8522 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9e19871fbbd534ce_02b079eb_8c74_42bf_b956_d3aecdb9d4ad_jr_sept_l_s_8522.jpg
+Archivos del grupo:
+     c9423251c747047e_02b079eb_8c74_42bf_b956_d3aecdb9d4ad_jr_sept_l_s_8522_180deg.jpg
+     85f9143c253e65a6_02b079eb_8c74_42bf_b956_d3aecdb9d4ad_jr_sept_l_s_8522_fliptb.jpg
+  🎯 9e19871fbbd534ce_02b079eb_8c74_42bf_b956_d3aecdb9d4ad_jr_sept_l_s_8522.jpg
+
+Grupo: sept_2705 (3 archivos)
+Método: pattern_analysis
+Archivo base: 20179fe0fd12fdea_2d3f0833_4493_456b_a333_610ec35c92d0_jr_sept_l_s_2705.jpg
+Archivos del grupo:
+     015042cfb7a14c7e_2d3f0833_4493_456b_a333_610ec35c92d0_jr_sept_l_s_2705_fliptb.jpg
+  🎯 20179fe0fd12fdea_2d3f0833_4493_456b_a333_610ec35c92d0_jr_sept_l_s_2705.jpg
+     3a700e6af61038ba_2d3f0833_4493_456b_a333_610ec35c92d0_jr_sept_l_s_2705_180deg.jpg
+
+Grupo: sept_8540 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4b52322c87d41c64_0ef9804e_d695_40e4_8950_08551255fa05_jr_sept_l_s_8540.jpg
+Archivos del grupo:
+  🎯 4b52322c87d41c64_0ef9804e_d695_40e4_8950_08551255fa05_jr_sept_l_s_8540.jpg
+     6011e20cc5202a22_0ef9804e_d695_40e4_8950_08551255fa05_jr_sept_l_s_8540_180deg.jpg
+     a3f91bf8e4c5e55d_0ef9804e_d695_40e4_8950_08551255fa05_jr_sept_l_s_8540_fliptb.jpg
+
+Grupo: gls63 (8 archivos)
+Método: pattern_analysis
+Archivo base: 6918fd76f57a318f_gls63.jpg
+Archivos del grupo:
+     9f4353850a15ae24_gls63_hight.jpg
+     63247df000159546_gls63_mirror.jpg
+     0c961661734f8de7_gls63_change_90.jpg
+  🎯 6918fd76f57a318f_gls63.jpg
+     e318a2ef63f36372_gls63_lower.jpg
+     41faee71ab36e1a5_gls63_change_270.jpg
+     5b4dce6551ba7707_gls63_mirror_vertical.jpg
+     f94f64bcd78f5269_gls63_change_180.jpg
+
+Grupo: 2stem (3 archivos)
+Método: pattern_analysis
+Archivo base: bb44b824eef52d79_2stem_jpg_rf_aef68396961021780d99c058d3d1b799.jpg
+Archivos del grupo:
+  🎯 bb44b824eef52d79_2stem_jpg_rf_aef68396961021780d99c058d3d1b799.jpg
+     7b108a1be10a9fad_2stem_jpg_rf_11b33fb3fd143b3af35dd159a1df9aa1.jpg
+     a1fab7d0c4f0eed7_2stem_jpg_rf_536aa067d87704392878db51e8b870aa.jpg
+
+Grupo: cg_6575 (3 archivos)
+Método: pattern_analysis
+Archivo base: 46c5bb422e1593d2_4e91dd84_5a88_4b2f_8c08_b48a1c0bfc4c_matt_s_cg_6575.jpg
+Archivos del grupo:
+     ed3c42974286e974_4e91dd84_5a88_4b2f_8c08_b48a1c0bfc4c_matt_s_cg_6575_180deg.jpg
+     034c7f041637fccf_4e91dd84_5a88_4b2f_8c08_b48a1c0bfc4c_matt_s_cg_6575_fliptb.jpg
+  🎯 46c5bb422e1593d2_4e91dd84_5a88_4b2f_8c08_b48a1c0bfc4c_matt_s_cg_6575.jpg
+
+Grupo: gls80 (8 archivos)
+Método: pattern_analysis
+Archivo base: 9673989d0c3bb734_gls80.jpg
+Archivos del grupo:
+     84b19f6eb4e17569_gls80_change_90.jpg
+     c859d4e82c0c06f1_gls80_change_270.jpg
+     d601afae2ee0d8fd_gls80_lower.jpg
+  🎯 9673989d0c3bb734_gls80.jpg
+     17670b72933b720f_gls80_hight.jpg
+     39e27acce0aefedb_gls80_change_180.jpg
+     38ccc9eb5e91e661_gls80_mirror.jpg
+     244d671a409752e9_gls80_mirror_vertical.jpg
+
+Grupo: gls81 (8 archivos)
+Método: pattern_analysis
+Archivo base: 13f15e5a9d1f9a23_gls81.jpg
+Archivos del grupo:
+     32ef05c24ab06ea0_gls81_change_90.jpg
+     ed7376fba1116cdd_gls81_hight.jpg
+     89223cff9021357b_gls81_mirror_vertical.jpg
+     5b435e3fb0f4158c_gls81_mirror.jpg
+     544912fc1d477f1c_gls81_change_270.jpg
+  🎯 13f15e5a9d1f9a23_gls81.jpg
+     6ca1f135b58302d0_gls81_lower.jpg
+     0875cda0a4a36db6_gls81_change_180.jpg
+
+Grupo: gls14 (8 archivos)
+Método: pattern_analysis
+Archivo base: 033a491976e6d0ca_gls14.jpg
+Archivos del grupo:
+     b4feef6fe4298129_gls14_change_270.jpg
+     b785b8c8006bc9f6_gls14_change_90.jpg
+     fc8b09d5f345f692_gls14_change_180.jpg
+     039d9f8f9545dc8b_gls14_mirror.jpg
+     eeec8d638aabfdf1_gls14_hight.jpg
+  🎯 033a491976e6d0ca_gls14.jpg
+     858d29061b50fa5c_gls14_lower.jpg
+     fe0bfa0535d6b47d_gls14_mirror_vertical.jpg
+
+Grupo: cg_6295 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7e6fec20548884ef_4c245d49_912e_4521_a1ee_53df9f9a6959_matt_s_cg_6295.jpg
+Archivos del grupo:
+     ac7039c0bb5c4fd2_4c245d49_912e_4521_a1ee_53df9f9a6959_matt_s_cg_6295_180deg.jpg
+     91f4533f74efabc0_4c245d49_912e_4521_a1ee_53df9f9a6959_matt_s_cg_6295_fliptb.jpg
+  🎯 7e6fec20548884ef_4c245d49_912e_4521_a1ee_53df9f9a6959_matt_s_cg_6295.jpg
+
+Grupo: 2septoria_tomato (3 archivos)
+Método: pattern_analysis
+Archivo base: 5e01c3dbe442ae08_2septoria_tomato_jpg_rf_c2deaafedc06c341936326367caf1e61.jpg
+Archivos del grupo:
+  🎯 5e01c3dbe442ae08_2septoria_tomato_jpg_rf_c2deaafedc06c341936326367caf1e61.jpg
+     aa1c6c373e87b9d2_2septoria_tomato_jpg_rf_12128b5b3a0a78d3345ed9a337463a83.jpg
+     18841e1e18c775a8_2septoria_tomato_jpg_rf_f73ed91a4e07852d0945a944b1c4a534.jpg
+
+Grupo: cg_0982 (3 archivos)
+Método: pattern_analysis
+Archivo base: e7fdf5955e23ed25_2e129fc6_f9d3_41d3_a562_c69e72871006_matt_s_cg_0982.jpg
+Archivos del grupo:
+     d9d2b0fca36f5297_2e129fc6_f9d3_41d3_a562_c69e72871006_matt_s_cg_0982_fliptb.jpg
+     404d78090e9eb522_2e129fc6_f9d3_41d3_a562_c69e72871006_matt_s_cg_0982_180deg.jpg
+  🎯 e7fdf5955e23ed25_2e129fc6_f9d3_41d3_a562_c69e72871006_matt_s_cg_0982.jpg
+
+Grupo: img_6564 (3 archivos)
+Método: pattern_analysis
+Archivo base: 469e52b2281b17ab_img_6564_jpg_rf_d8ab4c9dc81277063e8abd0e78855ff5.jpg
+Archivos del grupo:
+  🎯 469e52b2281b17ab_img_6564_jpg_rf_d8ab4c9dc81277063e8abd0e78855ff5.jpg
+     58fc1e2e239f0545_img_6564_jpg_rf_904f99409fa1be959893d51c796cf8e6.jpg
+     4ad1719d549c4e2d_img_6564_jpg_rf_36376c104a2e04fc05630b8dbacc053c.jpg
+
+Grupo: cg_0789 (3 archivos)
+Método: pattern_analysis
+Archivo base: 968a878f47706c3e_2b41bbcb_2c9b_462f_8f87_474547ef618c_matt_s_cg_0789.jpg
+Archivos del grupo:
+  🎯 968a878f47706c3e_2b41bbcb_2c9b_462f_8f87_474547ef618c_matt_s_cg_0789.jpg
+     9bddc593b1572ee6_2b41bbcb_2c9b_462f_8f87_474547ef618c_matt_s_cg_0789_fliptb.jpg
+     e29660a246dd2f09_2b41bbcb_2c9b_462f_8f87_474547ef618c_matt_s_cg_0789_180deg.jpg
+
+Grupo: 2313_jpg (3 archivos)
+Método: pattern_analysis
+Archivo base: 312923374bc92cf2_early_blight_on_leaf_yel_halo_img_2313_jpg_jpg_rf_7bc5d8ffd3b391305c75d41a2ef40a7c.jpg
+Archivos del grupo:
+  🎯 312923374bc92cf2_early_blight_on_leaf_yel_halo_img_2313_jpg_jpg_rf_7bc5d8ffd3b391305c75d41a2ef40a7c.jpg
+     41ca230dfc3d2e3e_early_blight_on_leaf_yel_halo_img_2313_jpg_jpg_rf_37ee719b4240b0e130d5aab2a4abb41a.jpg
+     8f5b0b6c06f7abc1_early_blight_on_leaf_yel_halo_img_2313_jpg_jpg_rf_5219e3eeb65598b077d05b10f1eff923.jpg
+
+Grupo: gls53 (8 archivos)
+Método: pattern_analysis
+Archivo base: 81f4fba22d4610af_gls53.jpg
+Archivos del grupo:
+     44cf9c87ff4586ff_gls53_change_270.jpg
+     f2bf83002d2d320d_gls53_lower.jpg
+     1b0465e8bde86ced_gls53_hight.jpg
+     da4182fde6606cca_gls53_change_180.jpg
+     1931d3a611aeb0ad_gls53_mirror_vertical.jpg
+     2ccce7ee4f6baf40_gls53_change_90.jpg
+  🎯 81f4fba22d4610af_gls53.jpg
+     69962b35ddf0828d_gls53_mirror.jpg
+
+Grupo: cg_2733 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8f34050ee28b374f_0c4935b6_8f13_4148_b5e6_19404d49fc78_matt_s_cg_2733.jpg
+Archivos del grupo:
+     3f0c7d86ac9a72c9_0c4935b6_8f13_4148_b5e6_19404d49fc78_matt_s_cg_2733_fliptb.jpg
+     a641bffa1b63fe0a_0c4935b6_8f13_4148_b5e6_19404d49fc78_matt_s_cg_2733_180deg.jpg
+  🎯 8f34050ee28b374f_0c4935b6_8f13_4148_b5e6_19404d49fc78_matt_s_cg_2733.jpg
+
+Grupo: gls17 (8 archivos)
+Método: pattern_analysis
+Archivo base: 7c674ff3319fdec7_gls17.jpg
+Archivos del grupo:
+     88e39dd9f35c148e_gls17_mirror.jpg
+     167a71147cfded12_gls17_mirror_vertical.jpg
+  🎯 7c674ff3319fdec7_gls17.jpg
+     b5cfb5a7aa10c52d_gls17_change_90.jpg
+     610d3b1737c5814d_gls17_lower.jpg
+     4ce856e1b200301e_gls17_change_180.jpg
+     f38bf2ae85ce29ba_gls17_hight.jpg
+     8dfeb78eb5174ab2_gls17_change_270.jpg
+
+Grupo: gls55 (8 archivos)
+Método: pattern_analysis
+Archivo base: c9224038281a6087_gls55.jpg
+Archivos del grupo:
+  🎯 c9224038281a6087_gls55.jpg
+     dde8034cc033b051_gls55_mirror.jpg
+     0182a56b330b6335_gls55_change_90.jpg
+     6128b753ca4d3e49_gls55_mirror_vertical.jpg
+     07b2ee4c19def140_gls55_change_270.jpg
+     d10e719b9eed3a63_gls55_change_180.jpg
+     329aa2dc7aec23ec_gls55_hight.jpg
+     92baaf25296b822d_gls55_lower.jpg
+
+Grupo: tomato_at9jap (3 archivos)
+Método: pattern_analysis
+Archivo base: 21dfd0c74f5c95d6_tomato_leaf_spot_septoria_lycopersici_leaf_spotting_on_tomato_at9jap_jpg_rf_d2fbf63f667ab46b901aaebb2bda43f9.jpg
+Archivos del grupo:
+  🎯 21dfd0c74f5c95d6_tomato_leaf_spot_septoria_lycopersici_leaf_spotting_on_tomato_at9jap_jpg_rf_d2fbf63f667ab46b901aaebb2bda43f9.jpg
+     f64eb2da7e09b1b6_tomato_leaf_spot_septoria_lycopersici_leaf_spotting_on_tomato_at9jap_jpg_rf_5eb2926b01df1d55a7e757893c42bd60.jpg
+     fd05b4d2619b533f_tomato_leaf_spot_septoria_lycopersici_leaf_spotting_on_tomato_at9jap_jpg_rf_3044698b004cd5d68091fc7cf51dc31d.jpg
+
+Grupo: cg_1926 (3 archivos)
+Método: pattern_analysis
+Archivo base: a2cb37a64191cbd0_2c83508f_bec1_4962_add3_f16cf5620193_keller_st_cg_1926.jpg
+Archivos del grupo:
+     5c6af4bf6e894af3_2c83508f_bec1_4962_add3_f16cf5620193_keller_st_cg_1926_fliptb.jpg
+     72ba9bcb30a77b82_2c83508f_bec1_4962_add3_f16cf5620193_keller_st_cg_1926_180deg.jpg
+  🎯 a2cb37a64191cbd0_2c83508f_bec1_4962_add3_f16cf5620193_keller_st_cg_1926.jpg
+
+Grupo: cg_6363 (3 archivos)
+Método: pattern_analysis
+Archivo base: f284571aa54ae821_1d2e1e46_0835_4f07_bebe_edf37ade1a12_matt_s_cg_6363.jpg
+Archivos del grupo:
+     9182c98dc403416e_1d2e1e46_0835_4f07_bebe_edf37ade1a12_matt_s_cg_6363_180deg.jpg
+  🎯 f284571aa54ae821_1d2e1e46_0835_4f07_bebe_edf37ade1a12_matt_s_cg_6363.jpg
+     9e0c289247874502_1d2e1e46_0835_4f07_bebe_edf37ade1a12_matt_s_cg_6363_fliptb.jpg
+
+Grupo: sept_8368 (3 archivos)
+Método: pattern_analysis
+Archivo base: b95953cbfd41903d_00f16858_f392_4d9e_ad9f_efab8049a13f_jr_sept_l_s_8368.jpg
+Archivos del grupo:
+  🎯 b95953cbfd41903d_00f16858_f392_4d9e_ad9f_efab8049a13f_jr_sept_l_s_8368.jpg
+     3cd81aa7b03182da_00f16858_f392_4d9e_ad9f_efab8049a13f_jr_sept_l_s_8368_180deg.jpg
+     8da0a88609bc8acf_00f16858_f392_4d9e_ad9f_efab8049a13f_jr_sept_l_s_8368_fliptb.jpg
+
+Grupo: sept_8519 (3 archivos)
+Método: pattern_analysis
+Archivo base: ccedf534e33205d4_04c912dc_3e26_43ff_a6e3_69de49a6e529_jr_sept_l_s_8519.jpg
+Archivos del grupo:
+  🎯 ccedf534e33205d4_04c912dc_3e26_43ff_a6e3_69de49a6e529_jr_sept_l_s_8519.jpg
+     36b23325fcb8cb84_04c912dc_3e26_43ff_a6e3_69de49a6e529_jr_sept_l_s_8519_fliptb.jpg
+     46392ae324758e9c_04c912dc_3e26_43ff_a6e3_69de49a6e529_jr_sept_l_s_8519_180deg.jpg
+
+Grupo: tomato_jpg (3 archivos)
+Método: pattern_analysis
+Archivo base: 6635b390c7732f6c_septoria_2bleaf_2bspot_tomato_jpg_jpg_rf_bf84a3f9b7b96621901e196800cde5d8.jpg
+Archivos del grupo:
+  🎯 6635b390c7732f6c_septoria_2bleaf_2bspot_tomato_jpg_jpg_rf_bf84a3f9b7b96621901e196800cde5d8.jpg
+     bfc5841166f61ded_septoria_2bleaf_2bspot_tomato_jpg_jpg_rf_5f324e77124a3ccbcc108e7ba91ff959.jpg
+     930ca6953f08d428_septoria_2bleaf_2bspot_tomato_jpg_jpg_rf_577bf823ee23eb20ab34861457568b49.jpg
+
+Grupo: cg_7862 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0a0bc5bedba53313_0edb366d_1253_4498_a05a_8f666405edc6_matt_s_cg_7862.jpg
+Archivos del grupo:
+  🎯 0a0bc5bedba53313_0edb366d_1253_4498_a05a_8f666405edc6_matt_s_cg_7862.jpg
+     8de6107535e9fb89_0edb366d_1253_4498_a05a_8f666405edc6_matt_s_cg_7862_180deg.jpg
+     8493cdb6ed84ccfe_0edb366d_1253_4498_a05a_8f666405edc6_matt_s_cg_7862_fliptb.jpg
+
+Grupo: cg_7476 (3 archivos)
+Método: pattern_analysis
+Archivo base: d11f9ceec26b991d_3acde329_875f_4fab_b09f_513714612d5c_matt_s_cg_7476.jpg
+Archivos del grupo:
+     406769823605a2f6_3acde329_875f_4fab_b09f_513714612d5c_matt_s_cg_7476_fliptb.jpg
+  🎯 d11f9ceec26b991d_3acde329_875f_4fab_b09f_513714612d5c_matt_s_cg_7476.jpg
+     54f228236195b3a0_3acde329_875f_4fab_b09f_513714612d5c_matt_s_cg_7476_180deg.jpg
+
+Grupo: cg_1818 (3 archivos)
+Método: pattern_analysis
+Archivo base: 950e23050f60c964_4c81baad_0278_40ad_a3ca_38a24cffb956_keller_st_cg_1818.jpg
+Archivos del grupo:
+     3d6566c4550c7a08_4c81baad_0278_40ad_a3ca_38a24cffb956_keller_st_cg_1818_fliptb.jpg
+  🎯 950e23050f60c964_4c81baad_0278_40ad_a3ca_38a24cffb956_keller_st_cg_1818.jpg
+     463686b7e35e5a63_4c81baad_0278_40ad_a3ca_38a24cffb956_keller_st_cg_1818_180deg.jpg
+
+Grupo: 3_500x384 (3 archivos)
+Método: pattern_analysis
+Archivo base: c3864c76f197071b_tomato_septoria_3_500x384_jpg_rf_7e6989cf4e49ff693812b8a49e35f295.jpg
+Archivos del grupo:
+  🎯 c3864c76f197071b_tomato_septoria_3_500x384_jpg_rf_7e6989cf4e49ff693812b8a49e35f295.jpg
+     21aed1992da1215a_tomato_septoria_3_500x384_jpg_rf_c8149d1542fef7ccdb99ec49479f1c95.jpg
+     fa0bd2ac819894c3_tomato_septoria_3_500x384_jpg_rf_40a23512bd3b6d8df2115d7f591913fb.jpg
+
+Grupo: tom_leaves1x1200 (3 archivos)
+Método: pattern_analysis
+Archivo base: 60b8c995881edbcd_septoria_tom_leaves1x1200_jpg_rf_60337bcdaeb5e5ce4a8ebbd8bd76bf88.jpg
+Archivos del grupo:
+  🎯 60b8c995881edbcd_septoria_tom_leaves1x1200_jpg_rf_60337bcdaeb5e5ce4a8ebbd8bd76bf88.jpg
+     dce6b8d60307086f_septoria_tom_leaves1x1200_jpg_rf_213953c8a4026a8e86169b4440c5d74a.jpg
+     38b6dbae4e4dcba9_septoria_tom_leaves1x1200_jpg_rf_d3d007b4a6fac01eb8a9601bef7ae634.jpg
+
+Grupo: gls7 (8 archivos)
+Método: pattern_analysis
+Archivo base: 22d227fae00dbd29_gls7.jpg
+Archivos del grupo:
+     e1d1bbefeda0a015_gls7_change_180.jpg
+     ba0c86b7b5111475_gls7_mirror.jpg
+     a997fcb9e7e4aeb2_gls7_mirror_vertical.jpg
+     6f8feb07a84ad7c4_gls7_hight.jpg
+     1a092f65e39f179e_gls7_change_90.jpg
+  🎯 22d227fae00dbd29_gls7.jpg
+     1cb9149ed069538c_gls7_lower.jpg
+     179487eec90c6e14_gls7_change_270.jpg
+
+Grupo: gls3 (8 archivos)
+Método: pattern_analysis
+Archivo base: 96f177d72d7e73a6_gls3.jpg
+Archivos del grupo:
+     e4736fbc80128917_gls3_lower.jpg
+     1d2a9818ba1a3733_gls3_mirror_vertical.jpg
+     8ac218cd4df34bc8_gls3_change_180.jpg
+     a2d0a43d9db2bcee_gls3_hight.jpg
+  🎯 96f177d72d7e73a6_gls3.jpg
+     61e974262b2100b6_gls3_change_270.jpg
+     d0485f1e95305f16_gls3_mirror.jpg
+     f8c8b1a131d14ad3_gls3_change_90.jpg
+
+Grupo: gls28 (8 archivos)
+Método: pattern_analysis
+Archivo base: 4e6641c14c7c3ec8_gls28.jpg
+Archivos del grupo:
+     73d6c3e8a4bcdf0c_gls28_lower.jpg
+     77817b656e828da0_gls28_change_180.jpg
+     55813db8611fdefb_gls28_hight.jpg
+     fd3a723c6e237d24_gls28_mirror_vertical.jpg
+     2510beb20123ba1a_gls28_change_90.jpg
+  🎯 4e6641c14c7c3ec8_gls28.jpg
+     0380552b69a3b727_gls28_mirror.jpg
+     c8da9e5fd592c9d9_gls28_change_270.jpg
+
+Grupo: cg_2502 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7938d291dd1e35ab_4bf63128_b5bc_4518_8d0b_ec5113f508c6_matt_s_cg_2502.jpg
+Archivos del grupo:
+     a57ee82cb0fa132c_4bf63128_b5bc_4518_8d0b_ec5113f508c6_matt_s_cg_2502_180deg.jpg
+     45a5544714153c7c_4bf63128_b5bc_4518_8d0b_ec5113f508c6_matt_s_cg_2502_fliptb.jpg
+  🎯 7938d291dd1e35ab_4bf63128_b5bc_4518_8d0b_ec5113f508c6_matt_s_cg_2502.jpg
+
+Grupo: gls26 (8 archivos)
+Método: pattern_analysis
+Archivo base: 92072cfd0cc9bfe3_gls26.jpg
+Archivos del grupo:
+     2e241a7bb82289a2_gls26_mirror_vertical.jpg
+     1b4ac62f1cd0d0ba_gls26_change_90.jpg
+     8d66f3c81fba5723_gls26_mirror.jpg
+     a1c52eec8f1f2444_gls26_change_270.jpg
+     0996adff8da0038f_gls26_hight.jpg
+  🎯 92072cfd0cc9bfe3_gls26.jpg
+     e061df97fa85b132_gls26_change_180.jpg
+     8462ef9a17fd743e_gls26_lower.jpg
+
+Grupo: gls40 (8 archivos)
+Método: pattern_analysis
+Archivo base: 33f82d7d8bc2ca9a_gls40.jpg
+Archivos del grupo:
+     519b101f9b493720_gls40_change_180.jpg
+     e37f0143552044ff_gls40_change_270.jpg
+     162c7432f8a368b4_gls40_mirror_vertical.jpg
+  🎯 33f82d7d8bc2ca9a_gls40.jpg
+     e6eb0633cd196837_gls40_mirror.jpg
+     8be01a2370618b91_gls40_change_90.jpg
+     8f4d3976a6c23fba_gls40_hight.jpg
+     d28a4ee1490f7471_gls40_lower.jpg
+
+Grupo: sept_8422 (3 archivos)
+Método: pattern_analysis
+Archivo base: 093560328bf0acfc_5b01bfdf_a1ef_49c8_9247_c98eac4ec5fb_jr_sept_l_s_8422.jpg
+Archivos del grupo:
+     802248affcfc9a14_5b01bfdf_a1ef_49c8_9247_c98eac4ec5fb_jr_sept_l_s_8422_180deg.jpg
+  🎯 093560328bf0acfc_5b01bfdf_a1ef_49c8_9247_c98eac4ec5fb_jr_sept_l_s_8422.jpg
+     5280106c341fd737_5b01bfdf_a1ef_49c8_9247_c98eac4ec5fb_jr_sept_l_s_8422_fliptb.jpg
+
+Grupo: gls57 (8 archivos)
+Método: pattern_analysis
+Archivo base: c9ccbe3f752ada89_gls57.jpg
+Archivos del grupo:
+     d7e5bf2249e74e74_gls57_change_180.jpg
+     81bee325386a4aa8_gls57_mirror.jpg
+     d2f89574004c24c1_gls57_change_90.jpg
+  🎯 c9ccbe3f752ada89_gls57.jpg
+     5ff604d017ef18f6_gls57_hight.jpg
+     f7f7a5365d6ecd84_gls57_mirror_vertical.jpg
+     c6655cd38bc06632_gls57_change_270.jpg
+     d171a4ab7b2a5efc_gls57_lower.jpg
+
+Grupo: gls62 (8 archivos)
+Método: pattern_analysis
+Archivo base: 90a62204ecfd0642_gls62.jpg
+Archivos del grupo:
+     6489b2e8859859a8_gls62_mirror.jpg
+     17ba0eb8a7cff195_gls62_change_180.jpg
+     119a33fa8770fdbf_gls62_hight.jpg
+     c8cddcdb0577dbc9_gls62_change_90.jpg
+     f4c49b2c68d1028e_gls62_mirror_vertical.jpg
+  🎯 90a62204ecfd0642_gls62.jpg
+     f8699b61ad1612e9_gls62_lower.jpg
+     a6d85b9673ea0ffa_gls62_change_270.jpg
+
+Grupo: gls24 (8 archivos)
+Método: pattern_analysis
+Archivo base: a7752c53e1ea76bc_gls24.jpg
+Archivos del grupo:
+     4249d44c47d1263c_gls24_change_270.jpg
+     9436075deb6dd912_gls24_change_180.jpg
+     b8647480343634e2_gls24_hight.jpg
+  🎯 a7752c53e1ea76bc_gls24.jpg
+     82b992a8269747e6_gls24_change_90.jpg
+     9932cef31b6590eb_gls24_mirror_vertical.jpg
+     437a7a3c3b9b2b22_gls24_lower.jpg
+     415771f758363ed5_gls24_mirror.jpg
+
+Grupo: cg_1653 (3 archivos)
+Método: pattern_analysis
+Archivo base: 09d8deceb7645117_02ab6821_757a_401b_ac04_919fdceee1f0_matt_s_cg_1653.jpg
+Archivos del grupo:
+     cb75a014fd9f1732_02ab6821_757a_401b_ac04_919fdceee1f0_matt_s_cg_1653_180deg.jpg
+     69f1c4f7b24e63c9_02ab6821_757a_401b_ac04_919fdceee1f0_matt_s_cg_1653_fliptb.jpg
+  🎯 09d8deceb7645117_02ab6821_757a_401b_ac04_919fdceee1f0_matt_s_cg_1653.jpg
+
+Grupo: cg_7535 (3 archivos)
+Método: pattern_analysis
+Archivo base: ef029d2f24845ee0_4c764c63_9353_46cc_9afb_08de31110043_matt_s_cg_7535.jpg
+Archivos del grupo:
+     7321f866256beec9_4c764c63_9353_46cc_9afb_08de31110043_matt_s_cg_7535_180deg.jpg
+  🎯 ef029d2f24845ee0_4c764c63_9353_46cc_9afb_08de31110043_matt_s_cg_7535.jpg
+     c6e579330e303b54_4c764c63_9353_46cc_9afb_08de31110043_matt_s_cg_7535_fliptb.jpg
+
+Grupo: gls52 (8 archivos)
+Método: pattern_analysis
+Archivo base: 1e08293b3975760c_gls52.jpg
+Archivos del grupo:
+  🎯 1e08293b3975760c_gls52.jpg
+     59a30fe32ebc7aec_gls52_hight.jpg
+     4fb6f76b2407814c_gls52_change_90.jpg
+     914ac62e6e008015_gls52_mirror.jpg
+     3c4e939235aa1049_gls52_mirror_vertical.jpg
+     e5fc2468bcd437f3_gls52_change_180.jpg
+     d5e11ff418238243_gls52_change_270.jpg
+     71db76a019edd8c5_gls52_lower.jpg
+
+Grupo: septoria_mary (1 archivos)
+Método: single_file
+Archivo base: c95f05a88f1df85e_7_17_photo3_septoria_mary_jpg_rf_0b06da696f5b4a00c1f1b87a00afcc6b.jpg
+Archivos del grupo:
+  🎯 c95f05a88f1df85e_7_17_photo3_septoria_mary_jpg_rf_0b06da696f5b4a00c1f1b87a00afcc6b.jpg
+
+Grupo: gls71 (8 archivos)
+Método: pattern_analysis
+Archivo base: 0b1fb96d8469e138_gls71.jpg
+Archivos del grupo:
+     538a35a5f464356c_gls71_hight.jpg
+     e228527a85d69892_gls71_mirror.jpg
+     12d92c29a2dbb0b1_gls71_change_270.jpg
+     e5a3759751bff12a_gls71_mirror_vertical.jpg
+     ff9bd836e450c57e_gls71_change_180.jpg
+  🎯 0b1fb96d8469e138_gls71.jpg
+     aaab6db0ebb3f9df_gls71_change_90.jpg
+     97f824377a24b935_gls71_lower.jpg
+
+Grupo: gls84 (8 archivos)
+Método: pattern_analysis
+Archivo base: c4d537041332d817_gls84.jpg
+Archivos del grupo:
+     feb4eb7b23c2d090_gls84_hight.jpg
+     1fd865e1566ea4e1_gls84_mirror_vertical.jpg
+     977e3153e13b6221_gls84_change_180.jpg
+  🎯 c4d537041332d817_gls84.jpg
+     0927e9c68242dd46_gls84_change_90.jpg
+     64d196855265f739_gls84_lower.jpg
+     70e9681cffed9f3c_gls84_change_270.jpg
+     24dd0ee4d1126ec9_gls84_mirror.jpg
+
+Grupo: cg_2010 (3 archivos)
+Método: pattern_analysis
+Archivo base: 898ff1f72b701603_4d4d398a_daf4_4013_9f92_f39dd34abf35_keller_st_cg_2010.jpg
+Archivos del grupo:
+  🎯 898ff1f72b701603_4d4d398a_daf4_4013_9f92_f39dd34abf35_keller_st_cg_2010.jpg
+     b8b3e64f27b56384_4d4d398a_daf4_4013_9f92_f39dd34abf35_keller_st_cg_2010_fliptb.jpg
+     69e4ee0023336bfe_4d4d398a_daf4_4013_9f92_f39dd34abf35_keller_st_cg_2010_180deg.jpg
+
+Grupo: gls48 (8 archivos)
+Método: pattern_analysis
+Archivo base: b3dc960e9e13abc7_gls48.jpg
+Archivos del grupo:
+     e9daedc862e70d3e_gls48_mirror.jpg
+     201e4299b9c5f34c_gls48_change_90.jpg
+     584a9a110fa350fc_gls48_change_180.jpg
+  🎯 b3dc960e9e13abc7_gls48.jpg
+     0c8de3d67ca23c38_gls48_mirror_vertical.jpg
+     e03b19427ef04c73_gls48_change_270.jpg
+     808282f39435e063_gls48_lower.jpg
+     05d8333a22f11396_gls48_hight.jpg
+
+Grupo: gls69 (8 archivos)
+Método: pattern_analysis
+Archivo base: 4f6a8c062cab44fb_gls69.jpg
+Archivos del grupo:
+     014fa0ab76457bd0_gls69_mirror_vertical.jpg
+     e158099566ce2df1_gls69_change_90.jpg
+     1892e2661e002c9b_gls69_hight.jpg
+  🎯 4f6a8c062cab44fb_gls69.jpg
+     62835c422313f874_gls69_mirror.jpg
+     bca104ce3011fa78_gls69_change_270.jpg
+     b21228df27f238b4_gls69_change_180.jpg
+     c5ee4a98fd97b870_gls69_lower.jpg
+
+Grupo: cg_1888 (3 archivos)
+Método: pattern_analysis
+Archivo base: 1c539e8a620af4a3_2ca0f649_659c_458d_aaed_d51529372633_keller_st_cg_1888.jpg
+Archivos del grupo:
+     014384baded29be2_2ca0f649_659c_458d_aaed_d51529372633_keller_st_cg_1888_fliptb.jpg
+     0759f86ed6fd168a_2ca0f649_659c_458d_aaed_d51529372633_keller_st_cg_1888_180deg.jpg
+  🎯 1c539e8a620af4a3_2ca0f649_659c_458d_aaed_d51529372633_keller_st_cg_1888.jpg
+
+Grupo: cg_2011 (3 archivos)
+Método: pattern_analysis
+Archivo base: d00a450215a467e5_1f7fb33a_b74e_465c_ac76_8c3866931a3d_keller_st_cg_2011.jpg
+Archivos del grupo:
+     0b535ea4779b9c68_1f7fb33a_b74e_465c_ac76_8c3866931a3d_keller_st_cg_2011_180deg.jpg
+  🎯 d00a450215a467e5_1f7fb33a_b74e_465c_ac76_8c3866931a3d_keller_st_cg_2011.jpg
+     b011f1072f510a50_1f7fb33a_b74e_465c_ac76_8c3866931a3d_keller_st_cg_2011_fliptb.jpg
+
+Grupo: sept_8507 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8e57c9cbc07003c6_2cb00d76_a875_4c94_a383_6e55534d1506_jr_sept_l_s_8507.jpg
+Archivos del grupo:
+     361fe9c001fce6db_2cb00d76_a875_4c94_a383_6e55534d1506_jr_sept_l_s_8507_fliptb.jpg
+  🎯 8e57c9cbc07003c6_2cb00d76_a875_4c94_a383_6e55534d1506_jr_sept_l_s_8507.jpg
+     2c505907c7ce2db1_2cb00d76_a875_4c94_a383_6e55534d1506_jr_sept_l_s_8507_180deg.jpg
+
+Grupo: cg_6884 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8ee0eef292808480_2a136f24_b2aa_42c6_b70b_78a95761d863_matt_s_cg_6884.jpg
+Archivos del grupo:
+     e89cfe9b1ae07a2a_2a136f24_b2aa_42c6_b70b_78a95761d863_matt_s_cg_6884_fliptb.jpg
+  🎯 8ee0eef292808480_2a136f24_b2aa_42c6_b70b_78a95761d863_matt_s_cg_6884.jpg
+     74e5917215d60784_2a136f24_b2aa_42c6_b70b_78a95761d863_matt_s_cg_6884_180deg.jpg
+
+Grupo: cg_0702 (3 archivos)
+Método: pattern_analysis
+Archivo base: b28f906f5ae16e72_01f54ad9_9c03_4ffd_86f4_829fc2939120_matt_s_cg_0702.jpg
+Archivos del grupo:
+  🎯 b28f906f5ae16e72_01f54ad9_9c03_4ffd_86f4_829fc2939120_matt_s_cg_0702.jpg
+     af36cdd3ffc4c1a9_01f54ad9_9c03_4ffd_86f4_829fc2939120_matt_s_cg_0702_180deg.jpg
+     0e60b0f43b706809_01f54ad9_9c03_4ffd_86f4_829fc2939120_matt_s_cg_0702_fliptb.jpg
+
+Grupo: sept9_300x225 (3 archivos)
+Método: pattern_analysis
+Archivo base: c276a966a8c622b9_sept9_300x225_jpg_rf_ff171c3e58f3646d5b8b6d4e227cd2f8.jpg
+Archivos del grupo:
+  🎯 c276a966a8c622b9_sept9_300x225_jpg_rf_ff171c3e58f3646d5b8b6d4e227cd2f8.jpg
+     12deaf2361eccf93_sept9_300x225_jpg_rf_ec0ea1426b9cbc14719c9a8993595c3e.jpg
+     07011b0287fb865d_sept9_300x225_jpg_rf_9b7cd2978856fb02254abad373869dde.jpg
+
+Grupo: cg_1824 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6b1524e059716a27_1e8f411c_7f6b_42c0_8c84_70486b6c91d1_keller_st_cg_1824.jpg
+Archivos del grupo:
+     ea92e1f8a062cf41_1e8f411c_7f6b_42c0_8c84_70486b6c91d1_keller_st_cg_1824_180deg.jpg
+     4f1965868f090106_1e8f411c_7f6b_42c0_8c84_70486b6c91d1_keller_st_cg_1824_fliptb.jpg
+  🎯 6b1524e059716a27_1e8f411c_7f6b_42c0_8c84_70486b6c91d1_keller_st_cg_1824.jpg
+
+Grupo: gls51 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2530136c36ced7c2_gls51.jpg
+Archivos del grupo:
+     4659cc8e48fa984a_gls51_mirror_vertical.jpg
+     cadccfaa98ba50e0_gls51_mirror.jpg
+     3a3a56d70b556056_gls51_lower.jpg
+  🎯 2530136c36ced7c2_gls51.jpg
+     fe9c50dda581bf30_gls51_change_270.jpg
+     3faac14ace284fc2_gls51_change_180.jpg
+     6efd32fb4b53e330_gls51_hight.jpg
+     c9c7340602fb77af_gls51_change_90.jpg
+
+Grupo: sept_8468 (3 archivos)
+Método: pattern_analysis
+Archivo base: 78e2d45524188975_0a5edec2_e297_4a25_86fc_78f03772c100_jr_sept_l_s_8468.jpg
+Archivos del grupo:
+     28e800f1680675dd_0a5edec2_e297_4a25_86fc_78f03772c100_jr_sept_l_s_8468_fliptb.jpg
+     5a9add51adefb5be_0a5edec2_e297_4a25_86fc_78f03772c100_jr_sept_l_s_8468_180deg.jpg
+  🎯 78e2d45524188975_0a5edec2_e297_4a25_86fc_78f03772c100_jr_sept_l_s_8468.jpg
+
+Grupo: sept_8390 (3 archivos)
+Método: pattern_analysis
+Archivo base: fb1228d9e5f3f9e6_5a43b236_f091_4e4b_8b17_b7fe3a6515d3_jr_sept_l_s_8390.jpg
+Archivos del grupo:
+  🎯 fb1228d9e5f3f9e6_5a43b236_f091_4e4b_8b17_b7fe3a6515d3_jr_sept_l_s_8390.jpg
+     3c6d8aa4c084d53f_5a43b236_f091_4e4b_8b17_b7fe3a6515d3_jr_sept_l_s_8390_180deg.jpg
+     29936112da1ae419_5a43b236_f091_4e4b_8b17_b7fe3a6515d3_jr_sept_l_s_8390_fliptb.jpg
+
+Grupo: treatment_blight (3 archivos)
+Método: pattern_analysis
+Archivo base: fc2b5ffc114a86bd_tomato_blight_treatment_blight_jpg_rf_d8e7eba91cfff85facc13f7ec640767c.jpg
+Archivos del grupo:
+  🎯 fc2b5ffc114a86bd_tomato_blight_treatment_blight_jpg_rf_d8e7eba91cfff85facc13f7ec640767c.jpg
+     b5000d6a671308ee_tomato_blight_treatment_blight_jpg_rf_e7c37a04b19972b79a5cde2a487d5430.jpg
+     88f65cb53bd998d1_tomato_blight_treatment_blight_jpg_rf_78cbf6055199828cb682fd0a6435a157.jpg
+
+Grupo: cg_7672 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0823008be3114edf_2b45f5a7_e6d1_4750_9e92_bda4c2ca8bf0_matt_s_cg_7672.jpg
+Archivos del grupo:
+     6d48f4abd9a3aacf_2b45f5a7_e6d1_4750_9e92_bda4c2ca8bf0_matt_s_cg_7672_180deg.jpg
+     0e6c399e83cf015c_2b45f5a7_e6d1_4750_9e92_bda4c2ca8bf0_matt_s_cg_7672_fliptb.jpg
+  🎯 0823008be3114edf_2b45f5a7_e6d1_4750_9e92_bda4c2ca8bf0_matt_s_cg_7672.jpg
+
+Grupo: gls37 (8 archivos)
+Método: pattern_analysis
+Archivo base: 9322d1fba8805713_gls37.jpg
+Archivos del grupo:
+     1f67df995f83ffec_gls37_change_90.jpg
+     3fd249b8a30fc008_gls37_lower.jpg
+     2a18c3e030f76c54_gls37_mirror.jpg
+  🎯 9322d1fba8805713_gls37.jpg
+     81a71a977a7caab7_gls37_mirror_vertical.jpg
+     ffb15d71edc288bc_gls37_change_270.jpg
+     079b39a5310bc412_gls37_hight.jpg
+     d0f8fdb11e989bec_gls37_change_180.jpg
+
+Grupo: cg_7414 (3 archivos)
+Método: pattern_analysis
+Archivo base: 73f9d4a24b403f8f_3d42d770_69c1_421e_ae00_56f8d0bd500f_matt_s_cg_7414.jpg
+Archivos del grupo:
+  🎯 73f9d4a24b403f8f_3d42d770_69c1_421e_ae00_56f8d0bd500f_matt_s_cg_7414.jpg
+     cd07cfb47e60a63f_3d42d770_69c1_421e_ae00_56f8d0bd500f_matt_s_cg_7414_fliptb.jpg
+     e878d04721723814_3d42d770_69c1_421e_ae00_56f8d0bd500f_matt_s_cg_7414_180deg.jpg
+
+Grupo: cg_1978 (3 archivos)
+Método: pattern_analysis
+Archivo base: 67b128b9adeccf39_0df95a30_e5bd_4fec_8271_c2de4e79a7e7_keller_st_cg_1978.jpg
+Archivos del grupo:
+  🎯 67b128b9adeccf39_0df95a30_e5bd_4fec_8271_c2de4e79a7e7_keller_st_cg_1978.jpg
+     7b3d75915f12b502_0df95a30_e5bd_4fec_8271_c2de4e79a7e7_keller_st_cg_1978_180deg.jpg
+     3817bdc4b8ebfa23_0df95a30_e5bd_4fec_8271_c2de4e79a7e7_keller_st_cg_1978_fliptb.jpg
+
+Grupo: cg_6638 (3 archivos)
+Método: pattern_analysis
+Archivo base: e9e360dfbdcbba52_2ff033e7_73ea_49aa_b81a_164963cc464d_matt_s_cg_6638.jpg
+Archivos del grupo:
+     caf73ecb802d8b72_2ff033e7_73ea_49aa_b81a_164963cc464d_matt_s_cg_6638_180deg.jpg
+     e50defa1204dc319_2ff033e7_73ea_49aa_b81a_164963cc464d_matt_s_cg_6638_fliptb.jpg
+  🎯 e9e360dfbdcbba52_2ff033e7_73ea_49aa_b81a_164963cc464d_matt_s_cg_6638.jpg
+
+Grupo: sept_8553 (3 archivos)
+Método: pattern_analysis
+Archivo base: 194dc815801e1b15_4e868db4_c951_461f_ab77_562aa6456746_jr_sept_l_s_8553.jpg
+Archivos del grupo:
+     5eb7f33d78952d21_4e868db4_c951_461f_ab77_562aa6456746_jr_sept_l_s_8553_180deg.jpg
+     1de5ce4aaa8d8822_4e868db4_c951_461f_ab77_562aa6456746_jr_sept_l_s_8553_fliptb.jpg
+  🎯 194dc815801e1b15_4e868db4_c951_461f_ab77_562aa6456746_jr_sept_l_s_8553.jpg
+
+Grupo: cg_1835 (3 archivos)
+Método: pattern_analysis
+Archivo base: 603485e45dba72ea_1ad425d4_caa9_44da_b99f_a951fda7ec94_keller_st_cg_1835.jpg
+Archivos del grupo:
+  🎯 603485e45dba72ea_1ad425d4_caa9_44da_b99f_a951fda7ec94_keller_st_cg_1835.jpg
+     f67196a975aa6998_1ad425d4_caa9_44da_b99f_a951fda7ec94_keller_st_cg_1835_fliptb.jpg
+     c64fdb8572f2dd70_1ad425d4_caa9_44da_b99f_a951fda7ec94_keller_st_cg_1835_180deg.jpg
+
+Grupo: 1500x1500_253e (3 archivos)
+Método: pattern_analysis
+Archivo base: 5f7df45ccc7dcbdf_img_0863_1500x1500_253e_jpg_rf_9cf5f2c96a8f90a0fb4f9e1f333f5307.jpg
+Archivos del grupo:
+  🎯 5f7df45ccc7dcbdf_img_0863_1500x1500_253e_jpg_rf_9cf5f2c96a8f90a0fb4f9e1f333f5307.jpg
+     922aad404219d826_img_0863_1500x1500_253e_jpg_rf_eb8cbdff7d7707543ea762b1c100f6af.jpg
+     126f7b66f07420b2_img_0863_1500x1500_253e_jpg_rf_b7321b814d80dc5231b41f626e050478.jpg
+
+Grupo: gls47 (8 archivos)
+Método: pattern_analysis
+Archivo base: af6bb54e48d3da27_gls47.jpg
+Archivos del grupo:
+     5673503ee5a33330_gls47_mirror.jpg
+     eb09e67b5cdec5b3_gls47_change_90.jpg
+     6f65ee178d3138a0_gls47_hight.jpg
+     e4ccc23964267f12_gls47_mirror_vertical.jpg
+     642e5c993d9f357c_gls47_lower.jpg
+     7e879a18a5c21643_gls47_change_180.jpg
+  🎯 af6bb54e48d3da27_gls47.jpg
+     c17147315f4e593a_gls47_change_270.jpg
+
+Grupo: gls1 (8 archivos)
+Método: pattern_analysis
+Archivo base: 0c752afd024419b6_gls1.jpg
+Archivos del grupo:
+     535c7feb54d71fb9_gls1_lower.jpg
+     df5c50ccf84707d0_gls1_change_270.jpg
+     0f851b6c6603bea4_gls1_change_90.jpg
+     8a8dceadcd68721d_gls1_hight.jpg
+     9071d683cf0011b9_gls1_mirror.jpg
+     c2850ca0e94e5e36_gls1_mirror_vertical.jpg
+  🎯 0c752afd024419b6_gls1.jpg
+     86d109a92f25c3bd_gls1_change_180.jpg
+
+Grupo: spot_d7e1x9 (3 archivos)
+Método: pattern_analysis
+Archivo base: 40ad78a5a57da4e0_tomato_disease_septoria_leaf_spot_d7e1x9_jpg_rf_075d7569aaa585fdcf024cb1d052b035.jpg
+Archivos del grupo:
+  🎯 40ad78a5a57da4e0_tomato_disease_septoria_leaf_spot_d7e1x9_jpg_rf_075d7569aaa585fdcf024cb1d052b035.jpg
+     825ddb0705fd31bc_tomato_disease_septoria_leaf_spot_d7e1x9_jpg_rf_534ef32552a6365daba13336982025fb.jpg
+     30efd9fba3d16180_tomato_disease_septoria_leaf_spot_d7e1x9_jpg_rf_1b89cf127a0f6d7395f9267954597f95.jpg
+
+Grupo: gls56 (8 archivos)
+Método: pattern_analysis
+Archivo base: 79343517b3357767_gls56.jpg
+Archivos del grupo:
+  🎯 79343517b3357767_gls56.jpg
+     91a6aafdec433f95_gls56_hight.jpg
+     0a1c4d576005d429_gls56_mirror.jpg
+     c694b34b182c49f3_gls56_mirror_vertical.jpg
+     c80183b5c9f95211_gls56_change_180.jpg
+     e07ef45cf5f26f98_gls56_lower.jpg
+     9ec7193d7deba383_gls56_change_90.jpg
+     e64a92c446b8f1dd_gls56_change_270.jpg
+
+Grupo: gls64 (8 archivos)
+Método: pattern_analysis
+Archivo base: 804086dfd28afdb5_gls64.jpg
+Archivos del grupo:
+     10742069d7775ca3_gls64_change_90.jpg
+     702904b7a9f54b6c_gls64_mirror.jpg
+  🎯 804086dfd28afdb5_gls64.jpg
+     07d8eaf101dd8bf3_gls64_change_270.jpg
+     fa73c18c05b9aeb1_gls64_change_180.jpg
+     9c9aa9b4b6f3e6ce_gls64_mirror_vertical.jpg
+     4d9062c8d9facdcb_gls64_hight.jpg
+     0bb9a36817ed9b4a_gls64_lower.jpg
+
+Grupo: cg_6754 (3 archivos)
+Método: pattern_analysis
+Archivo base: e0c0d05075db0158_2c6373dc_0616_4792_9765_7f3962406a12_matt_s_cg_6754.jpg
+Archivos del grupo:
+     f16ca2a81c467508_2c6373dc_0616_4792_9765_7f3962406a12_matt_s_cg_6754_180deg.jpg
+     49fd789da5c69e8a_2c6373dc_0616_4792_9765_7f3962406a12_matt_s_cg_6754_fliptb.jpg
+  🎯 e0c0d05075db0158_2c6373dc_0616_4792_9765_7f3962406a12_matt_s_cg_6754.jpg
+
+Grupo: spot_d7e1xm (3 archivos)
+Método: pattern_analysis
+Archivo base: c4d127e9414dbd45_tomato_disease_septoria_leaf_spot_d7e1xm_jpg_rf_a9ce068a4efe09d7b6f068a69e996418.jpg
+Archivos del grupo:
+  🎯 c4d127e9414dbd45_tomato_disease_septoria_leaf_spot_d7e1xm_jpg_rf_a9ce068a4efe09d7b6f068a69e996418.jpg
+     5bda1a97f1ca745f_tomato_disease_septoria_leaf_spot_d7e1xm_jpg_rf_b6defb8d9ae3fe8e34952764ee388dfd.jpg
+     75d0ca6d219ca82d_tomato_disease_septoria_leaf_spot_d7e1xm_jpg_rf_4fe60177bc99981a773c59f51cdc1106.jpg
+
+Grupo: cg_7482 (3 archivos)
+Método: pattern_analysis
+Archivo base: 76bbd41f7ae661d2_1c721799_1ac2_47dd_8bc5_3f9414a34534_matt_s_cg_7482.jpg
+Archivos del grupo:
+     c7f4b97a3f0d9afc_1c721799_1ac2_47dd_8bc5_3f9414a34534_matt_s_cg_7482_180deg.jpg
+  🎯 76bbd41f7ae661d2_1c721799_1ac2_47dd_8bc5_3f9414a34534_matt_s_cg_7482.jpg
+     2947f011146456e9_1c721799_1ac2_47dd_8bc5_3f9414a34534_matt_s_cg_7482_fliptb.jpg
+
+Grupo: cg_6622 (3 archivos)
+Método: pattern_analysis
+Archivo base: 132b48ce2236c990_2be16c12_1422_4ef0_a070_474085e4cef8_matt_s_cg_6622.jpg
+Archivos del grupo:
+     c3159ca3759f35ba_2be16c12_1422_4ef0_a070_474085e4cef8_matt_s_cg_6622_fliptb.jpg
+  🎯 132b48ce2236c990_2be16c12_1422_4ef0_a070_474085e4cef8_matt_s_cg_6622.jpg
+     111c8543460bf863_2be16c12_1422_4ef0_a070_474085e4cef8_matt_s_cg_6622_180deg.jpg
+
+Grupo: cg_6730 (3 archivos)
+Método: pattern_analysis
+Archivo base: ba68f5e1bd3d0692_3ebeb76c_9be7_4e35_b06a_6402276b04bd_matt_s_cg_6730.jpg
+Archivos del grupo:
+     098caf2b9c4651ff_3ebeb76c_9be7_4e35_b06a_6402276b04bd_matt_s_cg_6730_fliptb.jpg
+     29bccfa92d803bae_3ebeb76c_9be7_4e35_b06a_6402276b04bd_matt_s_cg_6730_180deg.jpg
+  🎯 ba68f5e1bd3d0692_3ebeb76c_9be7_4e35_b06a_6402276b04bd_matt_s_cg_6730.jpg
+
+Grupo: cg_1072 (3 archivos)
+Método: pattern_analysis
+Archivo base: e0a86ab923663d02_0c8fd2f4_9c26_4e6d_90b5_fae10602579c_matt_s_cg_1072.jpg
+Archivos del grupo:
+     a6a737a40ea7daca_0c8fd2f4_9c26_4e6d_90b5_fae10602579c_matt_s_cg_1072_180deg.jpg
+  🎯 e0a86ab923663d02_0c8fd2f4_9c26_4e6d_90b5_fae10602579c_matt_s_cg_1072.jpg
+     66d198aad36b39de_0c8fd2f4_9c26_4e6d_90b5_fae10602579c_matt_s_cg_1072_fliptb.jpg
+
+Grupo: cg_0717 (3 archivos)
+Método: pattern_analysis
+Archivo base: e2acefbde3beb49d_4d114914_9a79_4556_8b94_ae1a2df053cc_matt_s_cg_0717.jpg
+Archivos del grupo:
+     ab850aa89b287ebc_4d114914_9a79_4556_8b94_ae1a2df053cc_matt_s_cg_0717_fliptb.jpg
+     b8e4ae2ebe3d2bad_4d114914_9a79_4556_8b94_ae1a2df053cc_matt_s_cg_0717_180deg.jpg
+  🎯 e2acefbde3beb49d_4d114914_9a79_4556_8b94_ae1a2df053cc_matt_s_cg_0717.jpg
+
+Grupo: leafspotx450xbugwood (3 archivos)
+Método: pattern_analysis
+Archivo base: 6e82d872c5e52fd8_leafspotx450xbugwood_jpg_rf_297ad8ce2c952bb4c716695d2606c621.jpg
+Archivos del grupo:
+  🎯 6e82d872c5e52fd8_leafspotx450xbugwood_jpg_rf_297ad8ce2c952bb4c716695d2606c621.jpg
+     f1ece73c64d265e3_leafspotx450xbugwood_jpg_rf_00b5df29dc2e057894073b51aef65d50.jpg
+     42a13bbdef91438b_leafspotx450xbugwood_jpg_rf_355cc2f31374fc387fe6cfedd207d27a.jpg
+
+Grupo: cg_1143 (3 archivos)
+Método: pattern_analysis
+Archivo base: 024d85e1a8d650bc_3f4788c4_a2fe_4c9f_907c_5d5dd4f5395c_matt_s_cg_1143.jpg
+Archivos del grupo:
+     d1872cad848fe7f1_3f4788c4_a2fe_4c9f_907c_5d5dd4f5395c_matt_s_cg_1143_180deg.jpg
+     9fed028c2ff1e235_3f4788c4_a2fe_4c9f_907c_5d5dd4f5395c_matt_s_cg_1143_fliptb.jpg
+  🎯 024d85e1a8d650bc_3f4788c4_a2fe_4c9f_907c_5d5dd4f5395c_matt_s_cg_1143.jpg
+
+Grupo: sept_8373 (3 archivos)
+Método: pattern_analysis
+Archivo base: d2e0ed5eccb38c79_2e9928ec_5f57_4587_bbc3_18e30d2938e3_jr_sept_l_s_8373.jpg
+Archivos del grupo:
+  🎯 d2e0ed5eccb38c79_2e9928ec_5f57_4587_bbc3_18e30d2938e3_jr_sept_l_s_8373.jpg
+     1b387fce2cc8e2fc_2e9928ec_5f57_4587_bbc3_18e30d2938e3_jr_sept_l_s_8373_180deg.jpg
+     95c3de2875ff0634_2e9928ec_5f57_4587_bbc3_18e30d2938e3_jr_sept_l_s_8373_fliptb.jpg
+
+Grupo: cg_2783 (3 archivos)
+Método: pattern_analysis
+Archivo base: f6ff27535ef6682a_1f11a23b_8dd3_4fc8_82cf_235cfcdaf5b2_matt_s_cg_2783.jpg
+Archivos del grupo:
+     4fcc7a040edb6bd4_1f11a23b_8dd3_4fc8_82cf_235cfcdaf5b2_matt_s_cg_2783_fliptb.jpg
+     c8ac011d8f1a7983_1f11a23b_8dd3_4fc8_82cf_235cfcdaf5b2_matt_s_cg_2783_180deg.jpg
+  🎯 f6ff27535ef6682a_1f11a23b_8dd3_4fc8_82cf_235cfcdaf5b2_matt_s_cg_2783.jpg
+
+Grupo: eb56b488e349c2de423ab6afbcc4bd5b_jpg_rf (3 archivos)
+Método: pattern_analysis
+Archivo base: d47096b6820c0850_eb56b488e349c2de423ab6afbcc4bd5b_jpg_rf_55285dbd0f68011aa303f772d65a0a4d.jpg
+Archivos del grupo:
+  🎯 d47096b6820c0850_eb56b488e349c2de423ab6afbcc4bd5b_jpg_rf_55285dbd0f68011aa303f772d65a0a4d.jpg
+     415cabc42162c60c_eb56b488e349c2de423ab6afbcc4bd5b_jpg_rf_7fe49513711fe0b876e2e7c29951f547.jpg
+     2b3e954cd16c1d1a_eb56b488e349c2de423ab6afbcc4bd5b_jpg_rf_7ec3a7af692da0a5d9d9b36a1ed719d5.jpg
+
+Grupo: cg_1032 (3 archivos)
+Método: pattern_analysis
+Archivo base: 716de29cedba106e_0a70601b_8511_4a56_9562_c95c46372874_matt_s_cg_1032.jpg
+Archivos del grupo:
+     8f36fb751bc55710_0a70601b_8511_4a56_9562_c95c46372874_matt_s_cg_1032_fliptb.jpg
+     a6c2b22c5057ecd9_0a70601b_8511_4a56_9562_c95c46372874_matt_s_cg_1032_180deg.jpg
+  🎯 716de29cedba106e_0a70601b_8511_4a56_9562_c95c46372874_matt_s_cg_1032.jpg
+
+Grupo: gls43 (8 archivos)
+Método: pattern_analysis
+Archivo base: 34a0e5cdd3fcd2b5_gls43.jpg
+Archivos del grupo:
+     765ed57b81000971_gls43_hight.jpg
+     d86ba4d42b92a0cd_gls43_change_180.jpg
+     4b0709e59003ccc4_gls43_change_90.jpg
+     cf7c2b562d17c6fc_gls43_lower.jpg
+     3bd01b3325dcd918_gls43_change_270.jpg
+     6cbd596ce395f446_gls43_mirror_vertical.jpg
+     5529ebd402b77f3a_gls43_mirror.jpg
+  🎯 34a0e5cdd3fcd2b5_gls43.jpg
+
+Grupo: septoria_tomato (9 archivos)
+Método: pattern_analysis
+Archivo base: 6f177d37a930fe5b_septoria_tomato_jpg_rf_960b2606b37e9cd2d7f654ef4628d88c.jpg
+Archivos del grupo:
+  🎯 6f177d37a930fe5b_septoria_tomato_jpg_rf_960b2606b37e9cd2d7f654ef4628d88c.jpg
+     1f210cc54adbfc8a_septoria_tomato_jpg_rf_90dabe8ce90b82cc2e6cfd1a8ddc6e89.jpg
+     51979d2b0cb02ac6_septoria_tomato_jpg_rf_29fad3357b0dcb87beae7bb6abba9f96.jpg
+     b492b870a577d4f7_septoria_tomato_jpg_rf_22c17db7864aca19046992aca5a934b0.jpg
+     b4e09d2736e81c2e_septoria_tomato_jpg_rf_a0a5a2a65e1a0b9096544222b58e65eb.jpg
+     cac2e3922bc684a0_septoria_tomato_jpg_rf_9a785313140c6ec1ce65e3969d62f56d.jpg
+     98ec5406a25f6ac9_septoria_tomato_jpg_rf_922cb3299bfad2e24b2c00368777d856.jpg
+     e62cbb0b4e8fda52_septoria_tomato_jpg_rf_8ff4144c81ea0729b0d5d9f2d4ae01d9.jpg
+     d5189c66d73de460_septoria_tomato_jpg_rf_f5300a20fd4f72cf57e81508088cac34.jpg
+
+Grupo: png_png (3 archivos)
+Método: pattern_analysis
+Archivo base: 7dbad77c208ddd70_tomatofactsheet_png_png_jpg_rf_3f54ef1786e95f8b3ba4f9a4005558fa.jpg
+Archivos del grupo:
+  🎯 7dbad77c208ddd70_tomatofactsheet_png_png_jpg_rf_3f54ef1786e95f8b3ba4f9a4005558fa.jpg
+     c0fe620bee57c4ad_tomatofactsheet_png_png_jpg_rf_fc0758a6ab6a28f05dc5c9b035c67310.jpg
+     d10e07c4c75567af_tomatofactsheet_png_png_jpg_rf_13edc71301a7f10e06256f7d630ba418.jpg
+
+Grupo: cg_7813 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3a8a699ad47bb017_2dbb244d_4879_4607_82e9_1cd28ebee0da_matt_s_cg_7813.jpg
+Archivos del grupo:
+  🎯 3a8a699ad47bb017_2dbb244d_4879_4607_82e9_1cd28ebee0da_matt_s_cg_7813.jpg
+     00b7b158d51f2db6_2dbb244d_4879_4607_82e9_1cd28ebee0da_matt_s_cg_7813_180deg.jpg
+     8654252a2de0b7b3_2dbb244d_4879_4607_82e9_1cd28ebee0da_matt_s_cg_7813_fliptb.jpg
+
+Grupo: gls77 (8 archivos)
+Método: pattern_analysis
+Archivo base: 786d66eff608ac1a_gls77.jpg
+Archivos del grupo:
+     2108d956ac0cffd5_gls77_change_270.jpg
+     fee4df04c3bda0ef_gls77_lower.jpg
+     7bd0946556f4d284_gls77_mirror_vertical.jpg
+     9b8427253c798aec_gls77_hight.jpg
+     d22dfef9e65ba0fa_gls77_mirror.jpg
+     ad001cc8adfb9a6a_gls77_change_180.jpg
+     1a2a7f8fc9271e25_gls77_change_90.jpg
+  🎯 786d66eff608ac1a_gls77.jpg
+
+Grupo: tomato_1500x750 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4298d328ff869673_septoria_leaf_spot_of_tomato_1500x750_jpg_rf_3833d25b9a1f7fabf1da40014c7268bb.jpg
+Archivos del grupo:
+  🎯 4298d328ff869673_septoria_leaf_spot_of_tomato_1500x750_jpg_rf_3833d25b9a1f7fabf1da40014c7268bb.jpg
+     f159a0ba1cb6c2b0_septoria_leaf_spot_of_tomato_1500x750_jpg_rf_1f191370f4a0255440095b4d220b94bd.jpg
+     856ca87f38b8ec26_septoria_leaf_spot_of_tomato_1500x750_jpg_rf_23cc7618581a978165634ededf03dfd1.jpg
+
+Grupo: leaf_spot2 (3 archivos)
+Método: pattern_analysis
+Archivo base: 94d6f35f6a467230_tomato_leaf_spot2_jpg_rf_b8bbe3d9e0eba5802681c933904680c8.jpg
+Archivos del grupo:
+  🎯 94d6f35f6a467230_tomato_leaf_spot2_jpg_rf_b8bbe3d9e0eba5802681c933904680c8.jpg
+     ee64a16905f13057_tomato_leaf_spot2_jpg_rf_b9057923147c8238b465a5077b3ba146.jpg
+     bb768c053f3f408d_tomato_leaf_spot2_jpg_rf_f1b1702eefbfea13f92b9cad9e820f60.jpg
+
+Grupo: gls13 (8 archivos)
+Método: pattern_analysis
+Archivo base: 508c44728dd21fda_gls13.jpg
+Archivos del grupo:
+     284f4f86974c07a7_gls13_mirror.jpg
+  🎯 508c44728dd21fda_gls13.jpg
+     c15d574d4e65cdee_gls13_hight.jpg
+     a0c98f8327ff8800_gls13_mirror_vertical.jpg
+     ea91fa5bc766bc00_gls13_lower.jpg
+     f8905e7a1a628e96_gls13_change_90.jpg
+     e141798bd7e23488_gls13_change_180.jpg
+     1edfd36490def6ad_gls13_change_270.jpg
+
+Grupo: gls75 (8 archivos)
+Método: pattern_analysis
+Archivo base: 7ea3e9d751160dac_gls75.jpg
+Archivos del grupo:
+     33fa03d068747803_gls75_lower.jpg
+     1e4f242aa3984059_gls75_mirror_vertical.jpg
+     8ae6d2bcf025ad65_gls75_hight.jpg
+  🎯 7ea3e9d751160dac_gls75.jpg
+     5819f887d59a8aac_gls75_change_90.jpg
+     f1fc1b2a9ee64509_gls75_change_270.jpg
+     7478d2b4c6232d05_gls75_mirror.jpg
+     84311bbcdb0df979_gls75_change_180.jpg
+
+Grupo: leafspot (3 archivos)
+Método: pattern_analysis
+Archivo base: dfb458f675b4f32b_leafspot_5aba8283642dca003687f6fa_jpg_rf_1368726b276159c451bec996289072fa.jpg
+Archivos del grupo:
+  🎯 dfb458f675b4f32b_leafspot_5aba8283642dca003687f6fa_jpg_rf_1368726b276159c451bec996289072fa.jpg
+     c18fe14f32aefdfb_leafspot_5aba8283642dca003687f6fa_jpg_rf_facdbf71fccea326167a3ceeb94b3fc1.jpg
+     8207080a820c8334_leafspot_5aba8283642dca003687f6fa_jpg_rf_571a9dcf6a57fde2eaeeb0eaa41c3f98.jpg
+
+Grupo: sept_8380 (3 archivos)
+Método: pattern_analysis
+Archivo base: fdcfa75381ddab99_3f6c0ef0_068b_4566_a643_9a368d50bdc4_jr_sept_l_s_8380.jpg
+Archivos del grupo:
+     7db4daf0a1cca908_3f6c0ef0_068b_4566_a643_9a368d50bdc4_jr_sept_l_s_8380_180deg.jpg
+  🎯 fdcfa75381ddab99_3f6c0ef0_068b_4566_a643_9a368d50bdc4_jr_sept_l_s_8380.jpg
+     cf3fad28634b393b_3f6c0ef0_068b_4566_a643_9a368d50bdc4_jr_sept_l_s_8380_fliptb.jpg
+
+Grupo: cg_7520 (3 archivos)
+Método: pattern_analysis
+Archivo base: 18dfef1a5a6e2207_1c9a19ab_15e6_4af9_9130_603a329f356e_matt_s_cg_7520.jpg
+Archivos del grupo:
+     302901489c85e709_1c9a19ab_15e6_4af9_9130_603a329f356e_matt_s_cg_7520_180deg.jpg
+     ef9067ca0c9f49fa_1c9a19ab_15e6_4af9_9130_603a329f356e_matt_s_cg_7520_fliptb.jpg
+  🎯 18dfef1a5a6e2207_1c9a19ab_15e6_4af9_9130_603a329f356e_matt_s_cg_7520.jpg
+
+Grupo: leaflet_acg9j5 (3 archivos)
+Método: pattern_analysis
+Archivo base: cb6e1be9dc674154_tomato_leaf_spot_septoria_lycopersici_on_a_tomato_leaflet_acg9j5_jpg_rf_5860b9f93ab1fe5aa8e904d665ae658e.jpg
+Archivos del grupo:
+  🎯 cb6e1be9dc674154_tomato_leaf_spot_septoria_lycopersici_on_a_tomato_leaflet_acg9j5_jpg_rf_5860b9f93ab1fe5aa8e904d665ae658e.jpg
+     f5186e2d2cc1e51f_tomato_leaf_spot_septoria_lycopersici_on_a_tomato_leaflet_acg9j5_jpg_rf_6ffcc57c925059366af38e99d7c1ea86.jpg
+     344bfc46194f3b2f_tomato_leaf_spot_septoria_lycopersici_on_a_tomato_leaflet_acg9j5_jpg_rf_fee0982e44d95b271fc0502b3853645e.jpg
+
+Grupo: cg_7489 (3 archivos)
+Método: pattern_analysis
+Archivo base: a416057013c3f9a1_2c26297d_15a5_4afa_b9ee_e56e3032cad5_matt_s_cg_7489.jpg
+Archivos del grupo:
+     d1d9eca669d2f8ea_2c26297d_15a5_4afa_b9ee_e56e3032cad5_matt_s_cg_7489_180deg.jpg
+     5abc3a729016272d_2c26297d_15a5_4afa_b9ee_e56e3032cad5_matt_s_cg_7489_fliptb.jpg
+  🎯 a416057013c3f9a1_2c26297d_15a5_4afa_b9ee_e56e3032cad5_matt_s_cg_7489.jpg
+
+Grupo: slide21 (3 archivos)
+Método: pattern_analysis
+Archivo base: 662b7edaa392f647_slide21_n_jpg_rf_c811d56abba97a4b11b95de025090814.jpg
+Archivos del grupo:
+  🎯 662b7edaa392f647_slide21_n_jpg_rf_c811d56abba97a4b11b95de025090814.jpg
+     47113efd27952ce3_slide21_n_jpg_rf_a3a6854fff8f8ea27ed85802862d9869.jpg
+     eb2903f3c0bfc3e8_slide21_n_jpg_rf_ff389237bdc25b5da1042f20f5ea27e0.jpg
+
+Grupo: cg_2457 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6bd556286c314554_4f35adfa_03b3_4562_b970_19548dda84d1_matt_s_cg_2457.jpg
+Archivos del grupo:
+     62b47b81abaf5606_4f35adfa_03b3_4562_b970_19548dda84d1_matt_s_cg_2457_fliptb.jpg
+     086a95f5a8f39afd_4f35adfa_03b3_4562_b970_19548dda84d1_matt_s_cg_2457_180deg.jpg
+  🎯 6bd556286c314554_4f35adfa_03b3_4562_b970_19548dda84d1_matt_s_cg_2457.jpg
+
+Grupo: cg_1226 (3 archivos)
+Método: pattern_analysis
+Archivo base: 762e97f668fb8c29_03b3e88f_63ad_49e1_88c2_b8bfffd6aaf6_matt_s_cg_1226.jpg
+Archivos del grupo:
+  🎯 762e97f668fb8c29_03b3e88f_63ad_49e1_88c2_b8bfffd6aaf6_matt_s_cg_1226.jpg
+     2d8165ee673ce221_03b3e88f_63ad_49e1_88c2_b8bfffd6aaf6_matt_s_cg_1226_180deg.jpg
+     38f10cc45aefccf0_03b3e88f_63ad_49e1_88c2_b8bfffd6aaf6_matt_s_cg_1226_fliptb.jpg
+
+Grupo: sept_8425 (3 archivos)
+Método: pattern_analysis
+Archivo base: 145fde3f76a2db86_1ea484d8_6ebf_4d95_81b1_1c7f78e92015_jr_sept_l_s_8425.jpg
+Archivos del grupo:
+     daeaa9df8159235c_1ea484d8_6ebf_4d95_81b1_1c7f78e92015_jr_sept_l_s_8425_fliptb.jpg
+  🎯 145fde3f76a2db86_1ea484d8_6ebf_4d95_81b1_1c7f78e92015_jr_sept_l_s_8425.jpg
+     e3ec78a05935ea74_1ea484d8_6ebf_4d95_81b1_1c7f78e92015_jr_sept_l_s_8425_180deg.jpg
+
+Grupo: cg_1839 (3 archivos)
+Método: pattern_analysis
+Archivo base: f4f7e0c7f2b7d72f_3c553993_c2e9_40f3_b65e_5fa1170b5bb7_keller_st_cg_1839.jpg
+Archivos del grupo:
+     2973b4e7d6f66bea_3c553993_c2e9_40f3_b65e_5fa1170b5bb7_keller_st_cg_1839_fliptb.jpg
+  🎯 f4f7e0c7f2b7d72f_3c553993_c2e9_40f3_b65e_5fa1170b5bb7_keller_st_cg_1839.jpg
+     decfd3a731b14618_3c553993_c2e9_40f3_b65e_5fa1170b5bb7_keller_st_cg_1839_180deg.jpg
+
+Grupo: sept_8489 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2dcd8b8d12f770d7_1fef5339_704d_456a_a7b8_85014c9c8600_jr_sept_l_s_8489.jpg
+Archivos del grupo:
+     e997ae6b037ac807_1fef5339_704d_456a_a7b8_85014c9c8600_jr_sept_l_s_8489_180deg.jpg
+  🎯 2dcd8b8d12f770d7_1fef5339_704d_456a_a7b8_85014c9c8600_jr_sept_l_s_8489.jpg
+     3cc3ee3b7aa28ad4_1fef5339_704d_456a_a7b8_85014c9c8600_jr_sept_l_s_8489_fliptb.jpg
+
+Grupo: cg_2018 (3 archivos)
+Método: pattern_analysis
+Archivo base: 179c284f1cdbddca_1c7bc7c5_daec_45bd_beb9_89beb159c755_keller_st_cg_2018.jpg
+Archivos del grupo:
+  🎯 179c284f1cdbddca_1c7bc7c5_daec_45bd_beb9_89beb159c755_keller_st_cg_2018.jpg
+     5a3fcfd01466d822_1c7bc7c5_daec_45bd_beb9_89beb159c755_keller_st_cg_2018_180deg.jpg
+     d2842fd84c84fdb5_1c7bc7c5_daec_45bd_beb9_89beb159c755_keller_st_cg_2018_fliptb.jpg
+
+Grupo: sept_8539 (3 archivos)
+Método: pattern_analysis
+Archivo base: a18b78004d84de93_3dd0d199_7106_4d78_8594_18d01a00aff3_jr_sept_l_s_8539.jpg
+Archivos del grupo:
+     ff4deb9143445295_3dd0d199_7106_4d78_8594_18d01a00aff3_jr_sept_l_s_8539_180deg.jpg
+     216e6cdf721e21a8_3dd0d199_7106_4d78_8594_18d01a00aff3_jr_sept_l_s_8539_fliptb.jpg
+  🎯 a18b78004d84de93_3dd0d199_7106_4d78_8594_18d01a00aff3_jr_sept_l_s_8539.jpg
+
+Grupo: sept_2569 (3 archivos)
+Método: pattern_analysis
+Archivo base: d23af06de05ceaf5_2a7760ee_1b7c_437d_8f47_b6a65c6a3d9c_jr_sept_l_s_2569.jpg
+Archivos del grupo:
+     f3c696850f05516e_2a7760ee_1b7c_437d_8f47_b6a65c6a3d9c_jr_sept_l_s_2569_180deg.jpg
+  🎯 d23af06de05ceaf5_2a7760ee_1b7c_437d_8f47_b6a65c6a3d9c_jr_sept_l_s_2569.jpg
+     c942bb644c8f692d_2a7760ee_1b7c_437d_8f47_b6a65c6a3d9c_jr_sept_l_s_2569_fliptb.jpg
+
+Grupo: original_jpg (3 archivos)
+Método: pattern_analysis
+Archivo base: 43bd63bf7d400f40_tomatodisease_img_2744_2016jul01_original_jpg_1472858324_jpg_rf_8c07f7a6afdc4253747a7bba05306e89.jpg
+Archivos del grupo:
+  🎯 43bd63bf7d400f40_tomatodisease_img_2744_2016jul01_original_jpg_1472858324_jpg_rf_8c07f7a6afdc4253747a7bba05306e89.jpg
+     31bbad2615a3a2d5_tomatodisease_img_2744_2016jul01_original_jpg_1472858324_jpg_rf_e1af8d970a12c1fe05f6889e61af99dc.jpg
+     2e95f9450c806a47_tomatodisease_img_2744_2016jul01_original_jpg_1472858324_jpg_rf_a032d4e0c042ee620e6866023299cbef.jpg
+
+Grupo: leaf_spota (3 archivos)
+Método: pattern_analysis
+Archivo base: 8f10c4fea361a80c_septoria_leaf_spota_jpg_rf_e745215e7de841f8324b9f922858db44.jpg
+Archivos del grupo:
+  🎯 8f10c4fea361a80c_septoria_leaf_spota_jpg_rf_e745215e7de841f8324b9f922858db44.jpg
+     ac85790c2262cdd4_septoria_leaf_spota_jpg_rf_18b338b43a8e23fabd9e084040de15ce.jpg
+     f91fbbb4380dd1bc_septoria_leaf_spota_jpg_rf_21c77293cc84d6cddef8562cf6eeddb7.jpg
+
+Grupo: sept_2689 (3 archivos)
+Método: pattern_analysis
+Archivo base: f0344c5c28e46d48_1e427d73_cd81_4476_9427_4854a10ea894_jr_sept_l_s_2689.jpg
+Archivos del grupo:
+     86e3bd04a7f22f78_1e427d73_cd81_4476_9427_4854a10ea894_jr_sept_l_s_2689_180deg.jpg
+  🎯 f0344c5c28e46d48_1e427d73_cd81_4476_9427_4854a10ea894_jr_sept_l_s_2689.jpg
+     b60719db082da61a_1e427d73_cd81_4476_9427_4854a10ea894_jr_sept_l_s_2689_fliptb.jpg
+
+Grupo: sept_2709 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6d1a7fda0cd649ff_1b6fd6e2_8917_473f_9c8c_b14f639e13a9_jr_sept_l_s_2709.jpg
+Archivos del grupo:
+     d8d4efa616a77b29_1b6fd6e2_8917_473f_9c8c_b14f639e13a9_jr_sept_l_s_2709_180deg.jpg
+     eaedc828d962e7f5_1b6fd6e2_8917_473f_9c8c_b14f639e13a9_jr_sept_l_s_2709_fliptb.jpg
+  🎯 6d1a7fda0cd649ff_1b6fd6e2_8917_473f_9c8c_b14f639e13a9_jr_sept_l_s_2709.jpg
+
+Grupo: leaf_spot4 (1 archivos)
+Método: single_file
+Archivo base: 50c102692e88ec1b_web1_copy_tomato_septoria_leaf_spot4_jpg_rf_8f5314d83cb70da4551d2c6df8f6a98f.jpg
+Archivos del grupo:
+  🎯 50c102692e88ec1b_web1_copy_tomato_septoria_leaf_spot4_jpg_rf_8f5314d83cb70da4551d2c6df8f6a98f.jpg
+
+Grupo: cg_7863 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2c0d610250d7f218_0a25f893_1b5f_4845_baa1_f68ac03d96ac_matt_s_cg_7863.jpg
+Archivos del grupo:
+     ce6b05f0784b0073_0a25f893_1b5f_4845_baa1_f68ac03d96ac_matt_s_cg_7863_fliptb.jpg
+     bbe1dee1a7b1daaf_0a25f893_1b5f_4845_baa1_f68ac03d96ac_matt_s_cg_7863_180deg.jpg
+  🎯 2c0d610250d7f218_0a25f893_1b5f_4845_baa1_f68ac03d96ac_matt_s_cg_7863.jpg
+
+Grupo: cg_2428 (3 archivos)
+Método: pattern_analysis
+Archivo base: 36ce76b91183fdc8_1db21865_b74f_40ab_9a9b_ac7c0e512058_matt_s_cg_2428.jpg
+Archivos del grupo:
+     7762c925499ed345_1db21865_b74f_40ab_9a9b_ac7c0e512058_matt_s_cg_2428_180deg.jpg
+     26f17724b8cc4128_1db21865_b74f_40ab_9a9b_ac7c0e512058_matt_s_cg_2428_fliptb.jpg
+  🎯 36ce76b91183fdc8_1db21865_b74f_40ab_9a9b_ac7c0e512058_matt_s_cg_2428.jpg
+
+Grupo: septoria_5 (3 archivos)
+Método: pattern_analysis
+Archivo base: 463b5ad9e28cf6ab_tomato_septoria_5_jpg_rf_fab97ae4bb3726e33dcbde7262ec6a65.jpg
+Archivos del grupo:
+  🎯 463b5ad9e28cf6ab_tomato_septoria_5_jpg_rf_fab97ae4bb3726e33dcbde7262ec6a65.jpg
+     162013fcc2d82bc1_tomato_septoria_5_jpg_rf_4315c43d165ebf84c2edccb1fdb87f5a.jpg
+     d91d2bf7db92d800_tomato_septoria_5_jpg_rf_fb1cf439928259b84cfb195015122f54.jpg
+
+Grupo: spot_vt (3 archivos)
+Método: pattern_analysis
+Archivo base: 1a622eb53a6dd395_636227737977191231_septoria_leaf_spot_vt_jpg_rf_4a7a84e5ac7c630e5cf0cc87bcff8de1.jpg
+Archivos del grupo:
+  🎯 1a622eb53a6dd395_636227737977191231_septoria_leaf_spot_vt_jpg_rf_4a7a84e5ac7c630e5cf0cc87bcff8de1.jpg
+     467b45ccd448ba21_636227737977191231_septoria_leaf_spot_vt_jpg_rf_1e3040bb909cb8b684d2a23c101a8646.jpg
+     2eaf02e6eb7642db_636227737977191231_septoria_leaf_spot_vt_jpg_rf_2837447da384f782be644f2132879890.jpg
+
+Grupo: gls23 (8 archivos)
+Método: pattern_analysis
+Archivo base: 4ebaf7e7e7fa06fa_gls23.jpg
+Archivos del grupo:
+     94d5568682fb26c1_gls23_mirror.jpg
+     db7ca98e04d8b603_gls23_lower.jpg
+     65627961b29754b8_gls23_change_270.jpg
+     ddf892bbf7dd1f0a_gls23_hight.jpg
+     5e8d665437ff45b7_gls23_change_90.jpg
+     908322f3731bc084_gls23_change_180.jpg
+     0238d05bb6c03559_gls23_mirror_vertical.jpg
+  🎯 4ebaf7e7e7fa06fa_gls23.jpg
+
+Grupo: cg_0667 (3 archivos)
+Método: pattern_analysis
+Archivo base: 304ed766d981d597_2f4afdee_f957_400f_8515_4ea92173d00d_matt_s_cg_0667.jpg
+Archivos del grupo:
+  🎯 304ed766d981d597_2f4afdee_f957_400f_8515_4ea92173d00d_matt_s_cg_0667.jpg
+     6886abe077605275_2f4afdee_f957_400f_8515_4ea92173d00d_matt_s_cg_0667_fliptb.jpg
+     24bb4ad807306152_2f4afdee_f957_400f_8515_4ea92173d00d_matt_s_cg_0667_180deg.jpg
+
+Grupo: classic_septoria (3 archivos)
+Método: pattern_analysis
+Archivo base: 2859472d1cb59271_classic_septoria_jpg_rf_86db1ad7d7fffdea56773f3cb4543ca2.jpg
+Archivos del grupo:
+  🎯 2859472d1cb59271_classic_septoria_jpg_rf_86db1ad7d7fffdea56773f3cb4543ca2.jpg
+     22acb3681d70193d_classic_septoria_jpg_rf_294f0d924cb06275ff1984e9cacd51a3.jpg
+     fbc21e46e3ab1a58_classic_septoria_jpg_rf_0bfa3fbc3aec567feadbea665bb25f2a.jpg
+
+Grupo: cg_7685 (3 archivos)
+Método: pattern_analysis
+Archivo base: 1041b58b75bf174b_3c27af36_d824_4251_97ca_0dc1f0c60d61_matt_s_cg_7685.jpg
+Archivos del grupo:
+     99744945fd907631_3c27af36_d824_4251_97ca_0dc1f0c60d61_matt_s_cg_7685_fliptb.jpg
+     778f4146548013ee_3c27af36_d824_4251_97ca_0dc1f0c60d61_matt_s_cg_7685_180deg.jpg
+  🎯 1041b58b75bf174b_3c27af36_d824_4251_97ca_0dc1f0c60d61_matt_s_cg_7685.jpg
+
+Grupo: spot3_big (1 archivos)
+Método: single_file
+Archivo base: 582df3fa6a93b396_leaf_spot3_big_jpg_rf_e690e64534a7bbea83ed4b7eeef0f421.jpg
+Archivos del grupo:
+  🎯 582df3fa6a93b396_leaf_spot3_big_jpg_rf_e690e64534a7bbea83ed4b7eeef0f421.jpg
+
+Grupo: caf212ccf4696675469a0beaa9e57213_jpg_rf (3 archivos)
+Método: pattern_analysis
+Archivo base: 66999c0f25040f59_caf212ccf4696675469a0beaa9e57213_jpg_rf_bdb8480cdbba14deb35307abc90225c3.jpg
+Archivos del grupo:
+  🎯 66999c0f25040f59_caf212ccf4696675469a0beaa9e57213_jpg_rf_bdb8480cdbba14deb35307abc90225c3.jpg
+     7958d3f6096ca46b_caf212ccf4696675469a0beaa9e57213_jpg_rf_24ac8ac3643753ca5ade0009d9fc08fc.jpg
+     512705408b7957ea_caf212ccf4696675469a0beaa9e57213_jpg_rf_83b21040b6a9b7e167774056b35905b9.jpg
+
+Grupo: septoria5 (3 archivos)
+Método: pattern_analysis
+Archivo base: d56e940063d6294a_septoria5_jpg_rf_85ff9b5df999e15ead7b657187558dbc.jpg
+Archivos del grupo:
+  🎯 d56e940063d6294a_septoria5_jpg_rf_85ff9b5df999e15ead7b657187558dbc.jpg
+     321ac4597f39c0e9_septoria5_jpg_rf_db68d432cf1fe878d264aea813229f71.jpg
+     d1667e76e6c70629_septoria5_jpg_rf_dc7fbbf3608a7bd911ecb88bf2429309.jpg
+
+Grupo: spot_1 (1 archivos)
+Método: single_file
+Archivo base: 22681b04dbde4bb9_tomato_plant_is_infected_with_septoria_leaf_spot_1_jpg_rf_f199cf512d7c66c24da40eaedd684290.jpg
+Archivos del grupo:
+  🎯 22681b04dbde4bb9_tomato_plant_is_infected_with_septoria_leaf_spot_1_jpg_rf_f199cf512d7c66c24da40eaedd684290.jpg
+
+Grupo: cg_6482 (3 archivos)
+Método: pattern_analysis
+Archivo base: a0ff2e78e38307fd_1c7e9ef5_bf97_4e53_b6c1_7fd148d043d5_matt_s_cg_6482.jpg
+Archivos del grupo:
+     abf0b38d73e50811_1c7e9ef5_bf97_4e53_b6c1_7fd148d043d5_matt_s_cg_6482_180deg.jpg
+     92b967eb31d773ad_1c7e9ef5_bf97_4e53_b6c1_7fd148d043d5_matt_s_cg_6482_fliptb.jpg
+  🎯 a0ff2e78e38307fd_1c7e9ef5_bf97_4e53_b6c1_7fd148d043d5_matt_s_cg_6482.jpg
+
+Grupo: septoriatomato (3 archivos)
+Método: pattern_analysis
+Archivo base: 2d9cfd6f2dd42dfa_septoriatomato_b_jpg_rf_3340407e7f5dabbb5ee188fcf86b8fc7.jpg
+Archivos del grupo:
+  🎯 2d9cfd6f2dd42dfa_septoriatomato_b_jpg_rf_3340407e7f5dabbb5ee188fcf86b8fc7.jpg
+     4def372c81be000b_septoriatomato_b_jpg_rf_947a041e024b04a5304003f5d8c5cc95.jpg
+     51f46aa205eae00e_septoriatomato_b_jpg_rf_ccde8fe5d7800934b6b57bfdc96efcaf.jpg
+
+Grupo: sept_8453 (3 archivos)
+Método: pattern_analysis
+Archivo base: cd2b541240573d37_4dca99fe_1184_4728_874c_f902bc48f934_jr_sept_l_s_8453.jpg
+Archivos del grupo:
+     d0f35c775d63fcf6_4dca99fe_1184_4728_874c_f902bc48f934_jr_sept_l_s_8453_180deg.jpg
+  🎯 cd2b541240573d37_4dca99fe_1184_4728_874c_f902bc48f934_jr_sept_l_s_8453.jpg
+     a878c4728b9e39a6_4dca99fe_1184_4728_874c_f902bc48f934_jr_sept_l_s_8453_fliptb.jpg
+
+Grupo: cg_1733 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5df7119f44fd8684_0ca7ed02_4540_47df_b01d_194b23226a2d_matt_s_cg_1733.jpg
+Archivos del grupo:
+     5e2a7144748e8e54_0ca7ed02_4540_47df_b01d_194b23226a2d_matt_s_cg_1733_180deg.jpg
+  🎯 5df7119f44fd8684_0ca7ed02_4540_47df_b01d_194b23226a2d_matt_s_cg_1733.jpg
+     d88830283d6e612f_0ca7ed02_4540_47df_b01d_194b23226a2d_matt_s_cg_1733_fliptb.jpg
+
+Grupo: septoria3 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9137563947857a7b_septoria3_jpg_rf_d0e0a13ce044f572a511ab697e839c69.jpg
+Archivos del grupo:
+  🎯 9137563947857a7b_septoria3_jpg_rf_d0e0a13ce044f572a511ab697e839c69.jpg
+     1c13ec2de050ced6_septoria3_jpg_rf_1b070e6d7269ffb232757cc23eb57200.jpg
+     426751784b648751_septoria3_jpg_rf_b4e214b17be4183c97a01683ca4f592c.jpg
+
+Grupo: sept_8449 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5111c69c42882817_1a3965e0_423a_4003_ae8d_2fb639d02008_jr_sept_l_s_8449.jpg
+Archivos del grupo:
+  🎯 5111c69c42882817_1a3965e0_423a_4003_ae8d_2fb639d02008_jr_sept_l_s_8449.jpg
+     645345ff506bd362_1a3965e0_423a_4003_ae8d_2fb639d02008_jr_sept_l_s_8449_180deg.jpg
+     b4485527bfaa5afe_1a3965e0_423a_4003_ae8d_2fb639d02008_jr_sept_l_s_8449_fliptb.jpg
+
+Grupo: sept_2482 (3 archivos)
+Método: pattern_analysis
+Archivo base: 62771e3aa6e90513_0a95b5b7_7bfb_4201_9320_dae33498081a_jr_sept_l_s_2482.jpg
+Archivos del grupo:
+  🎯 62771e3aa6e90513_0a95b5b7_7bfb_4201_9320_dae33498081a_jr_sept_l_s_2482.jpg
+     87747e0116baa242_0a95b5b7_7bfb_4201_9320_dae33498081a_jr_sept_l_s_2482_180deg.jpg
+     179e7f58867d9a1f_0a95b5b7_7bfb_4201_9320_dae33498081a_jr_sept_l_s_2482_fliptb.jpg
+
+Grupo: 4_big (3 archivos)
+Método: pattern_analysis
+Archivo base: 09aa94088be8dee9_fs547_4_big_jpg_rf_80881a618f7241e7d28b326aa60c67e1.jpg
+Archivos del grupo:
+  🎯 09aa94088be8dee9_fs547_4_big_jpg_rf_80881a618f7241e7d28b326aa60c67e1.jpg
+     4b9e3174f70fc42d_fs547_4_big_jpg_rf_9bcee897320417c01491acf6c45aaaee.jpg
+     4b2abfd9bb3f4a97_fs547_4_big_jpg_rf_d506b8bc545f53e58100ba96740ad5b2.jpg
+
+Grupo: sept_2659 (3 archivos)
+Método: pattern_analysis
+Archivo base: bc105e744b0176c3_0c1aa7e5_a820_4fb8_8bc2_623a6056e749_jr_sept_l_s_2659.jpg
+Archivos del grupo:
+     b17434bde8b1c764_0c1aa7e5_a820_4fb8_8bc2_623a6056e749_jr_sept_l_s_2659_fliptb.jpg
+  🎯 bc105e744b0176c3_0c1aa7e5_a820_4fb8_8bc2_623a6056e749_jr_sept_l_s_2659.jpg
+     f0bb5c913517d9f1_0c1aa7e5_a820_4fb8_8bc2_623a6056e749_jr_sept_l_s_2659_180deg.jpg
+
+Grupo: sept_8407 (3 archivos)
+Método: pattern_analysis
+Archivo base: 57858fd2f88294f2_1f755e56_f38f_44ef_8076_d82c302c4539_jr_sept_l_s_8407.jpg
+Archivos del grupo:
+     9820b8bd00b3d919_1f755e56_f38f_44ef_8076_d82c302c4539_jr_sept_l_s_8407_fliptb.jpg
+     564f4d9c93c8935d_1f755e56_f38f_44ef_8076_d82c302c4539_jr_sept_l_s_8407_180deg.jpg
+  🎯 57858fd2f88294f2_1f755e56_f38f_44ef_8076_d82c302c4539_jr_sept_l_s_8407.jpg
+
+Grupo: 2bspot_2b1000 (3 archivos)
+Método: pattern_analysis
+Archivo base: b563e584fb408abe_leaf_2bspot_2b1000_jpg_rf_10d9bd222a2eff975d94b8ae071d8726.jpg
+Archivos del grupo:
+  🎯 b563e584fb408abe_leaf_2bspot_2b1000_jpg_rf_10d9bd222a2eff975d94b8ae071d8726.jpg
+     c0fe8ea552ac96fc_leaf_2bspot_2b1000_jpg_rf_909876482537ef4653100731dfd5e83c.jpg
+     7369f7df16c3fc76_leaf_2bspot_2b1000_jpg_rf_b4e707ac4a44174a9b38e4b170c9594a.jpg
+
+Grupo: 5c77186a4ea326e5495c9d03cd89ce16_jpg_rf (3 archivos)
+Método: pattern_analysis
+Archivo base: d7a2d028819ab965_5c77186a4ea326e5495c9d03cd89ce16_jpg_rf_9dcb57b469b441967e071b6255e6e372.jpg
+Archivos del grupo:
+  🎯 d7a2d028819ab965_5c77186a4ea326e5495c9d03cd89ce16_jpg_rf_9dcb57b469b441967e071b6255e6e372.jpg
+     93c0b64f478203d7_5c77186a4ea326e5495c9d03cd89ce16_jpg_rf_d63ea7c3d3f3971b6aad05c2b19d4659.jpg
+     5fa07c137111a859_5c77186a4ea326e5495c9d03cd89ce16_jpg_rf_867d53430d311c5ebf7df309b0391392.jpg
+
+Grupo: img_2348 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7004eb32c12121e3_img_2348_jpg_rf_baf8b3707e8c87a71cd0ef1cd03cda5a.jpg
+Archivos del grupo:
+  🎯 7004eb32c12121e3_img_2348_jpg_rf_baf8b3707e8c87a71cd0ef1cd03cda5a.jpg
+     883809b3ed959a2d_img_2348_jpg_rf_3fb6d739cc2eaa6f0b23edced080ae13.jpg
+     19d31637f75f0b41_img_2348_jpg_rf_e41d56fec313b429ff744a83709d96a5.jpg
+
+Grupo: 4853086777_bc41d29801_jpg (3 archivos)
+Método: pattern_analysis
+Archivo base: 57be9be3f9977360_4853086777_bc41d29801_jpg_rf_2aee14c0ef3beadfe9543789d5ebe98a.jpg
+Archivos del grupo:
+  🎯 57be9be3f9977360_4853086777_bc41d29801_jpg_rf_2aee14c0ef3beadfe9543789d5ebe98a.jpg
+     8ed57ad15ee7edf9_4853086777_bc41d29801_jpg_rf_395f7126d0e4070f00cf5093555eda6c.jpg
+     9b4b8b49aec45aff_4853086777_bc41d29801_jpg_rf_fc27c1fb7cb3135e3e2701926abbe0c6.jpg
+
+Grupo: cg_2509 (3 archivos)
+Método: pattern_analysis
+Archivo base: c20964cab84eba05_2e656e51_9eab_4873_9a8e_f27811215256_matt_s_cg_2509.jpg
+Archivos del grupo:
+     ea8f59e44dbea9ef_2e656e51_9eab_4873_9a8e_f27811215256_matt_s_cg_2509_180deg.jpg
+     64c46c7929fd31e5_2e656e51_9eab_4873_9a8e_f27811215256_matt_s_cg_2509_fliptb.jpg
+  🎯 c20964cab84eba05_2e656e51_9eab_4873_9a8e_f27811215256_matt_s_cg_2509.jpg
+
+Grupo: cg_7499 (3 archivos)
+Método: pattern_analysis
+Archivo base: a792b38a020455b0_2c368f9a_5098_4a37_b127_477f1978ff78_matt_s_cg_7499.jpg
+Archivos del grupo:
+     0311f3254df2e4ae_2c368f9a_5098_4a37_b127_477f1978ff78_matt_s_cg_7499_fliptb.jpg
+     22936ef8c8da16e7_2c368f9a_5098_4a37_b127_477f1978ff78_matt_s_cg_7499_180deg.jpg
+  🎯 a792b38a020455b0_2c368f9a_5098_4a37_b127_477f1978ff78_matt_s_cg_7499.jpg
+
+Grupo: sept_2566 (3 archivos)
+Método: pattern_analysis
+Archivo base: acf9aca39335c931_4f45a4b4_342b_4422_87b9_8386a6801ba1_jr_sept_l_s_2566.jpg
+Archivos del grupo:
+  🎯 acf9aca39335c931_4f45a4b4_342b_4422_87b9_8386a6801ba1_jr_sept_l_s_2566.jpg
+     5313e27494b3c0c4_4f45a4b4_342b_4422_87b9_8386a6801ba1_jr_sept_l_s_2566_fliptb.jpg
+     070825e1835fcd56_4f45a4b4_342b_4422_87b9_8386a6801ba1_jr_sept_l_s_2566_180deg.jpg
+
+Grupo: cg_1215 (3 archivos)
+Método: pattern_analysis
+Archivo base: 124f7a1ad5d6afc1_1bd1e4bf_3f5e_4954_a265_edb058f2db96_matt_s_cg_1215.jpg
+Archivos del grupo:
+  🎯 124f7a1ad5d6afc1_1bd1e4bf_3f5e_4954_a265_edb058f2db96_matt_s_cg_1215.jpg
+     678b077f0d37b591_1bd1e4bf_3f5e_4954_a265_edb058f2db96_matt_s_cg_1215_180deg.jpg
+     29a400363275e412_1bd1e4bf_3f5e_4954_a265_edb058f2db96_matt_s_cg_1215_fliptb.jpg
+
+Grupo: sept_2701 (3 archivos)
+Método: pattern_analysis
+Archivo base: f42281a6776dc2dd_2c032ba1_d4fa_4a66_be5e_9e43a28ffbb9_jr_sept_l_s_2701.jpg
+Archivos del grupo:
+  🎯 f42281a6776dc2dd_2c032ba1_d4fa_4a66_be5e_9e43a28ffbb9_jr_sept_l_s_2701.jpg
+     29464746dca6f688_2c032ba1_d4fa_4a66_be5e_9e43a28ffbb9_jr_sept_l_s_2701_fliptb.jpg
+     53975280cefbabe4_2c032ba1_d4fa_4a66_be5e_9e43a28ffbb9_jr_sept_l_s_2701_180deg.jpg
+
+Grupo: cg_1493 (3 archivos)
+Método: pattern_analysis
+Archivo base: 32c3eef6a49060a9_2eabb4bc_329d_4d5d_a4ee_a7a28d15faae_matt_s_cg_1493.jpg
+Archivos del grupo:
+     0f35c4143aa26df4_2eabb4bc_329d_4d5d_a4ee_a7a28d15faae_matt_s_cg_1493_180deg.jpg
+     0ccb104a91876b18_2eabb4bc_329d_4d5d_a4ee_a7a28d15faae_matt_s_cg_1493_fliptb.jpg
+  🎯 32c3eef6a49060a9_2eabb4bc_329d_4d5d_a4ee_a7a28d15faae_matt_s_cg_1493.jpg
+
+Grupo: tom_seedlings2x1200 (3 archivos)
+Método: pattern_analysis
+Archivo base: 1d1d7ce14911b835_septoria_tom_seedlings2x1200_jpg_rf_ad1ac5168e8ab3710f118a3ba4cb8f58.jpg
+Archivos del grupo:
+  🎯 1d1d7ce14911b835_septoria_tom_seedlings2x1200_jpg_rf_ad1ac5168e8ab3710f118a3ba4cb8f58.jpg
+     b7b4ccf5cad7218c_septoria_tom_seedlings2x1200_jpg_rf_b5658f07b53fd220c891862155f8c129.jpg
+     ed7c58bc97f0245c_septoria_tom_seedlings2x1200_jpg_rf_877cdd4ec163850c6b15fc44b9bfd3e0.jpg
+
+Grupo: cg_2473 (3 archivos)
+Método: pattern_analysis
+Archivo base: 22b5338b040a90c6_5a79c447_4d9d_4daf_81a6_c23a00480a93_matt_s_cg_2473.jpg
+Archivos del grupo:
+     7a3b0f9a91a083dd_5a79c447_4d9d_4daf_81a6_c23a00480a93_matt_s_cg_2473_180deg.jpg
+     b4aa9c6c16619059_5a79c447_4d9d_4daf_81a6_c23a00480a93_matt_s_cg_2473_fliptb.jpg
+  🎯 22b5338b040a90c6_5a79c447_4d9d_4daf_81a6_c23a00480a93_matt_s_cg_2473.jpg
+
+Grupo: sept_2507 (3 archivos)
+Método: pattern_analysis
+Archivo base: bb0ebcf87f46c2b7_2dd57351_b1c3_43c0_a15c_506bab1e803f_jr_sept_l_s_2507.jpg
+Archivos del grupo:
+     13c3dbdd950a4ac8_2dd57351_b1c3_43c0_a15c_506bab1e803f_jr_sept_l_s_2507_fliptb.jpg
+  🎯 bb0ebcf87f46c2b7_2dd57351_b1c3_43c0_a15c_506bab1e803f_jr_sept_l_s_2507.jpg
+     3a137499de6b521f_2dd57351_b1c3_43c0_a15c_506bab1e803f_jr_sept_l_s_2507_180deg.jpg
+
+Grupo: cg_7654 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4a3fad47c4797e22_1ecc0c20_9ef3_40af_a8d8_9a43463a26b4_matt_s_cg_7654.jpg
+Archivos del grupo:
+     b57f0140e1935eaf_1ecc0c20_9ef3_40af_a8d8_9a43463a26b4_matt_s_cg_7654_180deg.jpg
+  🎯 4a3fad47c4797e22_1ecc0c20_9ef3_40af_a8d8_9a43463a26b4_matt_s_cg_7654.jpg
+     41f392032891e4a0_1ecc0c20_9ef3_40af_a8d8_9a43463a26b4_matt_s_cg_7654_fliptb.jpg
+
+Grupo: cg_1907 (3 archivos)
+Método: pattern_analysis
+Archivo base: d5a23758b6f50c5d_2e679a03_6f3e_45f9_a567_7ecc4a631d76_keller_st_cg_1907.jpg
+Archivos del grupo:
+     3c658079dc9acf48_2e679a03_6f3e_45f9_a567_7ecc4a631d76_keller_st_cg_1907_180deg.jpg
+  🎯 d5a23758b6f50c5d_2e679a03_6f3e_45f9_a567_7ecc4a631d76_keller_st_cg_1907.jpg
+     c584a625af9b6eb5_2e679a03_6f3e_45f9_a567_7ecc4a631d76_keller_st_cg_1907_fliptb.jpg
+
+Grupo: sept_2655 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2a5c02dfde725620_3ba26d58_4f12_49ac_b818_e32b953a81ee_jr_sept_l_s_2655.jpg
+Archivos del grupo:
+  🎯 2a5c02dfde725620_3ba26d58_4f12_49ac_b818_e32b953a81ee_jr_sept_l_s_2655.jpg
+     18a0d2400e81df03_3ba26d58_4f12_49ac_b818_e32b953a81ee_jr_sept_l_s_2655_180deg.jpg
+     f20d2e97fdcfcc80_3ba26d58_4f12_49ac_b818_e32b953a81ee_jr_sept_l_s_2655_fliptb.jpg
+
+Grupo: on_rudbeckia (3 archivos)
+Método: pattern_analysis
+Archivo base: cf667ade4297df02_septoria_on_rudbeckia_jpg_rf_9494b809f80a0751c70e1a80992a7ce2.jpg
+Archivos del grupo:
+  🎯 cf667ade4297df02_septoria_on_rudbeckia_jpg_rf_9494b809f80a0751c70e1a80992a7ce2.jpg
+     0e4ad0a10fd2c18e_septoria_on_rudbeckia_jpg_rf_6563bfb662f2a7252300601f13006645.jpg
+     51e4d99d31bac336_septoria_on_rudbeckia_jpg_rf_83f30dd30230f294d523c8e2061a0c56.jpg
+
+Grupo: cg_6582 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6b79f0e80d0cabe8_1b3e0904_291b_45b4_8823_44084b96808c_matt_s_cg_6582.jpg
+Archivos del grupo:
+     c555996bb80766fc_1b3e0904_291b_45b4_8823_44084b96808c_matt_s_cg_6582_fliptb.jpg
+     dff9d24527245f83_1b3e0904_291b_45b4_8823_44084b96808c_matt_s_cg_6582_180deg.jpg
+  🎯 6b79f0e80d0cabe8_1b3e0904_291b_45b4_8823_44084b96808c_matt_s_cg_6582.jpg
+
+Grupo: cg_7579 (3 archivos)
+Método: pattern_analysis
+Archivo base: b0fe0f28dc650037_2f5e144b_cf8f_4882_8ee5_10eafb8778cc_matt_s_cg_7579.jpg
+Archivos del grupo:
+     0d04698c290589a0_2f5e144b_cf8f_4882_8ee5_10eafb8778cc_matt_s_cg_7579_fliptb.jpg
+     a64141ce5f94f5cc_2f5e144b_cf8f_4882_8ee5_10eafb8778cc_matt_s_cg_7579_180deg.jpg
+  🎯 b0fe0f28dc650037_2f5e144b_cf8f_4882_8ee5_10eafb8778cc_matt_s_cg_7579.jpg
+
+Grupo: cg_1854 (3 archivos)
+Método: pattern_analysis
+Archivo base: f3f4439a29f9acbc_4d0c8277_60cc_4c70_862c_6abc58e6de4c_keller_st_cg_1854.jpg
+Archivos del grupo:
+  🎯 f3f4439a29f9acbc_4d0c8277_60cc_4c70_862c_6abc58e6de4c_keller_st_cg_1854.jpg
+     2cbdd4ff6f520103_4d0c8277_60cc_4c70_862c_6abc58e6de4c_keller_st_cg_1854_fliptb.jpg
+     414684f9048d9320_4d0c8277_60cc_4c70_862c_6abc58e6de4c_keller_st_cg_1854_180deg.jpg
+
+Grupo: y4af51_1024x768 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9055f6ddcd50d221_closeup_of_tomato_leaf_y4af51_1024x768_jpg_rf_c6d3ba95e17a9d058c88817f8a2d0e18.jpg
+Archivos del grupo:
+  🎯 9055f6ddcd50d221_closeup_of_tomato_leaf_y4af51_1024x768_jpg_rf_c6d3ba95e17a9d058c88817f8a2d0e18.jpg
+     0547eb77c90f66f2_closeup_of_tomato_leaf_y4af51_1024x768_jpg_rf_45a471d61ec9923f4e486f62858a356e.jpg
+     cdc38727ba692fb1_closeup_of_tomato_leaf_y4af51_1024x768_jpg_rf_c3f3f90dd71b7c7e5e29d7095c5fed12.jpg
+
+Grupo: 300x300_2523 (1 archivos)
+Método: single_file
+Archivo base: 3c2a8d3a7ce881e3_tomato_leaves_300x300_2523_jpg_rf_2818dccf4559d3d2d33ad650dcd77dd2.jpg
+Archivos del grupo:
+  🎯 3c2a8d3a7ce881e3_tomato_leaves_300x300_2523_jpg_rf_2818dccf4559d3d2d33ad650dcd77dd2.jpg
+
+Grupo: 3893 (1 archivos)
+Método: single_file
+Archivo base: 4cdf6ea88a141ea4_3893_jpg_rf_56946632bb88e0add05b0a221502c585.jpg
+Archivos del grupo:
+  🎯 4cdf6ea88a141ea4_3893_jpg_rf_56946632bb88e0add05b0a221502c585.jpg
+
+Grupo: gls12 (8 archivos)
+Método: pattern_analysis
+Archivo base: f5e252404eed38a8_gls12.jpg
+Archivos del grupo:
+     acd907f979d006a7_gls12_mirror.jpg
+  🎯 f5e252404eed38a8_gls12.jpg
+     f876a73aab208c0d_gls12_hight.jpg
+     00d8d294c9f15801_gls12_change_90.jpg
+     135bb48e6d22085d_gls12_mirror_vertical.jpg
+     523f2066c9f77637_gls12_lower.jpg
+     14327cffa0dbcfcb_gls12_change_270.jpg
+     2139282ef46fc1ec_gls12_change_180.jpg
+
+Grupo: sept_8498 (3 archivos)
+Método: pattern_analysis
+Archivo base: 228a56a91eea0937_0b4886e5_a065_44c1_aa19_bd166922d3de_jr_sept_l_s_8498.jpg
+Archivos del grupo:
+  🎯 228a56a91eea0937_0b4886e5_a065_44c1_aa19_bd166922d3de_jr_sept_l_s_8498.jpg
+     f8b62d0ef4d388ea_0b4886e5_a065_44c1_aa19_bd166922d3de_jr_sept_l_s_8498_fliptb.jpg
+     bcca99db6ac88a48_0b4886e5_a065_44c1_aa19_bd166922d3de_jr_sept_l_s_8498_180deg.jpg
+
+Grupo: 050s_jpg (1 archivos)
+Método: single_file
+Archivo base: 3c96d9fc8ff6fa9b_tomato_20bacterial_20spot_20closeup_050s_jpg_jpg_rf_2c4282ce062786f70bbd2ba9eb89e3d6.jpg
+Archivos del grupo:
+  🎯 3c96d9fc8ff6fa9b_tomato_20bacterial_20spot_20closeup_050s_jpg_jpg_rf_2c4282ce062786f70bbd2ba9eb89e3d6.jpg
+
+Grupo: sept_2596 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0005b8b7083fa2a2_1fea28dc_c071_4373_af8c_97e8d0646044_jr_sept_l_s_2596.jpg
+Archivos del grupo:
+  🎯 0005b8b7083fa2a2_1fea28dc_c071_4373_af8c_97e8d0646044_jr_sept_l_s_2596.jpg
+     80fcd04fb7bbd594_1fea28dc_c071_4373_af8c_97e8d0646044_jr_sept_l_s_2596_fliptb.jpg
+     28253261c94deecc_1fea28dc_c071_4373_af8c_97e8d0646044_jr_sept_l_s_2596_180deg.jpg
+
+Grupo: cg_6300 (3 archivos)
+Método: pattern_analysis
+Archivo base: 987f60e5697cffb2_4a0b5c52_3bd4_4f31_836d_5bf512587a3e_matt_s_cg_6300.jpg
+Archivos del grupo:
+  🎯 987f60e5697cffb2_4a0b5c52_3bd4_4f31_836d_5bf512587a3e_matt_s_cg_6300.jpg
+     3bcc020727e6a055_4a0b5c52_3bd4_4f31_836d_5bf512587a3e_matt_s_cg_6300_180deg.jpg
+     578032d8154dd196_4a0b5c52_3bd4_4f31_836d_5bf512587a3e_matt_s_cg_6300_fliptb.jpg
+
+Grupo: sept_8486 (3 archivos)
+Método: pattern_analysis
+Archivo base: df44c956f13eb44c_5b0cd135_94b9_4591_966c_0257a0beea5e_jr_sept_l_s_8486.jpg
+Archivos del grupo:
+     549d4911d6758d43_5b0cd135_94b9_4591_966c_0257a0beea5e_jr_sept_l_s_8486_fliptb.jpg
+     4cee50cc76f9459e_5b0cd135_94b9_4591_966c_0257a0beea5e_jr_sept_l_s_8486_180deg.jpg
+  🎯 df44c956f13eb44c_5b0cd135_94b9_4591_966c_0257a0beea5e_jr_sept_l_s_8486.jpg
+
+Grupo: for_web (3 archivos)
+Método: pattern_analysis
+Archivo base: ee2234d8e48fddce_septoria_leaf_spot_on_tomato_for_web_jpg_rf_1bf995c40f6890bced70cac6808e7bc6.jpg
+Archivos del grupo:
+  🎯 ee2234d8e48fddce_septoria_leaf_spot_on_tomato_for_web_jpg_rf_1bf995c40f6890bced70cac6808e7bc6.jpg
+     4584cea498651882_septoria_leaf_spot_on_tomato_for_web_jpg_rf_cf057e649a80ab3cfb567ae31bbfe6ea.jpg
+     2dfae42a2ca7156b_septoria_leaf_spot_on_tomato_for_web_jpg_rf_69778fd3cbdd81a16e3df427d08de1fe.jpg
+
+Grupo: sept_2563 (3 archivos)
+Método: pattern_analysis
+Archivo base: 686821a0e4c804fa_2c14cebf_97c1_4ee4_a247_f9e181234319_jr_sept_l_s_2563.jpg
+Archivos del grupo:
+     478703c5072bbb55_2c14cebf_97c1_4ee4_a247_f9e181234319_jr_sept_l_s_2563_fliptb.jpg
+  🎯 686821a0e4c804fa_2c14cebf_97c1_4ee4_a247_f9e181234319_jr_sept_l_s_2563.jpg
+     e42278397744f810_2c14cebf_97c1_4ee4_a247_f9e181234319_jr_sept_l_s_2563_180deg.jpg
+
+Grupo: cg_1778 (3 archivos)
+Método: pattern_analysis
+Archivo base: e822c9108e18842b_0ab271a7_765e_4675_8bfc_e249c0c86fdd_keller_st_cg_1778.jpg
+Archivos del grupo:
+     10ff53da1507ef40_0ab271a7_765e_4675_8bfc_e249c0c86fdd_keller_st_cg_1778_fliptb.jpg
+  🎯 e822c9108e18842b_0ab271a7_765e_4675_8bfc_e249c0c86fdd_keller_st_cg_1778.jpg
+     3eb22fbedd1fce13_0ab271a7_765e_4675_8bfc_e249c0c86fdd_keller_st_cg_1778_180deg.jpg
+
+Grupo: sept_8531 (3 archivos)
+Método: pattern_analysis
+Archivo base: d7cc0169083025a2_2d640131_6b73_4b67_bb77_00266ff41bb8_jr_sept_l_s_8531.jpg
+Archivos del grupo:
+     745d48bdbc117c34_2d640131_6b73_4b67_bb77_00266ff41bb8_jr_sept_l_s_8531_180deg.jpg
+  🎯 d7cc0169083025a2_2d640131_6b73_4b67_bb77_00266ff41bb8_jr_sept_l_s_8531.jpg
+     2e10c79888a079b6_2d640131_6b73_4b67_bb77_00266ff41bb8_jr_sept_l_s_8531_fliptb.jpg
+
+Grupo: cg_7434 (3 archivos)
+Método: pattern_analysis
+Archivo base: ae3295a1788af251_5a821b14_10d8_49ad_9e16_be2eeef81d4f_matt_s_cg_7434.jpg
+Archivos del grupo:
+     16b6aa67e320f113_5a821b14_10d8_49ad_9e16_be2eeef81d4f_matt_s_cg_7434_fliptb.jpg
+     87d88ad1f11677a8_5a821b14_10d8_49ad_9e16_be2eeef81d4f_matt_s_cg_7434_180deg.jpg
+  🎯 ae3295a1788af251_5a821b14_10d8_49ad_9e16_be2eeef81d4f_matt_s_cg_7434.jpg
+
+Grupo: cg_6921 (3 archivos)
+Método: pattern_analysis
+Archivo base: 208d817662387a3e_2d6af601_172c_4f61_b4f7_838cd63bcbb6_matt_s_cg_6921.jpg
+Archivos del grupo:
+  🎯 208d817662387a3e_2d6af601_172c_4f61_b4f7_838cd63bcbb6_matt_s_cg_6921.jpg
+     43c68c5d784b1c58_2d6af601_172c_4f61_b4f7_838cd63bcbb6_matt_s_cg_6921_fliptb.jpg
+     81a19de1287d1b94_2d6af601_172c_4f61_b4f7_838cd63bcbb6_matt_s_cg_6921_180deg.jpg
+
+Grupo: 05_jpeg (1 archivos)
+Método: single_file
+Archivo base: 9234d72ef3559b6e_pp1244_05_jpeg_jpg_rf_7a1aa10b594f27005bb3ebe02094885a.jpg
+Archivos del grupo:
+  🎯 9234d72ef3559b6e_pp1244_05_jpeg_jpg_rf_7a1aa10b594f27005bb3ebe02094885a.jpg
+
+Grupo: cg_2440 (3 archivos)
+Método: pattern_analysis
+Archivo base: db850aa6ba583bdd_3a287000_0306_4202_8eca_41ead0c1634c_matt_s_cg_2440.jpg
+Archivos del grupo:
+     a42489c2b3933052_3a287000_0306_4202_8eca_41ead0c1634c_matt_s_cg_2440_fliptb.jpg
+     0a97bea710aef043_3a287000_0306_4202_8eca_41ead0c1634c_matt_s_cg_2440_180deg.jpg
+  🎯 db850aa6ba583bdd_3a287000_0306_4202_8eca_41ead0c1634c_matt_s_cg_2440.jpg
+
+Grupo: cg_6195 (3 archivos)
+Método: pattern_analysis
+Archivo base: ee4cd710d1486d24_2c4f9430_88b0_4796_a4b1_5dd262650f40_matt_s_cg_6195.jpg
+Archivos del grupo:
+     9a2eb3194c2fa437_2c4f9430_88b0_4796_a4b1_5dd262650f40_matt_s_cg_6195_fliptb.jpg
+     3776a2908f92e59c_2c4f9430_88b0_4796_a4b1_5dd262650f40_matt_s_cg_6195_180deg.jpg
+  🎯 ee4cd710d1486d24_2c4f9430_88b0_4796_a4b1_5dd262650f40_matt_s_cg_6195.jpg
+
+Grupo: septorialycopersici_small (1 archivos)
+Método: single_file
+Archivo base: 1a378c1ddda9c45d_septorialycopersici_small_jpg_rf_9fd88c32e81e8e6d9628ac9741b26930.jpg
+Archivos del grupo:
+  🎯 1a378c1ddda9c45d_septorialycopersici_small_jpg_rf_9fd88c32e81e8e6d9628ac9741b26930.jpg
+
+Grupo: gls16 (8 archivos)
+Método: pattern_analysis
+Archivo base: ef3eda51aa5aedea_gls16.jpg
+Archivos del grupo:
+     24d7ac676eda888f_gls16_change_180.jpg
+     9f416230cfb18730_gls16_mirror_vertical.jpg
+     c98730cdfdab4b4c_gls16_lower.jpg
+  🎯 ef3eda51aa5aedea_gls16.jpg
+     a67da7bd5f41cffd_gls16_mirror.jpg
+     17ce56bfde2eb4f1_gls16_change_270.jpg
+     8b8e0d4185132b05_gls16_change_90.jpg
+     77e584703a1ecfb6_gls16_hight.jpg
+
+Grupo: cg_1617 (3 archivos)
+Método: pattern_analysis
+Archivo base: 12edb1c2aac7499d_2fed0190_d484_415f_9ae2_84707eb8a294_matt_s_cg_1617.jpg
+Archivos del grupo:
+     833410b413f59f32_2fed0190_d484_415f_9ae2_84707eb8a294_matt_s_cg_1617_fliptb.jpg
+     d5c6a9cc31c68959_2fed0190_d484_415f_9ae2_84707eb8a294_matt_s_cg_1617_180deg.jpg
+  🎯 12edb1c2aac7499d_2fed0190_d484_415f_9ae2_84707eb8a294_matt_s_cg_1617.jpg
+
+Grupo: sept_2587 (3 archivos)
+Método: pattern_analysis
+Archivo base: e764207a41437199_1bdd9bcf_49b6_4a59_90ed_5e053de56994_jr_sept_l_s_2587.jpg
+Archivos del grupo:
+     d9189b0070f45cc5_1bdd9bcf_49b6_4a59_90ed_5e053de56994_jr_sept_l_s_2587_fliptb.jpg
+     a2c72dd332026b83_1bdd9bcf_49b6_4a59_90ed_5e053de56994_jr_sept_l_s_2587_180deg.jpg
+  🎯 e764207a41437199_1bdd9bcf_49b6_4a59_90ed_5e053de56994_jr_sept_l_s_2587.jpg
+
+Grupo: of_tomato187 (1 archivos)
+Método: single_file
+Archivo base: ac707b57f43afa9b_septoria_leaf_spot_of_tomato187_jpg_rf_183d36f754af06dc25a38513d6439ec5.jpg
+Archivos del grupo:
+  🎯 ac707b57f43afa9b_septoria_leaf_spot_of_tomato187_jpg_rf_183d36f754af06dc25a38513d6439ec5.jpg
+
+Grupo: cg_6856 (3 archivos)
+Método: pattern_analysis
+Archivo base: e4d23d140fa1ee89_3a1f89c1_9f3b_47ec_aafc_7f2ba2558d6d_matt_s_cg_6856.jpg
+Archivos del grupo:
+     bcdaf8a414ad1f30_3a1f89c1_9f3b_47ec_aafc_7f2ba2558d6d_matt_s_cg_6856_180deg.jpg
+     32768c5af0448b26_3a1f89c1_9f3b_47ec_aafc_7f2ba2558d6d_matt_s_cg_6856_fliptb.jpg
+  🎯 e4d23d140fa1ee89_3a1f89c1_9f3b_47ec_aafc_7f2ba2558d6d_matt_s_cg_6856.jpg
+
+Grupo: 128110613_56a6d3633df78cf7729070ad_jpg (1 archivos)
+Método: single_file
+Archivo base: 489f76b337792100_128110613_56a6d3633df78cf7729070ad_jpg_rf_64aabdaf99a3f4d650fc50967617ab19.jpg
+Archivos del grupo:
+  🎯 489f76b337792100_128110613_56a6d3633df78cf7729070ad_jpg_rf_64aabdaf99a3f4d650fc50967617ab19.jpg
+
+Grupo: sept_8367 (3 archivos)
+Método: pattern_analysis
+Archivo base: 904dabcf3471dcb4_4f59ff40_d287_4620_b9b2_d62bf49ae0bf_jr_sept_l_s_8367.jpg
+Archivos del grupo:
+     74cb95adfccad70c_4f59ff40_d287_4620_b9b2_d62bf49ae0bf_jr_sept_l_s_8367_fliptb.jpg
+     d5efd441c7241ce3_4f59ff40_d287_4620_b9b2_d62bf49ae0bf_jr_sept_l_s_8367_180deg.jpg
+  🎯 904dabcf3471dcb4_4f59ff40_d287_4620_b9b2_d62bf49ae0bf_jr_sept_l_s_8367.jpg
+
+Grupo: sept_8363 (3 archivos)
+Método: pattern_analysis
+Archivo base: 624d5a9b6e853fa9_1da58848_43c5_44ce_974e_bdd0b3c6e7d5_jr_sept_l_s_8363.jpg
+Archivos del grupo:
+  🎯 624d5a9b6e853fa9_1da58848_43c5_44ce_974e_bdd0b3c6e7d5_jr_sept_l_s_8363.jpg
+     47c29f40084ed620_1da58848_43c5_44ce_974e_bdd0b3c6e7d5_jr_sept_l_s_8363_180deg.jpg
+     8558bf9bfa57be8d_1da58848_43c5_44ce_974e_bdd0b3c6e7d5_jr_sept_l_s_8363_fliptb.jpg
+
+Grupo: up_close (2 archivos)
+Método: pattern_analysis
+Archivo base: d548133b7d300bc1_septoria_up_close.jpg
+Archivos del grupo:
+     714ddab1e25374dc_septoria_leaf_spot_up_close_e1569267050575.jpg
+  🎯 d548133b7d300bc1_septoria_up_close.jpg
+
+Grupo: cg_6687 (3 archivos)
+Método: pattern_analysis
+Archivo base: bfa7321aed9b28aa_4a07823f_bbfe_4880_bbae_59fd1ae9de33_matt_s_cg_6687.jpg
+Archivos del grupo:
+     0aaa54be6f293bce_4a07823f_bbfe_4880_bbae_59fd1ae9de33_matt_s_cg_6687_fliptb.jpg
+     d86df562cf703f0d_4a07823f_bbfe_4880_bbae_59fd1ae9de33_matt_s_cg_6687_180deg.jpg
+  🎯 bfa7321aed9b28aa_4a07823f_bbfe_4880_bbae_59fd1ae9de33_matt_s_cg_6687.jpg
+
+Grupo: bnx8q (1 archivos)
+Método: single_file
+Archivo base: d9c6ebf8340dcb0a_bnx8q_jpg_rf_5020db19a451649dcca7b43d0f647649.jpg
+Archivos del grupo:
+  🎯 d9c6ebf8340dcb0a_bnx8q_jpg_rf_5020db19a451649dcca7b43d0f647649.jpg
+
+Grupo: early_blight (1 archivos)
+Método: single_file
+Archivo base: e709bf0418c4d865_tomato_early_blight_e1437503226856_jpg_rf_bf6c52fc0a6a772cd68beca333c1e021.jpg
+Archivos del grupo:
+  🎯 e709bf0418c4d865_tomato_early_blight_e1437503226856_jpg_rf_bf6c52fc0a6a772cd68beca333c1e021.jpg
+
+Grupo: cg_1263 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5f6c40e26b9482fa_2eb010be_cfb9_40cf_9b69_0521e5ecf2a1_matt_s_cg_1263.jpg
+Archivos del grupo:
+  🎯 5f6c40e26b9482fa_2eb010be_cfb9_40cf_9b69_0521e5ecf2a1_matt_s_cg_1263.jpg
+     aec30714a1239afa_2eb010be_cfb9_40cf_9b69_0521e5ecf2a1_matt_s_cg_1263_180deg.jpg
+     5a6e664deeb9134b_2eb010be_cfb9_40cf_9b69_0521e5ecf2a1_matt_s_cg_1263_fliptb.jpg
+
+Grupo: organic_treatment (3 archivos)
+Método: pattern_analysis
+Archivo base: 013d465a34696f58_septoria_leaf_spot_treatment_leaf_spot_septoria_leaf_spot_soil_treatment_septoria_leaf_spot_tomato_organic_treatment_jpg_rf_a9047bd0cffeeb0e42c54f68d4945b31.jpg
+Archivos del grupo:
+  🎯 013d465a34696f58_septoria_leaf_spot_treatment_leaf_spot_septoria_leaf_spot_soil_treatment_septoria_leaf_spot_tomato_organic_treatment_jpg_rf_a9047bd0cffeeb0e42c54f68d4945b31.jpg
+     73cb28e1e31e2d12_septoria_leaf_spot_treatment_leaf_spot_septoria_leaf_spot_soil_treatment_septoria_leaf_spot_tomato_organic_treatment_jpg_rf_85337df3aca4df1bb0f4fb5e03e6adaf.jpg
+     2320bf01a677f97e_septoria_leaf_spot_treatment_leaf_spot_septoria_leaf_spot_soil_treatment_septoria_leaf_spot_tomato_organic_treatment_jpg_rf_f2df5f7e8c1570569963502631b17349.jpg
+
+Grupo: sept_2484 (3 archivos)
+Método: pattern_analysis
+Archivo base: 08bc9cd0c749766e_3b0062a2_2013_4dc6_9d61_4c74ae4b295a_jr_sept_l_s_2484.jpg
+Archivos del grupo:
+     e33c9da77063d998_3b0062a2_2013_4dc6_9d61_4c74ae4b295a_jr_sept_l_s_2484_180deg.jpg
+     a46fe6d7f0624458_3b0062a2_2013_4dc6_9d61_4c74ae4b295a_jr_sept_l_s_2484_fliptb.jpg
+  🎯 08bc9cd0c749766e_3b0062a2_2013_4dc6_9d61_4c74ae4b295a_jr_sept_l_s_2484.jpg
+
+Grupo: cg_1991 (3 archivos)
+Método: pattern_analysis
+Archivo base: 00f59334d93e0574_3d91b473_6309_4310_9acd_e66dacaf789f_keller_st_cg_1991.jpg
+Archivos del grupo:
+  🎯 00f59334d93e0574_3d91b473_6309_4310_9acd_e66dacaf789f_keller_st_cg_1991.jpg
+     fe91cdc41eccad6f_3d91b473_6309_4310_9acd_e66dacaf789f_keller_st_cg_1991_fliptb.jpg
+     6ca5fb130cd1fb38_3d91b473_6309_4310_9acd_e66dacaf789f_keller_st_cg_1991_180deg.jpg
+
+Grupo: sept_2618 (3 archivos)
+Método: pattern_analysis
+Archivo base: 65c5bb32a572c878_4ae88e50_d807_45d7_b587_5242a2464764_jr_sept_l_s_2618.jpg
+Archivos del grupo:
+     7bc21167d6c00481_4ae88e50_d807_45d7_b587_5242a2464764_jr_sept_l_s_2618_fliptb.jpg
+     89a9ee0b74a1afed_4ae88e50_d807_45d7_b587_5242a2464764_jr_sept_l_s_2618_180deg.jpg
+  🎯 65c5bb32a572c878_4ae88e50_d807_45d7_b587_5242a2464764_jr_sept_l_s_2618.jpg
+
+Grupo: cg_1503 (3 archivos)
+Método: pattern_analysis
+Archivo base: dbce3abbd4ec8ec9_4c17268b_94cd_4cc6_979a_d84a81c9fa7f_matt_s_cg_1503.jpg
+Archivos del grupo:
+     1ea06e1b50ac35e1_4c17268b_94cd_4cc6_979a_d84a81c9fa7f_matt_s_cg_1503_fliptb.jpg
+  🎯 dbce3abbd4ec8ec9_4c17268b_94cd_4cc6_979a_d84a81c9fa7f_matt_s_cg_1503.jpg
+     a8a6204c2ed34e7c_4c17268b_94cd_4cc6_979a_d84a81c9fa7f_matt_s_cg_1503_180deg.jpg
+
+Grupo: leaf_blight (3 archivos)
+Método: pattern_analysis
+Archivo base: cacc43fa877700e3_3_septoria_leaf_blight_n_jpg_rf_5fd98e6b54930928778bb6819cf0178a.jpg
+Archivos del grupo:
+  🎯 cacc43fa877700e3_3_septoria_leaf_blight_n_jpg_rf_5fd98e6b54930928778bb6819cf0178a.jpg
+     f47da76b16e7892d_3_septoria_leaf_blight_n_jpg_rf_90654af3c7f5867ddb9cd9ec7d213c95.jpg
+     49fae05700050cf2_3_septoria_leaf_blight_n_jpg_rf_d646336cd8383b55f6b735836af6114f.jpg
+
+Grupo: cg_1727 (3 archivos)
+Método: pattern_analysis
+Archivo base: b08d72a9ef5d634e_1c94b8af_21b7_43b5_b6ff_a5f7a3ad0a6e_matt_s_cg_1727.jpg
+Archivos del grupo:
+     c3b5cb6fda685b58_1c94b8af_21b7_43b5_b6ff_a5f7a3ad0a6e_matt_s_cg_1727_180deg.jpg
+     725d3657b691c38d_1c94b8af_21b7_43b5_b6ff_a5f7a3ad0a6e_matt_s_cg_1727_fliptb.jpg
+  🎯 b08d72a9ef5d634e_1c94b8af_21b7_43b5_b6ff_a5f7a3ad0a6e_matt_s_cg_1727.jpg
+
+Grupo: tomato_badleaves (3 archivos)
+Método: pattern_analysis
+Archivo base: ac32b7eec96205fd_tomato_badleaves_jpg_rf_10f0220e73e8afda6479fde44c5871c4.jpg
+Archivos del grupo:
+  🎯 ac32b7eec96205fd_tomato_badleaves_jpg_rf_10f0220e73e8afda6479fde44c5871c4.jpg
+     1c8e134dcff0aa88_tomato_badleaves_jpg_rf_84760bbff4bb8cbb509315ce64b028f2.jpg
+     7359bdc571160c50_tomato_badleaves_jpg_rf_1d733cb6f5e8172984efc2760a120679.jpg
+
+Grupo: sept_2681 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3f717cf5008ae6ec_2b526b63_b759_4187_ab73_ce49ebb07191_jr_sept_l_s_2681.jpg
+Archivos del grupo:
+  🎯 3f717cf5008ae6ec_2b526b63_b759_4187_ab73_ce49ebb07191_jr_sept_l_s_2681.jpg
+     57a86ce4cef795d1_2b526b63_b759_4187_ab73_ce49ebb07191_jr_sept_l_s_2681_fliptb.jpg
+     32b35e20eb0cd10c_2b526b63_b759_4187_ab73_ce49ebb07191_jr_sept_l_s_2681_180deg.jpg
+
+Grupo: cg_1795 (3 archivos)
+Método: pattern_analysis
+Archivo base: f3c73edfa9ac5cf3_3e36cafb_f2f4_4c51_9853_85fd7f1eb817_keller_st_cg_1795.jpg
+Archivos del grupo:
+  🎯 f3c73edfa9ac5cf3_3e36cafb_f2f4_4c51_9853_85fd7f1eb817_keller_st_cg_1795.jpg
+     acbb2d4cba1d04a2_3e36cafb_f2f4_4c51_9853_85fd7f1eb817_keller_st_cg_1795_180deg.jpg
+     51342d414ec309a3_3e36cafb_f2f4_4c51_9853_85fd7f1eb817_keller_st_cg_1795_fliptb.jpg
+
+Grupo: sept_2614 (3 archivos)
+Método: pattern_analysis
+Archivo base: d2d9dd2ec651d552_4c3efc57_6a59_4d52_bd77_1dd4efbfba72_jr_sept_l_s_2614.jpg
+Archivos del grupo:
+     efadcbc54bfd296e_4c3efc57_6a59_4d52_bd77_1dd4efbfba72_jr_sept_l_s_2614_fliptb.jpg
+  🎯 d2d9dd2ec651d552_4c3efc57_6a59_4d52_bd77_1dd4efbfba72_jr_sept_l_s_2614.jpg
+     ebb8830562069e94_4c3efc57_6a59_4d52_bd77_1dd4efbfba72_jr_sept_l_s_2614_180deg.jpg
+
+Grupo: cg_2527 (3 archivos)
+Método: pattern_analysis
+Archivo base: fb99998c8b8710a0_0a76257e_6a78_459b_8f51_a266805121eb_matt_s_cg_2527.jpg
+Archivos del grupo:
+  🎯 fb99998c8b8710a0_0a76257e_6a78_459b_8f51_a266805121eb_matt_s_cg_2527.jpg
+     ebd218904f8d4014_0a76257e_6a78_459b_8f51_a266805121eb_matt_s_cg_2527_180deg.jpg
+     c89a7a964577342f_0a76257e_6a78_459b_8f51_a266805121eb_matt_s_cg_2527_fliptb.jpg
+
+Grupo: photo (1 archivos)
+Método: single_file
+Archivo base: 1eb01c4130d5c8f9_photo_1333642740144_jpg_rf_2e8f039633b49f49925a88909ff1bbf2.jpg
+Archivos del grupo:
+  🎯 1eb01c4130d5c8f9_photo_1333642740144_jpg_rf_2e8f039633b49f49925a88909ff1bbf2.jpg
+
+Grupo: cg_1915 (3 archivos)
+Método: pattern_analysis
+Archivo base: be49f2215ec7df5d_3c70a1cb_bb92_4bf1_a742_0622d1616003_keller_st_cg_1915.jpg
+Archivos del grupo:
+  🎯 be49f2215ec7df5d_3c70a1cb_bb92_4bf1_a742_0622d1616003_keller_st_cg_1915.jpg
+     58b03421b283daaa_3c70a1cb_bb92_4bf1_a742_0622d1616003_keller_st_cg_1915_fliptb.jpg
+     9389ef0df7fb200b_3c70a1cb_bb92_4bf1_a742_0622d1616003_keller_st_cg_1915_180deg.jpg
+
+Grupo: cg_1285 (3 archivos)
+Método: pattern_analysis
+Archivo base: c24166681fff0dfa_3ff747b1_7cec_42e2_a938_9af10afeab8c_matt_s_cg_1285.jpg
+Archivos del grupo:
+  🎯 c24166681fff0dfa_3ff747b1_7cec_42e2_a938_9af10afeab8c_matt_s_cg_1285.jpg
+     d30653b3dab243a8_3ff747b1_7cec_42e2_a938_9af10afeab8c_matt_s_cg_1285_fliptb.jpg
+     d8d82db5ed2e7ec7_3ff747b1_7cec_42e2_a938_9af10afeab8c_matt_s_cg_1285_180deg.jpg
+
+Grupo: cg_1942 (3 archivos)
+Método: pattern_analysis
+Archivo base: 112644fa2c8ac12b_0af9f990_ad92_4411_8623_4498ca4805ce_keller_st_cg_1942.jpg
+Archivos del grupo:
+     e9c964a4d58f8856_0af9f990_ad92_4411_8623_4498ca4805ce_keller_st_cg_1942_fliptb.jpg
+     977a5d95a23e1f10_0af9f990_ad92_4411_8623_4498ca4805ce_keller_st_cg_1942_180deg.jpg
+  🎯 112644fa2c8ac12b_0af9f990_ad92_4411_8623_4498ca4805ce_keller_st_cg_1942.jpg
+
+Grupo: tomatoes2x2400_202yoxg (1 archivos)
+Método: single_file
+Archivo base: 6355a84c251f1681_septoria_leaf_spot_tomatoes2x2400_202yoxg_jpg_rf_582a526003c128d25bfe72e4ad349df7.jpg
+Archivos del grupo:
+  🎯 6355a84c251f1681_septoria_leaf_spot_tomatoes2x2400_202yoxg_jpg_rf_582a526003c128d25bfe72e4ad349df7.jpg
+
+Grupo: sept_2463 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2ef24b8cdbe7b03b_3c435f7e_e3cf_4a74_805b_b679ae96e25e_jr_sept_l_s_2463.jpg
+Archivos del grupo:
+     2aa59e6959f759da_3c435f7e_e3cf_4a74_805b_b679ae96e25e_jr_sept_l_s_2463_fliptb.jpg
+     092c692114cdfc6e_3c435f7e_e3cf_4a74_805b_b679ae96e25e_jr_sept_l_s_2463_180deg.jpg
+  🎯 2ef24b8cdbe7b03b_3c435f7e_e3cf_4a74_805b_b679ae96e25e_jr_sept_l_s_2463.jpg
+
+Grupo: cg_6233 (3 archivos)
+Método: pattern_analysis
+Archivo base: f03b18e0115ad0fc_0ebf0c98_aeb9_4630_afa0_0c9a2dc32995_matt_s_cg_6233.jpg
+Archivos del grupo:
+     e8f081db6e195590_0ebf0c98_aeb9_4630_afa0_0c9a2dc32995_matt_s_cg_6233_180deg.jpg
+     202b1f92e4e193eb_0ebf0c98_aeb9_4630_afa0_0c9a2dc32995_matt_s_cg_6233_fliptb.jpg
+  🎯 f03b18e0115ad0fc_0ebf0c98_aeb9_4630_afa0_0c9a2dc32995_matt_s_cg_6233.jpg
+
+Grupo: spot_600 (1 archivos)
+Método: single_file
+Archivo base: 29006b82022e35cb_tomato_septoria_leaf_spot_600_jpg_rf_f2ad4081b45c08d3c342d762c1f6b981.jpg
+Archivos del grupo:
+  🎯 29006b82022e35cb_tomato_septoria_leaf_spot_600_jpg_rf_f2ad4081b45c08d3c342d762c1f6b981.jpg
+
+Grupo: sept_8513 (3 archivos)
+Método: pattern_analysis
+Archivo base: 54fdb7fbb116c45d_2a2b0821_26eb_4322_a603_1ba569b9de98_jr_sept_l_s_8513.jpg
+Archivos del grupo:
+     51a3b1f746b89e32_2a2b0821_26eb_4322_a603_1ba569b9de98_jr_sept_l_s_8513_fliptb.jpg
+  🎯 54fdb7fbb116c45d_2a2b0821_26eb_4322_a603_1ba569b9de98_jr_sept_l_s_8513.jpg
+     63d4848220907e9c_2a2b0821_26eb_4322_a603_1ba569b9de98_jr_sept_l_s_8513_180deg.jpg
+
+Grupo: 2861_29 (3 archivos)
+Método: pattern_analysis
+Archivo base: 42855c8f91fe70d6_bch_20medium_20thumbnail_20for_20upload_20_2861_29_jpg_rf_0d0edb7c77272c7a6f3789f7624d01aa.jpg
+Archivos del grupo:
+  🎯 42855c8f91fe70d6_bch_20medium_20thumbnail_20for_20upload_20_2861_29_jpg_rf_0d0edb7c77272c7a6f3789f7624d01aa.jpg
+     90b7e025de4e3228_bch_20medium_20thumbnail_20for_20upload_20_2861_29_jpg_rf_f138e1920aeffb01938a3768a7cee40f.jpg
+     02e5488dded5d6d6_bch_20medium_20thumbnail_20for_20upload_20_2861_29_jpg_rf_24979e4fbb4d4bac0da7c9f76902da9a.jpg
+
+Grupo: cg_1286 (3 archivos)
+Método: pattern_analysis
+Archivo base: cc2df4aec5c98ff1_0b23b869_cfa6_40d7_a683_f4637d91ebff_matt_s_cg_1286.jpg
+Archivos del grupo:
+     b9203c75a632ee04_0b23b869_cfa6_40d7_a683_f4637d91ebff_matt_s_cg_1286_180deg.jpg
+  🎯 cc2df4aec5c98ff1_0b23b869_cfa6_40d7_a683_f4637d91ebff_matt_s_cg_1286.jpg
+     1a8a34a4c0544383_0b23b869_cfa6_40d7_a683_f4637d91ebff_matt_s_cg_1286_fliptb.jpg
+
+Grupo: cg_6049 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9a9b56d3e6ec0feb_1a02cfc4_375a_4be1_82a6_fa7ec5117ced_matt_s_cg_6049.jpg
+Archivos del grupo:
+     511c85b630acdbc5_1a02cfc4_375a_4be1_82a6_fa7ec5117ced_matt_s_cg_6049_fliptb.jpg
+  🎯 9a9b56d3e6ec0feb_1a02cfc4_375a_4be1_82a6_fa7ec5117ced_matt_s_cg_6049.jpg
+     a5ec676d9b8d1945_1a02cfc4_375a_4be1_82a6_fa7ec5117ced_matt_s_cg_6049_180deg.jpg
+
+Grupo: cg_1770 (3 archivos)
+Método: pattern_analysis
+Archivo base: 856e119a05b801ab_2e147de4_c279_492b_93ef_affbe2e3e6ea_keller_st_cg_1770.jpg
+Archivos del grupo:
+     4fa58cf7e72a671b_2e147de4_c279_492b_93ef_affbe2e3e6ea_keller_st_cg_1770_fliptb.jpg
+  🎯 856e119a05b801ab_2e147de4_c279_492b_93ef_affbe2e3e6ea_keller_st_cg_1770.jpg
+     f68266a5a504b078_2e147de4_c279_492b_93ef_affbe2e3e6ea_keller_st_cg_1770_180deg.jpg
+
+Grupo: sept_2570 (3 archivos)
+Método: pattern_analysis
+Archivo base: b13ca2b335cb0bea_2aeb1e96_7755_4378_b423_2f2116e56db6_jr_sept_l_s_2570.jpg
+Archivos del grupo:
+     9ef0deb9c2d6a956_2aeb1e96_7755_4378_b423_2f2116e56db6_jr_sept_l_s_2570_fliptb.jpg
+  🎯 b13ca2b335cb0bea_2aeb1e96_7755_4378_b423_2f2116e56db6_jr_sept_l_s_2570.jpg
+     a8d28eda11f4452b_2aeb1e96_7755_4378_b423_2f2116e56db6_jr_sept_l_s_2570_180deg.jpg
+
+Grupo: sept4disease_019 (3 archivos)
+Método: pattern_analysis
+Archivo base: 1ce7bddf1ecc54ee_sept4disease_019_jpg_rf_8eaf7358314aa16e9fc0877c818f03fc.jpg
+Archivos del grupo:
+  🎯 1ce7bddf1ecc54ee_sept4disease_019_jpg_rf_8eaf7358314aa16e9fc0877c818f03fc.jpg
+     417347e6e3857c47_sept4disease_019_jpg_rf_3eaf2391988a600ad7fa8ef77bd5822d.jpg
+     ad1509b3e59e85e8_sept4disease_019_jpg_rf_b962256f7fb8ef8087ef930b6d579ac2.jpg
+
+Grupo: 253e_jpg (1 archivos)
+Método: single_file
+Archivo base: fbd443c93e301f29_img_4452_1500x1500_253e_jpg_1407883119_jpg_rf_0bf2eca9bff71f8bba85a82ca5b7cc12.jpg
+Archivos del grupo:
+  🎯 fbd443c93e301f29_img_4452_1500x1500_253e_jpg_1407883119_jpg_rf_0bf2eca9bff71f8bba85a82ca5b7cc12.jpg
+
+Grupo: cg_7723 (3 archivos)
+Método: pattern_analysis
+Archivo base: 16f48f1f904d68c1_3ed40b55_9410_41c7_91cd_1e2f771d5888_matt_s_cg_7723.jpg
+Archivos del grupo:
+     de62c4886a7239fe_3ed40b55_9410_41c7_91cd_1e2f771d5888_matt_s_cg_7723_180deg.jpg
+  🎯 16f48f1f904d68c1_3ed40b55_9410_41c7_91cd_1e2f771d5888_matt_s_cg_7723.jpg
+     dcb420494043e0cf_3ed40b55_9410_41c7_91cd_1e2f771d5888_matt_s_cg_7723_fliptb.jpg
+
+Grupo: cg_1909 (3 archivos)
+Método: pattern_analysis
+Archivo base: 98f7dc3500a03086_2cbfb4e3_8327_470f_91b1_4b7c3823b1f1_keller_st_cg_1909.jpg
+Archivos del grupo:
+  🎯 98f7dc3500a03086_2cbfb4e3_8327_470f_91b1_4b7c3823b1f1_keller_st_cg_1909.jpg
+     6d6dd20e6162eb31_2cbfb4e3_8327_470f_91b1_4b7c3823b1f1_keller_st_cg_1909_fliptb.jpg
+     0d485b9621a47a6c_2cbfb4e3_8327_470f_91b1_4b7c3823b1f1_keller_st_cg_1909_180deg.jpg
+
+Grupo: sept_8369 (3 archivos)
+Método: pattern_analysis
+Archivo base: d25d146190f8b941_0cba2d69_c73b_472b_9fc1_beca9b3f02a0_jr_sept_l_s_8369.jpg
+Archivos del grupo:
+     0ce2488633e344b0_0cba2d69_c73b_472b_9fc1_beca9b3f02a0_jr_sept_l_s_8369_180deg.jpg
+  🎯 d25d146190f8b941_0cba2d69_c73b_472b_9fc1_beca9b3f02a0_jr_sept_l_s_8369.jpg
+     c9eb05d723626ddb_0cba2d69_c73b_472b_9fc1_beca9b3f02a0_jr_sept_l_s_8369_fliptb.jpg
+
+Grupo: 0312_original (1 archivos)
+Método: single_file
+Archivo base: 966852945120b574_img_0312_original_jpg_rf_f0341349fc4c9ace89288c595d6f4347.jpg
+Archivos del grupo:
+  🎯 966852945120b574_img_0312_original_jpg_rf_f0341349fc4c9ace89288c595d6f4347.jpg
+
+Grupo: cg_6782 (3 archivos)
+Método: pattern_analysis
+Archivo base: b538a72f89be57cb_1dba882a_8d8b_4f5e_a6d4_18f6c58534b3_matt_s_cg_6782.jpg
+Archivos del grupo:
+  🎯 b538a72f89be57cb_1dba882a_8d8b_4f5e_a6d4_18f6c58534b3_matt_s_cg_6782.jpg
+     c92f7df20dd780b3_1dba882a_8d8b_4f5e_a6d4_18f6c58534b3_matt_s_cg_6782_fliptb.jpg
+     e8b27982f1274fbe_1dba882a_8d8b_4f5e_a6d4_18f6c58534b3_matt_s_cg_6782_180deg.jpg
+
+Grupo: of_tomato186 (1 archivos)
+Método: single_file
+Archivo base: 0ff1515a0b035ab5_septoria_leaf_spot_of_tomato186_jpg_rf_f7ae6fd4b78013bbd1134a9c458b4350.jpg
+Archivos del grupo:
+  🎯 0ff1515a0b035ab5_septoria_leaf_spot_of_tomato186_jpg_rf_f7ae6fd4b78013bbd1134a9c458b4350.jpg
+
+Grupo: sept_2696 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3590202000a44d9c_2ee8fa50_545b_4de2_9b26_6af401c46ede_jr_sept_l_s_2696.jpg
+Archivos del grupo:
+     e4e8eebd159cc9fd_2ee8fa50_545b_4de2_9b26_6af401c46ede_jr_sept_l_s_2696_180deg.jpg
+     516bc3bf0852f231_2ee8fa50_545b_4de2_9b26_6af401c46ede_jr_sept_l_s_2696_fliptb.jpg
+  🎯 3590202000a44d9c_2ee8fa50_545b_4de2_9b26_6af401c46ede_jr_sept_l_s_2696.jpg
+
+Grupo: cg_6572 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0b3af3c9d5327bea_1f9fe103_ec5a_4ebb_bd93_14c97537dd3a_matt_s_cg_6572.jpg
+Archivos del grupo:
+     30e1c290a3e5997b_1f9fe103_ec5a_4ebb_bd93_14c97537dd3a_matt_s_cg_6572_180deg.jpg
+     d8dcdd03b5eae43f_1f9fe103_ec5a_4ebb_bd93_14c97537dd3a_matt_s_cg_6572_fliptb.jpg
+  🎯 0b3af3c9d5327bea_1f9fe103_ec5a_4ebb_bd93_14c97537dd3a_matt_s_cg_6572.jpg
+
+Grupo: rarz4 (1 archivos)
+Método: single_file
+Archivo base: 98ad8fa13193e320_rarz4_jpg_rf_e94c9d220b9d190a12a5835654bdb5b0.jpg
+Archivos del grupo:
+  🎯 98ad8fa13193e320_rarz4_jpg_rf_e94c9d220b9d190a12a5835654bdb5b0.jpg

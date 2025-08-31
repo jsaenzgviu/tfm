@@ -1,0 +1,183 @@
+REPORTE DE MOVIMIENTO DE ARCHIVOS BASE
+======================================================================
+
+Fecha: 2025-08-24 21:36:00
+Análisis base: base_files_analysis_powdery_mildew_20250824_213547.csv
+Método: Identificación de archivos base por patrón
+Directorio origen: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same4/train/powdery_mildew
+Directorio destino: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same4/train/powdery_mildew/base_files
+
+Grupos analizados: 157
+Archivos base movidos exitosamente: 157
+Archivos con errores: 0
+
+MÉTODOS UTILIZADOS EN EL ANÁLISIS:
+- pattern_analysis: 1256 archivos
+
+ARCHIVOS BASE MOVIDOS EXITOSAMENTE (157):
+--------------------------------------------------
+✅ 5a601145194746c2_pm30.jpg
+✅ d9a7f7f802560ccc_pm35.jpg
+✅ e1767ffdfbb64819_pm18.jpg
+✅ 705cc98b387cd3d6_pm17.jpg
+✅ fc90345a8ba98bcc_pm81.jpg
+✅ 369ea7031e27adbc_pm40.jpg
+✅ 23f052795a382ed2_pm123.jpg
+✅ f7c5ef1de45eca9c_pm37.jpg
+✅ 9f4cb0dd27312fd2_pm59.jpg
+✅ 9be06f5d2cbdd63a_pm149.jpg
+✅ d75baddee651a289_pm55.jpg
+✅ 5e11b71841eb68ea_pm24.jpg
+✅ 861ebea57f6545eb_pm7.jpg
+✅ b134e4e1af1707db_pm27.jpg
+✅ 7f5752c13de42d17_pm151.jpg
+✅ 3f9e89b34a9feb60_pm137.jpg
+✅ bb1a8adb1a750300_pm98.jpg
+✅ ec251f4977c5319e_pm89.jpg
+✅ 0c393fb49698a5bb_pm31.jpg
+✅ c4337c49ba2bdf15_pm29.jpg
+✅ 88e910a2e7338fca_pm80.jpg
+✅ 8eff483bd7b475fe_pm79.jpg
+✅ 3b6d78b7734bf98f_pm74.jpg
+✅ 2d516907c94cb4c3_pm119.jpg
+✅ 3244c8bdfc25f4b0_pm71.jpg
+✅ bf4b544328395523_pm66.jpg
+✅ b988ed757e77dc02_pm58.jpg
+✅ eecbb773e31c5a7e_pm72.jpg
+✅ 5ee9d36717280276_pm3.jpg
+✅ 2b374d6e726b2f88_pm155.jpg
+✅ ae422c848971f464_pm122.jpg
+✅ 8fcadf815f3daa23_pm43.jpg
+✅ 6e8cde54a7e52dff_pm105.jpg
+✅ 6d78823c4dde87db_pm118.jpg
+✅ 90aa8dacbbed6c72_pm86.jpg
+✅ 0da8afed80952083_pm73.jpg
+✅ 1f3f42165e47b113_pm57.jpg
+✅ 7723ac553d1ee0d5_pm26.jpg
+✅ cc94d14f9b74bf4a_pm47.jpg
+✅ ef93da8d7b78dd3e_pm116.jpg
+✅ 4a8e7f689b63d61e_pm44.jpg
+✅ 1d953e9bc0caffd2_pm114.jpg
+✅ 6d6340ddf6d8f917_pm15.jpg
+✅ a8bd519f88e89f40_pm22.jpg
+✅ a79ba2ebb7a80793_pm157.jpg
+✅ d8a1c5b5609ab66a_pm93.jpg
+✅ 69c8d4db446d8173_pm78.jpg
+✅ 5a10f41e547fbd1a_pm42.jpg
+✅ db2fb1cda5ae0285_pm23.jpg
+✅ 614f7d9c91afcf68_pm136.jpg
+✅ dfd01c50e7e82a63_pm13.jpg
+✅ 72506232abb4e5a8_pm75.jpg
+✅ 2cd4278b7985801d_pm156.jpg
+✅ f2b06d79e8081d3d_pm140.jpg
+✅ c3ed3bab41e037db_pm6.jpg
+✅ 1182c46f961738cb_pm85.jpg
+✅ 10957f53ccfb6491_pm8.jpg
+✅ e32fcbc894859c29_pm82.jpg
+✅ 04caf6dc697fa87e_pm53.jpg
+✅ 144cabd152333365_pm96.jpg
+✅ e72bd053ec811505_pm99.jpg
+✅ d8595c99c5fa1323_pm126.jpg
+✅ bf5becc597f37083_pm32.jpg
+✅ d126dae5ae8cbe05_pm147.jpg
+✅ 5797b3fdc6ed2b25_pm87.jpg
+✅ c6a7f83581e42654_pm64.jpg
+✅ aa0662b1805ff0e4_pm61.jpg
+✅ 88b79c079f84ffec_pm33.jpg
+✅ 229a54183afe8f99_pm91.jpg
+✅ f2f10f1f63a0ccd0_pm16.jpg
+✅ fbb57ca7fe23abc6_pm125.jpg
+✅ 50e519867cbb71b7_pm131.jpg
+✅ 5e5dc3f2cc473997_pm153.jpg
+✅ 90a926260cd54cf0_pm113.jpg
+✅ c41aaa6b5b48b38b_pm109.jpg
+✅ 827e98fb6dd43292_pm62.jpg
+✅ 0f23daf2ee4d233c_pm106.jpg
+✅ 27cc050f643e3ba5_pm46.jpg
+✅ 3af85a8d5abf40e9_pm20.jpg
+✅ 7a109e7c43924499_pm129.jpg
+✅ f64e1878246ae0fa_pm111.jpg
+✅ 2e34a7c6a359fdaa_pm121.jpg
+✅ 22e3166c64489a44_pm54.jpg
+✅ 3e410b3513c34cd5_pm51.jpg
+✅ 6d0f898215864be6_pm100.jpg
+✅ 6a769668f08f702c_pm117.jpg
+✅ 5727ac03bf267033_pm2.jpg
+✅ 75cfb6a822532d31_pm1.jpg
+✅ 86d860ceadb513e0_pm150.jpg
+✅ 424ac29905ca0eca_pm112.jpg
+✅ 5040508cce9b96a7_pm138.jpg
+✅ e5a678417351526e_pm48.jpg
+✅ 5e51b5bed779e45e_pm143.jpg
+✅ 05ad7d9a633aaeff_pm50.jpg
+✅ 4f34f869d7fd57f7_pm107.jpg
+✅ 14ec502935ddec97_pm145.jpg
+✅ aaf266ce2ba268b1_pm132.jpg
+✅ ed7ec9fc2525dc52_pm133.jpg
+✅ acc20932f65a4cd6_pm101.jpg
+✅ c5fb75c6a958b0fe_pm102.jpg
+✅ e695f39d48042a19_pm41.jpg
+✅ 57eb5cb12a546362_pm139.jpg
+✅ c3421d7eee96ce8c_pm97.jpg
+✅ 8738aeb123286735_pm38.jpg
+✅ 3f5283c1fe6bc9c9_pm95.jpg
+✅ c01853688428d0b3_pm70.jpg
+✅ 0f849c960d2f3439_pm120.jpg
+✅ 5fde67c802ab1faa_pm130.jpg
+✅ e5d280a86ea77b29_pm36.jpg
+✅ 2626b645cbb1d49d_pm92.jpg
+✅ 67e2f99fe715d6bf_pm142.jpg
+✅ b1ea33577814f37b_pm49.jpg
+✅ 9046233f1bd1335d_pm90.jpg
+✅ 11ff473cbd030dc7_pm77.jpg
+✅ 10402cd3d58673f1_pm25.jpg
+✅ 2c1f7b31819b482f_pm146.jpg
+✅ 48bfaae0743b99cc_pm76.jpg
+✅ bd9b48a998b48d19_pm127.jpg
+✅ 85d184ca6ea25d6e_pm141.jpg
+✅ 3abf991262f6101d_pm134.jpg
+✅ fb0b024711668ba6_pm154.jpg
+✅ 9793fe325bd58426_pm11.jpg
+✅ 03e165df74acbb36_pm5.jpg
+✅ 07341c68052b6dba_pm21.jpg
+✅ 570ae79714697190_pm69.jpg
+✅ e8fc0d95c7ddae74_pm115.jpg
+✅ 2d84af05c5ea5877_pm14.jpg
+✅ 54bcd41c3d690366_pm45.jpg
+✅ ae9fadfc82f42fe7_pm144.jpg
+✅ 203c22335f70cc44_pm152.jpg
+✅ 1959c1fec19cc5c3_pm67.jpg
+✅ 4d98632903ba56ba_pm19.jpg
+✅ 906ceccbbb5ab274_pm4.jpg
+✅ be708e2fb04ff76a_pm39.jpg
+✅ 1bbd0abc4e0fa579_pm68.jpg
+✅ 5cb83cac2c73b846_pm9.jpg
+✅ 5b5811cb2e97377d_pm63.jpg
+✅ 2890ee6327e4010a_pm65.jpg
+✅ c40ee4181cf2f1d7_pm104.jpg
+✅ 166caa1811e34a41_pm108.jpg
+✅ 4eb3b27b41f6101d_pm83.jpg
+✅ 3da00df31c799404_pm60.jpg
+✅ 3dfba7a45afd7f85_pm52.jpg
+✅ 37ed8a153ea5b485_pm110.jpg
+✅ 36635e1bc6c92b7d_pm12.jpg
+✅ 34476286e40acc02_pm56.jpg
+✅ d1f1f22aa3178702_pm88.jpg
+✅ 2c2e98da346d913c_pm28.jpg
+✅ b9ede6aba34e0b07_pm103.jpg
+✅ a242a20e20f13e9b_pm128.jpg
+✅ 71f890fd6f9a073c_pm148.jpg
+✅ 64a055985fe8abf9_pm124.jpg
+✅ 477d77e354612e2a_pm84.jpg
+✅ 5ec153027c4f6ec0_pm10.jpg
+✅ 2d6c01d9536db27d_pm34.jpg
+✅ 754d0ecebc3d8de3_pm94.jpg
+✅ f2c37350a25682ee_pm135.jpg
+
+ESTADÍSTICAS:
+- Total grupos analizados: 157
+- Archivos base identificados: 157
+- Exitosamente movidos: 157
+- Fallidos: 0
+- Tasa de éxito: 100.0%
+- Eficiencia: 100.0% (archivos base/grupos)

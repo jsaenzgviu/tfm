@@ -1,0 +1,219 @@
+=== REPORTE DE DUPLICADOS OPTIMIZADO ===
+
+TOTAL DE DUPLICADOS ENCONTRADOS: 94
+
+DUPLICADOS CON TRANSFORMACIONES:
+  1cf7a0b3b0bdfe7e_0e3feb72_86e5_41c2_a7ca_3295800e5777_rs_hl_0158.jpg (dir2) es similar a 61775f7877edf819_0e3feb72_86e5_41c2_a7ca_3295800e5777_rs_hl_0158_180deg.jpg (dir1) con transformación: rotate_180
+  1cf7a0b3b0bdfe7e_0e3feb72_86e5_41c2_a7ca_3295800e5777_rs_hl_0158.jpg (dir2) es similar a a32e80102aa84c05_0e3feb72_86e5_41c2_a7ca_3295800e5777_rs_hl_0158_fliptb.jpg (dir1) con transformación: mirror_vertical
+  7de55781ba22cbc9_1a0c4408_634e_4bd5_948d_e73ca5572976_rs_hl_0146.jpg (dir2) es similar a 5ab892f266d9ec79_1a0c4408_634e_4bd5_948d_e73ca5572976_rs_hl_0146_fliptb.jpg (dir1) con transformación: mirror_vertical
+  7de55781ba22cbc9_1a0c4408_634e_4bd5_948d_e73ca5572976_rs_hl_0146.jpg (dir2) es similar a 93a20212a288d0f4_1a0c4408_634e_4bd5_948d_e73ca5572976_rs_hl_0146_180deg.jpg (dir1) con transformación: rotate_180
+  a9763a54b6b8e24a_h24.jpg (dir2) es similar a 15766d16baf7eeab_h24_mirror_vertical.jpg (dir1) con transformación: mirror_vertical
+  a9763a54b6b8e24a_h24.jpg (dir2) es similar a ae3ee5b2622dd030_h24_change_90.jpg (dir1) con transformación: rotate_90
+  a9763a54b6b8e24a_h24.jpg (dir2) es similar a 59c07417e39ddcaf_h24_change_180.jpg (dir1) con transformación: rotate_180
+  a9763a54b6b8e24a_h24.jpg (dir2) es similar a 06b649e2513e649c_h24_change_270.jpg (dir1) con transformación: rotate_270
+  a9763a54b6b8e24a_h24.jpg (dir2) es similar a 664bf0ce7b7f4364_h24_mirror.jpg (dir1) con transformación: mirror_horizontal
+  bd5264cb19ed59c4_3ea001ac_b49b_4382_a95d_a602fba00a5a_gh_hl_leaf_445.jpg (dir2) es similar a 12072ebe168c03ac_3ea001ac_b49b_4382_a95d_a602fba00a5a_gh_hl_leaf_445_fliptb.jpg (dir1) con transformación: mirror_vertical
+  bd5264cb19ed59c4_3ea001ac_b49b_4382_a95d_a602fba00a5a_gh_hl_leaf_445.jpg (dir2) es similar a 5d3923114dbb3a15_3ea001ac_b49b_4382_a95d_a602fba00a5a_gh_hl_leaf_445_180deg.jpg (dir1) con transformación: rotate_180
+  be16a427f63e98cd_1d598eb4_b055_4c4c_8b7e_b60990804957_rs_hl_9838.jpg (dir2) es similar a 03df98b0ce907751_1d598eb4_b055_4c4c_8b7e_b60990804957_rs_hl_9838_180deg.jpg (dir1) con transformación: rotate_180
+  be16a427f63e98cd_1d598eb4_b055_4c4c_8b7e_b60990804957_rs_hl_9838.jpg (dir2) es similar a 031e77360c421349_1d598eb4_b055_4c4c_8b7e_b60990804957_rs_hl_9838_fliptb.jpg (dir1) con transformación: mirror_vertical
+  16250f0940f51070_4b9bc37a_a9af_4e3f_a4e4_1e6cfb79c673_rs_hl_0262.jpg (dir2) es similar a 9c6117bf7331acf1_4b9bc37a_a9af_4e3f_a4e4_1e6cfb79c673_rs_hl_0262_180deg.jpg (dir1) con transformación: rotate_180
+  16250f0940f51070_4b9bc37a_a9af_4e3f_a4e4_1e6cfb79c673_rs_hl_0262.jpg (dir2) es similar a 66a68d2901c13bad_4b9bc37a_a9af_4e3f_a4e4_1e6cfb79c673_rs_hl_0262_fliptb.jpg (dir1) con transformación: mirror_vertical
+  2c69e62147a21e6f_1e5e6f9d_6d14_4ea7_9c36_c6a559e567d7_rs_hl_9780.jpg (dir2) es similar a f39fbcddf31bfe67_1e5e6f9d_6d14_4ea7_9c36_c6a559e567d7_rs_hl_9780_fliptb.jpg (dir1) con transformación: mirror_vertical
+  2c69e62147a21e6f_1e5e6f9d_6d14_4ea7_9c36_c6a559e567d7_rs_hl_9780.jpg (dir2) es similar a b4777be725df9066_1e5e6f9d_6d14_4ea7_9c36_c6a559e567d7_rs_hl_9780_180deg.jpg (dir1) con transformación: rotate_180
+  79a6f70916b13501_2e97e18f_8ae2_4d5d_b7fb_64baeead1ed4_gh_hl_leaf_221_1.jpg (dir2) es similar a a3a5cd0bf049f84c_2e97e18f_8ae2_4d5d_b7fb_64baeead1ed4_gh_hl_leaf_221_1_fliptb.jpg (dir1) con transformación: mirror_vertical
+  79a6f70916b13501_2e97e18f_8ae2_4d5d_b7fb_64baeead1ed4_gh_hl_leaf_221_1.jpg (dir2) es similar a 2842fb170bac518e_2e97e18f_8ae2_4d5d_b7fb_64baeead1ed4_gh_hl_leaf_221_1_180deg.jpg (dir1) con transformación: rotate_180
+  8f7a0137ffda1105_hl_135.jpg (dir2) es similar a 2f48949fbebe4eee_h32_change_270.jpg (dir1) con transformación: rotate_270
+  8f7a0137ffda1105_hl_135.jpg (dir2) es similar a 487ea4d3945ca583_h32_mirror.jpg (dir1) con transformación: mirror_horizontal
+  8f7a0137ffda1105_hl_135.jpg (dir2) es similar a f6a7abb480f56b5d_h32_change_180.jpg (dir1) con transformación: rotate_180
+  8f7a0137ffda1105_hl_135.jpg (dir2) es similar a 7728b153389135d3_h32_change_90.jpg (dir1) con transformación: rotate_90
+  8f7a0137ffda1105_hl_135.jpg (dir2) es similar a 19c7f013c3db874b_h32_mirror_vertical.jpg (dir1) con transformación: mirror_vertical
+  0e0a421015b47faf_1ca3c77d_13d8_43cc_929f_9c3a79e5dd1b_rs_hl_0250.jpg (dir2) es similar a 0f2061b1893d0026_1ca3c77d_13d8_43cc_929f_9c3a79e5dd1b_rs_hl_0250_fliptb.jpg (dir1) con transformación: mirror_vertical
+  0e0a421015b47faf_1ca3c77d_13d8_43cc_929f_9c3a79e5dd1b_rs_hl_0250.jpg (dir2) es similar a 952446647624d40c_1ca3c77d_13d8_43cc_929f_9c3a79e5dd1b_rs_hl_0250_180deg.jpg (dir1) con transformación: rotate_180
+  e5c7d67a51efd863_4b7deb4f_5bce_4915_ba64_7e75c66624c2_rs_hl_0153.jpg (dir2) es similar a 8c18bf2d661e4232_4b7deb4f_5bce_4915_ba64_7e75c66624c2_rs_hl_0153_fliptb.jpg (dir1) con transformación: mirror_vertical
+  e5c7d67a51efd863_4b7deb4f_5bce_4915_ba64_7e75c66624c2_rs_hl_0153.jpg (dir2) es similar a 9e7a4e18c225192b_4b7deb4f_5bce_4915_ba64_7e75c66624c2_rs_hl_0153_180deg.jpg (dir1) con transformación: rotate_180
+  c6907457eceb7403_3b4a011c_68ae_4b84_90b5_27ef4b2d3447_gh_hl_leaf_255.jpg (dir2) es similar a 4ef0c03f9cf4bf80_3b4a011c_68ae_4b84_90b5_27ef4b2d3447_gh_hl_leaf_255_180deg.jpg (dir1) con transformación: rotate_180
+  c6907457eceb7403_3b4a011c_68ae_4b84_90b5_27ef4b2d3447_gh_hl_leaf_255.jpg (dir2) es similar a 4191da6bce34ffd3_3b4a011c_68ae_4b84_90b5_27ef4b2d3447_gh_hl_leaf_255_fliptb.jpg (dir1) con transformación: mirror_vertical
+  0f8659ea5f612703_hl_153.png (dir2) es similar a 0fd9935582792a2f_hl_152.png (dir1) con transformación: identity
+  c30df87e0a7e4aff_0aacdad5_c9b9_4309_96e3_0797bbed1375_rs_hl_9836.jpg (dir2) es similar a 0efcd10613af1755_0aacdad5_c9b9_4309_96e3_0797bbed1375_rs_hl_9836_fliptb.jpg (dir1) con transformación: mirror_vertical
+  c30df87e0a7e4aff_0aacdad5_c9b9_4309_96e3_0797bbed1375_rs_hl_9836.jpg (dir2) es similar a fc174c0de8659d91_0aacdad5_c9b9_4309_96e3_0797bbed1375_rs_hl_9836_180deg.jpg (dir1) con transformación: rotate_180
+  b615c07331c4a29b_2ec18b22_c51c_456b_bf94_d5f3d282fb6c_rs_hl_0179.jpg (dir2) es similar a cc3d4e6a2ca39947_2ec18b22_c51c_456b_bf94_d5f3d282fb6c_rs_hl_0179_180deg.jpg (dir1) con transformación: rotate_180
+  b615c07331c4a29b_2ec18b22_c51c_456b_bf94_d5f3d282fb6c_rs_hl_0179.jpg (dir2) es similar a a4c312b3eb05f6a7_2ec18b22_c51c_456b_bf94_d5f3d282fb6c_rs_hl_0179_fliptb.jpg (dir1) con transformación: mirror_vertical
+  2083a8d9ed4fe1ff_2a11ceb9_41c9_4f2e_bed9_ef1c1c7d479b_rs_hl_0371.jpg (dir2) es similar a 68978b89a92687f8_2a11ceb9_41c9_4f2e_bed9_ef1c1c7d479b_rs_hl_0371_180deg.jpg (dir1) con transformación: rotate_180
+  2083a8d9ed4fe1ff_2a11ceb9_41c9_4f2e_bed9_ef1c1c7d479b_rs_hl_0371.jpg (dir2) es similar a 789f064042188df8_2a11ceb9_41c9_4f2e_bed9_ef1c1c7d479b_rs_hl_0371_fliptb.jpg (dir1) con transformación: mirror_vertical
+  1cc37e7bfd9fc6ad_2fd78b0f_a307_4824_9e6c_ff4a3f27e3c8_gh_hl_leaf_403.jpg (dir2) es similar a 138365face919113_2fd78b0f_a307_4824_9e6c_ff4a3f27e3c8_gh_hl_leaf_403_180deg.jpg (dir1) con transformación: rotate_180
+  1cc37e7bfd9fc6ad_2fd78b0f_a307_4824_9e6c_ff4a3f27e3c8_gh_hl_leaf_403.jpg (dir2) es similar a 9ae4745a1dc6d8b9_2fd78b0f_a307_4824_9e6c_ff4a3f27e3c8_gh_hl_leaf_403_fliptb.jpg (dir1) con transformación: mirror_vertical
+  34df1934bad8cda3_3eaf72d6_be20_4929_b6dc_58f6c9edf2bd_rs_hl_0031.jpg (dir2) es similar a f2103a13c9274c31_3eaf72d6_be20_4929_b6dc_58f6c9edf2bd_rs_hl_0031_fliptb.jpg (dir1) con transformación: mirror_vertical
+  34df1934bad8cda3_3eaf72d6_be20_4929_b6dc_58f6c9edf2bd_rs_hl_0031.jpg (dir2) es similar a d602e37b8891268f_3eaf72d6_be20_4929_b6dc_58f6c9edf2bd_rs_hl_0031_180deg.jpg (dir1) con transformación: rotate_180
+  74eabdd90b9ebef6_0fee8af3_ca03_418c_a71c_c4fb0a80dc7b_rs_hl_0199.jpg (dir2) es similar a 1281a19825972057_0fee8af3_ca03_418c_a71c_c4fb0a80dc7b_rs_hl_0199_180deg.jpg (dir1) con transformación: rotate_180
+  74eabdd90b9ebef6_0fee8af3_ca03_418c_a71c_c4fb0a80dc7b_rs_hl_0199.jpg (dir2) es similar a d9bdd178e16c9587_0fee8af3_ca03_418c_a71c_c4fb0a80dc7b_rs_hl_0199_fliptb.jpg (dir1) con transformación: mirror_vertical
+  e359e83ea1213155_2b8306e4_7898_4f27_b659_b0061c4c3832_rs_hl_0440.jpg (dir2) es similar a a22566469a0dd93e_2b8306e4_7898_4f27_b659_b0061c4c3832_rs_hl_0440_180deg.jpg (dir1) con transformación: rotate_180
+  e359e83ea1213155_2b8306e4_7898_4f27_b659_b0061c4c3832_rs_hl_0440.jpg (dir2) es similar a f1b2b9cb2b349d18_2b8306e4_7898_4f27_b659_b0061c4c3832_rs_hl_0440_fliptb.jpg (dir1) con transformación: mirror_vertical
+  8d9fac98ee05f108_2a8f7c7a_fbd4_4669_90eb_61ee118db2a7_rs_hl_0126.jpg (dir2) es similar a b8b988fbb300990d_2a8f7c7a_fbd4_4669_90eb_61ee118db2a7_rs_hl_0126_fliptb.jpg (dir1) con transformación: mirror_vertical
+  8d9fac98ee05f108_2a8f7c7a_fbd4_4669_90eb_61ee118db2a7_rs_hl_0126.jpg (dir2) es similar a fafad46e6ad47e98_2a8f7c7a_fbd4_4669_90eb_61ee118db2a7_rs_hl_0126_180deg.jpg (dir1) con transformación: rotate_180
+  6e52eb9d7730a586_0caff918_5807_40f2_b9e4_7dd34a7bab5d_rs_hl_0345.jpg (dir2) es similar a 6f2bd2c78a3440c9_0caff918_5807_40f2_b9e4_7dd34a7bab5d_rs_hl_0345_180deg.jpg (dir1) con transformación: rotate_180
+  6e52eb9d7730a586_0caff918_5807_40f2_b9e4_7dd34a7bab5d_rs_hl_0345.jpg (dir2) es similar a 60e1145fa3313123_0caff918_5807_40f2_b9e4_7dd34a7bab5d_rs_hl_0345_fliptb.jpg (dir1) con transformación: mirror_vertical
+  6b2f3d964b525fa0_2b6c6705_59ce_4afe_8ad1_62a367ea10e0_rs_hl_9994.jpg (dir2) es similar a 09d7e86878b35810_2b6c6705_59ce_4afe_8ad1_62a367ea10e0_rs_hl_9994_fliptb.jpg (dir1) con transformación: mirror_vertical
+  6b2f3d964b525fa0_2b6c6705_59ce_4afe_8ad1_62a367ea10e0_rs_hl_9994.jpg (dir2) es similar a 876edfe63610faf4_2b6c6705_59ce_4afe_8ad1_62a367ea10e0_rs_hl_9994_180deg.jpg (dir1) con transformación: rotate_180
+  56f9a75e7dc3358a_hl_163.jpg (dir2) es similar a 16d3408d328d0c8b_h102_mirror.jpg (dir1) con transformación: mirror_horizontal
+  56f9a75e7dc3358a_hl_163.jpg (dir2) es similar a ca5bf5f362d69b0b_h102_change_90.jpg (dir1) con transformación: rotate_90
+  56f9a75e7dc3358a_hl_163.jpg (dir2) es similar a b865b62a43f69ff4_h102_change_270.jpg (dir1) con transformación: rotate_270
+  56f9a75e7dc3358a_hl_163.jpg (dir2) es similar a 41a11fff3ecf1ebe_h102_mirror_vertical.jpg (dir1) con transformación: mirror_vertical
+  56f9a75e7dc3358a_hl_163.jpg (dir2) es similar a fc9dc67f2f7b8c03_h102_change_180.jpg (dir1) con transformación: rotate_180
+  4da7a177788cd175_tomato_leaf_jpg_rf_a876711aebaf78a2e36f82ce50aef443.jpg (dir2) es similar a 9cffe92d5f898fa2_hl_15.jpg (dir1) con transformación: identity
+  2b8a62b03568606e_3b1ba616_6a8f_44e9_948f_5c056eb565c8_rs_hl_9980.jpg (dir2) es similar a 56d48e095b7071be_3b1ba616_6a8f_44e9_948f_5c056eb565c8_rs_hl_9980_fliptb.jpg (dir1) con transformación: mirror_vertical
+  2b8a62b03568606e_3b1ba616_6a8f_44e9_948f_5c056eb565c8_rs_hl_9980.jpg (dir2) es similar a ebf551aac5b2bbcf_3b1ba616_6a8f_44e9_948f_5c056eb565c8_rs_hl_9980_180deg.jpg (dir1) con transformación: rotate_180
+  9cbc12ba4635f4bb_h27.jpg (dir2) es similar a f8c61a0946e5b87c_h27_change_90.jpg (dir1) con transformación: rotate_90
+  9cbc12ba4635f4bb_h27.jpg (dir2) es similar a 434c0089705e443c_h27_change_180.jpg (dir1) con transformación: rotate_180
+  9cbc12ba4635f4bb_h27.jpg (dir2) es similar a a59ba27eaea3f831_h27_mirror_vertical.jpg (dir1) con transformación: mirror_vertical
+  9cbc12ba4635f4bb_h27.jpg (dir2) es similar a 3ce58d79af656ce9_h27_mirror.jpg (dir1) con transformación: mirror_horizontal
+  9cbc12ba4635f4bb_h27.jpg (dir2) es similar a 5e15adf40190b89a_h27_change_270.jpg (dir1) con transformación: rotate_270
+  030926923b2fdb07_02d94768_da6d_4c1a_b8b3_fa2e5a2fcd4d_rs_hl_0449.jpg (dir2) es similar a 4f6f9c90d8b3e941_02d94768_da6d_4c1a_b8b3_fa2e5a2fcd4d_rs_hl_0449_fliptb.jpg (dir1) con transformación: mirror_vertical
+  030926923b2fdb07_02d94768_da6d_4c1a_b8b3_fa2e5a2fcd4d_rs_hl_0449.jpg (dir2) es similar a 2f81f2714b6dddbd_02d94768_da6d_4c1a_b8b3_fa2e5a2fcd4d_rs_hl_0449_180deg.jpg (dir1) con transformación: rotate_180
+  ddb64f6f3560ecb1_4bd918e2_ac0a_41b4_b1a0_f1bb799a309c_rs_hl_9846.jpg (dir2) es similar a 419666970be39bd8_4bd918e2_ac0a_41b4_b1a0_f1bb799a309c_rs_hl_9846_180deg.jpg (dir1) con transformación: rotate_180
+  ddb64f6f3560ecb1_4bd918e2_ac0a_41b4_b1a0_f1bb799a309c_rs_hl_9846.jpg (dir2) es similar a 6972a44c723220d4_4bd918e2_ac0a_41b4_b1a0_f1bb799a309c_rs_hl_9846_fliptb.jpg (dir1) con transformación: mirror_vertical
+  39efebf05753eb48_1ddf5950_e27f_4928_8f4e_33242953e306_rs_hl_0181.jpg (dir2) es similar a 1011c01c7448a077_1ddf5950_e27f_4928_8f4e_33242953e306_rs_hl_0181_180deg.jpg (dir1) con transformación: rotate_180
+  39efebf05753eb48_1ddf5950_e27f_4928_8f4e_33242953e306_rs_hl_0181.jpg (dir2) es similar a e90fe3b014eeb9f2_1ddf5950_e27f_4928_8f4e_33242953e306_rs_hl_0181_fliptb.jpg (dir1) con transformación: mirror_vertical
+  1b11a394032ab2e6_0d615a38_cfa4_45e4_b1b4_9977220e19ca_rs_hl_9815.jpg (dir2) es similar a 01bb9a80ecc7b8dc_0d615a38_cfa4_45e4_b1b4_9977220e19ca_rs_hl_9815_180deg.jpg (dir1) con transformación: rotate_180
+  1b11a394032ab2e6_0d615a38_cfa4_45e4_b1b4_9977220e19ca_rs_hl_9815.jpg (dir2) es similar a 06c66008b4826bee_0d615a38_cfa4_45e4_b1b4_9977220e19ca_rs_hl_9815_fliptb.jpg (dir1) con transformación: mirror_vertical
+  64414c12a3ac88ae_1a02fa87_a194_482e_b4ac_8dec2064d793_rs_hl_0022.jpg (dir2) es similar a 98622e1502452fb7_1a02fa87_a194_482e_b4ac_8dec2064d793_rs_hl_0022_fliptb.jpg (dir1) con transformación: mirror_vertical
+  64414c12a3ac88ae_1a02fa87_a194_482e_b4ac_8dec2064d793_rs_hl_0022.jpg (dir2) es similar a d40643f46c829367_1a02fa87_a194_482e_b4ac_8dec2064d793_rs_hl_0022_180deg.jpg (dir1) con transformación: rotate_180
+  bfc6ba56afd61252_0d932b2a_584e_4971_8590_70c5f0a049cf_rs_hl_9739.jpg (dir2) es similar a 16ec7865bde173a1_0d932b2a_584e_4971_8590_70c5f0a049cf_rs_hl_9739_180deg.jpg (dir1) con transformación: rotate_180
+  bfc6ba56afd61252_0d932b2a_584e_4971_8590_70c5f0a049cf_rs_hl_9739.jpg (dir2) es similar a fed12a91ca5a07cb_0d932b2a_584e_4971_8590_70c5f0a049cf_rs_hl_9739_fliptb.jpg (dir1) con transformación: mirror_vertical
+  b10d150a0c138ded_04c78dad_c1eb_4a1b_bfeb_da4c7cc528e1_rs_hl_9688.jpg (dir2) es similar a 472aff987897810b_04c78dad_c1eb_4a1b_bfeb_da4c7cc528e1_rs_hl_9688_fliptb.jpg (dir1) con transformación: mirror_vertical
+  b10d150a0c138ded_04c78dad_c1eb_4a1b_bfeb_da4c7cc528e1_rs_hl_9688.jpg (dir2) es similar a b4d5a28e3da32a7d_04c78dad_c1eb_4a1b_bfeb_da4c7cc528e1_rs_hl_9688_180deg.jpg (dir1) con transformación: rotate_180
+  90359de938d5de3f_2a1dd125_ece3_499f_a24b_1d00dbcc3184_gh_hl_leaf_227.jpg (dir2) es similar a 644a96c642c8f664_2a1dd125_ece3_499f_a24b_1d00dbcc3184_gh_hl_leaf_227_fliptb.jpg (dir1) con transformación: mirror_vertical
+  90359de938d5de3f_2a1dd125_ece3_499f_a24b_1d00dbcc3184_gh_hl_leaf_227.jpg (dir2) es similar a 934d50856bca9e72_2a1dd125_ece3_499f_a24b_1d00dbcc3184_gh_hl_leaf_227_180deg.jpg (dir1) con transformación: rotate_180
+  2ceee5ace38121f6_3ee909e6_4de7_4120_bb0e_bd71627f8bf1_rs_hl_9782.jpg (dir2) es similar a f8b4cbb06a2e828b_3ee909e6_4de7_4120_bb0e_bd71627f8bf1_rs_hl_9782_fliptb.jpg (dir1) con transformación: mirror_vertical
+  2ceee5ace38121f6_3ee909e6_4de7_4120_bb0e_bd71627f8bf1_rs_hl_9782.jpg (dir2) es similar a dd4ac0658ea22431_3ee909e6_4de7_4120_bb0e_bd71627f8bf1_rs_hl_9782_180deg.jpg (dir1) con transformación: rotate_180
+  df7d9e7ac192101d_3f730857_e87b_4de0_bcbb_fdf0314e2250_gh_hl_leaf_245_1.jpg (dir2) es similar a 81a7a5cab751f2eb_3f730857_e87b_4de0_bcbb_fdf0314e2250_gh_hl_leaf_245_1_180deg.jpg (dir1) con transformación: rotate_180
+  df7d9e7ac192101d_3f730857_e87b_4de0_bcbb_fdf0314e2250_gh_hl_leaf_245_1.jpg (dir2) es similar a 6fdb3643d18023da_3f730857_e87b_4de0_bcbb_fdf0314e2250_gh_hl_leaf_245_1_fliptb.jpg (dir1) con transformación: mirror_vertical
+  9d145b994603aef9_2eb4a2fa_d41e_47f1_9e3f_e49035c5b24a_rs_hl_9995.jpg (dir2) es similar a 74a809d9dc8c86a9_2eb4a2fa_d41e_47f1_9e3f_e49035c5b24a_rs_hl_9995_fliptb.jpg (dir1) con transformación: mirror_vertical
+  9d145b994603aef9_2eb4a2fa_d41e_47f1_9e3f_e49035c5b24a_rs_hl_9995.jpg (dir2) es similar a f370153f799bb3a4_2eb4a2fa_d41e_47f1_9e3f_e49035c5b24a_rs_hl_9995_180deg.jpg (dir1) con transformación: rotate_180
+  a3aac4201aea95a1_1b477a6a_aa09_4c12_ad17_fbbc08cd76da_gh_hl_leaf_386.jpg (dir2) es similar a c846cbb0b49e95b4_1b477a6a_aa09_4c12_ad17_fbbc08cd76da_gh_hl_leaf_386_180deg.jpg (dir1) con transformación: rotate_180
+  a3aac4201aea95a1_1b477a6a_aa09_4c12_ad17_fbbc08cd76da_gh_hl_leaf_386.jpg (dir2) es similar a 2dcdd1b9a254270a_1b477a6a_aa09_4c12_ad17_fbbc08cd76da_gh_hl_leaf_386_fliptb.jpg (dir1) con transformación: mirror_vertical
+  e74ba787d7bc5b66_2d6ecece_b67e_42f1_924b_3a5dbd95d5ef_rs_hl_0282.jpg (dir2) es similar a bad77a01fe952c3d_2d6ecece_b67e_42f1_924b_3a5dbd95d5ef_rs_hl_0282_180deg.jpg (dir1) con transformación: rotate_180
+  e74ba787d7bc5b66_2d6ecece_b67e_42f1_924b_3a5dbd95d5ef_rs_hl_0282.jpg (dir2) es similar a b944775d104e71b1_2d6ecece_b67e_42f1_924b_3a5dbd95d5ef_rs_hl_0282_fliptb.jpg (dir1) con transformación: mirror_vertical
+  8d67cfa91ef82996_0de569a8_21c5_4d22_b9c9_ba0ef0f2b614_rs_hl_0314.jpg (dir2) es similar a e56214e459addbe7_0de569a8_21c5_4d22_b9c9_ba0ef0f2b614_rs_hl_0314_180deg.jpg (dir1) con transformación: rotate_180
+  8d67cfa91ef82996_0de569a8_21c5_4d22_b9c9_ba0ef0f2b614_rs_hl_0314.jpg (dir2) es similar a a80dfd691aa73048_0de569a8_21c5_4d22_b9c9_ba0ef0f2b614_rs_hl_0314_fliptb.jpg (dir1) con transformación: mirror_vertical
+  2ce90cdce200f4bc_1f763a4e_3f17_44c1_be1b_a8752d2b93a1_rs_hl_9830.jpg (dir2) es similar a 837c8bd6b0df5bf0_1f763a4e_3f17_44c1_be1b_a8752d2b93a1_rs_hl_9830_fliptb.jpg (dir1) con transformación: mirror_vertical
+  2ce90cdce200f4bc_1f763a4e_3f17_44c1_be1b_a8752d2b93a1_rs_hl_9830.jpg (dir2) es similar a db2e73d3599a7fa5_1f763a4e_3f17_44c1_be1b_a8752d2b93a1_rs_hl_9830_180deg.jpg (dir1) con transformación: rotate_180
+Total: 94
+
+=== LOGS DE PROCESAMIENTO ===
+
+🚀 ALGORITMO OPTIMIZADO INICIADO
+Directorio 1: 3285 archivos
+Directorio 2: 421 archivos
+
+=== PASO 1: Verificando duplicados exactos (paralelo) ===
+Duplicados exactos encontrados: 0 (⏱️ 0.62s)
+
+=== PASO 2: Verificando duplicados perceptuales (optimizado) ===
+🔄 Calculando hashes perceptuales en paralelo...
+📊 Índices creados en 77.98s
+🎯 1178678 candidatos encontrados en 12.81s
+✅ Verificando candidatos en paralelo...
+  ✅ MATCH: 61775f7877edf819_0e3feb72_86e5_41c2_a7ca_3295800e5777_rs_hl_0158_180deg.jpg ↔ 1cf7a0b3b0bdfe7e_0e3feb72_86e5_41c2_a7ca_3295800e5777_rs_hl_0158.jpg (rotate_180)
+  ✅ MATCH: a32e80102aa84c05_0e3feb72_86e5_41c2_a7ca_3295800e5777_rs_hl_0158_fliptb.jpg ↔ 1cf7a0b3b0bdfe7e_0e3feb72_86e5_41c2_a7ca_3295800e5777_rs_hl_0158.jpg (mirror_vertical)
+  ✅ MATCH: 5ab892f266d9ec79_1a0c4408_634e_4bd5_948d_e73ca5572976_rs_hl_0146_fliptb.jpg ↔ 7de55781ba22cbc9_1a0c4408_634e_4bd5_948d_e73ca5572976_rs_hl_0146.jpg (mirror_vertical)
+  ✅ MATCH: 93a20212a288d0f4_1a0c4408_634e_4bd5_948d_e73ca5572976_rs_hl_0146_180deg.jpg ↔ 7de55781ba22cbc9_1a0c4408_634e_4bd5_948d_e73ca5572976_rs_hl_0146.jpg (rotate_180)
+  ✅ MATCH: 15766d16baf7eeab_h24_mirror_vertical.jpg ↔ a9763a54b6b8e24a_h24.jpg (mirror_vertical)
+  ✅ MATCH: ae3ee5b2622dd030_h24_change_90.jpg ↔ a9763a54b6b8e24a_h24.jpg (rotate_90)
+  ✅ MATCH: 59c07417e39ddcaf_h24_change_180.jpg ↔ a9763a54b6b8e24a_h24.jpg (rotate_180)
+  ✅ MATCH: 06b649e2513e649c_h24_change_270.jpg ↔ a9763a54b6b8e24a_h24.jpg (rotate_270)
+  ✅ MATCH: 664bf0ce7b7f4364_h24_mirror.jpg ↔ a9763a54b6b8e24a_h24.jpg (mirror_horizontal)
+  ✅ MATCH: 12072ebe168c03ac_3ea001ac_b49b_4382_a95d_a602fba00a5a_gh_hl_leaf_445_fliptb.jpg ↔ bd5264cb19ed59c4_3ea001ac_b49b_4382_a95d_a602fba00a5a_gh_hl_leaf_445.jpg (mirror_vertical)
+  ✅ MATCH: 5d3923114dbb3a15_3ea001ac_b49b_4382_a95d_a602fba00a5a_gh_hl_leaf_445_180deg.jpg ↔ bd5264cb19ed59c4_3ea001ac_b49b_4382_a95d_a602fba00a5a_gh_hl_leaf_445.jpg (rotate_180)
+  ✅ MATCH: 03df98b0ce907751_1d598eb4_b055_4c4c_8b7e_b60990804957_rs_hl_9838_180deg.jpg ↔ be16a427f63e98cd_1d598eb4_b055_4c4c_8b7e_b60990804957_rs_hl_9838.jpg (rotate_180)
+  ✅ MATCH: 031e77360c421349_1d598eb4_b055_4c4c_8b7e_b60990804957_rs_hl_9838_fliptb.jpg ↔ be16a427f63e98cd_1d598eb4_b055_4c4c_8b7e_b60990804957_rs_hl_9838.jpg (mirror_vertical)
+  ✅ MATCH: 9c6117bf7331acf1_4b9bc37a_a9af_4e3f_a4e4_1e6cfb79c673_rs_hl_0262_180deg.jpg ↔ 16250f0940f51070_4b9bc37a_a9af_4e3f_a4e4_1e6cfb79c673_rs_hl_0262.jpg (rotate_180)
+  ✅ MATCH: 66a68d2901c13bad_4b9bc37a_a9af_4e3f_a4e4_1e6cfb79c673_rs_hl_0262_fliptb.jpg ↔ 16250f0940f51070_4b9bc37a_a9af_4e3f_a4e4_1e6cfb79c673_rs_hl_0262.jpg (mirror_vertical)
+  ✅ MATCH: f39fbcddf31bfe67_1e5e6f9d_6d14_4ea7_9c36_c6a559e567d7_rs_hl_9780_fliptb.jpg ↔ 2c69e62147a21e6f_1e5e6f9d_6d14_4ea7_9c36_c6a559e567d7_rs_hl_9780.jpg (mirror_vertical)
+  ✅ MATCH: b4777be725df9066_1e5e6f9d_6d14_4ea7_9c36_c6a559e567d7_rs_hl_9780_180deg.jpg ↔ 2c69e62147a21e6f_1e5e6f9d_6d14_4ea7_9c36_c6a559e567d7_rs_hl_9780.jpg (rotate_180)
+  ✅ MATCH: a3a5cd0bf049f84c_2e97e18f_8ae2_4d5d_b7fb_64baeead1ed4_gh_hl_leaf_221_1_fliptb.jpg ↔ 79a6f70916b13501_2e97e18f_8ae2_4d5d_b7fb_64baeead1ed4_gh_hl_leaf_221_1.jpg (mirror_vertical)
+  ✅ MATCH: 2842fb170bac518e_2e97e18f_8ae2_4d5d_b7fb_64baeead1ed4_gh_hl_leaf_221_1_180deg.jpg ↔ 79a6f70916b13501_2e97e18f_8ae2_4d5d_b7fb_64baeead1ed4_gh_hl_leaf_221_1.jpg (rotate_180)
+  ✅ MATCH: 2f48949fbebe4eee_h32_change_270.jpg ↔ 8f7a0137ffda1105_hl_135.jpg (rotate_270)
+  ✅ MATCH: 487ea4d3945ca583_h32_mirror.jpg ↔ 8f7a0137ffda1105_hl_135.jpg (mirror_horizontal)
+  ✅ MATCH: f6a7abb480f56b5d_h32_change_180.jpg ↔ 8f7a0137ffda1105_hl_135.jpg (rotate_180)
+  ✅ MATCH: 7728b153389135d3_h32_change_90.jpg ↔ 8f7a0137ffda1105_hl_135.jpg (rotate_90)
+  ✅ MATCH: 19c7f013c3db874b_h32_mirror_vertical.jpg ↔ 8f7a0137ffda1105_hl_135.jpg (mirror_vertical)
+  ✅ MATCH: 0f2061b1893d0026_1ca3c77d_13d8_43cc_929f_9c3a79e5dd1b_rs_hl_0250_fliptb.jpg ↔ 0e0a421015b47faf_1ca3c77d_13d8_43cc_929f_9c3a79e5dd1b_rs_hl_0250.jpg (mirror_vertical)
+  ✅ MATCH: 952446647624d40c_1ca3c77d_13d8_43cc_929f_9c3a79e5dd1b_rs_hl_0250_180deg.jpg ↔ 0e0a421015b47faf_1ca3c77d_13d8_43cc_929f_9c3a79e5dd1b_rs_hl_0250.jpg (rotate_180)
+  ✅ MATCH: 8c18bf2d661e4232_4b7deb4f_5bce_4915_ba64_7e75c66624c2_rs_hl_0153_fliptb.jpg ↔ e5c7d67a51efd863_4b7deb4f_5bce_4915_ba64_7e75c66624c2_rs_hl_0153.jpg (mirror_vertical)
+  ✅ MATCH: 9e7a4e18c225192b_4b7deb4f_5bce_4915_ba64_7e75c66624c2_rs_hl_0153_180deg.jpg ↔ e5c7d67a51efd863_4b7deb4f_5bce_4915_ba64_7e75c66624c2_rs_hl_0153.jpg (rotate_180)
+  ✅ MATCH: 4ef0c03f9cf4bf80_3b4a011c_68ae_4b84_90b5_27ef4b2d3447_gh_hl_leaf_255_180deg.jpg ↔ c6907457eceb7403_3b4a011c_68ae_4b84_90b5_27ef4b2d3447_gh_hl_leaf_255.jpg (rotate_180)
+  ✅ MATCH: 4191da6bce34ffd3_3b4a011c_68ae_4b84_90b5_27ef4b2d3447_gh_hl_leaf_255_fliptb.jpg ↔ c6907457eceb7403_3b4a011c_68ae_4b84_90b5_27ef4b2d3447_gh_hl_leaf_255.jpg (mirror_vertical)
+  ✅ MATCH: 0fd9935582792a2f_hl_152.png ↔ 0f8659ea5f612703_hl_153.png (identity)
+  ✅ MATCH: 0efcd10613af1755_0aacdad5_c9b9_4309_96e3_0797bbed1375_rs_hl_9836_fliptb.jpg ↔ c30df87e0a7e4aff_0aacdad5_c9b9_4309_96e3_0797bbed1375_rs_hl_9836.jpg (mirror_vertical)
+  ✅ MATCH: fc174c0de8659d91_0aacdad5_c9b9_4309_96e3_0797bbed1375_rs_hl_9836_180deg.jpg ↔ c30df87e0a7e4aff_0aacdad5_c9b9_4309_96e3_0797bbed1375_rs_hl_9836.jpg (rotate_180)
+  ✅ MATCH: cc3d4e6a2ca39947_2ec18b22_c51c_456b_bf94_d5f3d282fb6c_rs_hl_0179_180deg.jpg ↔ b615c07331c4a29b_2ec18b22_c51c_456b_bf94_d5f3d282fb6c_rs_hl_0179.jpg (rotate_180)
+  ✅ MATCH: a4c312b3eb05f6a7_2ec18b22_c51c_456b_bf94_d5f3d282fb6c_rs_hl_0179_fliptb.jpg ↔ b615c07331c4a29b_2ec18b22_c51c_456b_bf94_d5f3d282fb6c_rs_hl_0179.jpg (mirror_vertical)
+  ✅ MATCH: 68978b89a92687f8_2a11ceb9_41c9_4f2e_bed9_ef1c1c7d479b_rs_hl_0371_180deg.jpg ↔ 2083a8d9ed4fe1ff_2a11ceb9_41c9_4f2e_bed9_ef1c1c7d479b_rs_hl_0371.jpg (rotate_180)
+  ✅ MATCH: 789f064042188df8_2a11ceb9_41c9_4f2e_bed9_ef1c1c7d479b_rs_hl_0371_fliptb.jpg ↔ 2083a8d9ed4fe1ff_2a11ceb9_41c9_4f2e_bed9_ef1c1c7d479b_rs_hl_0371.jpg (mirror_vertical)
+  ✅ MATCH: 138365face919113_2fd78b0f_a307_4824_9e6c_ff4a3f27e3c8_gh_hl_leaf_403_180deg.jpg ↔ 1cc37e7bfd9fc6ad_2fd78b0f_a307_4824_9e6c_ff4a3f27e3c8_gh_hl_leaf_403.jpg (rotate_180)
+  ✅ MATCH: 9ae4745a1dc6d8b9_2fd78b0f_a307_4824_9e6c_ff4a3f27e3c8_gh_hl_leaf_403_fliptb.jpg ↔ 1cc37e7bfd9fc6ad_2fd78b0f_a307_4824_9e6c_ff4a3f27e3c8_gh_hl_leaf_403.jpg (mirror_vertical)
+  ✅ MATCH: f2103a13c9274c31_3eaf72d6_be20_4929_b6dc_58f6c9edf2bd_rs_hl_0031_fliptb.jpg ↔ 34df1934bad8cda3_3eaf72d6_be20_4929_b6dc_58f6c9edf2bd_rs_hl_0031.jpg (mirror_vertical)
+  ✅ MATCH: d602e37b8891268f_3eaf72d6_be20_4929_b6dc_58f6c9edf2bd_rs_hl_0031_180deg.jpg ↔ 34df1934bad8cda3_3eaf72d6_be20_4929_b6dc_58f6c9edf2bd_rs_hl_0031.jpg (rotate_180)
+  ✅ MATCH: 1281a19825972057_0fee8af3_ca03_418c_a71c_c4fb0a80dc7b_rs_hl_0199_180deg.jpg ↔ 74eabdd90b9ebef6_0fee8af3_ca03_418c_a71c_c4fb0a80dc7b_rs_hl_0199.jpg (rotate_180)
+  ✅ MATCH: d9bdd178e16c9587_0fee8af3_ca03_418c_a71c_c4fb0a80dc7b_rs_hl_0199_fliptb.jpg ↔ 74eabdd90b9ebef6_0fee8af3_ca03_418c_a71c_c4fb0a80dc7b_rs_hl_0199.jpg (mirror_vertical)
+  ✅ MATCH: a22566469a0dd93e_2b8306e4_7898_4f27_b659_b0061c4c3832_rs_hl_0440_180deg.jpg ↔ e359e83ea1213155_2b8306e4_7898_4f27_b659_b0061c4c3832_rs_hl_0440.jpg (rotate_180)
+  ✅ MATCH: f1b2b9cb2b349d18_2b8306e4_7898_4f27_b659_b0061c4c3832_rs_hl_0440_fliptb.jpg ↔ e359e83ea1213155_2b8306e4_7898_4f27_b659_b0061c4c3832_rs_hl_0440.jpg (mirror_vertical)
+  ✅ MATCH: b8b988fbb300990d_2a8f7c7a_fbd4_4669_90eb_61ee118db2a7_rs_hl_0126_fliptb.jpg ↔ 8d9fac98ee05f108_2a8f7c7a_fbd4_4669_90eb_61ee118db2a7_rs_hl_0126.jpg (mirror_vertical)
+  ✅ MATCH: fafad46e6ad47e98_2a8f7c7a_fbd4_4669_90eb_61ee118db2a7_rs_hl_0126_180deg.jpg ↔ 8d9fac98ee05f108_2a8f7c7a_fbd4_4669_90eb_61ee118db2a7_rs_hl_0126.jpg (rotate_180)
+  ✅ MATCH: 6f2bd2c78a3440c9_0caff918_5807_40f2_b9e4_7dd34a7bab5d_rs_hl_0345_180deg.jpg ↔ 6e52eb9d7730a586_0caff918_5807_40f2_b9e4_7dd34a7bab5d_rs_hl_0345.jpg (rotate_180)
+  ✅ MATCH: 60e1145fa3313123_0caff918_5807_40f2_b9e4_7dd34a7bab5d_rs_hl_0345_fliptb.jpg ↔ 6e52eb9d7730a586_0caff918_5807_40f2_b9e4_7dd34a7bab5d_rs_hl_0345.jpg (mirror_vertical)
+  ✅ MATCH: 09d7e86878b35810_2b6c6705_59ce_4afe_8ad1_62a367ea10e0_rs_hl_9994_fliptb.jpg ↔ 6b2f3d964b525fa0_2b6c6705_59ce_4afe_8ad1_62a367ea10e0_rs_hl_9994.jpg (mirror_vertical)
+  ✅ MATCH: 876edfe63610faf4_2b6c6705_59ce_4afe_8ad1_62a367ea10e0_rs_hl_9994_180deg.jpg ↔ 6b2f3d964b525fa0_2b6c6705_59ce_4afe_8ad1_62a367ea10e0_rs_hl_9994.jpg (rotate_180)
+  ✅ MATCH: 16d3408d328d0c8b_h102_mirror.jpg ↔ 56f9a75e7dc3358a_hl_163.jpg (mirror_horizontal)
+  ✅ MATCH: ca5bf5f362d69b0b_h102_change_90.jpg ↔ 56f9a75e7dc3358a_hl_163.jpg (rotate_90)
+  ✅ MATCH: b865b62a43f69ff4_h102_change_270.jpg ↔ 56f9a75e7dc3358a_hl_163.jpg (rotate_270)
+  ✅ MATCH: 41a11fff3ecf1ebe_h102_mirror_vertical.jpg ↔ 56f9a75e7dc3358a_hl_163.jpg (mirror_vertical)
+  ✅ MATCH: fc9dc67f2f7b8c03_h102_change_180.jpg ↔ 56f9a75e7dc3358a_hl_163.jpg (rotate_180)
+  ✅ MATCH: 9cffe92d5f898fa2_hl_15.jpg ↔ 4da7a177788cd175_tomato_leaf_jpg_rf_a876711aebaf78a2e36f82ce50aef443.jpg (identity)
+  ✅ MATCH: 56d48e095b7071be_3b1ba616_6a8f_44e9_948f_5c056eb565c8_rs_hl_9980_fliptb.jpg ↔ 2b8a62b03568606e_3b1ba616_6a8f_44e9_948f_5c056eb565c8_rs_hl_9980.jpg (mirror_vertical)
+  ✅ MATCH: ebf551aac5b2bbcf_3b1ba616_6a8f_44e9_948f_5c056eb565c8_rs_hl_9980_180deg.jpg ↔ 2b8a62b03568606e_3b1ba616_6a8f_44e9_948f_5c056eb565c8_rs_hl_9980.jpg (rotate_180)
+  ✅ MATCH: f8c61a0946e5b87c_h27_change_90.jpg ↔ 9cbc12ba4635f4bb_h27.jpg (rotate_90)
+  ✅ MATCH: 434c0089705e443c_h27_change_180.jpg ↔ 9cbc12ba4635f4bb_h27.jpg (rotate_180)
+  ✅ MATCH: a59ba27eaea3f831_h27_mirror_vertical.jpg ↔ 9cbc12ba4635f4bb_h27.jpg (mirror_vertical)
+  ✅ MATCH: 3ce58d79af656ce9_h27_mirror.jpg ↔ 9cbc12ba4635f4bb_h27.jpg (mirror_horizontal)
+  ✅ MATCH: 5e15adf40190b89a_h27_change_270.jpg ↔ 9cbc12ba4635f4bb_h27.jpg (rotate_270)
+  ✅ MATCH: 4f6f9c90d8b3e941_02d94768_da6d_4c1a_b8b3_fa2e5a2fcd4d_rs_hl_0449_fliptb.jpg ↔ 030926923b2fdb07_02d94768_da6d_4c1a_b8b3_fa2e5a2fcd4d_rs_hl_0449.jpg (mirror_vertical)
+  ✅ MATCH: 2f81f2714b6dddbd_02d94768_da6d_4c1a_b8b3_fa2e5a2fcd4d_rs_hl_0449_180deg.jpg ↔ 030926923b2fdb07_02d94768_da6d_4c1a_b8b3_fa2e5a2fcd4d_rs_hl_0449.jpg (rotate_180)
+  ✅ MATCH: 419666970be39bd8_4bd918e2_ac0a_41b4_b1a0_f1bb799a309c_rs_hl_9846_180deg.jpg ↔ ddb64f6f3560ecb1_4bd918e2_ac0a_41b4_b1a0_f1bb799a309c_rs_hl_9846.jpg (rotate_180)
+  ✅ MATCH: 6972a44c723220d4_4bd918e2_ac0a_41b4_b1a0_f1bb799a309c_rs_hl_9846_fliptb.jpg ↔ ddb64f6f3560ecb1_4bd918e2_ac0a_41b4_b1a0_f1bb799a309c_rs_hl_9846.jpg (mirror_vertical)
+  ✅ MATCH: 1011c01c7448a077_1ddf5950_e27f_4928_8f4e_33242953e306_rs_hl_0181_180deg.jpg ↔ 39efebf05753eb48_1ddf5950_e27f_4928_8f4e_33242953e306_rs_hl_0181.jpg (rotate_180)
+  ✅ MATCH: e90fe3b014eeb9f2_1ddf5950_e27f_4928_8f4e_33242953e306_rs_hl_0181_fliptb.jpg ↔ 39efebf05753eb48_1ddf5950_e27f_4928_8f4e_33242953e306_rs_hl_0181.jpg (mirror_vertical)
+  ✅ MATCH: 01bb9a80ecc7b8dc_0d615a38_cfa4_45e4_b1b4_9977220e19ca_rs_hl_9815_180deg.jpg ↔ 1b11a394032ab2e6_0d615a38_cfa4_45e4_b1b4_9977220e19ca_rs_hl_9815.jpg (rotate_180)
+  ✅ MATCH: 06c66008b4826bee_0d615a38_cfa4_45e4_b1b4_9977220e19ca_rs_hl_9815_fliptb.jpg ↔ 1b11a394032ab2e6_0d615a38_cfa4_45e4_b1b4_9977220e19ca_rs_hl_9815.jpg (mirror_vertical)
+  ✅ MATCH: 98622e1502452fb7_1a02fa87_a194_482e_b4ac_8dec2064d793_rs_hl_0022_fliptb.jpg ↔ 64414c12a3ac88ae_1a02fa87_a194_482e_b4ac_8dec2064d793_rs_hl_0022.jpg (mirror_vertical)
+  ✅ MATCH: d40643f46c829367_1a02fa87_a194_482e_b4ac_8dec2064d793_rs_hl_0022_180deg.jpg ↔ 64414c12a3ac88ae_1a02fa87_a194_482e_b4ac_8dec2064d793_rs_hl_0022.jpg (rotate_180)
+  ✅ MATCH: 16ec7865bde173a1_0d932b2a_584e_4971_8590_70c5f0a049cf_rs_hl_9739_180deg.jpg ↔ bfc6ba56afd61252_0d932b2a_584e_4971_8590_70c5f0a049cf_rs_hl_9739.jpg (rotate_180)
+  ✅ MATCH: fed12a91ca5a07cb_0d932b2a_584e_4971_8590_70c5f0a049cf_rs_hl_9739_fliptb.jpg ↔ bfc6ba56afd61252_0d932b2a_584e_4971_8590_70c5f0a049cf_rs_hl_9739.jpg (mirror_vertical)
+  ✅ MATCH: 472aff987897810b_04c78dad_c1eb_4a1b_bfeb_da4c7cc528e1_rs_hl_9688_fliptb.jpg ↔ b10d150a0c138ded_04c78dad_c1eb_4a1b_bfeb_da4c7cc528e1_rs_hl_9688.jpg (mirror_vertical)
+  ✅ MATCH: b4d5a28e3da32a7d_04c78dad_c1eb_4a1b_bfeb_da4c7cc528e1_rs_hl_9688_180deg.jpg ↔ b10d150a0c138ded_04c78dad_c1eb_4a1b_bfeb_da4c7cc528e1_rs_hl_9688.jpg (rotate_180)
+  ✅ MATCH: 644a96c642c8f664_2a1dd125_ece3_499f_a24b_1d00dbcc3184_gh_hl_leaf_227_fliptb.jpg ↔ 90359de938d5de3f_2a1dd125_ece3_499f_a24b_1d00dbcc3184_gh_hl_leaf_227.jpg (mirror_vertical)
+  ✅ MATCH: 934d50856bca9e72_2a1dd125_ece3_499f_a24b_1d00dbcc3184_gh_hl_leaf_227_180deg.jpg ↔ 90359de938d5de3f_2a1dd125_ece3_499f_a24b_1d00dbcc3184_gh_hl_leaf_227.jpg (rotate_180)
+  ✅ MATCH: f8b4cbb06a2e828b_3ee909e6_4de7_4120_bb0e_bd71627f8bf1_rs_hl_9782_fliptb.jpg ↔ 2ceee5ace38121f6_3ee909e6_4de7_4120_bb0e_bd71627f8bf1_rs_hl_9782.jpg (mirror_vertical)
+  ✅ MATCH: dd4ac0658ea22431_3ee909e6_4de7_4120_bb0e_bd71627f8bf1_rs_hl_9782_180deg.jpg ↔ 2ceee5ace38121f6_3ee909e6_4de7_4120_bb0e_bd71627f8bf1_rs_hl_9782.jpg (rotate_180)
+  ✅ MATCH: 81a7a5cab751f2eb_3f730857_e87b_4de0_bcbb_fdf0314e2250_gh_hl_leaf_245_1_180deg.jpg ↔ df7d9e7ac192101d_3f730857_e87b_4de0_bcbb_fdf0314e2250_gh_hl_leaf_245_1.jpg (rotate_180)
+  ✅ MATCH: 6fdb3643d18023da_3f730857_e87b_4de0_bcbb_fdf0314e2250_gh_hl_leaf_245_1_fliptb.jpg ↔ df7d9e7ac192101d_3f730857_e87b_4de0_bcbb_fdf0314e2250_gh_hl_leaf_245_1.jpg (mirror_vertical)
+  ✅ MATCH: 74a809d9dc8c86a9_2eb4a2fa_d41e_47f1_9e3f_e49035c5b24a_rs_hl_9995_fliptb.jpg ↔ 9d145b994603aef9_2eb4a2fa_d41e_47f1_9e3f_e49035c5b24a_rs_hl_9995.jpg (mirror_vertical)
+  ✅ MATCH: f370153f799bb3a4_2eb4a2fa_d41e_47f1_9e3f_e49035c5b24a_rs_hl_9995_180deg.jpg ↔ 9d145b994603aef9_2eb4a2fa_d41e_47f1_9e3f_e49035c5b24a_rs_hl_9995.jpg (rotate_180)
+  ✅ MATCH: c846cbb0b49e95b4_1b477a6a_aa09_4c12_ad17_fbbc08cd76da_gh_hl_leaf_386_180deg.jpg ↔ a3aac4201aea95a1_1b477a6a_aa09_4c12_ad17_fbbc08cd76da_gh_hl_leaf_386.jpg (rotate_180)
+  ✅ MATCH: 2dcdd1b9a254270a_1b477a6a_aa09_4c12_ad17_fbbc08cd76da_gh_hl_leaf_386_fliptb.jpg ↔ a3aac4201aea95a1_1b477a6a_aa09_4c12_ad17_fbbc08cd76da_gh_hl_leaf_386.jpg (mirror_vertical)
+  ✅ MATCH: bad77a01fe952c3d_2d6ecece_b67e_42f1_924b_3a5dbd95d5ef_rs_hl_0282_180deg.jpg ↔ e74ba787d7bc5b66_2d6ecece_b67e_42f1_924b_3a5dbd95d5ef_rs_hl_0282.jpg (rotate_180)
+  ✅ MATCH: b944775d104e71b1_2d6ecece_b67e_42f1_924b_3a5dbd95d5ef_rs_hl_0282_fliptb.jpg ↔ e74ba787d7bc5b66_2d6ecece_b67e_42f1_924b_3a5dbd95d5ef_rs_hl_0282.jpg (mirror_vertical)
+  ✅ MATCH: e56214e459addbe7_0de569a8_21c5_4d22_b9c9_ba0ef0f2b614_rs_hl_0314_180deg.jpg ↔ 8d67cfa91ef82996_0de569a8_21c5_4d22_b9c9_ba0ef0f2b614_rs_hl_0314.jpg (rotate_180)
+  ✅ MATCH: a80dfd691aa73048_0de569a8_21c5_4d22_b9c9_ba0ef0f2b614_rs_hl_0314_fliptb.jpg ↔ 8d67cfa91ef82996_0de569a8_21c5_4d22_b9c9_ba0ef0f2b614_rs_hl_0314.jpg (mirror_vertical)
+  ✅ MATCH: 837c8bd6b0df5bf0_1f763a4e_3f17_44c1_be1b_a8752d2b93a1_rs_hl_9830_fliptb.jpg ↔ 2ce90cdce200f4bc_1f763a4e_3f17_44c1_be1b_a8752d2b93a1_rs_hl_9830.jpg (mirror_vertical)
+  ✅ MATCH: db2e73d3599a7fa5_1f763a4e_3f17_44c1_be1b_a8752d2b93a1_rs_hl_9830_180deg.jpg ↔ 2ce90cdce200f4bc_1f763a4e_3f17_44c1_be1b_a8752d2b93a1_rs_hl_9830.jpg (rotate_180)
+🎊 Duplicados perceptuales: 94 (⏱️ 4165.64s total, 4074.85s verificación)
+
+=== PASO 3: Detectando versiones adicionales (optimizado) ===
+🔗 Versiones adicionales: 0 (⏱️ 0.00s)
+
+🎉 PROCESO COMPLETADO EN 4166.26s
+   - Exactos: 0.62s
+   - Perceptuales: 4165.64s
+   - Versiones: 0.00s
+   - Aceleración estimada: 33.2x

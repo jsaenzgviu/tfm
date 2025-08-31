@@ -1,0 +1,234 @@
+ANÁLISIS HÍBRIDO CON VERIFICACIÓN VISUAL SELECTIVA
+================================================================================
+
+Directorio: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same0/valid/tomato_mosaic_virus
+Tiempo de análisis: 0.007s
+Fecha: 2025-08-22 11:53:09
+
+ESTADÍSTICAS FINALES:
+- Total de archivos: 210
+- Grupos verificados: 1
+- Archivos agrupados: 4
+- Archivos únicos: 206
+- Eficiencia: 1.9% archivos agrupados
+
+GRUPOS VERIFICADOS VISUALMENTE:
+--------------------------------------------------
+
+Grupo: jpg_rf (4 archivos)
+Método: pattern_confirmed
+Transformaciones: identity
+Archivos:
+  - e0866b72018f18fb_9511_img_jpg_rf_75a8f18afd4e5b3f7de8cd576ac96577.jpg
+  - 89c7c02bc9cac4db_tomato_d4a_tobringspotvirus_1000077_zoom_jpg_rf_348221d5c0df256bc402717a06bb097a.jpg
+  - fcfb72aa406339ed_tomato_mosaic_virus_disease_on_260nw_625499780_jpg_rf_f4b318e2512a4dffd1acbf93e6127597.jpg
+  - 2c2fb8d1f8ebeef9_tomato_mosaic_virus_f0ba26_jpg_rf_3153afdd5cbdf7ac3d98c9e1c9a4ec9d.jpg
+
+ARCHIVOS ÚNICOS (206 total):
+----------------------------------------
+- 331491c072943f8f_3117475d_3948_45a5_b2c7_630efb8bfab8_psu_cg_2333.jpg
+- edc92b079d32f164_mv_636.jpg
+- 4f91e53e43102629_526552ed_aa23_41e6_a79f_05f8fca5162d_psu_cg_2090.jpg
+- b7204066ab8a47fe_59e3d4c3_f6fe_4d68_82a5_d509b810b39d_psu_cg_2303.jpg
+- 20b6d03ad28f7716_69d3740b_5aba_47e2_ae2f_46541333c3a5_psu_cg_2420.jpg
+- 114ad00502e68207_mv_5.jpg
+- 9d109a2015be72c9_847307bc_58ab_45fc_8001_f1e07a38bc82_psu_cg_2065.jpg
+- a125bd14b77690ce_f16eeb0f_5219_4a81_9941_351b3d9ba5fc_psu_cg_2089.jpg
+- 3c6fb96028247775_6804695f_56f8_4ff9_90f8_69ee95097463_psu_cg_2067.jpg
+- c03334897369ad96_c668017b_5c87_4f2e_90ab_021b81f48b1b_psu_cg_2272.jpg
+- 9bda5f8fb5471c5d_mv_451.jpg
+- 1b47175a07282c8f_mv_520.jpg
+- deb9599777a1908e_mv_639.jpg
+- 0cea549e01d0cfb8_mv_399.jpg
+- 817ca00b7c86bc2e_7569fab7_ac19_4ac4_a01b_b77a4abb0c29_psu_cg_2350.jpg
+- 84d955822bddf634_mv_552.jpg
+- b6f8f29b3ac95a57_mv_648.jpg
+- ec839d7f27a8ae5d_mv_734.jpg
+- 03e1824956bb0533_b2622141_87e3_4d73_8eb0_21401f3bbab5_psu_cg_2144.jpg
+- 8fcb724155770d3a_mv_713.jpg
+- 7d7e11bbeac3aeb7_mv_452.jpg
+- 31f3a00b662b5d84_mv_612.jpg
+- 39c73b8f4bd2532e_4a76c13f_3e28_4849_81ef_4cdd6cdcccf4_psu_cg_2171.jpg
+- 465cf8c14c8d6da7_55117128_4dcf_4b3a_bde6_9f42a18d4b24_psu_cg_2377.jpg
+- 89050e269347bf44_802d3f0c_8f4d_43ec_8bc9_c8bb43c2f8c2_psu_cg_2354.jpg
+- e7f67c86efd4d328_mv_392.jpg
+- ffc137cb77496835_mv_466.jpg
+- 539f7a031a190bdd_mv_468.jpg
+- b809e58619e4cec3_124f2b6c_ba93_46dc_9662_04ec2b631a23_psu_cg_2084.jpg
+- c7d26f0df6a54019_mv_633.jpg
+- 7dbcfb2adca7a358_unnamed_2.jpg
+- c56dca6009ffec7a_mv_551.jpg
+- d065b694bb75a7b7_mv_640.jpg
+- c7cfd9bf259d1ef1_119554ae_c777_46da_abb7_591404fdc65f_psu_cg_2393.jpg
+- f970536fca295798_mv_465.jpg
+- 6505feb6b36c08e4_mv_568.jpg
+- c57310525d4ba8a5_mv_743.jpg
+- d4ced16a63bfb558_mv_775.jpg
+- 751f4bfa782a4ff1_dccceb76_131a_4ce3_a864_5e46cf863c09_psu_cg_2336.jpg
+- 722412e36b5a7b2b_a72414b0_f520_4044_abeb_cd09c28b4a9f_psu_cg_2267.jpg
+- f65fa2465c99217e_mv_417.jpg
+- 3b866a4ec1383acc_mv_463.jpg
+- 47cba1a10eb27314_mv_740.jpg
+- ff2a97e4c93b0e1a_mv_499.jpg
+- bd24fe752c8d8a5d_mv_716.jpg
+- 0f32d9f3183f16ee_9752941a_c045_41ef_aa87_55bc29011096_psu_cg_2138.jpg
+- 9f5817c2d189ea3c_mv_447.jpg
+- 4b22a688564e4526_mv_510.jpg
+- bd790dae6ce2a95d_7e30ae4f_05e2_4806_ad63_c86fb601d445_psu_cg_2412.jpg
+- 08bfd1f37818f166_2370fa79_6f15_4ae5_a3cb_2d585a0043c2_psu_cg_2178.jpg
+- 376f2c7b7c3fb9cb_mv_393.jpg
+- a1e459f74112d18b_mv_411.jpg
+- c031984f1fd4982f_mv_494.jpg
+- 08dd34e661fc678b_146eaf68_7f61_4717_ac81_2f8bb4533fec_psu_cg_2406.jpg
+- 82213419aaa06816_0c676b36_7985_42e8_b550_83e2b1c55535_psu_cg_2177.jpg
+- be6e0f54b64cdde1_b8972ee2_b576_4fdd_bb69_f8c43b87471b_psu_cg_2060.jpg
+- a7c798396ca50c62_7dd798aa_f748_4ac3_9f6d_d4ced4a27403_psu_cg_2374.jpg
+- 3ebc579cff7cb218_mv_651.jpg
+- 6b9357d3db33c19e_mv_422.jpg
+- 5282608f9ec9fe5d_mv_480.jpg
+- acd855dbd3d455d3_mv_428.jpg
+- 3acb2bb2934ea7b6_mv_763.jpg
+- 8094f80ad2c7b1a2_59168647_7103_404e_86b4_2be640a85a98_psu_cg_2156.jpg
+- fbe2da7277672b52_69bad8a8_c403_4e4b_bff8_1026169bb582_psu_cg_2109.jpg
+- a159b42d013517df_mv_533.jpg
+- 0f551180d72679f0_875b2d3c_44cd_440c_8807_8f52b1e7d45a_psu_cg_2318.jpg
+- ca4d23be0157e760_mv_606.jpg
+- 0b27313c3d71b301_3d028390_f367_423b_b0f7_a44e2cac2393_psu_cg_2205.jpg
+- 862d5e34428b435d_mv_482.jpg
+- cfa69e6432a2158a_mv_538.jpg
+- 5f702ca69ceeb3ed_mv_665.jpg
+- 8e9cd6fc6449aed2_mv_720.jpg
+- e254821822803764_mv_714.jpg
+- fd47dc830e0dbbd0_mv_16.jpg
+- d89b4db83ed2b5a8_mv_751.jpg
+- 959586173f5f5130_49a98ba1_a1b1_4d4b_85af_29aa6648fc64_psu_cg_2292.jpg
+- b466c6e8ac3e9b51_mv_439.jpg
+- ab6a56280979d883_c9bbf37c_d34f_41b7_9134_e3b81f4e739e_psu_cg_2145.jpg
+- 1cd749892ca49e8f_d9812306_9ab7_4c41_8c08_0aaaa0a9db5f_psu_cg_2056.jpg
+- deee473464dad75c_0e56889c_7e80_49f3_8da3_3a437244e8fd_psu_cg_2140.jpg
+- 8fce94d295131d4f_570486a0_abe0_4046_add9_14aab37de620_psu_cg_2313.jpg
+- f4d17c907b075c42_15f1e22a_9c70_4060_a275_fac10c196341_psu_cg_2118.jpg
+- b492554395a08086_mv_710.jpg
+- a2aca1259f0d85d3_mv_544.jpg
+- e33e1493905b6fd9_mv_562.jpg
+- 6646eb4ba198295b_mv_725.jpg
+- c5eb420001504ace_mv_681.jpg
+- 63dd01c53cfe1366_mv_416.jpg
+- 8c29c0d39f306549_mv_524.jpg
+- a53cdf5b7d843aac_mv_769.jpg
+- 9a5ec7076296f7ec_tobacco_mosaic_virus_tmv_symptoms_rr5k6g.jpg
+- cedbf4140d3eb94a_mv_659.jpg
+- 7275c03cab20e5bf_mv_593.jpg
+- ba6092b2c1a12036_526f2f56_2290_422d_a454_d576aa72d466_psu_cg_2057.jpg
+- 7a10fc90602de96b_mv_594.jpg
+- 782f36e81a233887_mv_623.jpg
+- 708596e264ba4b58_mv_721.jpg
+- 9d7aef81f5524ee3_mv_585.jpg
+- 3a3fb16d5912b408_mv_650.jpg
+- 35241ef1e70899a5_bd533964_8188_49ba_92e8_334cdc4ecb70_psu_cg_2369.jpg
+- a783ec77bd5f220e_mv_727.jpg
+- 79f519ee24dc3bd3_mv_587.jpg
+- 56cbe929f1b27b6f_6f341314_6084_4784_a3ba_0a9bdc944366_psu_cg_2372.jpg
+- a76642d29df61c31_1b9dc07a_40ab_45bc_a873_1ad4212e35a3_psu_cg_2289.jpg
+- 6edc010f44a6dde6_mv_511.jpg
+- 009bc3a3af5759be_mv_496.jpg
+- 1ef0c166ff3e7ab0_7d688270_b9e9_41fb_a22a_6af2f6285b46_psu_cg_2091.jpg
+- 9bf6a8f73bb3b8e6_6e36029a_1c73_49e6_80b9_5e5cf12f43c1_psu_cg_2217.jpg
+- 0efaf04bb0c79b3f_mv_761.jpg
+- cbd02ddbe54e927b_mv_489.jpg
+- 7ba258173ece5c7d_mv_440.jpg
+- 5a8dece58344d736_mv_518.jpg
+- bd9f9b822aa12dfc_mv_548.jpg
+- c7b5622d0145816b_mv_613.jpg
+- b3dc1f86ebfd1d4c_b8853fe7_7194_4ed8_bda6_b5799bf7815e_psu_cg_2309.jpg
+- d172ced82b75a82b_e1c99066_9ee5_4424_8701_9ee9bea5e229_psu_cg_2284.jpg
+- 24cfa1c1ef14c088_1ccfd473_6b3d_47a9_897b_0653d7683d75_psu_cg_2163.jpg
+- 5f4d0e00d88da37a_mv_768.jpg
+- 159f131d74a45857_b455e70e_1ff9_4081_a0bb_6d16c88402e3_psu_cg_2105.jpg
+- 7aa694b626d52663_a3bfb1c8_d60a_4894_adf8_297035279f47_psu_cg_2306.jpg
+- 26b1efbfa60c9c78_mv_506.jpg
+- 67ee8b0858544bc6_mv_781.jpg
+- 57d864ca5cc65137_mv_625.jpg
+- e66adaf47bcdb3d6_mv_561.jpg
+- a7e25268775de8cc_f32568bd_2f68_4cbc_b083_4d9084858436_psu_cg_2155.jpg
+- 6511c89ca653dfcd_6e8fac68_5902_4a78_a5c1_05c1c9dd006f_psu_cg_2343.jpg
+- 4fc9fe0d9f6e0520_b801ed5c_9127_4ce5_b71f_5480620510cf_psu_cg_2252.jpg
+- 047027800d5014f2_mv_669.jpg
+- 1a98445761eb2de3_efc00b83_9c44_48f5_b6ff_3acc4f5b0875_psu_cg_2345.jpg
+- 95f8cb0ad5fa740b_4ab92098_cb26_40ef_b145_fbd1cdde9bd5_psu_cg_2392.jpg
+- b67bc96db08d9339_mv_462.jpg
+- 807b4f7e0ec5ad96_5f6523e1_d5f2_44d9_a4a3_ae4a72a8a6cd_psu_cg_2237.jpg
+- 3d89c7b9d91b31f7_mv_697.jpg
+- 4226bf4a862b5ab6_eeeb214a_2f7d_4e91_991f_003a3a9508be_psu_cg_2078.jpg
+- 5d8553bfc8f6e7cb_71ed39c0_f601_4913_aaf0_7719b3cc75b2_psu_cg_2152.jpg
+- c949ebeb1ebc7227_2ffd2426_1463_48aa_a3bb_622ece568219_psu_cg_2137.jpg
+- b916ac2285fd3ff3_mv_566.jpg
+- 9b167cf17163c961_mv_415.jpg
+- 7f1d856e85b35f8e_mv_674.jpg
+- 987317e1cef2c756_mv_9.jpg
+- d6739fd22b063ef8_mv_634.jpg
+- 8477bbfa16091544_mv_760.jpg
+- fddd834415798885_mv_443.jpg
+- 7985a288d9b1514d_mv_695.jpg
+- 361d0c0d5f94e51b_76d665fa_6aec_4c47_adac_069107b3cf46_psu_cg_2268.jpg
+- f70e8db6c3d5b4dd_mv_789.jpg
+- 59f8b8de0d573c45_mv_591.jpg
+- d7d8e184ad68d569_mv_497.jpg
+- b6f19e2892e86cd9_d338ebb0_f140_48c6_b828_7349f43cf866_psu_cg_2339.jpg
+- 6a97af5cdfe8a36f_1588e951_b57d_47a2_8371_7be3a45fd2cc_psu_cg_2121.jpg
+- 4d3cfab2ac92c5c1_c03d1596_7911_42f1_bbf3_3f3c052b3e76_psu_cg_2223.jpg
+- b9698072eed4b082_8a398af5_59cc_4d7e_9de9_07c5a5bb2cf3_psu_cg_2116.jpg
+- 732e35017fcf52e0_c1ca36c4_bffc_494d_9199_0753d7319bce_psu_cg_2357.jpg
+- 8ef503475247f653_mv_657.jpg
+- b4faea03501ce9ea_62416312_84be_45de_98ad_4df14365e38e_psu_cg_2058.jpg
+- 3a9dd9bab9875f68_f7100402_ba19_464b_8952_fcfe92a706c0_psu_cg_2132.jpg
+- 14b78e8e2a901a59_mv_645.jpg
+- ef7b9f22757b2f01_mv_445.jpg
+- 098a6ce8ea2cfc3b_mv_787.jpg
+- d15c91925188a77c_57b10f20_7819_40b1_924c_b484c42c515f_psu_cg_2356.jpg
+- 978fb2a88590fad5_mv_592.jpg
+- 0231ecf96376cb6f_mv_581.jpg
+- 3ba1edcec7db914d_mv_703.jpg
+- 076bf04e74ad8ce9_9a3a36e0_b0eb_4844_84f5_db08e2d9adef_psu_cg_2300.jpg
+- c4a1e8458614f6b5_mv_617.jpg
+- f116c88136b68915_mosaic_virus_on_squash.jpg
+- 0369f1c75142eb21_c16ac093_9b9b_4c37_b669_aa68f3cd55cf_psu_cg_2270.jpg
+- 37dd1fdf9ec6293f_mv_514.jpg
+- bff177ab5ce0775c_dd1161b0_ed4e_42f0_a63b_1ff8d9adf3ed_psu_cg_2405.jpg
+- 00ea55c7d4b078de_mv_493.jpg
+- d3b238af517cadf1_mv_628.jpg
+- 8aa6b1d235785d47_mv_569.jpg
+- 44bc659d4eaaa2e9_mv_608.jpg
+- 543f488de2931d0c_tobacco_mosaic_virus.jpg
+- 0c81ccefdca08ddb_tobacco_mosaic_virus_tomato.jpg
+- ceaf4bd87ec7c6e7_2fa22081_5533_4b18_9a8f_671f210db37e_psu_cg_2092.jpg
+- 556727257b205e55_mv_664.jpg
+- 300516de60912443_mv_782.jpg
+- 1b939d1f9b6519c3_mv_764.jpg
+- 294bfbbde438b6bc_mv_437.jpg
+- 7b6453a8eb4de01e_1170f108_86a3_4bc6_8a06_c82e55178f91_psu_cg_2327.jpg
+- 60a14312d287d854_mv_793.jpg
+- 607a1eced652b4d0_mv_559.jpg
+- 467986839b1ed763_6c468dae_d392_4435_8d2f_adcadf0425b8_psu_cg_2276.jpg
+- 84bf9933d581cd35_mv_774.jpg
+- 6d11509a6f4d1fc9_mv_557.jpg
+- 080b50bd61621805_mv_609.jpg
+- 8acbb1b1ddf64ec0_mv_535.jpg
+- e35bd4d796c2ba6a_8b75624a_5775_4d44_a2e0_62243632b4a9_psu_cg_2279.jpg
+- 36aea0e6cf97cfc9_mv_726.jpg
+- 127fdff8c60e482f_mv_11.jpg
+- 3875b1097d733511_mv_688.jpg
+- cd4ca043a45e251a_mv_549.jpg
+- dec647d276e293ce_f5d2043f_a274_431f_accc_1a3e1a7df172_psu_cg_2400.jpg
+- 5b65e69daed92de1_43f4bccf_0e70_479a_9880_5523f8ffbe9b_psu_cg_2367.jpg
+- fba86d3c492f4a8b_mv_403.jpg
+- 130a44b8c4f4a01e_mv_719.jpg
+- fb5714e3fd860cbd_mv_759.jpg
+- 724c0509f01b2b49_4ab5b752_6622_42f2_8743_fa9c9b03e137_psu_cg_2120.jpg
+- 2c65a92e567284ac_db0867bf_ca5a_4dd0_99e0_6d41efaffff6_psu_cg_2334.jpg
+- a80e80b1ae07266a_mv_467.jpg
+- 75f6a6983a7c9b94_mv_536.jpg
+- 04a68a0eb8de1781_mv_624.jpg
+- 4a9a94c63ae5af4f_mv_731.jpg
+- ae7eec5906858536_f7066d3e_694d_44a0_a42a_a8fb1eb52ff7_psu_cg_2190.jpg
+- 2db3283aba89c664_mv_698.jpg

@@ -1,0 +1,2058 @@
+ANÁLISIS DE ARCHIVOS BASE EN GRUPOS
+================================================================================
+
+Directorio: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same4/train/powdery_mildew
+Tiempo de análisis: 0.036s
+Fecha: 2025-08-24 21:35:47
+
+ESTADÍSTICAS FINALES:
+- Total de archivos: 1256
+- Grupos analizados: 157
+- Archivos base identificados: 157
+
+MÉTODOS UTILIZADOS:
+- pattern_analysis: 157 grupos
+
+GRUPOS ANALIZADOS:
+--------------------------------------------------
+
+Grupo: pm30 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5a601145194746c2_pm30.jpg
+Archivos del grupo:
+     de4198d6491e42c8_pm30_lower.jpg
+     37afbe5b479df555_pm30_change_180.jpg
+     d23b0bcc2e31cba5_pm30_hight.jpg
+  🎯 5a601145194746c2_pm30.jpg
+     4a7fb6260ff6f87b_pm30_mirror.jpg
+     74641351f367a1ec_pm30_change_90.jpg
+     2e516df99e6a2dc6_pm30_change_270.jpg
+     fbe6e34f26652a1e_pm30_mirror_vertical.jpg
+
+Grupo: pm35 (8 archivos)
+Método: pattern_analysis
+Archivo base: d9a7f7f802560ccc_pm35.jpg
+Archivos del grupo:
+     64d10076f3f1aaa7_pm35_change_180.jpg
+  🎯 d9a7f7f802560ccc_pm35.jpg
+     6e2e53dfdb08c604_pm35_mirror.jpg
+     db5816523701f237_pm35_hight.jpg
+     e32e5abd64afe8f7_pm35_mirror_vertical.jpg
+     24e6df93aeed3181_pm35_change_270.jpg
+     ba2422234d83f59a_pm35_change_90.jpg
+     f383ca416205ea9b_pm35_lower.jpg
+
+Grupo: pm18 (8 archivos)
+Método: pattern_analysis
+Archivo base: e1767ffdfbb64819_pm18.jpg
+Archivos del grupo:
+     38c939c2994e4946_pm18_lower.jpg
+     8c7bb6216dfcc888_pm18_change_90.jpg
+     44e8a8d9ff72678e_pm18_change_180.jpg
+  🎯 e1767ffdfbb64819_pm18.jpg
+     7a38022a665870b8_pm18_change_270.jpg
+     687c9b4e7f8ba598_pm18_hight.jpg
+     078c5560934aca82_pm18_mirror.jpg
+     c6021cc0253ff782_pm18_mirror_vertical.jpg
+
+Grupo: pm17 (8 archivos)
+Método: pattern_analysis
+Archivo base: 705cc98b387cd3d6_pm17.jpg
+Archivos del grupo:
+     2fc972cbc100f104_pm17_lower.jpg
+     796041655da2d00a_pm17_mirror.jpg
+     25dad5f9dc57a7ce_pm17_change_90.jpg
+     23de591eb5096a94_pm17_change_270.jpg
+     8c39b190e38a953d_pm17_hight.jpg
+     c8e36af96d176f90_pm17_change_180.jpg
+  🎯 705cc98b387cd3d6_pm17.jpg
+     a44213b0b17f7e00_pm17_mirror_vertical.jpg
+
+Grupo: pm81 (8 archivos)
+Método: pattern_analysis
+Archivo base: fc90345a8ba98bcc_pm81.jpg
+Archivos del grupo:
+     7451b62020cce60f_pm81_mirror.jpg
+     4dd8835e3d5f909d_pm81_change_180.jpg
+     1012f19d1221a487_pm81_mirror_vertical.jpg
+  🎯 fc90345a8ba98bcc_pm81.jpg
+     3eada364e8a5b6b9_pm81_hight.jpg
+     31b4f0321e25bb81_pm81_lower.jpg
+     bebbe5e8945f448b_pm81_change_90.jpg
+     d00ff2817604af05_pm81_change_270.jpg
+
+Grupo: pm40 (8 archivos)
+Método: pattern_analysis
+Archivo base: 369ea7031e27adbc_pm40.jpg
+Archivos del grupo:
+     393c54e25c046b50_pm40_change_270.jpg
+     a229028fb6bf8ae9_pm40_hight.jpg
+     0a7851cfe47e7741_pm40_lower.jpg
+     8619710e3dd615bb_pm40_change_180.jpg
+  🎯 369ea7031e27adbc_pm40.jpg
+     fc4f6f0fe26f27c6_pm40_change_90.jpg
+     7216a52d4c004723_pm40_mirror.jpg
+     5dc6cf1d66fcc5e7_pm40_mirror_vertical.jpg
+
+Grupo: pm123 (8 archivos)
+Método: pattern_analysis
+Archivo base: 23f052795a382ed2_pm123.jpg
+Archivos del grupo:
+     795d4788175137be_pm123_change_90.jpg
+  🎯 23f052795a382ed2_pm123.jpg
+     cca4113dc4c2d385_pm123_hight.jpg
+     c34a6f9e3ac01764_pm123_mirror_vertical.jpg
+     12a3a9d7740ce04a_pm123_lower.jpg
+     cd5074d430504d38_pm123_change_270.jpg
+     d1da68359242f692_pm123_change_180.jpg
+     3daa0f602b7c2e00_pm123_mirror.jpg
+
+Grupo: pm37 (8 archivos)
+Método: pattern_analysis
+Archivo base: f7c5ef1de45eca9c_pm37.jpg
+Archivos del grupo:
+     50040a3248e0afd5_pm37_mirror_vertical.jpg
+     1a904f21dbcf1604_pm37_lower.jpg
+     c1aa31fbbf6d9ddf_pm37_change_270.jpg
+     c06f7cdb1710150a_pm37_change_180.jpg
+     52904d7aaf3737c3_pm37_change_90.jpg
+     e7e35e1b09004975_pm37_mirror.jpg
+  🎯 f7c5ef1de45eca9c_pm37.jpg
+     eb64563a58c9f497_pm37_hight.jpg
+
+Grupo: pm59 (8 archivos)
+Método: pattern_analysis
+Archivo base: 9f4cb0dd27312fd2_pm59.jpg
+Archivos del grupo:
+     a4a1f479d60de8ed_pm59_mirror.jpg
+     492f32e09f5f9245_pm59_lower.jpg
+     0a57069f267afc3f_pm59_change_90.jpg
+     e5835e6de6874b5d_pm59_hight.jpg
+     828c4b964219bb65_pm59_mirror_vertical.jpg
+     f5e0e68f5d928bb6_pm59_change_270.jpg
+  🎯 9f4cb0dd27312fd2_pm59.jpg
+     578e873d075a4e09_pm59_change_180.jpg
+
+Grupo: pm149 (8 archivos)
+Método: pattern_analysis
+Archivo base: 9be06f5d2cbdd63a_pm149.jpg
+Archivos del grupo:
+     3c70dc5afd786c9a_pm149_hight.jpg
+     4e7470686f38b7a3_pm149_change_270.jpg
+  🎯 9be06f5d2cbdd63a_pm149.jpg
+     fab0226af43f26bc_pm149_mirror_vertical.jpg
+     003a5f3b6d92b8c5_pm149_change_90.jpg
+     4b18056bb18a9af1_pm149_mirror.jpg
+     7efa78754b9b57dc_pm149_lower.jpg
+     c7700c539a9a5ece_pm149_change_180.jpg
+
+Grupo: pm55 (8 archivos)
+Método: pattern_analysis
+Archivo base: d75baddee651a289_pm55.jpg
+Archivos del grupo:
+     c6473917d055e21f_pm55_mirror.jpg
+  🎯 d75baddee651a289_pm55.jpg
+     2feca5bab3f3ae65_pm55_change_90.jpg
+     a6450314562616e1_pm55_hight.jpg
+     83641c51ad75171d_pm55_lower.jpg
+     95e12e00231be4e2_pm55_change_180.jpg
+     48831485a38e70c5_pm55_change_270.jpg
+     16bf203e8402d1c7_pm55_mirror_vertical.jpg
+
+Grupo: pm24 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5e11b71841eb68ea_pm24.jpg
+Archivos del grupo:
+     b34543cdd412d8bc_pm24_change_180.jpg
+     95cc833a69adb20f_pm24_change_270.jpg
+  🎯 5e11b71841eb68ea_pm24.jpg
+     373b3f6019be3831_pm24_hight.jpg
+     57f79f77803a287d_pm24_mirror.jpg
+     564e955350e6ec34_pm24_change_90.jpg
+     f083d944615af5ee_pm24_mirror_vertical.jpg
+     6cdc5d72983a36dc_pm24_lower.jpg
+
+Grupo: pm7 (8 archivos)
+Método: pattern_analysis
+Archivo base: 861ebea57f6545eb_pm7.jpg
+Archivos del grupo:
+     2d4e744c5de5c11f_pm7_hight.jpg
+     80e8aeab8bd33d46_pm7_mirror_vertical.jpg
+     ea0bfcd3d53fd980_pm7_change_270.jpg
+     9f338f11bbecf3c9_pm7_change_90.jpg
+     52c4fb1e755c1aef_pm7_mirror.jpg
+     20f429b08e4547d7_pm7_lower.jpg
+  🎯 861ebea57f6545eb_pm7.jpg
+     5601b907f6432429_pm7_change_180.jpg
+
+Grupo: pm27 (8 archivos)
+Método: pattern_analysis
+Archivo base: b134e4e1af1707db_pm27.jpg
+Archivos del grupo:
+     28fb60cc9e5c064f_pm27_change_90.jpg
+     8701fefbbdf2126c_pm27_hight.jpg
+     6b0a99cb01269fa8_pm27_change_270.jpg
+     f4b864da752a06d5_pm27_change_180.jpg
+     a1341cde304e987b_pm27_mirror_vertical.jpg
+     c4a2fadd44db2d29_pm27_mirror.jpg
+  🎯 b134e4e1af1707db_pm27.jpg
+     7b99ce3b96bc2274_pm27_lower.jpg
+
+Grupo: pm151 (8 archivos)
+Método: pattern_analysis
+Archivo base: 7f5752c13de42d17_pm151.jpg
+Archivos del grupo:
+     721661986141487c_pm151_hight.jpg
+     efbe62cf0aa0bcc8_pm151_lower.jpg
+     c4ab73e7abaf5cca_pm151_change_180.jpg
+     a1346f108c708df1_pm151_change_270.jpg
+     18f385e3cde2f8f8_pm151_mirror.jpg
+     c308380049a9fd10_pm151_change_90.jpg
+  🎯 7f5752c13de42d17_pm151.jpg
+     4fb32bb149fc63e3_pm151_mirror_vertical.jpg
+
+Grupo: pm137 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3f9e89b34a9feb60_pm137.jpg
+Archivos del grupo:
+     26d6576f32207325_pm137_hight.jpg
+     ba6564a1918aa339_pm137_mirror_vertical.jpg
+     be4e854ed268886a_pm137_change_180.jpg
+     1114b6e05ef51825_pm137_change_90.jpg
+     e80d861cda38281b_pm137_mirror.jpg
+     19737800e5dba637_pm137_lower.jpg
+  🎯 3f9e89b34a9feb60_pm137.jpg
+     2851989c196002db_pm137_change_270.jpg
+
+Grupo: pm98 (8 archivos)
+Método: pattern_analysis
+Archivo base: bb1a8adb1a750300_pm98.jpg
+Archivos del grupo:
+     075177a44943e13b_pm98_lower.jpg
+     e6c8657ec5e56f55_pm98_change_90.jpg
+     a1411e48e10d3957_pm98_mirror.jpg
+     f8f0871c3385fd33_pm98_mirror_vertical.jpg
+     b5b0c68aabd92dbc_pm98_change_270.jpg
+     2a36adf2cc949e32_pm98_change_180.jpg
+  🎯 bb1a8adb1a750300_pm98.jpg
+     ea1c85f464083905_pm98_hight.jpg
+
+Grupo: pm89 (8 archivos)
+Método: pattern_analysis
+Archivo base: ec251f4977c5319e_pm89.jpg
+Archivos del grupo:
+     6ecefd6554691370_pm89_lower.jpg
+  🎯 ec251f4977c5319e_pm89.jpg
+     4757ba9777b6d4c8_pm89_mirror.jpg
+     bde82d8b8544cfe0_pm89_mirror_vertical.jpg
+     89cee501c6de5efd_pm89_change_180.jpg
+     0b2b373fa3ef636b_pm89_change_90.jpg
+     89f53f5a1aa919c7_pm89_hight.jpg
+     fb7c19c37e116f1c_pm89_change_270.jpg
+
+Grupo: pm31 (8 archivos)
+Método: pattern_analysis
+Archivo base: 0c393fb49698a5bb_pm31.jpg
+Archivos del grupo:
+     1c9383a8b307d22b_pm31_mirror.jpg
+     da95103d4bdd07dc_pm31_change_180.jpg
+  🎯 0c393fb49698a5bb_pm31.jpg
+     ef59bb1722eb36d2_pm31_mirror_vertical.jpg
+     f6ab03e98a43417c_pm31_change_90.jpg
+     37402d93821f1a87_pm31_change_270.jpg
+     b842b6d4519fba50_pm31_lower.jpg
+     0317971a2b6acad0_pm31_hight.jpg
+
+Grupo: pm29 (8 archivos)
+Método: pattern_analysis
+Archivo base: c4337c49ba2bdf15_pm29.jpg
+Archivos del grupo:
+     9f36820c4a1604f2_pm29_change_270.jpg
+     018c6d9437de2ac6_pm29_mirror_vertical.jpg
+  🎯 c4337c49ba2bdf15_pm29.jpg
+     9677c3c63f806d3b_pm29_mirror.jpg
+     005e8c14eba6e19c_pm29_lower.jpg
+     4a387d23f32b0592_pm29_change_180.jpg
+     1e683df476053a8b_pm29_change_90.jpg
+     425d1a62850b9ae9_pm29_hight.jpg
+
+Grupo: pm80 (8 archivos)
+Método: pattern_analysis
+Archivo base: 88e910a2e7338fca_pm80.jpg
+Archivos del grupo:
+     1ed6091abe03d871_pm80_mirror_vertical.jpg
+     8dc73e3ee7712fc6_pm80_hight.jpg
+     4af9a57576d41cf4_pm80_lower.jpg
+     0ba7a95cc2c2ce68_pm80_change_90.jpg
+     2a5fa42844e6fa1f_pm80_change_270.jpg
+     a1c2bb5328e3c675_pm80_change_180.jpg
+  🎯 88e910a2e7338fca_pm80.jpg
+     d0b93923a8bc3a61_pm80_mirror.jpg
+
+Grupo: pm79 (8 archivos)
+Método: pattern_analysis
+Archivo base: 8eff483bd7b475fe_pm79.jpg
+Archivos del grupo:
+     7d0558a860de896f_pm79_hight.jpg
+     d48e803abd8e1f70_pm79_change_90.jpg
+  🎯 8eff483bd7b475fe_pm79.jpg
+     1ba7527c4bd87a6f_pm79_lower.jpg
+     9bf7851664ef0d82_pm79_mirror_vertical.jpg
+     aabb6d9efa9e312e_pm79_mirror.jpg
+     fb24607b9c182e13_pm79_change_270.jpg
+     22d2d845607809ec_pm79_change_180.jpg
+
+Grupo: pm74 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3b6d78b7734bf98f_pm74.jpg
+Archivos del grupo:
+     53628b97dc3cedd0_pm74_mirror_vertical.jpg
+     0079cc1a3262c393_pm74_change_180.jpg
+     69f71db48b6e05f6_pm74_lower.jpg
+     2b9f0db83454d843_pm74_mirror.jpg
+  🎯 3b6d78b7734bf98f_pm74.jpg
+     87ee1573bc640779_pm74_change_270.jpg
+     1d30234064214088_pm74_hight.jpg
+     aba8ac41a7f73c10_pm74_change_90.jpg
+
+Grupo: pm119 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2d516907c94cb4c3_pm119.jpg
+Archivos del grupo:
+     386abefaea8aafc3_pm119_lower.jpg
+     e65bfd9abae04afb_pm119_change_270.jpg
+     b4a6ff897bc8c414_pm119_hight.jpg
+     745614210473afab_pm119_mirror.jpg
+  🎯 2d516907c94cb4c3_pm119.jpg
+     18d84c589e3cbc0c_pm119_mirror_vertical.jpg
+     152d4512177058b4_pm119_change_90.jpg
+     d4c665e8b6652d04_pm119_change_180.jpg
+
+Grupo: pm71 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3244c8bdfc25f4b0_pm71.jpg
+Archivos del grupo:
+  🎯 3244c8bdfc25f4b0_pm71.jpg
+     733335faee69f83e_pm71_change_270.jpg
+     1708787f2b65db0b_pm71_change_180.jpg
+     fc4b35e1effb74ac_pm71_lower.jpg
+     755510383a1e372a_pm71_mirror.jpg
+     644f3caf1a49d878_pm71_mirror_vertical.jpg
+     36b8eddb17879d48_pm71_change_90.jpg
+     797b19318f1ae50d_pm71_hight.jpg
+
+Grupo: pm66 (8 archivos)
+Método: pattern_analysis
+Archivo base: bf4b544328395523_pm66.jpg
+Archivos del grupo:
+     f85caed279c1a454_pm66_lower.jpg
+     de8b4a33a20fa637_pm66_mirror_vertical.jpg
+  🎯 bf4b544328395523_pm66.jpg
+     d6d99f25eeba8a18_pm66_hight.jpg
+     17a2433c53006eb5_pm66_change_270.jpg
+     f44371e3e8beee29_pm66_mirror.jpg
+     3aa7eb20351a8dbf_pm66_change_180.jpg
+     bebfdb3989057072_pm66_change_90.jpg
+
+Grupo: pm58 (8 archivos)
+Método: pattern_analysis
+Archivo base: b988ed757e77dc02_pm58.jpg
+Archivos del grupo:
+     b1838c217dd2cd15_pm58_mirror.jpg
+     e3ac59f79b584120_pm58_change_180.jpg
+     6c81581bf5673947_pm58_lower.jpg
+  🎯 b988ed757e77dc02_pm58.jpg
+     5152a2340517e7e1_pm58_change_90.jpg
+     62a6edce2f384d43_pm58_mirror_vertical.jpg
+     1e52623e672332f9_pm58_hight.jpg
+     ae96c55aacc0d3f5_pm58_change_270.jpg
+
+Grupo: pm72 (8 archivos)
+Método: pattern_analysis
+Archivo base: eecbb773e31c5a7e_pm72.jpg
+Archivos del grupo:
+     848b1468d14014b6_pm72_lower.jpg
+     8f8e8440c38f209c_pm72_hight.jpg
+     8b8b36da265616d1_pm72_mirror.jpg
+     0d405a1dd7ce920e_pm72_mirror_vertical.jpg
+     e2e316111507989f_pm72_change_180.jpg
+     19509fef3bfb383e_pm72_change_270.jpg
+     ad04b05a60f25dae_pm72_change_90.jpg
+  🎯 eecbb773e31c5a7e_pm72.jpg
+
+Grupo: pm3 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5ee9d36717280276_pm3.jpg
+Archivos del grupo:
+     24d03ac8df48b6f1_pm3_change_180.jpg
+     c205dc88a532cc83_pm3_change_90.jpg
+     90e072388dc7d87f_pm3_mirror_vertical.jpg
+     778f7e5c37e0d2fd_pm3_change_270.jpg
+     09e2e86341b0a236_pm3_hight.jpg
+  🎯 5ee9d36717280276_pm3.jpg
+     6e3a5c2c83e03845_pm3_lower.jpg
+     eefacd1979149a29_pm3_mirror.jpg
+
+Grupo: pm155 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2b374d6e726b2f88_pm155.jpg
+Archivos del grupo:
+     800c9da808c11dde_pm155_change_90.jpg
+     d922b1a419be1675_pm155_mirror.jpg
+     a685f7c498ddf6ec_pm155_lower.jpg
+     8b4718e22646422f_pm155_mirror_vertical.jpg
+  🎯 2b374d6e726b2f88_pm155.jpg
+     e2c67c99059c6e24_pm155_hight.jpg
+     8ad732ee7e1362c9_pm155_change_270.jpg
+     0ab2bf1f5804bfbe_pm155_change_180.jpg
+
+Grupo: pm122 (8 archivos)
+Método: pattern_analysis
+Archivo base: ae422c848971f464_pm122.jpg
+Archivos del grupo:
+     590c9c09f41cf7e9_pm122_mirror_vertical.jpg
+     8ac3794d9516bc56_pm122_hight.jpg
+     69d5e4eed63153b5_pm122_change_90.jpg
+     2a756d58109e299b_pm122_change_270.jpg
+     4c64b3799fef5aaa_pm122_change_180.jpg
+     38f35111b3744da4_pm122_lower.jpg
+  🎯 ae422c848971f464_pm122.jpg
+     c34bc333fb2e09c6_pm122_mirror.jpg
+
+Grupo: pm43 (8 archivos)
+Método: pattern_analysis
+Archivo base: 8fcadf815f3daa23_pm43.jpg
+Archivos del grupo:
+     12368086a6da24ce_pm43_change_270.jpg
+     de0147add66c2a02_pm43_change_90.jpg
+     997bce500d88d034_pm43_change_180.jpg
+     a2da56e39aa48434_pm43_mirror.jpg
+     9ff0edd9db3da3b3_pm43_lower.jpg
+  🎯 8fcadf815f3daa23_pm43.jpg
+     b09fbb65abaebb23_pm43_mirror_vertical.jpg
+     e883724cad257bf6_pm43_hight.jpg
+
+Grupo: pm105 (8 archivos)
+Método: pattern_analysis
+Archivo base: 6e8cde54a7e52dff_pm105.jpg
+Archivos del grupo:
+  🎯 6e8cde54a7e52dff_pm105.jpg
+     abbf3785de1bcb06_pm105_change_270.jpg
+     63576aafda633dfc_pm105_change_180.jpg
+     3f22cc718f6c1a74_pm105_lower.jpg
+     d718e5dd91367612_pm105_change_90.jpg
+     895f05084508155b_pm105_mirror_vertical.jpg
+     41476b050a176660_pm105_mirror.jpg
+     82d251e90114e939_pm105_hight.jpg
+
+Grupo: pm118 (8 archivos)
+Método: pattern_analysis
+Archivo base: 6d78823c4dde87db_pm118.jpg
+Archivos del grupo:
+     78aeb0b4544d4537_pm118_mirror_vertical.jpg
+     0d3191d9cee3e3af_pm118_change_180.jpg
+     bf6a78b5a29bfc7c_pm118_change_270.jpg
+     f4d8e79c9466298f_pm118_mirror.jpg
+  🎯 6d78823c4dde87db_pm118.jpg
+     f9b10b02b28cdfdd_pm118_change_90.jpg
+     61a1711ea8dcdd42_pm118_hight.jpg
+     42d830a8165b2633_pm118_lower.jpg
+
+Grupo: pm86 (8 archivos)
+Método: pattern_analysis
+Archivo base: 90aa8dacbbed6c72_pm86.jpg
+Archivos del grupo:
+     30dd752d6590b5cb_pm86_change_180.jpg
+     e5de5d04091ef051_pm86_mirror_vertical.jpg
+  🎯 90aa8dacbbed6c72_pm86.jpg
+     103ade1a505cbc4b_pm86_hight.jpg
+     88185dfd6e25d49a_pm86_change_90.jpg
+     34a12a388b164cd5_pm86_lower.jpg
+     dc60c8f12c9934da_pm86_change_270.jpg
+     c0844b3db21fe147_pm86_mirror.jpg
+
+Grupo: pm73 (8 archivos)
+Método: pattern_analysis
+Archivo base: 0da8afed80952083_pm73.jpg
+Archivos del grupo:
+     9d72d9e5d7951f94_pm73_change_90.jpg
+     e3d26c412344e9e8_pm73_mirror_vertical.jpg
+     e1fbe3c1339d211a_pm73_lower.jpg
+  🎯 0da8afed80952083_pm73.jpg
+     4356498294278ac1_pm73_change_270.jpg
+     602a44d5ecb27653_pm73_change_180.jpg
+     0db57eca3b9178d9_pm73_mirror.jpg
+     600908a5f61ef9e0_pm73_hight.jpg
+
+Grupo: pm57 (8 archivos)
+Método: pattern_analysis
+Archivo base: 1f3f42165e47b113_pm57.jpg
+Archivos del grupo:
+     00ac5e18cb53cd02_pm57_mirror_vertical.jpg
+     e3d3f3931fd2c04b_pm57_lower.jpg
+     6577debdee988a23_pm57_mirror.jpg
+  🎯 1f3f42165e47b113_pm57.jpg
+     58e6cd10aff792b8_pm57_change_270.jpg
+     1093ea6bcef1da04_pm57_change_180.jpg
+     21c6debb088692cd_pm57_change_90.jpg
+     dcf5fba988f8901b_pm57_hight.jpg
+
+Grupo: pm26 (8 archivos)
+Método: pattern_analysis
+Archivo base: 7723ac553d1ee0d5_pm26.jpg
+Archivos del grupo:
+     a85a4c84101eb216_pm26_mirror.jpg
+     dd09bd967f794b99_pm26_change_180.jpg
+     b87bbf6bd1f8f7a3_pm26_mirror_vertical.jpg
+     4fe5b23e54789dd5_pm26_change_90.jpg
+     dc19f1633e39ef18_pm26_lower.jpg
+     f6e0f5196def8c14_pm26_hight.jpg
+     f0ea72f327cfa887_pm26_change_270.jpg
+  🎯 7723ac553d1ee0d5_pm26.jpg
+
+Grupo: pm47 (8 archivos)
+Método: pattern_analysis
+Archivo base: cc94d14f9b74bf4a_pm47.jpg
+Archivos del grupo:
+     4f39431cf08e69bb_pm47_change_270.jpg
+     92c982e056eafd2d_pm47_change_90.jpg
+     74966ffd2d88b639_pm47_mirror.jpg
+     c3d48f0697418e31_pm47_lower.jpg
+  🎯 cc94d14f9b74bf4a_pm47.jpg
+     2ef4ed062baff6bd_pm47_mirror_vertical.jpg
+     536f5260e3a8fbec_pm47_change_180.jpg
+     2a3e7323554e78ce_pm47_hight.jpg
+
+Grupo: pm116 (8 archivos)
+Método: pattern_analysis
+Archivo base: ef93da8d7b78dd3e_pm116.jpg
+Archivos del grupo:
+     916709fc70171614_pm116_change_270.jpg
+     3cd94ea38cb8907e_pm116_lower.jpg
+     0db3367557237fd6_pm116_change_180.jpg
+     40c618d705ff075a_pm116_change_90.jpg
+     0117acec2f6078da_pm116_hight.jpg
+  🎯 ef93da8d7b78dd3e_pm116.jpg
+     b3c312ba1fc1a8de_pm116_mirror_vertical.jpg
+     a48d2c641dec3ad1_pm116_mirror.jpg
+
+Grupo: pm44 (8 archivos)
+Método: pattern_analysis
+Archivo base: 4a8e7f689b63d61e_pm44.jpg
+Archivos del grupo:
+     67fd536f53b27a7b_pm44_mirror.jpg
+     b7a0cfe5d7a04167_pm44_change_180.jpg
+     831bdcba42051a70_pm44_change_270.jpg
+     5f69048766e5ff8e_pm44_mirror_vertical.jpg
+     5ff6ae34372f503f_pm44_lower.jpg
+  🎯 4a8e7f689b63d61e_pm44.jpg
+     bd14a3082302e0be_pm44_change_90.jpg
+     d379c8ff64a45497_pm44_hight.jpg
+
+Grupo: pm114 (8 archivos)
+Método: pattern_analysis
+Archivo base: 1d953e9bc0caffd2_pm114.jpg
+Archivos del grupo:
+     703e7d835518df07_pm114_hight.jpg
+     1dd598bbb7629484_pm114_change_270.jpg
+     bdd99f2ab4f168b5_pm114_mirror.jpg
+  🎯 1d953e9bc0caffd2_pm114.jpg
+     dff3bbe9b6b103b2_pm114_change_90.jpg
+     7f7feb6061ecf650_pm114_change_180.jpg
+     fe27ad125bba11e8_pm114_mirror_vertical.jpg
+     961b43e86afbe7f6_pm114_lower.jpg
+
+Grupo: pm15 (8 archivos)
+Método: pattern_analysis
+Archivo base: 6d6340ddf6d8f917_pm15.jpg
+Archivos del grupo:
+     f2a480eb6fa071b0_pm15_mirror_vertical.jpg
+     27c1fc04e1116374_pm15_mirror.jpg
+     4fc6c1453b1f267c_pm15_change_270.jpg
+     b5d967a3af56e66a_pm15_lower.jpg
+     1802cecf90a2a799_pm15_change_180.jpg
+  🎯 6d6340ddf6d8f917_pm15.jpg
+     642f63a623976122_pm15_change_90.jpg
+     02ec1bd92810b664_pm15_hight.jpg
+
+Grupo: pm22 (8 archivos)
+Método: pattern_analysis
+Archivo base: a8bd519f88e89f40_pm22.jpg
+Archivos del grupo:
+     2b27c0224230aac2_pm22_change_90.jpg
+     98376994ffda6057_pm22_mirror.jpg
+     9100605d71e442f6_pm22_lower.jpg
+     13e41ee30274f25a_pm22_change_180.jpg
+  🎯 a8bd519f88e89f40_pm22.jpg
+     4d33c9e94b156539_pm22_mirror_vertical.jpg
+     e0f85f8fbde13bfc_pm22_hight.jpg
+     5578399fea2d1773_pm22_change_270.jpg
+
+Grupo: pm157 (8 archivos)
+Método: pattern_analysis
+Archivo base: a79ba2ebb7a80793_pm157.jpg
+Archivos del grupo:
+  🎯 a79ba2ebb7a80793_pm157.jpg
+     352e56070d344380_pm157_lower.jpg
+     faeda22e98d2a2bf_pm157_change_180.jpg
+     931076a9f08caa9f_pm157_change_90.jpg
+     64892816c2309019_pm157_hight.jpg
+     0d19832d298ccf45_pm157_mirror.jpg
+     7c8fe31596af0fa5_pm157_mirror_vertical.jpg
+     8e62486f4664bd81_pm157_change_270.jpg
+
+Grupo: pm93 (8 archivos)
+Método: pattern_analysis
+Archivo base: d8a1c5b5609ab66a_pm93.jpg
+Archivos del grupo:
+     e751a6a9dab6ff37_pm93_mirror.jpg
+     5053c5a391d9c21c_pm93_change_180.jpg
+     4c7d8c3de35caf0d_pm93_mirror_vertical.jpg
+     a995382b2296398f_pm93_change_270.jpg
+     e2d70ee7aca46dff_pm93_lower.jpg
+     69f4d40008aff986_pm93_hight.jpg
+     bdc9803b3ce0ae1b_pm93_change_90.jpg
+  🎯 d8a1c5b5609ab66a_pm93.jpg
+
+Grupo: pm78 (8 archivos)
+Método: pattern_analysis
+Archivo base: 69c8d4db446d8173_pm78.jpg
+Archivos del grupo:
+  🎯 69c8d4db446d8173_pm78.jpg
+     6cd50af85f1f7ccd_pm78_change_90.jpg
+     db8d4bca44494b58_pm78_change_180.jpg
+     6b9470b1fb1ad053_pm78_hight.jpg
+     e3b158ef5a5e3aaf_pm78_mirror_vertical.jpg
+     309f2d76188bab5e_pm78_mirror.jpg
+     3010e521c2e39bd1_pm78_change_270.jpg
+     eb08847bca128193_pm78_lower.jpg
+
+Grupo: pm42 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5a10f41e547fbd1a_pm42.jpg
+Archivos del grupo:
+     84bb2d1bc22b7c52_pm42_change_180.jpg
+     3a277374439ef2fb_pm42_hight.jpg
+     be1ac758d8ca9dad_pm42_mirror.jpg
+  🎯 5a10f41e547fbd1a_pm42.jpg
+     16c883016ad36552_pm42_change_270.jpg
+     088ec392cb4c9b14_pm42_lower.jpg
+     73b9dcb580bc958c_pm42_mirror_vertical.jpg
+     49fef975ec01fc29_pm42_change_90.jpg
+
+Grupo: pm23 (8 archivos)
+Método: pattern_analysis
+Archivo base: db2fb1cda5ae0285_pm23.jpg
+Archivos del grupo:
+  🎯 db2fb1cda5ae0285_pm23.jpg
+     9be979e0dd8de791_pm23_mirror.jpg
+     fb949f7fc9d698b9_pm23_mirror_vertical.jpg
+     97b328516e8a533d_pm23_change_90.jpg
+     ce40fa70f11adcb9_pm23_change_270.jpg
+     0f063cac7ded0940_pm23_lower.jpg
+     7a3a88d057daf32b_pm23_change_180.jpg
+     434ba2f2e87795ac_pm23_hight.jpg
+
+Grupo: pm136 (8 archivos)
+Método: pattern_analysis
+Archivo base: 614f7d9c91afcf68_pm136.jpg
+Archivos del grupo:
+     fc8d37449ea23c4b_pm136_lower.jpg
+     9f6149f9b14e1a7c_pm136_change_90.jpg
+  🎯 614f7d9c91afcf68_pm136.jpg
+     403ad8bac7477067_pm136_change_180.jpg
+     9fafefdcc69b7a58_pm136_hight.jpg
+     1c66dcc6e7ffb277_pm136_change_270.jpg
+     7d3614f3ceefb435_pm136_mirror_vertical.jpg
+     f63d0e5e5130dbc1_pm136_mirror.jpg
+
+Grupo: pm13 (8 archivos)
+Método: pattern_analysis
+Archivo base: dfd01c50e7e82a63_pm13.jpg
+Archivos del grupo:
+     2ffce797cd593fc2_pm13_lower.jpg
+     fc129b691a3c0860_pm13_mirror.jpg
+     859539c9fbfeff40_pm13_change_90.jpg
+  🎯 dfd01c50e7e82a63_pm13.jpg
+     36560ebd5241c385_pm13_change_270.jpg
+     7a9cbe9f900a260f_pm13_mirror_vertical.jpg
+     40bbfc2c8c656fa3_pm13_hight.jpg
+     59b8f9a16ef8f47a_pm13_change_180.jpg
+
+Grupo: pm75 (8 archivos)
+Método: pattern_analysis
+Archivo base: 72506232abb4e5a8_pm75.jpg
+Archivos del grupo:
+     7636c6e785bc4cf9_pm75_hight.jpg
+     2e0ff0697e6d9172_pm75_mirror_vertical.jpg
+     610db30c9f194343_pm75_lower.jpg
+     b9c9035fcb05352d_pm75_mirror.jpg
+  🎯 72506232abb4e5a8_pm75.jpg
+     0d16ae477a03507b_pm75_change_90.jpg
+     68594a8fe3c825b2_pm75_change_180.jpg
+     49a1e49aa45aacb6_pm75_change_270.jpg
+
+Grupo: pm156 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2cd4278b7985801d_pm156.jpg
+Archivos del grupo:
+     53246ffdb397da6a_pm156_change_90.jpg
+     f429e0708ce65bed_pm156_lower.jpg
+     2b930eb666ca0b9f_pm156_mirror.jpg
+     43df60e90dfb6a76_pm156_change_270.jpg
+  🎯 2cd4278b7985801d_pm156.jpg
+     a37bf490240b085f_pm156_hight.jpg
+     9ba46b407d2e8eac_pm156_mirror_vertical.jpg
+     025fac6752748d95_pm156_change_180.jpg
+
+Grupo: pm140 (8 archivos)
+Método: pattern_analysis
+Archivo base: f2b06d79e8081d3d_pm140.jpg
+Archivos del grupo:
+     0eb457f8644f3f2c_pm140_change_180.jpg
+     1b32dd35e71ed2ec_pm140_mirror_vertical.jpg
+     e7b6a5fdba76c222_pm140_lower.jpg
+     d77d98e533f02918_pm140_mirror.jpg
+     d108d00189658205_pm140_hight.jpg
+  🎯 f2b06d79e8081d3d_pm140.jpg
+     1f1fe4387c94cf6b_pm140_change_90.jpg
+     ea0f93fc9bbd84bb_pm140_change_270.jpg
+
+Grupo: pm6 (8 archivos)
+Método: pattern_analysis
+Archivo base: c3ed3bab41e037db_pm6.jpg
+Archivos del grupo:
+     62798b07219b585d_pm6_hight.jpg
+     c860a3ac741f0db4_pm6_change_90.jpg
+     e449dd79f4d8fb2a_pm6_change_180.jpg
+     6b96637138d8ca57_pm6_mirror_vertical.jpg
+     9cd43386f601e1a9_pm6_change_270.jpg
+     116f8489eb2983cd_pm6_lower.jpg
+  🎯 c3ed3bab41e037db_pm6.jpg
+     76860d1c92322678_pm6_mirror.jpg
+
+Grupo: pm85 (8 archivos)
+Método: pattern_analysis
+Archivo base: 1182c46f961738cb_pm85.jpg
+Archivos del grupo:
+     3966cb1c0c59bb0c_pm85_change_180.jpg
+     6398fab71dad8393_pm85_mirror_vertical.jpg
+     3fe0b021fb4c483c_pm85_hight.jpg
+     db3f504f149a58a0_pm85_lower.jpg
+  🎯 1182c46f961738cb_pm85.jpg
+     0135daa4c464b8ef_pm85_mirror.jpg
+     8d605f097c30b77b_pm85_change_270.jpg
+     51d8cc7c96a3c90c_pm85_change_90.jpg
+
+Grupo: pm8 (8 archivos)
+Método: pattern_analysis
+Archivo base: 10957f53ccfb6491_pm8.jpg
+Archivos del grupo:
+     88ed29e0327e8d6e_pm8_change_90.jpg
+  🎯 10957f53ccfb6491_pm8.jpg
+     80165f129be82960_pm8_lower.jpg
+     e134bbae63b119c4_pm8_mirror.jpg
+     3d2182cf9cb6a345_pm8_mirror_vertical.jpg
+     caeaf346926b1c3c_pm8_hight.jpg
+     cc6f2a0eb9157fc0_pm8_change_270.jpg
+     dcb04fdaf75cb1b3_pm8_change_180.jpg
+
+Grupo: pm82 (8 archivos)
+Método: pattern_analysis
+Archivo base: e32fcbc894859c29_pm82.jpg
+Archivos del grupo:
+     5968570ccc253879_pm82_change_90.jpg
+     13b8128bd83e0907_pm82_lower.jpg
+     fee1e759f45c3c5a_pm82_hight.jpg
+     43a1e66ef52d7131_pm82_mirror_vertical.jpg
+     4d4c837fd40358ea_pm82_change_180.jpg
+  🎯 e32fcbc894859c29_pm82.jpg
+     3fb26f7f04361a9e_pm82_mirror.jpg
+     f6d1fe5f2d80f2e6_pm82_change_270.jpg
+
+Grupo: pm53 (8 archivos)
+Método: pattern_analysis
+Archivo base: 04caf6dc697fa87e_pm53.jpg
+Archivos del grupo:
+     d16aff56dee103c2_pm53_hight.jpg
+     47f33e28230f15ae_pm53_change_90.jpg
+  🎯 04caf6dc697fa87e_pm53.jpg
+     c9ee67ba13091d12_pm53_change_180.jpg
+     dd3bd6402fbdafa2_pm53_mirror_vertical.jpg
+     00f3bb7602f3b005_pm53_change_270.jpg
+     f96fd889cf3dfb65_pm53_mirror.jpg
+     3ee48b2c7aeab0ab_pm53_lower.jpg
+
+Grupo: pm96 (8 archivos)
+Método: pattern_analysis
+Archivo base: 144cabd152333365_pm96.jpg
+Archivos del grupo:
+     ce4f2009884c5562_pm96_mirror_vertical.jpg
+     408ac76fb15f5728_pm96_change_270.jpg
+     ffba93a7ab2a1710_pm96_hight.jpg
+     353f22ddf75ef64f_pm96_mirror.jpg
+     9149f8ec2210b56d_pm96_lower.jpg
+  🎯 144cabd152333365_pm96.jpg
+     53dac8ae62066a60_pm96_change_180.jpg
+     78a183592c87c0de_pm96_change_90.jpg
+
+Grupo: pm99 (8 archivos)
+Método: pattern_analysis
+Archivo base: e72bd053ec811505_pm99.jpg
+Archivos del grupo:
+     ed90bfd4aa42a1bb_pm99_change_180.jpg
+     2b26074c3b0b7c98_pm99_hight.jpg
+     747944a58613914a_pm99_lower.jpg
+     766cb52bb85aa75e_pm99_change_270.jpg
+     8b95c45af06ea85e_pm99_mirror.jpg
+     4ebcd2353f7d0c52_pm99_change_90.jpg
+  🎯 e72bd053ec811505_pm99.jpg
+     06bd7fded3c8a2b9_pm99_mirror_vertical.jpg
+
+Grupo: pm126 (8 archivos)
+Método: pattern_analysis
+Archivo base: d8595c99c5fa1323_pm126.jpg
+Archivos del grupo:
+     8e6900cce0d7d29b_pm126_change_270.jpg
+     e05e67aa2fc27ec8_pm126_change_90.jpg
+     638f6ea1658c31f1_pm126_hight.jpg
+     8cd0ff31e1397b7a_pm126_mirror_vertical.jpg
+     896a5885ca0e9cd7_pm126_change_180.jpg
+  🎯 d8595c99c5fa1323_pm126.jpg
+     41e2eb1083e75042_pm126_lower.jpg
+     f8bf4607a7cb1f30_pm126_mirror.jpg
+
+Grupo: pm32 (8 archivos)
+Método: pattern_analysis
+Archivo base: bf5becc597f37083_pm32.jpg
+Archivos del grupo:
+     ef3be237fe4deaf6_pm32_change_90.jpg
+     70919994806a98db_pm32_mirror.jpg
+     f85eda90fde0fc33_pm32_lower.jpg
+     9bf0cdb37835aa94_pm32_mirror_vertical.jpg
+     7266c27862b7298b_pm32_change_180.jpg
+     4969a8aa66168a10_pm32_change_270.jpg
+  🎯 bf5becc597f37083_pm32.jpg
+     926f05293b5fbecf_pm32_hight.jpg
+
+Grupo: pm147 (8 archivos)
+Método: pattern_analysis
+Archivo base: d126dae5ae8cbe05_pm147.jpg
+Archivos del grupo:
+     b2a23dc56ed531e8_pm147_mirror_vertical.jpg
+     7535107183c6e136_pm147_lower.jpg
+     89105cd83c457bc0_pm147_change_90.jpg
+     d299e486bde3267c_pm147_change_270.jpg
+  🎯 d126dae5ae8cbe05_pm147.jpg
+     39505fa71e499300_pm147_change_180.jpg
+     1c9275550aca4eea_pm147_mirror.jpg
+     ae66a0857692be20_pm147_hight.jpg
+
+Grupo: pm87 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5797b3fdc6ed2b25_pm87.jpg
+Archivos del grupo:
+     7f3200ad1d35554a_pm87_mirror.jpg
+  🎯 5797b3fdc6ed2b25_pm87.jpg
+     9786af57912699d1_pm87_hight.jpg
+     8e25375bc95df6de_pm87_lower.jpg
+     3f3dd94068beb60a_pm87_mirror_vertical.jpg
+     35021367c73344c2_pm87_change_90.jpg
+     3077efe179033b63_pm87_change_180.jpg
+     e856e366cabff76f_pm87_change_270.jpg
+
+Grupo: pm64 (8 archivos)
+Método: pattern_analysis
+Archivo base: c6a7f83581e42654_pm64.jpg
+Archivos del grupo:
+     287e6b1eb9156b8f_pm64_lower.jpg
+     eac4c8fe4a4f0092_pm64_mirror.jpg
+  🎯 c6a7f83581e42654_pm64.jpg
+     397f3468c94791c7_pm64_change_270.jpg
+     af279b192d2787e6_pm64_change_180.jpg
+     215a4db8b0eaad07_pm64_mirror_vertical.jpg
+     c5bd9450d3094873_pm64_change_90.jpg
+     0b9d7368a7a2c251_pm64_hight.jpg
+
+Grupo: pm61 (8 archivos)
+Método: pattern_analysis
+Archivo base: aa0662b1805ff0e4_pm61.jpg
+Archivos del grupo:
+     2528bf7ef123ecbe_pm61_lower.jpg
+     fe1dadaee9b94795_pm61_change_270.jpg
+     acd72047b779d7c4_pm61_hight.jpg
+     5ad3fc01b59dab0f_pm61_mirror_vertical.jpg
+  🎯 aa0662b1805ff0e4_pm61.jpg
+     571cbeb8c98b8f3f_pm61_change_180.jpg
+     29cd41fc255cf333_pm61_change_90.jpg
+     ebf9fd0f96ebae00_pm61_mirror.jpg
+
+Grupo: pm33 (8 archivos)
+Método: pattern_analysis
+Archivo base: 88b79c079f84ffec_pm33.jpg
+Archivos del grupo:
+     bb1eedb7b9c68034_pm33_lower.jpg
+     bfe085a2940c9f91_pm33_change_180.jpg
+     790c1bc2d45b7c35_pm33_hight.jpg
+     73786233f586acaf_pm33_mirror.jpg
+  🎯 88b79c079f84ffec_pm33.jpg
+     3c44036710f61cd4_pm33_change_270.jpg
+     259ebfd76cf22240_pm33_change_90.jpg
+     487e21378d64991d_pm33_mirror_vertical.jpg
+
+Grupo: pm91 (8 archivos)
+Método: pattern_analysis
+Archivo base: 229a54183afe8f99_pm91.jpg
+Archivos del grupo:
+     e335c8a235939050_pm91_lower.jpg
+     63977f34c8d907d4_pm91_change_180.jpg
+     a9f5c81565ab881c_pm91_change_90.jpg
+     4147a29237326a55_pm91_hight.jpg
+     3db82b9b73f7c839_pm91_mirror.jpg
+  🎯 229a54183afe8f99_pm91.jpg
+     61074fb73b8b9f72_pm91_mirror_vertical.jpg
+     857851e73554fcc0_pm91_change_270.jpg
+
+Grupo: pm16 (8 archivos)
+Método: pattern_analysis
+Archivo base: f2f10f1f63a0ccd0_pm16.jpg
+Archivos del grupo:
+     ab192c5a927876f5_pm16_change_270.jpg
+     01a955d0b66e5fac_pm16_mirror_vertical.jpg
+     cf3720ab1de99f30_pm16_change_90.jpg
+     267476683c747f7c_pm16_lower.jpg
+     57e5377daf5c45c2_pm16_mirror.jpg
+     887e638f6f0adad1_pm16_hight.jpg
+  🎯 f2f10f1f63a0ccd0_pm16.jpg
+     8c41f04923a2d2f9_pm16_change_180.jpg
+
+Grupo: pm125 (8 archivos)
+Método: pattern_analysis
+Archivo base: fbb57ca7fe23abc6_pm125.jpg
+Archivos del grupo:
+     6d4f908512dba4fd_pm125_hight.jpg
+     b5e2f0acfe8db1ad_pm125_change_90.jpg
+     48253dad87cf303d_pm125_mirror_vertical.jpg
+     055d6cb795daf549_pm125_change_180.jpg
+     ac0fadd6737d6ce7_pm125_lower.jpg
+  🎯 fbb57ca7fe23abc6_pm125.jpg
+     36118f0aab1926f3_pm125_mirror.jpg
+     f4da09ac84f64c6e_pm125_change_270.jpg
+
+Grupo: pm131 (8 archivos)
+Método: pattern_analysis
+Archivo base: 50e519867cbb71b7_pm131.jpg
+Archivos del grupo:
+  🎯 50e519867cbb71b7_pm131.jpg
+     9f7d52cf94226e36_pm131_change_270.jpg
+     12c14c1557eb9ddd_pm131_hight.jpg
+     28aa8213f900e896_pm131_change_180.jpg
+     d4b74a7e1b8e963e_pm131_change_90.jpg
+     76f4708d484285db_pm131_lower.jpg
+     2940d39514e08579_pm131_mirror.jpg
+     5eaa97aad548808e_pm131_mirror_vertical.jpg
+
+Grupo: pm153 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5e5dc3f2cc473997_pm153.jpg
+Archivos del grupo:
+     9b2154903ddc8d69_pm153_change_90.jpg
+     f879768115c13e0e_pm153_mirror_vertical.jpg
+     bdf8105955b6cbd2_pm153_lower.jpg
+     337c60a13d24fab6_pm153_hight.jpg
+     540754b52f57eb4f_pm153_change_180.jpg
+  🎯 5e5dc3f2cc473997_pm153.jpg
+     e078da2c47b6d653_pm153_change_270.jpg
+     a4424a61d30f1a72_pm153_mirror.jpg
+
+Grupo: pm113 (8 archivos)
+Método: pattern_analysis
+Archivo base: 90a926260cd54cf0_pm113.jpg
+Archivos del grupo:
+     818de78e7f336b58_pm113_mirror.jpg
+     37bdc82cad768b1c_pm113_change_270.jpg
+     ce599234bd7914a7_pm113_hight.jpg
+     b01099c85729c27d_pm113_change_90.jpg
+     0c36368fdce56b3c_pm113_lower.jpg
+     ed1d13ba2aec8f5f_pm113_mirror_vertical.jpg
+  🎯 90a926260cd54cf0_pm113.jpg
+     c0b2703a60c842c6_pm113_change_180.jpg
+
+Grupo: pm109 (8 archivos)
+Método: pattern_analysis
+Archivo base: c41aaa6b5b48b38b_pm109.jpg
+Archivos del grupo:
+  🎯 c41aaa6b5b48b38b_pm109.jpg
+     ce44f05f2865935d_pm109_change_270.jpg
+     983ac12a58518b20_pm109_change_180.jpg
+     9c1b5a0d020ce4ef_pm109_hight.jpg
+     86fccd978f3562ab_pm109_mirror.jpg
+     acf23f5a86d7a1a4_pm109_change_90.jpg
+     37fb4affdfba3a5b_pm109_mirror_vertical.jpg
+     6b0c776cf76c9f2b_pm109_lower.jpg
+
+Grupo: pm62 (8 archivos)
+Método: pattern_analysis
+Archivo base: 827e98fb6dd43292_pm62.jpg
+Archivos del grupo:
+     59e55619b2ac3b4b_pm62_lower.jpg
+     539432c324f4f603_pm62_change_270.jpg
+     23124c6f13b1231a_pm62_mirror_vertical.jpg
+     80777b36c6f2769e_pm62_mirror.jpg
+     62279a9b06af3784_pm62_hight.jpg
+  🎯 827e98fb6dd43292_pm62.jpg
+     5d7a3d695d564def_pm62_change_180.jpg
+     9cbc237db8ba9d60_pm62_change_90.jpg
+
+Grupo: pm106 (8 archivos)
+Método: pattern_analysis
+Archivo base: 0f23daf2ee4d233c_pm106.jpg
+Archivos del grupo:
+     b643d0266f9ea006_pm106_lower.jpg
+  🎯 0f23daf2ee4d233c_pm106.jpg
+     35ef1a1a58514553_pm106_change_270.jpg
+     942cddbe40815f16_pm106_mirror.jpg
+     9fa33d611f9b37ef_pm106_mirror_vertical.jpg
+     17cf919d078b52f5_pm106_hight.jpg
+     12e7ceb7b3f27c6b_pm106_change_180.jpg
+     ae4a68f5e3f278c4_pm106_change_90.jpg
+
+Grupo: pm46 (8 archivos)
+Método: pattern_analysis
+Archivo base: 27cc050f643e3ba5_pm46.jpg
+Archivos del grupo:
+     c1511939c7030b24_pm46_change_180.jpg
+  🎯 27cc050f643e3ba5_pm46.jpg
+     bcdc086a22aca293_pm46_mirror_vertical.jpg
+     72ef56bc71abad9d_pm46_hight.jpg
+     3e49a56321b8f193_pm46_change_90.jpg
+     1cf50f99f9f45959_pm46_lower.jpg
+     297395f624876f9c_pm46_mirror.jpg
+     d6b33f37b6757644_pm46_change_270.jpg
+
+Grupo: pm20 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3af85a8d5abf40e9_pm20.jpg
+Archivos del grupo:
+     06daa298471d4d4e_pm20_change_180.jpg
+     e43dff7fc9b37bcd_pm20_change_90.jpg
+     d8b18d5c6d0909fb_pm20_hight.jpg
+     f4f9be6f6dd0d16a_pm20_mirror.jpg
+  🎯 3af85a8d5abf40e9_pm20.jpg
+     f879b08cb2af73cd_pm20_change_270.jpg
+     25f6a1ba03135139_pm20_lower.jpg
+     854849a52ac56308_pm20_mirror_vertical.jpg
+
+Grupo: pm129 (8 archivos)
+Método: pattern_analysis
+Archivo base: 7a109e7c43924499_pm129.jpg
+Archivos del grupo:
+     3c4bdda306c3b923_pm129_change_270.jpg
+     b82eed3e4a59bc88_pm129_mirror_vertical.jpg
+     25dc35256d693378_pm129_change_180.jpg
+  🎯 7a109e7c43924499_pm129.jpg
+     3a64229e014081e7_pm129_change_90.jpg
+     92e5229fe06a153d_pm129_hight.jpg
+     77cc55ebc0fc84ad_pm129_lower.jpg
+     1925610a4be965a7_pm129_mirror.jpg
+
+Grupo: pm111 (8 archivos)
+Método: pattern_analysis
+Archivo base: f64e1878246ae0fa_pm111.jpg
+Archivos del grupo:
+  🎯 f64e1878246ae0fa_pm111.jpg
+     11a48a0ce8faac05_pm111_mirror.jpg
+     1b092d3fb326024e_pm111_change_90.jpg
+     6baca6d730d19840_pm111_mirror_vertical.jpg
+     d4968b17f43996ff_pm111_change_270.jpg
+     6f3309e71243cf1f_pm111_hight.jpg
+     513c7d251d63c8dc_pm111_lower.jpg
+     1f91d210a2376d89_pm111_change_180.jpg
+
+Grupo: pm121 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2e34a7c6a359fdaa_pm121.jpg
+Archivos del grupo:
+     c546ee78fded383e_pm121_change_180.jpg
+  🎯 2e34a7c6a359fdaa_pm121.jpg
+     0afd6837985b8fe8_pm121_hight.jpg
+     0a52d69035aa5bcf_pm121_mirror_vertical.jpg
+     8d8585c3cc8c4ecf_pm121_mirror.jpg
+     5ed782f7d1556b73_pm121_change_90.jpg
+     847191751e86d9c1_pm121_change_270.jpg
+     2670a90ae7a1d3e1_pm121_lower.jpg
+
+Grupo: pm54 (8 archivos)
+Método: pattern_analysis
+Archivo base: 22e3166c64489a44_pm54.jpg
+Archivos del grupo:
+  🎯 22e3166c64489a44_pm54.jpg
+     41b5799887f4b43c_pm54_hight.jpg
+     adfd695a2ed8e9cb_pm54_lower.jpg
+     74cfeefe4558cd7d_pm54_change_90.jpg
+     bed2c9b9ee3248b6_pm54_mirror_vertical.jpg
+     8a3fbf537423495e_pm54_change_180.jpg
+     40f91e00c373f489_pm54_change_270.jpg
+     36e9938241b00595_pm54_mirror.jpg
+
+Grupo: pm51 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3e410b3513c34cd5_pm51.jpg
+Archivos del grupo:
+     413958ebe27b99f5_pm51_mirror.jpg
+     df12bf0cced3164a_pm51_change_270.jpg
+  🎯 3e410b3513c34cd5_pm51.jpg
+     52c8e48aad337dc3_pm51_lower.jpg
+     8d962d768a84bd10_pm51_mirror_vertical.jpg
+     32e68476f16c5024_pm51_hight.jpg
+     825ba9c7d3789102_pm51_change_180.jpg
+     3d6f8b2ebb59914d_pm51_change_90.jpg
+
+Grupo: pm100 (8 archivos)
+Método: pattern_analysis
+Archivo base: 6d0f898215864be6_pm100.jpg
+Archivos del grupo:
+     6f50b794c4a70beb_pm100_change_90.jpg
+     23264b5011d628b0_pm100_hight.jpg
+  🎯 6d0f898215864be6_pm100.jpg
+     5cdc79a1b1fc0a99_pm100_mirror.jpg
+     d396579b4e8770ee_pm100_change_180.jpg
+     554c6e87f8c63ea1_pm100_mirror_vertical.jpg
+     83047cfc51f9913d_pm100_lower.jpg
+     0eb3c6a77478d87f_pm100_change_270.jpg
+
+Grupo: pm117 (8 archivos)
+Método: pattern_analysis
+Archivo base: 6a769668f08f702c_pm117.jpg
+Archivos del grupo:
+     bd649ad4ec0ecbf3_pm117_change_180.jpg
+     668135fc0e86d70b_pm117_lower.jpg
+     c541327488ab4e44_pm117_mirror.jpg
+  🎯 6a769668f08f702c_pm117.jpg
+     32a7ea14bbbf7ec2_pm117_mirror_vertical.jpg
+     1870a0abe7253d95_pm117_change_270.jpg
+     fa257d40c70f4217_pm117_hight.jpg
+     dcf18d190dd29802_pm117_change_90.jpg
+
+Grupo: pm2 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5727ac03bf267033_pm2.jpg
+Archivos del grupo:
+     0cabf22a1dc8087d_pm2_change_180.jpg
+     1800314535a8c8e9_pm2_change_270.jpg
+     710bf265c01253fd_pm2_mirror.jpg
+     2c2cf61af9325b44_pm2_hight.jpg
+  🎯 5727ac03bf267033_pm2.jpg
+     a238fa45c079edcd_pm2_mirror_vertical.jpg
+     23b7ec94c9fff9d3_pm2_change_90.jpg
+     a04b374b059bc9d7_pm2_lower.jpg
+
+Grupo: pm1 (8 archivos)
+Método: pattern_analysis
+Archivo base: 75cfb6a822532d31_pm1.jpg
+Archivos del grupo:
+     1b3d0585039bad5b_pm1_mirror_vertical.jpg
+     10449b86c760813f_pm1_mirror.jpg
+  🎯 75cfb6a822532d31_pm1.jpg
+     829d6e937e37339b_pm1_lower.jpg
+     ef9936ad0a10696a_pm1_change_270.jpg
+     a8852fd9c927fde4_pm1_hight.jpg
+     2f5ba0ff8274fb1a_pm1_change_90.jpg
+     2ed2a3bf9b0c875b_pm1_change_180.jpg
+
+Grupo: pm150 (8 archivos)
+Método: pattern_analysis
+Archivo base: 86d860ceadb513e0_pm150.jpg
+Archivos del grupo:
+     98f0e1ca041672b2_pm150_hight.jpg
+     facb72d3915d919f_pm150_mirror.jpg
+     61cac36013e17c0d_pm150_change_180.jpg
+     15e1afa8798c9be4_pm150_mirror_vertical.jpg
+     8227906becf27e26_pm150_change_270.jpg
+     5108e1c5d5615d58_pm150_lower.jpg
+     3d220790a978c76d_pm150_change_90.jpg
+  🎯 86d860ceadb513e0_pm150.jpg
+
+Grupo: pm112 (8 archivos)
+Método: pattern_analysis
+Archivo base: 424ac29905ca0eca_pm112.jpg
+Archivos del grupo:
+     ee8928795e4854c2_pm112_mirror.jpg
+     2195d69961918c1b_pm112_change_180.jpg
+     c24af68d7f6a7af7_pm112_mirror_vertical.jpg
+     e3a1eea73779f49c_pm112_change_90.jpg
+     aa0eecdfe43679cf_pm112_hight.jpg
+     f3d85d502ddcad42_pm112_lower.jpg
+     61f83e07a805b81e_pm112_change_270.jpg
+  🎯 424ac29905ca0eca_pm112.jpg
+
+Grupo: pm138 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5040508cce9b96a7_pm138.jpg
+Archivos del grupo:
+  🎯 5040508cce9b96a7_pm138.jpg
+     9af47dacb86d9066_pm138_hight.jpg
+     eecef0557d809eff_pm138_change_90.jpg
+     fd6e87409082b46a_pm138_mirror.jpg
+     349cf98ef7d49199_pm138_mirror_vertical.jpg
+     4bbdc987bc33e9dd_pm138_change_270.jpg
+     359a8181a7e2ead6_pm138_lower.jpg
+     e5efc122eb14e8c1_pm138_change_180.jpg
+
+Grupo: pm48 (8 archivos)
+Método: pattern_analysis
+Archivo base: e5a678417351526e_pm48.jpg
+Archivos del grupo:
+     0c0573efdc4d7e54_pm48_change_270.jpg
+  🎯 e5a678417351526e_pm48.jpg
+     1beb941135ed43fa_pm48_change_180.jpg
+     f7e2a8a2e2446483_pm48_mirror_vertical.jpg
+     8ad7b0688da06ec0_pm48_lower.jpg
+     7a33579aada96770_pm48_hight.jpg
+     3fdd83a55b136b2a_pm48_change_90.jpg
+     454f89ca828cf7a8_pm48_mirror.jpg
+
+Grupo: pm143 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5e51b5bed779e45e_pm143.jpg
+Archivos del grupo:
+     3d9a1f2296d89392_pm143_change_180.jpg
+     dd5f6feb1b33d74a_pm143_change_90.jpg
+     358e8f260e829b74_pm143_change_270.jpg
+     86d4eaa7586b0fba_pm143_hight.jpg
+  🎯 5e51b5bed779e45e_pm143.jpg
+     d575cfe0efa2acfb_pm143_lower.jpg
+     93760688d2686257_pm143_mirror.jpg
+     0e7b358fdb8f2242_pm143_mirror_vertical.jpg
+
+Grupo: pm50 (8 archivos)
+Método: pattern_analysis
+Archivo base: 05ad7d9a633aaeff_pm50.jpg
+Archivos del grupo:
+     873773fec454a88c_pm50_change_270.jpg
+     7e301d802972dbfc_pm50_mirror.jpg
+     e82ab2c98fae7e4c_pm50_mirror_vertical.jpg
+     91e64c4a9f9aa6ce_pm50_change_180.jpg
+  🎯 05ad7d9a633aaeff_pm50.jpg
+     ae8c6a9bcbab313d_pm50_lower.jpg
+     3fef259ec832d9c5_pm50_hight.jpg
+     89095d319e93a4b6_pm50_change_90.jpg
+
+Grupo: pm107 (8 archivos)
+Método: pattern_analysis
+Archivo base: 4f34f869d7fd57f7_pm107.jpg
+Archivos del grupo:
+     2192222a0c43500c_pm107_lower.jpg
+     9a5141f08452f3d1_pm107_hight.jpg
+  🎯 4f34f869d7fd57f7_pm107.jpg
+     29ddf93c22b4dda4_pm107_mirror_vertical.jpg
+     07bc4b03947012ee_pm107_change_270.jpg
+     83b6c99676482a2c_pm107_change_90.jpg
+     3e25965ca590f705_pm107_mirror.jpg
+     88d7ef6de8028e71_pm107_change_180.jpg
+
+Grupo: pm145 (8 archivos)
+Método: pattern_analysis
+Archivo base: 14ec502935ddec97_pm145.jpg
+Archivos del grupo:
+     75c30d3d78a04e98_pm145_lower.jpg
+  🎯 14ec502935ddec97_pm145.jpg
+     2fbbc097ab2049ac_pm145_mirror.jpg
+     6bd26f929f4f9c13_pm145_change_90.jpg
+     f1eca8d44fe484ad_pm145_mirror_vertical.jpg
+     a3a5365c7e325fcf_pm145_change_270.jpg
+     f415e1d86018e0c2_pm145_change_180.jpg
+     2396ac274d470066_pm145_hight.jpg
+
+Grupo: pm132 (8 archivos)
+Método: pattern_analysis
+Archivo base: aaf266ce2ba268b1_pm132.jpg
+Archivos del grupo:
+     c1f00c2279491d71_pm132_lower.jpg
+     6939459c383c7abb_pm132_mirror_vertical.jpg
+     5d85896ac49aa968_pm132_change_180.jpg
+     67fc3cb682dabd87_pm132_mirror.jpg
+     fc0c7be424fd813f_pm132_change_90.jpg
+  🎯 aaf266ce2ba268b1_pm132.jpg
+     1a0bcaa482415dfb_pm132_hight.jpg
+     1b2c382c6cb46205_pm132_change_270.jpg
+
+Grupo: pm133 (8 archivos)
+Método: pattern_analysis
+Archivo base: ed7ec9fc2525dc52_pm133.jpg
+Archivos del grupo:
+  🎯 ed7ec9fc2525dc52_pm133.jpg
+     f67f93dbc4c113e6_pm133_mirror.jpg
+     0d191d7d0ef21dbf_pm133_lower.jpg
+     414569d926893400_pm133_change_270.jpg
+     ad8f4038133f79f2_pm133_hight.jpg
+     3580568ff555b8a4_pm133_change_90.jpg
+     6f9a8817c26fb14f_pm133_mirror_vertical.jpg
+     974b1265ee912e05_pm133_change_180.jpg
+
+Grupo: pm101 (8 archivos)
+Método: pattern_analysis
+Archivo base: acc20932f65a4cd6_pm101.jpg
+Archivos del grupo:
+     77a807d497ddf072_pm101_mirror_vertical.jpg
+  🎯 acc20932f65a4cd6_pm101.jpg
+     53f67dcb404671cb_pm101_change_90.jpg
+     4bde5b4e637734b7_pm101_hight.jpg
+     a7e148d1ed022de5_pm101_change_180.jpg
+     9687fd6d9c3c65df_pm101_change_270.jpg
+     b3e98fc42a5b6b0e_pm101_lower.jpg
+     b18888e446f46e4d_pm101_mirror.jpg
+
+Grupo: pm102 (8 archivos)
+Método: pattern_analysis
+Archivo base: c5fb75c6a958b0fe_pm102.jpg
+Archivos del grupo:
+     1550a483862e6ea5_pm102_mirror_vertical.jpg
+     9e26b943091a774e_pm102_change_90.jpg
+     13382ab448a6bcac_pm102_mirror.jpg
+     0e8beb48b50bbe62_pm102_change_270.jpg
+     76f59df381817a94_pm102_hight.jpg
+     0980593314f0c5e1_pm102_change_180.jpg
+  🎯 c5fb75c6a958b0fe_pm102.jpg
+     5114f8a838bc0905_pm102_lower.jpg
+
+Grupo: pm41 (8 archivos)
+Método: pattern_analysis
+Archivo base: e695f39d48042a19_pm41.jpg
+Archivos del grupo:
+  🎯 e695f39d48042a19_pm41.jpg
+     3e86ce648a30afa2_pm41_mirror.jpg
+     a71515bd193e6948_pm41_change_270.jpg
+     5766453297396216_pm41_change_180.jpg
+     ea988a1af52c8181_pm41_mirror_vertical.jpg
+     282e324f48b9f1f6_pm41_hight.jpg
+     977875e7ca6f9634_pm41_lower.jpg
+     de3262a09ffac6de_pm41_change_90.jpg
+
+Grupo: pm139 (8 archivos)
+Método: pattern_analysis
+Archivo base: 57eb5cb12a546362_pm139.jpg
+Archivos del grupo:
+     29e560003f2f0e42_pm139_lower.jpg
+  🎯 57eb5cb12a546362_pm139.jpg
+     290940acfa7a9ab4_pm139_change_90.jpg
+     0e206725b56d27d3_pm139_change_270.jpg
+     7ba2e7666d310e7f_pm139_hight.jpg
+     ac99dfe8dedae2ae_pm139_mirror.jpg
+     784cb25e0655e1da_pm139_change_180.jpg
+     b5c17810ea2515e9_pm139_mirror_vertical.jpg
+
+Grupo: pm97 (8 archivos)
+Método: pattern_analysis
+Archivo base: c3421d7eee96ce8c_pm97.jpg
+Archivos del grupo:
+     0c7a9f32d861372f_pm97_mirror_vertical.jpg
+     6a05c18946a0f70d_pm97_change_90.jpg
+     0e6404052789ac1f_pm97_change_180.jpg
+     67fbbac206e873fe_pm97_mirror.jpg
+     7ee0f385d85da619_pm97_change_270.jpg
+  🎯 c3421d7eee96ce8c_pm97.jpg
+     ee4c63aa32563bfb_pm97_lower.jpg
+     ca1a7d8a5bd7be14_pm97_hight.jpg
+
+Grupo: pm38 (8 archivos)
+Método: pattern_analysis
+Archivo base: 8738aeb123286735_pm38.jpg
+Archivos del grupo:
+     d6a5df46272af4bd_pm38_mirror_vertical.jpg
+  🎯 8738aeb123286735_pm38.jpg
+     c2f53f9542b02ed3_pm38_change_270.jpg
+     7c07bb86ea344abe_pm38_hight.jpg
+     76d2ec2412faac90_pm38_change_180.jpg
+     fce28c68ee3de8d6_pm38_mirror.jpg
+     c928c11d53975112_pm38_lower.jpg
+     a0e089b3fe8011a8_pm38_change_90.jpg
+
+Grupo: pm95 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3f5283c1fe6bc9c9_pm95.jpg
+Archivos del grupo:
+  🎯 3f5283c1fe6bc9c9_pm95.jpg
+     3593ddd16be50e38_pm95_mirror.jpg
+     b179081d86cd900b_pm95_hight.jpg
+     197e9ad2bee2a3aa_pm95_mirror_vertical.jpg
+     aae6d0741089c583_pm95_change_270.jpg
+     b594dad13d58ff20_pm95_change_90.jpg
+     737ac3fd6643071d_pm95_lower.jpg
+     d8020e933f44902f_pm95_change_180.jpg
+
+Grupo: pm70 (8 archivos)
+Método: pattern_analysis
+Archivo base: c01853688428d0b3_pm70.jpg
+Archivos del grupo:
+     7218fb31241cb644_pm70_change_180.jpg
+     a41aca00cb6c4953_pm70_lower.jpg
+     b272f22f1bc4688a_pm70_mirror_vertical.jpg
+     19ad76d6bee5b483_pm70_change_90.jpg
+     0fc714ca9e9950d1_pm70_change_270.jpg
+  🎯 c01853688428d0b3_pm70.jpg
+     72570a031d210879_pm70_hight.jpg
+     e389d6ab34acc989_pm70_mirror.jpg
+
+Grupo: pm120 (8 archivos)
+Método: pattern_analysis
+Archivo base: 0f849c960d2f3439_pm120.jpg
+Archivos del grupo:
+     53cce3bae6a10f1d_pm120_change_270.jpg
+     49c723cd9e67aa7d_pm120_change_180.jpg
+     7b211fb24cc1d3f2_pm120_mirror_vertical.jpg
+     7f19b3689b2f5056_pm120_lower.jpg
+     86fffdf017628c21_pm120_change_90.jpg
+  🎯 0f849c960d2f3439_pm120.jpg
+     869ffd0aa3e4f1fb_pm120_mirror.jpg
+     6d61f82506d0de89_pm120_hight.jpg
+
+Grupo: pm130 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5fde67c802ab1faa_pm130.jpg
+Archivos del grupo:
+     ba81aa189cb6a2dd_pm130_change_180.jpg
+     1a2c77f5e520a669_pm130_hight.jpg
+     e718538fdcc5343f_pm130_lower.jpg
+     8b5a16d5ad1cd2cc_pm130_mirror_vertical.jpg
+     40a87c5ca6bf9f51_pm130_mirror.jpg
+     b4c57aa4b8e75528_pm130_change_270.jpg
+  🎯 5fde67c802ab1faa_pm130.jpg
+     0a06bc1fa97a6d05_pm130_change_90.jpg
+
+Grupo: pm36 (8 archivos)
+Método: pattern_analysis
+Archivo base: e5d280a86ea77b29_pm36.jpg
+Archivos del grupo:
+     cee07d80f4ec9066_pm36_lower.jpg
+     b95903ad72c3e830_pm36_hight.jpg
+     f1e98ba1fd91e88c_pm36_change_180.jpg
+  🎯 e5d280a86ea77b29_pm36.jpg
+     5323d199ac73c2e2_pm36_mirror_vertical.jpg
+     4501a67c475e186c_pm36_change_270.jpg
+     b69b2e23b38f1f28_pm36_change_90.jpg
+     0717f03e7d803ddc_pm36_mirror.jpg
+
+Grupo: pm92 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2626b645cbb1d49d_pm92.jpg
+Archivos del grupo:
+  🎯 2626b645cbb1d49d_pm92.jpg
+     de1523317d54a393_pm92_mirror_vertical.jpg
+     8bac3a3897602f6f_pm92_change_270.jpg
+     c8ad14db1e4ec6b1_pm92_hight.jpg
+     6571ec193b848050_pm92_lower.jpg
+     afa45bbbda6b223e_pm92_change_180.jpg
+     60724b1dbbeac0a6_pm92_change_90.jpg
+     8d7607fc71cedf51_pm92_mirror.jpg
+
+Grupo: pm142 (8 archivos)
+Método: pattern_analysis
+Archivo base: 67e2f99fe715d6bf_pm142.jpg
+Archivos del grupo:
+     4ef7ff7f7ca0e761_pm142_change_270.jpg
+     c2cced45dd8eb2c7_pm142_hight.jpg
+     bfef36089b4ec8b8_pm142_mirror.jpg
+  🎯 67e2f99fe715d6bf_pm142.jpg
+     29aa6dd5364b7658_pm142_change_180.jpg
+     3086888856492e69_pm142_mirror_vertical.jpg
+     ae3ee86ba362b4c6_pm142_lower.jpg
+     a4170522a96c3544_pm142_change_90.jpg
+
+Grupo: pm49 (8 archivos)
+Método: pattern_analysis
+Archivo base: b1ea33577814f37b_pm49.jpg
+Archivos del grupo:
+     c60bfa2b079e5894_pm49_change_270.jpg
+     bf395fb41303f678_pm49_lower.jpg
+     b59fb4629b3a1ec1_pm49_mirror.jpg
+  🎯 b1ea33577814f37b_pm49.jpg
+     54006786e5b3dee2_pm49_change_90.jpg
+     0e42ca4aac51e463_pm49_mirror_vertical.jpg
+     199e5d6cfa72f0f0_pm49_hight.jpg
+     23b75ff0c3e3cde5_pm49_change_180.jpg
+
+Grupo: pm90 (8 archivos)
+Método: pattern_analysis
+Archivo base: 9046233f1bd1335d_pm90.jpg
+Archivos del grupo:
+     6317ae67021cc80f_pm90_change_90.jpg
+     6149ab0d4afd7057_pm90_change_270.jpg
+     065b0d3793a2f7f8_pm90_lower.jpg
+     2aefc3ca44209cfc_pm90_mirror.jpg
+     a6ff9864b303b8a0_pm90_hight.jpg
+     77c6d1a11899e14c_pm90_mirror_vertical.jpg
+  🎯 9046233f1bd1335d_pm90.jpg
+     9b86f6ab0c83cc7e_pm90_change_180.jpg
+
+Grupo: pm77 (8 archivos)
+Método: pattern_analysis
+Archivo base: 11ff473cbd030dc7_pm77.jpg
+Archivos del grupo:
+     294bc7b59a3b81f0_pm77_change_180.jpg
+     9ec2b798407a89d1_pm77_change_270.jpg
+  🎯 11ff473cbd030dc7_pm77.jpg
+     014d57ae60818515_pm77_mirror.jpg
+     92a9a53287e8c552_pm77_change_90.jpg
+     636940255367a2e0_pm77_lower.jpg
+     f06cd2e27316febd_pm77_mirror_vertical.jpg
+     5cf044c015390d54_pm77_hight.jpg
+
+Grupo: pm25 (8 archivos)
+Método: pattern_analysis
+Archivo base: 10402cd3d58673f1_pm25.jpg
+Archivos del grupo:
+     c03d205e024b2030_pm25_mirror_vertical.jpg
+     e6910b1bf2874d14_pm25_lower.jpg
+     fa1451ec22b77022_pm25_hight.jpg
+     9b797ef1256ec00c_pm25_change_90.jpg
+     2101baf11d39ed68_pm25_mirror.jpg
+     a08998fed8f44abe_pm25_change_180.jpg
+     ee0485ed5972dd49_pm25_change_270.jpg
+  🎯 10402cd3d58673f1_pm25.jpg
+
+Grupo: pm146 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2c1f7b31819b482f_pm146.jpg
+Archivos del grupo:
+     1135bdc166f2d93c_pm146_lower.jpg
+     55d930a5768ebfe3_pm146_hight.jpg
+     e5bbdb4422246319_pm146_change_90.jpg
+  🎯 2c1f7b31819b482f_pm146.jpg
+     76193d121339fbb9_pm146_change_180.jpg
+     d52034aa309ff410_pm146_change_270.jpg
+     2fabfa4a59ab6724_pm146_mirror.jpg
+     b9e9e59b2c1fee70_pm146_mirror_vertical.jpg
+
+Grupo: pm76 (8 archivos)
+Método: pattern_analysis
+Archivo base: 48bfaae0743b99cc_pm76.jpg
+Archivos del grupo:
+     31ff1373b2a1b159_pm76_change_270.jpg
+     edec331905d9b947_pm76_mirror_vertical.jpg
+     156a69e29e8ab3e4_pm76_hight.jpg
+     cc4126f882ce78f1_pm76_lower.jpg
+     6ddb9abe0d8d5695_pm76_change_90.jpg
+     c5de00a08773e0b5_pm76_mirror.jpg
+     727ca7d86bfa4b1d_pm76_change_180.jpg
+  🎯 48bfaae0743b99cc_pm76.jpg
+
+Grupo: pm127 (8 archivos)
+Método: pattern_analysis
+Archivo base: bd9b48a998b48d19_pm127.jpg
+Archivos del grupo:
+     e005796c5d938663_pm127_change_270.jpg
+     2aa101df9f9f20ff_pm127_change_180.jpg
+     7585e49ea88efd2e_pm127_hight.jpg
+     4184a51d36527cfa_pm127_mirror.jpg
+     f0ae97527952d049_pm127_lower.jpg
+  🎯 bd9b48a998b48d19_pm127.jpg
+     1f59d467f0de22d7_pm127_change_90.jpg
+     6ecec854368daaa5_pm127_mirror_vertical.jpg
+
+Grupo: pm141 (8 archivos)
+Método: pattern_analysis
+Archivo base: 85d184ca6ea25d6e_pm141.jpg
+Archivos del grupo:
+     1a498867b2fadf0c_pm141_change_180.jpg
+     7c23dc4eaaa0805e_pm141_mirror_vertical.jpg
+  🎯 85d184ca6ea25d6e_pm141.jpg
+     601a23b845b382b3_pm141_change_270.jpg
+     a0a6e12eabb7dfae_pm141_change_90.jpg
+     c15ab60a04daf65e_pm141_mirror.jpg
+     e6d82fbd18076362_pm141_hight.jpg
+     e460b77c02c5cea6_pm141_lower.jpg
+
+Grupo: pm134 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3abf991262f6101d_pm134.jpg
+Archivos del grupo:
+     ae3e00b553eb88ca_pm134_mirror_vertical.jpg
+     29939fe33143263e_pm134_hight.jpg
+     f3814a2cf5f87eda_pm134_change_90.jpg
+  🎯 3abf991262f6101d_pm134.jpg
+     693aa90a5c29fff0_pm134_mirror.jpg
+     ecdaf5fe73c287e5_pm134_change_270.jpg
+     d16eb4df7960154c_pm134_change_180.jpg
+     90f3dbaa330936e8_pm134_lower.jpg
+
+Grupo: pm154 (8 archivos)
+Método: pattern_analysis
+Archivo base: fb0b024711668ba6_pm154.jpg
+Archivos del grupo:
+     b992cee6d6306dca_pm154_hight.jpg
+     47f2b4c9f3921179_pm154_change_270.jpg
+     f7d82279fe494f27_pm154_change_90.jpg
+     8ad2282b49625119_pm154_lower.jpg
+     d94edd9c434ff091_pm154_mirror_vertical.jpg
+  🎯 fb0b024711668ba6_pm154.jpg
+     d7dccb16f16eb4df_pm154_mirror.jpg
+     097d65ee91b22ad9_pm154_change_180.jpg
+
+Grupo: pm11 (8 archivos)
+Método: pattern_analysis
+Archivo base: 9793fe325bd58426_pm11.jpg
+Archivos del grupo:
+     ec62a13612e3bfde_pm11_mirror_vertical.jpg
+     fc3fc20f619b5c14_pm11_lower.jpg
+     a4069c64a2eb8533_pm11_change_90.jpg
+  🎯 9793fe325bd58426_pm11.jpg
+     373e906e4b2d9981_pm11_hight.jpg
+     eb08c01714f16e7f_pm11_change_180.jpg
+     50da077a80104bc9_pm11_change_270.jpg
+     d7d8d3fc79e2373c_pm11_mirror.jpg
+
+Grupo: pm5 (8 archivos)
+Método: pattern_analysis
+Archivo base: 03e165df74acbb36_pm5.jpg
+Archivos del grupo:
+     a48c5c079e26344e_pm5_mirror.jpg
+     929658b3e48c8414_pm5_change_180.jpg
+     c03991f749a3897a_pm5_hight.jpg
+  🎯 03e165df74acbb36_pm5.jpg
+     8231b0662e9a4f4a_pm5_mirror_vertical.jpg
+     dfd38809219c9ac7_pm5_lower.jpg
+     eeeae59ee461d5ba_pm5_change_270.jpg
+     486fa696a92100d4_pm5_change_90.jpg
+
+Grupo: pm21 (8 archivos)
+Método: pattern_analysis
+Archivo base: 07341c68052b6dba_pm21.jpg
+Archivos del grupo:
+     4410a8ceeaef02ff_pm21_change_270.jpg
+     1632fb4daaff86f7_pm21_mirror_vertical.jpg
+     ef4530fcbf7dd716_pm21_hight.jpg
+     2fff47dc4f0d935f_pm21_lower.jpg
+     2a7eaef8c37ce8f6_pm21_mirror.jpg
+     ec2c6750ba2809c5_pm21_change_180.jpg
+     12a61550d22adad6_pm21_change_90.jpg
+  🎯 07341c68052b6dba_pm21.jpg
+
+Grupo: pm69 (8 archivos)
+Método: pattern_analysis
+Archivo base: 570ae79714697190_pm69.jpg
+Archivos del grupo:
+     9951224893981560_pm69_mirror.jpg
+  🎯 570ae79714697190_pm69.jpg
+     7e1e087dc1355d48_pm69_change_180.jpg
+     099317b87018f93c_pm69_change_270.jpg
+     e6ea0ed480da2256_pm69_change_90.jpg
+     425d7842c5821024_pm69_lower.jpg
+     61db0fb3a06202db_pm69_hight.jpg
+     d684a3e340dadaa6_pm69_mirror_vertical.jpg
+
+Grupo: pm115 (8 archivos)
+Método: pattern_analysis
+Archivo base: e8fc0d95c7ddae74_pm115.jpg
+Archivos del grupo:
+     3149416b7f5e9da8_pm115_change_90.jpg
+  🎯 e8fc0d95c7ddae74_pm115.jpg
+     082f8f6c1c8ac1a4_pm115_mirror_vertical.jpg
+     d968785df4cb4c70_pm115_hight.jpg
+     436cdc3b8b30cff0_pm115_lower.jpg
+     4d2fc4057e132400_pm115_change_180.jpg
+     fa391a061c702243_pm115_mirror.jpg
+     c80d0bbec5f33a35_pm115_change_270.jpg
+
+Grupo: pm14 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2d84af05c5ea5877_pm14.jpg
+Archivos del grupo:
+     456f63cba0d51785_pm14_change_270.jpg
+     623330b3efd9b02e_pm14_lower.jpg
+     81ab7108c667e1e3_pm14_mirror_vertical.jpg
+     aa4f70546ccb6ce8_pm14_change_180.jpg
+  🎯 2d84af05c5ea5877_pm14.jpg
+     b2a9f6222384541b_pm14_mirror.jpg
+     226f9398adaff3da_pm14_hight.jpg
+     9cd3a291ce2c45e1_pm14_change_90.jpg
+
+Grupo: pm45 (8 archivos)
+Método: pattern_analysis
+Archivo base: 54bcd41c3d690366_pm45.jpg
+Archivos del grupo:
+     db3f1d6f64e11ccc_pm45_change_90.jpg
+     dee7e86825c6e9dc_pm45_change_270.jpg
+     c5adbaaac452c6b9_pm45_mirror_vertical.jpg
+     33eabbda2eab0abc_pm45_hight.jpg
+     53be30c854ca87ee_pm45_change_180.jpg
+     efe289fb286b921d_pm45_mirror.jpg
+     d515b4ec909ace19_pm45_lower.jpg
+  🎯 54bcd41c3d690366_pm45.jpg
+
+Grupo: pm144 (8 archivos)
+Método: pattern_analysis
+Archivo base: ae9fadfc82f42fe7_pm144.jpg
+Archivos del grupo:
+     a8075ed30bdbc14c_pm144_hight.jpg
+     2ba63dd44fee5cb2_pm144_mirror_vertical.jpg
+     7b2603f7136ed947_pm144_change_90.jpg
+     4298ff9090c142ca_pm144_change_180.jpg
+     4975cf5f923fc8e5_pm144_change_270.jpg
+     fbf54e86d80b0962_pm144_mirror.jpg
+  🎯 ae9fadfc82f42fe7_pm144.jpg
+     efbedee058ca43ef_pm144_lower.jpg
+
+Grupo: pm152 (8 archivos)
+Método: pattern_analysis
+Archivo base: 203c22335f70cc44_pm152.jpg
+Archivos del grupo:
+     5265968a3d542db4_pm152_change_270.jpg
+     472cbe035ad880f1_pm152_change_90.jpg
+     c695457c16e03828_pm152_mirror_vertical.jpg
+     35b94f7da8332c18_pm152_lower.jpg
+     93e636ae7ca289d5_pm152_change_180.jpg
+     d95c6d01883fdc24_pm152_mirror.jpg
+     46c0d662b74beb1f_pm152_hight.jpg
+  🎯 203c22335f70cc44_pm152.jpg
+
+Grupo: pm67 (8 archivos)
+Método: pattern_analysis
+Archivo base: 1959c1fec19cc5c3_pm67.jpg
+Archivos del grupo:
+     2308d079e2fe6c78_pm67_change_90.jpg
+  🎯 1959c1fec19cc5c3_pm67.jpg
+     657bd9f29090527c_pm67_lower.jpg
+     c29753dd8e8dad30_pm67_change_270.jpg
+     2f08f16355bf17c6_pm67_mirror.jpg
+     f25e186885f9ba70_pm67_mirror_vertical.jpg
+     0d195a48a71525ee_pm67_change_180.jpg
+     1c100dbc4506df83_pm67_hight.jpg
+
+Grupo: pm19 (8 archivos)
+Método: pattern_analysis
+Archivo base: 4d98632903ba56ba_pm19.jpg
+Archivos del grupo:
+     7f003276649cc6d9_pm19_mirror_vertical.jpg
+     18ab5c14624856ff_pm19_mirror.jpg
+     c94e5e58ac6511d9_pm19_change_180.jpg
+     f4958625711873fa_pm19_change_270.jpg
+     56b96ce410089733_pm19_change_90.jpg
+     095783d043559996_pm19_hight.jpg
+  🎯 4d98632903ba56ba_pm19.jpg
+     7505244f3071e7ac_pm19_lower.jpg
+
+Grupo: pm4 (8 archivos)
+Método: pattern_analysis
+Archivo base: 906ceccbbb5ab274_pm4.jpg
+Archivos del grupo:
+     ec3bf5f4dc7adf6c_pm4_mirror_vertical.jpg
+     0c50e545bfbfff13_pm4_hight.jpg
+  🎯 906ceccbbb5ab274_pm4.jpg
+     eb1e278ad07e0456_pm4_change_270.jpg
+     809df8e7c15c1813_pm4_mirror.jpg
+     cd48c1a3f086d962_pm4_lower.jpg
+     a4744bd0f8c248ac_pm4_change_90.jpg
+     8a4ee1a5cf3d0ee7_pm4_change_180.jpg
+
+Grupo: pm39 (8 archivos)
+Método: pattern_analysis
+Archivo base: be708e2fb04ff76a_pm39.jpg
+Archivos del grupo:
+     3d67896936efd7aa_pm39_change_90.jpg
+     e3cd681047f36459_pm39_hight.jpg
+     4598624372b7f10a_pm39_change_180.jpg
+  🎯 be708e2fb04ff76a_pm39.jpg
+     a3c57964bd41f9e5_pm39_mirror_vertical.jpg
+     72473e843068925d_pm39_mirror.jpg
+     95127fce080e9f20_pm39_change_270.jpg
+     eb33f30007be000e_pm39_lower.jpg
+
+Grupo: pm68 (8 archivos)
+Método: pattern_analysis
+Archivo base: 1bbd0abc4e0fa579_pm68.jpg
+Archivos del grupo:
+     9a6b1d3d61d248f4_pm68_change_90.jpg
+  🎯 1bbd0abc4e0fa579_pm68.jpg
+     a2443ab81e734803_pm68_change_270.jpg
+     30d102df95867b4e_pm68_mirror.jpg
+     c80eb13398a0dd0f_pm68_mirror_vertical.jpg
+     9bbc8a72c76a5f33_pm68_hight.jpg
+     d85321afe37c3381_pm68_lower.jpg
+     334c952b15e7f690_pm68_change_180.jpg
+
+Grupo: pm9 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5cb83cac2c73b846_pm9.jpg
+Archivos del grupo:
+     2d8f6bd027f9fff5_pm9_change_270.jpg
+     d71cd6df47f5e5c5_pm9_change_180.jpg
+     b257fe184c086498_pm9_lower.jpg
+     c61f8d7b12127e0e_pm9_hight.jpg
+  🎯 5cb83cac2c73b846_pm9.jpg
+     9073f58b9b17afec_pm9_change_90.jpg
+     706edd2ef9200a82_pm9_mirror_vertical.jpg
+     60d2369d3819ee88_pm9_mirror.jpg
+
+Grupo: pm63 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5b5811cb2e97377d_pm63.jpg
+Archivos del grupo:
+     c49bb655ab042aee_pm63_mirror_vertical.jpg
+     871462d9c0f94968_pm63_mirror.jpg
+     27b2593376942c30_pm63_change_270.jpg
+     d37ccdfdad89a8ed_pm63_hight.jpg
+     ae412d421d64ec3e_pm63_lower.jpg
+     544c882dcad45fe9_pm63_change_90.jpg
+  🎯 5b5811cb2e97377d_pm63.jpg
+     8d052c55d22050c8_pm63_change_180.jpg
+
+Grupo: pm65 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2890ee6327e4010a_pm65.jpg
+Archivos del grupo:
+     6cbd861122d588d0_pm65_change_90.jpg
+     4bbb8852131cbb3b_pm65_lower.jpg
+  🎯 2890ee6327e4010a_pm65.jpg
+     3476dbfe677ec873_pm65_mirror.jpg
+     8fd5c7388bce6e49_pm65_hight.jpg
+     655ef69f2e735b6d_pm65_change_270.jpg
+     b6b5251ebbead87d_pm65_mirror_vertical.jpg
+     c43f0942ba175d6f_pm65_change_180.jpg
+
+Grupo: pm104 (8 archivos)
+Método: pattern_analysis
+Archivo base: c40ee4181cf2f1d7_pm104.jpg
+Archivos del grupo:
+     d07189728b061543_pm104_change_270.jpg
+     ccf2921c87f15923_pm104_mirror_vertical.jpg
+     589d3c7101e00f70_pm104_change_180.jpg
+  🎯 c40ee4181cf2f1d7_pm104.jpg
+     c2c463d12535d24c_pm104_mirror.jpg
+     6737f3a6e5e81e73_pm104_hight.jpg
+     d69a4d5b0fde4a82_pm104_lower.jpg
+     76efde760c6cdac1_pm104_change_90.jpg
+
+Grupo: pm108 (8 archivos)
+Método: pattern_analysis
+Archivo base: 166caa1811e34a41_pm108.jpg
+Archivos del grupo:
+     7c9e1ca6cd4cd442_pm108_mirror_vertical.jpg
+     b268d60a76865ee1_pm108_change_270.jpg
+  🎯 166caa1811e34a41_pm108.jpg
+     32c9b67aa0c67063_pm108_mirror.jpg
+     2f84c3bbb2716980_pm108_lower.jpg
+     4e2e8ef5ac94ea3c_pm108_change_180.jpg
+     83f0738a4586a730_pm108_hight.jpg
+     e5cd590466900ff2_pm108_change_90.jpg
+
+Grupo: pm83 (8 archivos)
+Método: pattern_analysis
+Archivo base: 4eb3b27b41f6101d_pm83.jpg
+Archivos del grupo:
+     61e0a06202e0ee20_pm83_mirror_vertical.jpg
+     f10455d516d1ff1d_pm83_change_180.jpg
+     1b7d2f2a0cb3cd80_pm83_mirror.jpg
+     3c8a8b7ab074c219_pm83_change_90.jpg
+  🎯 4eb3b27b41f6101d_pm83.jpg
+     0f5526e4f2a2bda3_pm83_lower.jpg
+     b24366f46917254f_pm83_change_270.jpg
+     66b98732496bbb60_pm83_hight.jpg
+
+Grupo: pm60 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3da00df31c799404_pm60.jpg
+Archivos del grupo:
+     da26ff918e5d3afd_pm60_change_90.jpg
+     3c0386a3c7d9b2d5_pm60_lower.jpg
+     e860b7230e4435d3_pm60_hight.jpg
+     8f1a95a00adeefe1_pm60_mirror.jpg
+     46d12fa8c9f356bc_pm60_change_270.jpg
+  🎯 3da00df31c799404_pm60.jpg
+     8081f285f22ff8b4_pm60_mirror_vertical.jpg
+     59d32d03ec3dc1a0_pm60_change_180.jpg
+
+Grupo: pm52 (8 archivos)
+Método: pattern_analysis
+Archivo base: 3dfba7a45afd7f85_pm52.jpg
+Archivos del grupo:
+  🎯 3dfba7a45afd7f85_pm52.jpg
+     318cdd90e9d9e27f_pm52_change_180.jpg
+     bd17a8a14a6de19b_pm52_change_90.jpg
+     09a6033db2a80752_pm52_hight.jpg
+     c0dd6250c89e2778_pm52_mirror_vertical.jpg
+     14da9ec3e83ee29e_pm52_mirror.jpg
+     ba433e834bb2b39f_pm52_lower.jpg
+     6b457b3fd7dad0be_pm52_change_270.jpg
+
+Grupo: pm110 (8 archivos)
+Método: pattern_analysis
+Archivo base: 37ed8a153ea5b485_pm110.jpg
+Archivos del grupo:
+  🎯 37ed8a153ea5b485_pm110.jpg
+     57ce3fd7307c1e5f_pm110_lower.jpg
+     ed085aacbd2040e1_pm110_change_90.jpg
+     cb376e32d821a504_pm110_hight.jpg
+     032ebf150d4fc41f_pm110_change_270.jpg
+     0ea68647016f0df2_pm110_mirror_vertical.jpg
+     d3f9470e1bce502a_pm110_mirror.jpg
+     afb313c8b6075c0c_pm110_change_180.jpg
+
+Grupo: pm12 (8 archivos)
+Método: pattern_analysis
+Archivo base: 36635e1bc6c92b7d_pm12.jpg
+Archivos del grupo:
+     ab3047caef4b3f89_pm12_change_90.jpg
+     114ee0350573a83f_pm12_mirror.jpg
+     9fbd5161c3776696_pm12_mirror_vertical.jpg
+     3ac1f2277fd517c9_pm12_hight.jpg
+     cc3fd9d270df1c78_pm12_change_270.jpg
+  🎯 36635e1bc6c92b7d_pm12.jpg
+     9514be75aaffd006_pm12_lower.jpg
+     7af868770666d982_pm12_change_180.jpg
+
+Grupo: pm56 (8 archivos)
+Método: pattern_analysis
+Archivo base: 34476286e40acc02_pm56.jpg
+Archivos del grupo:
+     d80360b8190f903a_pm56_change_270.jpg
+     8b7aab0d180552c3_pm56_hight.jpg
+     1b603e69f2d9d4f8_pm56_mirror_vertical.jpg
+     13aa266566d1f197_pm56_lower.jpg
+  🎯 34476286e40acc02_pm56.jpg
+     03bb59a1c3e3b105_pm56_change_180.jpg
+     8993ab1a5328cdec_pm56_mirror.jpg
+     41e6f31f4842183a_pm56_change_90.jpg
+
+Grupo: pm88 (8 archivos)
+Método: pattern_analysis
+Archivo base: d1f1f22aa3178702_pm88.jpg
+Archivos del grupo:
+     1045a9d7742ce08b_pm88_mirror.jpg
+     732b40321b333905_pm88_hight.jpg
+     54ff75d60bb115ab_pm88_change_180.jpg
+     1c49a2975b5191e5_pm88_lower.jpg
+     ffaebc768db97319_pm88_mirror_vertical.jpg
+     be97989ada8ac4b9_pm88_change_270.jpg
+     643415b4865bc2b7_pm88_change_90.jpg
+  🎯 d1f1f22aa3178702_pm88.jpg
+
+Grupo: pm28 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2c2e98da346d913c_pm28.jpg
+Archivos del grupo:
+     61b9952d89d480ef_pm28_hight.jpg
+     38fa1bbfe5fe12f9_pm28_change_90.jpg
+     17b7431900295d22_pm28_change_180.jpg
+     7379f5acaea4562a_pm28_change_270.jpg
+     c2c9f22a999f646c_pm28_lower.jpg
+     918e4b120857dd82_pm28_mirror_vertical.jpg
+  🎯 2c2e98da346d913c_pm28.jpg
+     6f21744c2c13e27e_pm28_mirror.jpg
+
+Grupo: pm103 (8 archivos)
+Método: pattern_analysis
+Archivo base: b9ede6aba34e0b07_pm103.jpg
+Archivos del grupo:
+     ab627f9f18df43e2_pm103_lower.jpg
+     f0b5f03b5ef597bc_pm103_change_90.jpg
+     2b2a7b05233d9647_pm103_change_270.jpg
+     c691664e347cd888_pm103_mirror_vertical.jpg
+     e100f382f038c32c_pm103_change_180.jpg
+     38c29d2cc6d7b026_pm103_hight.jpg
+     ff7e05f878e36999_pm103_mirror.jpg
+  🎯 b9ede6aba34e0b07_pm103.jpg
+
+Grupo: pm128 (8 archivos)
+Método: pattern_analysis
+Archivo base: a242a20e20f13e9b_pm128.jpg
+Archivos del grupo:
+     f0586062e545ae9c_pm128_change_180.jpg
+     26645abbf77f8699_pm128_hight.jpg
+     017836ce0214a2fa_pm128_change_90.jpg
+  🎯 a242a20e20f13e9b_pm128.jpg
+     54459fa2d6e57326_pm128_mirror_vertical.jpg
+     79b9a3e172152ae4_pm128_change_270.jpg
+     c5246f3531cc5d24_pm128_lower.jpg
+     91f8271377062442_pm128_mirror.jpg
+
+Grupo: pm148 (8 archivos)
+Método: pattern_analysis
+Archivo base: 71f890fd6f9a073c_pm148.jpg
+Archivos del grupo:
+     95cbda74d47e9556_pm148_change_270.jpg
+     136ad73a7e3b8856_pm148_mirror.jpg
+     7edf628ad8d9dd30_pm148_change_90.jpg
+  🎯 71f890fd6f9a073c_pm148.jpg
+     6bcff4a67d8fe689_pm148_hight.jpg
+     7d12d1c645fdc08a_pm148_lower.jpg
+     d5ddfe4855717fea_pm148_change_180.jpg
+     a7ca29c4a97881b0_pm148_mirror_vertical.jpg
+
+Grupo: pm124 (8 archivos)
+Método: pattern_analysis
+Archivo base: 64a055985fe8abf9_pm124.jpg
+Archivos del grupo:
+     c24352df623d9dbb_pm124_lower.jpg
+     57538cc8d7deb345_pm124_hight.jpg
+     104eb646cd509b17_pm124_change_270.jpg
+  🎯 64a055985fe8abf9_pm124.jpg
+     60c63ce3b857b020_pm124_change_90.jpg
+     14bb917ba39482cd_pm124_mirror.jpg
+     405c460e9b94146e_pm124_mirror_vertical.jpg
+     29c9367b77423b25_pm124_change_180.jpg
+
+Grupo: pm84 (8 archivos)
+Método: pattern_analysis
+Archivo base: 477d77e354612e2a_pm84.jpg
+Archivos del grupo:
+  🎯 477d77e354612e2a_pm84.jpg
+     f7d4b28987596613_pm84_lower.jpg
+     0cbe791a4ffc09ef_pm84_change_180.jpg
+     70236c1665b7b285_pm84_mirror_vertical.jpg
+     602c30197999e1bc_pm84_change_270.jpg
+     dcced535863e2ee0_pm84_change_90.jpg
+     41b0ee9fd0e8641d_pm84_mirror.jpg
+     f33530fc69406c7e_pm84_hight.jpg
+
+Grupo: pm10 (8 archivos)
+Método: pattern_analysis
+Archivo base: 5ec153027c4f6ec0_pm10.jpg
+Archivos del grupo:
+     9be595dfc7fa48df_pm10_mirror_vertical.jpg
+     25076246a0fd8a4b_pm10_change_270.jpg
+     6b33bbbcf57553e9_pm10_hight.jpg
+  🎯 5ec153027c4f6ec0_pm10.jpg
+     d7032126cde35a6c_pm10_change_90.jpg
+     7342f8cb2e3026b6_pm10_mirror.jpg
+     47b9363f0e57b346_pm10_change_180.jpg
+     341c5fcba0f40cc1_pm10_lower.jpg
+
+Grupo: pm34 (8 archivos)
+Método: pattern_analysis
+Archivo base: 2d6c01d9536db27d_pm34.jpg
+Archivos del grupo:
+     a71c2bd61c992641_pm34_mirror.jpg
+     cab6cd669ebcf732_pm34_hight.jpg
+     c0178436e910f71a_pm34_lower.jpg
+     358b974e26a8a4e1_pm34_change_270.jpg
+     bd6a671585cacfbb_pm34_mirror_vertical.jpg
+     00c10c0a8fafa032_pm34_change_180.jpg
+  🎯 2d6c01d9536db27d_pm34.jpg
+     0c6aae395f291a28_pm34_change_90.jpg
+
+Grupo: pm94 (8 archivos)
+Método: pattern_analysis
+Archivo base: 754d0ecebc3d8de3_pm94.jpg
+Archivos del grupo:
+  🎯 754d0ecebc3d8de3_pm94.jpg
+     53765ceb33a2d43f_pm94_lower.jpg
+     eaf27d2dd634ddcf_pm94_mirror.jpg
+     fcb256025d21881e_pm94_hight.jpg
+     48aac52453c0321e_pm94_change_270.jpg
+     ff32e8866e9c47c2_pm94_change_180.jpg
+     314c252afdd49ea4_pm94_mirror_vertical.jpg
+     032953bd6790a446_pm94_change_90.jpg
+
+Grupo: pm135 (8 archivos)
+Método: pattern_analysis
+Archivo base: f2c37350a25682ee_pm135.jpg
+Archivos del grupo:
+     7bfa47aa01b5645c_pm135_change_270.jpg
+     26a0c7e4ca6b7598_pm135_hight.jpg
+  🎯 f2c37350a25682ee_pm135.jpg
+     1c73163cf13f2a73_pm135_lower.jpg
+     84dc3fa119fc0ba5_pm135_mirror_vertical.jpg
+     d580125f3b45348f_pm135_mirror.jpg
+     423f7e4fb80f7d0c_pm135_change_90.jpg
+     08a4fd4d7560b8f0_pm135_change_180.jpg

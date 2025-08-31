@@ -1,0 +1,1995 @@
+================================================================================
+INFORME DE ELIMINACIÓN DE ARCHIVOS DUPLICADOS POR HASH
+PRIORIDAD: TRAIN > VALID > OTROS
+================================================================================
+Fecha: 2025-08-08 21:43:56
+Directorio procesado: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/
+Archivos eliminados: 393
+Archivos preservados: 31453
+Errores durante eliminación: 0
+================================================================================
+
+ARCHIVOS ELIMINADOS (duplicados por hash SHA256):
+------------------------------------------------------------
+
+Archivos eliminados de VALID (priorizando TRAIN): 391
+1. 4bb169304ef68d1e_lb_134.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/4bb169304ef68d1e_lb_134.jpg
+   Hash: 4bb169304ef68d1e...
+   Tamaño: 10730 bytes
+
+2. 4e464be1ec343f5f_lb79.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/4e464be1ec343f5f_lb79.jpg
+   Hash: 4e464be1ec343f5f...
+   Tamaño: 10108 bytes
+
+3. ac245d47c0ef796c_021a9808_21f7_464a_8df2_2eda5ed98eda_rs_late_b_5356.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/ac245d47c0ef796c_021a9808_21f7_464a_8df2_2eda5ed98eda_rs_late_b_5356.jpg
+   Hash: ac245d47c0ef796c...
+   Tamaño: 15077 bytes
+
+4. 82e68984383cbe64_lb_47.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/82e68984383cbe64_lb_47.jpg
+   Hash: 82e68984383cbe64...
+   Tamaño: 18193 bytes
+
+5. 7e198b7486eed865_lb87.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/7e198b7486eed865_lb87.jpg
+   Hash: 7e198b7486eed865...
+   Tamaño: 10385 bytes
+
+6. b4870cb633ec773b_lb_363.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/b4870cb633ec773b_lb_363.jpg
+   Hash: b4870cb633ec773b...
+   Tamaño: 8904 bytes
+
+7. 211ae700ef953c60_lb_108.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/211ae700ef953c60_lb_108.jpg
+   Hash: 211ae700ef953c60...
+   Tamaño: 13070 bytes
+
+8. a05e573ae6c4a28b_d6e6897a_5083_4914_9903_804c5684a956_ghlb2_leaf_102.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/a05e573ae6c4a28b_d6e6897a_5083_4914_9903_804c5684a956_ghlb2_leaf_102.jpg
+   Hash: a05e573ae6c4a28b...
+   Tamaño: 8687 bytes
+
+9. 5b1cb26c719588b5_lb_146.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/5b1cb26c719588b5_lb_146.jpg
+   Hash: 5b1cb26c719588b5...
+   Tamaño: 10928 bytes
+
+10. d8bba56cbcd4a8c5_lb83.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/d8bba56cbcd4a8c5_lb83.jpg
+   Hash: d8bba56cbcd4a8c5...
+   Tamaño: 10259 bytes
+
+11. 43fd624041dd997a_46e4103f_f240_48cc_ae17_9466fcbec332_rs_late_b_6650.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/43fd624041dd997a_46e4103f_f240_48cc_ae17_9466fcbec332_rs_late_b_6650.jpg
+   Hash: 43fd624041dd997a...
+   Tamaño: 20954 bytes
+
+12. df315367871e14d7_lb_39.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/df315367871e14d7_lb_39.jpg
+   Hash: df315367871e14d7...
+   Tamaño: 18067 bytes
+
+13. cf469c5161db93b0_lb_183.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/cf469c5161db93b0_lb_183.jpg
+   Hash: cf469c5161db93b0...
+   Tamaño: 11309 bytes
+
+14. 8e069349cd61ba01_lb_202.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/8e069349cd61ba01_lb_202.jpg
+   Hash: 8e069349cd61ba01...
+   Tamaño: 13087 bytes
+
+15. 6946088ed0635b5f_lb_188.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/6946088ed0635b5f_lb_188.jpg
+   Hash: 6946088ed0635b5f...
+   Tamaño: 18078 bytes
+
+16. 88101abf4fa32140_lb_28.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/88101abf4fa32140_lb_28.jpg
+   Hash: 88101abf4fa32140...
+   Tamaño: 10328 bytes
+
+17. 29c19263b9df54a5_lb_272.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/29c19263b9df54a5_lb_272.jpg
+   Hash: 29c19263b9df54a5...
+   Tamaño: 11591 bytes
+
+18. 782a9eafc4aa8c48_lb10.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/782a9eafc4aa8c48_lb10.jpg
+   Hash: 782a9eafc4aa8c48...
+   Tamaño: 9407 bytes
+
+19. 2894bc8d7e280d52_40a79a6f_e1fc_428c_bd57_3af1a7236156_rs_late_b_5432.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/2894bc8d7e280d52_40a79a6f_e1fc_428c_bd57_3af1a7236156_rs_late_b_5432.jpg
+   Hash: 2894bc8d7e280d52...
+   Tamaño: 16156 bytes
+
+20. bbc410ccfd3eb21c_44e96c62_48e6_454c_bab5_c34569deb2a5_rs_late_b_5162.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/bbc410ccfd3eb21c_44e96c62_48e6_454c_bab5_c34569deb2a5_rs_late_b_5162.jpg
+   Hash: bbc410ccfd3eb21c...
+   Tamaño: 15374 bytes
+
+21. e491cafcc0ade016_lb_110.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/e491cafcc0ade016_lb_110.jpg
+   Hash: e491cafcc0ade016...
+   Tamaño: 14236 bytes
+
+22. 85b8bbf44f8b1f7b_lb_157.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/85b8bbf44f8b1f7b_lb_157.jpg
+   Hash: 85b8bbf44f8b1f7b...
+   Tamaño: 12700 bytes
+
+23. 7b55bd85f0076fc8_lb_142.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/7b55bd85f0076fc8_lb_142.jpg
+   Hash: 7b55bd85f0076fc8...
+   Tamaño: 13831 bytes
+
+24. c3935ccbc564d722_lb86.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/c3935ccbc564d722_lb86.jpg
+   Hash: c3935ccbc564d722...
+   Tamaño: 12377 bytes
+
+25. ebeb7555d732b3fc_lb_109.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/ebeb7555d732b3fc_lb_109.jpg
+   Hash: ebeb7555d732b3fc...
+   Tamaño: 14921 bytes
+
+26. cff9c9f7839b4f96_lb_106.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/cff9c9f7839b4f96_lb_106.jpg
+   Hash: cff9c9f7839b4f96...
+   Tamaño: 18210 bytes
+
+27. 510b44660f7ece26_46ae5fef_ca7d_4f8d_86dc_7906bfcbde9f_rs_late_b_5092.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/510b44660f7ece26_46ae5fef_ca7d_4f8d_86dc_7906bfcbde9f_rs_late_b_5092.jpg
+   Hash: 510b44660f7ece26...
+   Tamaño: 18850 bytes
+
+28. 8bf9ac1559ec5fd3_8ea73da6_e94c_42bf_8b9c_c8d0a58338c7_rs_late_b_6724.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/8bf9ac1559ec5fd3_8ea73da6_e94c_42bf_8b9c_c8d0a58338c7_rs_late_b_6724.jpg
+   Hash: 8bf9ac1559ec5fd3...
+   Tamaño: 16613 bytes
+
+29. a2a40fe73661ab54_046c65f2_b155_4018_b161_825191c5faaa_rs_late_b_5042.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/a2a40fe73661ab54_046c65f2_b155_4018_b161_825191c5faaa_rs_late_b_5042.jpg
+   Hash: a2a40fe73661ab54...
+   Tamaño: 14297 bytes
+
+30. 7bd2a141dba34fe8_lb50.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/7bd2a141dba34fe8_lb50.jpg
+   Hash: 7bd2a141dba34fe8...
+   Tamaño: 11500 bytes
+
+31. ec9f79aad1879f95_lb89.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/ec9f79aad1879f95_lb89.jpg
+   Hash: ec9f79aad1879f95...
+   Tamaño: 8678 bytes
+
+32. 57fd429ebb9d1f44_26a758e3_7804_4240_b1da_b6b6691355ca_rs_late_b_4951.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/57fd429ebb9d1f44_26a758e3_7804_4240_b1da_b6b6691355ca_rs_late_b_4951.jpg
+   Hash: 57fd429ebb9d1f44...
+   Tamaño: 19641 bytes
+
+33. 4913a3835e692530_3fae9c64_18f0_4a67_9f97_554248bb1bed_ghlb_ps_leaf_24_day_16.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/4913a3835e692530_3fae9c64_18f0_4a67_9f97_554248bb1bed_ghlb_ps_leaf_24_day_16.jpg
+   Hash: 4913a3835e692530...
+   Tamaño: 6045 bytes
+
+34. fde0dc7ff5050e58_41f6fe04_5205_4a08_a2a1_961080b5edef_ghlb2_leaf_8703.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/fde0dc7ff5050e58_41f6fe04_5205_4a08_a2a1_961080b5edef_ghlb2_leaf_8703.jpg
+   Hash: fde0dc7ff5050e58...
+   Tamaño: 9350 bytes
+
+35. 02a7015da6f2f6b5_lb_211.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/02a7015da6f2f6b5_lb_211.jpg
+   Hash: 02a7015da6f2f6b5...
+   Tamaño: 15905 bytes
+
+36. 7bf6c410e65a2b24_lb_212.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/7bf6c410e65a2b24_lb_212.jpg
+   Hash: 7bf6c410e65a2b24...
+   Tamaño: 9819 bytes
+
+37. b2b3874b2259d678_50dd04a3_18a8_4a34_bbba_5e6f851742f5_rs_late_b_6141.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/b2b3874b2259d678_50dd04a3_18a8_4a34_bbba_5e6f851742f5_rs_late_b_6141.jpg
+   Hash: b2b3874b2259d678...
+   Tamaño: 18908 bytes
+
+38. 0e63dd94a92df254_lb_116.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/0e63dd94a92df254_lb_116.jpg
+   Hash: 0e63dd94a92df254...
+   Tamaño: 8629 bytes
+
+39. e191d4a592074aa2_lb9.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/e191d4a592074aa2_lb9.jpg
+   Hash: e191d4a592074aa2...
+   Tamaño: 8965 bytes
+
+40. 7fcb875a3df068dc_lb_201.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/7fcb875a3df068dc_lb_201.jpg
+   Hash: 7fcb875a3df068dc...
+   Tamaño: 10559 bytes
+
+41. dc1073dd1ba9034e_lb8.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/dc1073dd1ba9034e_lb8.jpg
+   Hash: dc1073dd1ba9034e...
+   Tamaño: 9058 bytes
+
+42. c5b228396b5e580b_lb_161.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/c5b228396b5e580b_lb_161.jpg
+   Hash: c5b228396b5e580b...
+   Tamaño: 9816 bytes
+
+43. fe0056a0d74322dd_lb_104.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/fe0056a0d74322dd_lb_104.jpg
+   Hash: fe0056a0d74322dd...
+   Tamaño: 17239 bytes
+
+44. 00e3b7ad48ff76f5_35baedd2_975e_4a48_b468_5b7203bab631_ghlb2_leaf_8936.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/00e3b7ad48ff76f5_35baedd2_975e_4a48_b468_5b7203bab631_ghlb2_leaf_8936.jpg
+   Hash: 00e3b7ad48ff76f5...
+   Tamaño: 9560 bytes
+
+45. abfd0b2007df5fc0_9afc2537_1b13_4c25_b5ed_5b8de511b0ab_ghlb2_leaf_9033.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/abfd0b2007df5fc0_9afc2537_1b13_4c25_b5ed_5b8de511b0ab_ghlb2_leaf_9033.jpg
+   Hash: abfd0b2007df5fc0...
+   Tamaño: 9740 bytes
+
+46. ead80c8860fd9896_lb_358.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/ead80c8860fd9896_lb_358.jpg
+   Hash: ead80c8860fd9896...
+   Tamaño: 10531 bytes
+
+47. 59cda2a60e1e14ee_lb_166.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/59cda2a60e1e14ee_lb_166.jpg
+   Hash: 59cda2a60e1e14ee...
+   Tamaño: 15223 bytes
+
+48. 808b3308ad7450c1_lb_352.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/808b3308ad7450c1_lb_352.jpg
+   Hash: 808b3308ad7450c1...
+   Tamaño: 9888 bytes
+
+49. a7badf3f92a535e5_lb_173.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/a7badf3f92a535e5_lb_173.jpg
+   Hash: a7badf3f92a535e5...
+   Tamaño: 19137 bytes
+
+50. 39536aec5a62f1ee_lb51.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/39536aec5a62f1ee_lb51.jpg
+   Hash: 39536aec5a62f1ee...
+   Tamaño: 10095 bytes
+
+51. 29af09f8bc7609fe_049dbcab_de65_4f09_9b1b_e59886f56f2e_rs_late_b_5141.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/29af09f8bc7609fe_049dbcab_de65_4f09_9b1b_e59886f56f2e_rs_late_b_5141.jpg
+   Hash: 29af09f8bc7609fe...
+   Tamaño: 17780 bytes
+
+52. 06f93faacc7b5c1e_36df35a3_3099_48c0_a9c4_e16c1bcb0573_rs_late_b_6401.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/06f93faacc7b5c1e_36df35a3_3099_48c0_a9c4_e16c1bcb0573_rs_late_b_6401.jpg
+   Hash: 06f93faacc7b5c1e...
+   Tamaño: 19096 bytes
+
+53. f219baefb1b8de5c_lb_141.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/f219baefb1b8de5c_lb_141.jpg
+   Hash: f219baefb1b8de5c...
+   Tamaño: 14136 bytes
+
+54. 9d13025013f13aa0_lb_124.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/9d13025013f13aa0_lb_124.jpg
+   Hash: 9d13025013f13aa0...
+   Tamaño: 9912 bytes
+
+55. 886f34b73674d31d_40ad58d9_f6ab_4487_a150_e2da47f733f1_ghlb2_leaf_8665.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/886f34b73674d31d_40ad58d9_f6ab_4487_a150_e2da47f733f1_ghlb2_leaf_8665.jpg
+   Hash: 886f34b73674d31d...
+   Tamaño: 9113 bytes
+
+56. 35adadff7d617579_lb_186.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/35adadff7d617579_lb_186.jpg
+   Hash: 35adadff7d617579...
+   Tamaño: 15683 bytes
+
+57. fa8b82ced144cd4f_33b5c25b_ab14_4b22_a7f0_764b2070b2d7_ghlb2_leaf_8670.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/fa8b82ced144cd4f_33b5c25b_ab14_4b22_a7f0_764b2070b2d7_ghlb2_leaf_8670.jpg
+   Hash: fa8b82ced144cd4f...
+   Tamaño: 8260 bytes
+
+58. 48891ef0b087fb6f_lb_36.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/48891ef0b087fb6f_lb_36.jpg
+   Hash: 48891ef0b087fb6f...
+   Tamaño: 10315 bytes
+
+59. 8555eb40a898dd17_lb_275.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/8555eb40a898dd17_lb_275.jpg
+   Hash: 8555eb40a898dd17...
+   Tamaño: 8967 bytes
+
+60. a485a864eb8421f4_lb_101.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/a485a864eb8421f4_lb_101.jpg
+   Hash: a485a864eb8421f4...
+   Tamaño: 8189 bytes
+
+61. 15d87a429a90253a_lb_144.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/15d87a429a90253a_lb_144.jpg
+   Hash: 15d87a429a90253a...
+   Tamaño: 10421 bytes
+
+62. 235d7406c5608da7_lb_48.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/235d7406c5608da7_lb_48.jpg
+   Hash: 235d7406c5608da7...
+   Tamaño: 15096 bytes
+
+63. 21c0554eeb147ac8_47a38705_6d43_429c_b3f6_54c01f3b08e8_ghlb2_leaf_8718.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/21c0554eeb147ac8_47a38705_6d43_429c_b3f6_54c01f3b08e8_ghlb2_leaf_8718.jpg
+   Hash: 21c0554eeb147ac8...
+   Tamaño: 12022 bytes
+
+64. 9beec898cb9d6e1b_23c5c930_6830_46c6_8353_616c0b34ae12_rs_late_b_4947.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/9beec898cb9d6e1b_23c5c930_6830_46c6_8353_616c0b34ae12_rs_late_b_4947.jpg
+   Hash: 9beec898cb9d6e1b...
+   Tamaño: 16422 bytes
+
+65. 536cab0d7382ab1a_lb_145.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/536cab0d7382ab1a_lb_145.jpg
+   Hash: 536cab0d7382ab1a...
+   Tamaño: 18530 bytes
+
+66. d270babe83477e1a_lb_139.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/d270babe83477e1a_lb_139.jpg
+   Hash: d270babe83477e1a...
+   Tamaño: 11844 bytes
+
+67. ef435579510d841b_mv_6.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/tomato_mosaic_virus/ef435579510d841b_mv_6.jpg
+   Hash: ef435579510d841b...
+   Tamaño: 36259 bytes
+
+68. cd53b87767778b5f_df78e8cb_8fc5_4682_ab5c_f265b4e8d97e_crnl_l_mold_8619.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/cd53b87767778b5f_df78e8cb_8fc5_4682_ab5c_f265b4e8d97e_crnl_l_mold_8619.jpg
+   Hash: cd53b87767778b5f...
+   Tamaño: 19355 bytes
+
+69. 496f78d8266e2b07_bm_926.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/496f78d8266e2b07_bm_926.jpg
+   Hash: 496f78d8266e2b07...
+   Tamaño: 14766 bytes
+
+70. a256deb40f802e5c_bm_390.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/a256deb40f802e5c_bm_390.jpg
+   Hash: a256deb40f802e5c...
+   Tamaño: 18238 bytes
+
+71. 50ab5478b0357560_bm_863.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/50ab5478b0357560_bm_863.jpg
+   Hash: 50ab5478b0357560...
+   Tamaño: 11109 bytes
+
+72. 38a35dc5c1ad01ab_697ae68d_7932_4320_a28e_c8228cd23f50_crnl_l_mold_8629.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/38a35dc5c1ad01ab_697ae68d_7932_4320_a28e_c8228cd23f50_crnl_l_mold_8629.jpg
+   Hash: 38a35dc5c1ad01ab...
+   Tamaño: 17598 bytes
+
+73. cb265694675fbdc7_bm_575.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/cb265694675fbdc7_bm_575.jpg
+   Hash: cb265694675fbdc7...
+   Tamaño: 17691 bytes
+
+74. 314f3c7017ff8829_bm_593.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/314f3c7017ff8829_bm_593.jpg
+   Hash: 314f3c7017ff8829...
+   Tamaño: 12133 bytes
+
+75. 5e2b92f35860a376_bm_928.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/5e2b92f35860a376_bm_928.jpg
+   Hash: 5e2b92f35860a376...
+   Tamaño: 19141 bytes
+
+76. 97d916ee873875ad_bm_62.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/97d916ee873875ad_bm_62.jpg
+   Hash: 97d916ee873875ad...
+   Tamaño: 6470 bytes
+
+77. fdfdf97ec14b488f_bm_462.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/fdfdf97ec14b488f_bm_462.jpg
+   Hash: fdfdf97ec14b488f...
+   Tamaño: 19792 bytes
+
+78. acd2ae317d19a682_bm_879.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/acd2ae317d19a682_bm_879.jpg
+   Hash: acd2ae317d19a682...
+   Tamaño: 18034 bytes
+
+79. 7852d3dfc3b8b71c_bm_439.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/7852d3dfc3b8b71c_bm_439.jpg
+   Hash: 7852d3dfc3b8b71c...
+   Tamaño: 8829 bytes
+
+80. 0a2bd798b4e627ed_bm_81.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/0a2bd798b4e627ed_bm_81.jpg
+   Hash: 0a2bd798b4e627ed...
+   Tamaño: 10109 bytes
+
+81. 0c656c5ced756b6e_bm_883.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/0c656c5ced756b6e_bm_883.jpg
+   Hash: 0c656c5ced756b6e...
+   Tamaño: 20069 bytes
+
+82. e61d2c657855a751_bm_553.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/e61d2c657855a751_bm_553.jpg
+   Hash: e61d2c657855a751...
+   Tamaño: 14038 bytes
+
+83. 71bab8f0571e5c05_e8e4c7fa_6c75_470a_888a_0763cade48bc_crnl_l_mold_7099.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/71bab8f0571e5c05_e8e4c7fa_6c75_470a_888a_0763cade48bc_crnl_l_mold_7099.jpg
+   Hash: 71bab8f0571e5c05...
+   Tamaño: 9393 bytes
+
+84. 7bd5d14ee3c1bdaa_bm_617.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/7bd5d14ee3c1bdaa_bm_617.jpg
+   Hash: 7bd5d14ee3c1bdaa...
+   Tamaño: 18725 bytes
+
+85. 7c624fb438d9479c_bm_400.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/7c624fb438d9479c_bm_400.jpg
+   Hash: 7c624fb438d9479c...
+   Tamaño: 17728 bytes
+
+86. e258e204250611a7_bm_468.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/e258e204250611a7_bm_468.jpg
+   Hash: e258e204250611a7...
+   Tamaño: 19588 bytes
+
+87. 54290a3f67ce9400_146ceb05_4beb_4a1c_9ba5_233f9f1ff0fa_crnl_l_mold_6985.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/54290a3f67ce9400_146ceb05_4beb_4a1c_9ba5_233f9f1ff0fa_crnl_l_mold_6985.jpg
+   Hash: 54290a3f67ce9400...
+   Tamaño: 14471 bytes
+
+88. 7ae06bf0d43748a9_bm_908.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/7ae06bf0d43748a9_bm_908.jpg
+   Hash: 7ae06bf0d43748a9...
+   Tamaño: 19805 bytes
+
+89. 664680d3fda0acc6_blm46.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/664680d3fda0acc6_blm46.jpg
+   Hash: 664680d3fda0acc6...
+   Tamaño: 5141 bytes
+
+90. 8ccf81961247c732_bm_60.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/8ccf81961247c732_bm_60.jpg
+   Hash: 8ccf81961247c732...
+   Tamaño: 6771 bytes
+
+91. 935cb5099d8946ce_bm_884.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/935cb5099d8946ce_bm_884.jpg
+   Hash: 935cb5099d8946ce...
+   Tamaño: 11024 bytes
+
+92. 1deed76900e39e90_bm_603.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/1deed76900e39e90_bm_603.jpg
+   Hash: 1deed76900e39e90...
+   Tamaño: 10949 bytes
+
+93. a2006c40a1a2f242_bm_525.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/a2006c40a1a2f242_bm_525.jpg
+   Hash: a2006c40a1a2f242...
+   Tamaño: 20186 bytes
+
+94. 899245b8f256c53f_bm_393.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/899245b8f256c53f_bm_393.jpg
+   Hash: 899245b8f256c53f...
+   Tamaño: 18553 bytes
+
+95. 7f08701c3739ae82_bm_933.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/7f08701c3739ae82_bm_933.jpg
+   Hash: 7f08701c3739ae82...
+   Tamaño: 10468 bytes
+
+96. 8d5088e6ea7caaab_bm_591.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/8d5088e6ea7caaab_bm_591.jpg
+   Hash: 8d5088e6ea7caaab...
+   Tamaño: 19954 bytes
+
+97. 45911ec1129608fc_de7feb7f_caf7_4f98_90d4_096b0f130817_crnl_l_mold_6629.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/45911ec1129608fc_de7feb7f_caf7_4f98_90d4_096b0f130817_crnl_l_mold_6629.jpg
+   Hash: 45911ec1129608fc...
+   Tamaño: 18664 bytes
+
+98. 4546632eaef862ee_blm18.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/4546632eaef862ee_blm18.jpg
+   Hash: 4546632eaef862ee...
+   Tamaño: 8564 bytes
+
+99. 5e1ef24ae58c878d_bm_37.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/5e1ef24ae58c878d_bm_37.jpg
+   Hash: 5e1ef24ae58c878d...
+   Tamaño: 8922 bytes
+
+100. 12cea9bbe66e5c62_bm_551.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/12cea9bbe66e5c62_bm_551.jpg
+   Hash: 12cea9bbe66e5c62...
+   Tamaño: 17369 bytes
+
+101. 2276b2c726b48faa_95a5ac3d_50d3_426c_83a6_3fd47fc8c58b_crnl_l_mold_6609.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/2276b2c726b48faa_95a5ac3d_50d3_426c_83a6_3fd47fc8c58b_crnl_l_mold_6609.jpg
+   Hash: 2276b2c726b48faa...
+   Tamaño: 18411 bytes
+
+102. 511af55bb95da604_58716bd0_de1b_480d_9381_af08e2f13813_crnl_l_mold_6732.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/511af55bb95da604_58716bd0_de1b_480d_9381_af08e2f13813_crnl_l_mold_6732.jpg
+   Hash: 511af55bb95da604...
+   Tamaño: 18897 bytes
+
+103. 455ad0362dbadf5b_407519ba_54e6_4779_a886_8163cab06a04_crnl_l_mold_8807.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/455ad0362dbadf5b_407519ba_54e6_4779_a886_8163cab06a04_crnl_l_mold_8807.jpg
+   Hash: 455ad0362dbadf5b...
+   Tamaño: 17176 bytes
+
+104. 20df59b4c8df4d52_blm41.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/20df59b4c8df4d52_blm41.jpg
+   Hash: 20df59b4c8df4d52...
+   Tamaño: 6414 bytes
+
+105. a0bfec0e91578ff1_bm_434.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/a0bfec0e91578ff1_bm_434.jpg
+   Hash: a0bfec0e91578ff1...
+   Tamaño: 13075 bytes
+
+106. 6e91c9b8c0294160_bm_410.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/6e91c9b8c0294160_bm_410.jpg
+   Hash: 6e91c9b8c0294160...
+   Tamaño: 17408 bytes
+
+107. 6fd49e01fc02bf9b_98a11218_40d3_4c27_afda_abf73e371f01_crnl_l_mold_9055.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/6fd49e01fc02bf9b_98a11218_40d3_4c27_afda_abf73e371f01_crnl_l_mold_9055.jpg
+   Hash: 6fd49e01fc02bf9b...
+   Tamaño: 11517 bytes
+
+108. 7981bf10767e1e17_bm_61.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/7981bf10767e1e17_bm_61.jpg
+   Hash: 7981bf10767e1e17...
+   Tamaño: 6237 bytes
+
+109. 2d89e85e0ed1c08f_bm_499.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/2d89e85e0ed1c08f_bm_499.jpg
+   Hash: 2d89e85e0ed1c08f...
+   Tamaño: 10003 bytes
+
+110. ad29f269af5ee943_bm_486.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/ad29f269af5ee943_bm_486.jpg
+   Hash: ad29f269af5ee943...
+   Tamaño: 17736 bytes
+
+111. 87a08afc757902bb_bm_543.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/87a08afc757902bb_bm_543.jpg
+   Hash: 87a08afc757902bb...
+   Tamaño: 17518 bytes
+
+112. 93f16ef30627048c_607_155_0.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/93f16ef30627048c_607_155_0.jpg
+   Hash: 93f16ef30627048c...
+   Tamaño: 160493 bytes
+
+113. 4496340df07e04ed_bm_931.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/4496340df07e04ed_bm_931.jpg
+   Hash: 4496340df07e04ed...
+   Tamaño: 20112 bytes
+
+114. 01bdd9eb3d832552_bm_592.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/01bdd9eb3d832552_bm_592.jpg
+   Hash: 01bdd9eb3d832552...
+   Tamaño: 17466 bytes
+
+115. 74f40b4a12876612_d677f9dd_7f27_44de_a0ad_b8e582ee63a8_crnl_l_mold_6946.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/74f40b4a12876612_d677f9dd_7f27_44de_a0ad_b8e582ee63a8_crnl_l_mold_6946.jpg
+   Hash: 74f40b4a12876612...
+   Tamaño: 13142 bytes
+
+116. 400523e322dbfcdf_bm_41.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/400523e322dbfcdf_bm_41.jpg
+   Hash: 400523e322dbfcdf...
+   Tamaño: 8218 bytes
+
+117. fbf7f2a773e07e70_bm_940.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/fbf7f2a773e07e70_bm_940.jpg
+   Hash: fbf7f2a773e07e70...
+   Tamaño: 18960 bytes
+
+118. 6b23f5a33a13d6f9_27867fa8_39ae_4480_936e_1adcdceeb7fb_crnl_l_mold_6924.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/6b23f5a33a13d6f9_27867fa8_39ae_4480_936e_1adcdceeb7fb_crnl_l_mold_6924.jpg
+   Hash: 6b23f5a33a13d6f9...
+   Tamaño: 12823 bytes
+
+119. 30c3f42ba55f426c_bm_421.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/30c3f42ba55f426c_bm_421.jpg
+   Hash: 30c3f42ba55f426c...
+   Tamaño: 20699 bytes
+
+120. 709cdbdfa96c4845_bm_26.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/709cdbdfa96c4845_bm_26.jpg
+   Hash: 709cdbdfa96c4845...
+   Tamaño: 8077 bytes
+
+121. 9ab59ab2c679f342_img_1261.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/9ab59ab2c679f342_img_1261.jpg
+   Hash: 9ab59ab2c679f342...
+   Tamaño: 499756 bytes
+
+122. a7e49e658501beff_bm_546.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/a7e49e658501beff_bm_546.jpg
+   Hash: a7e49e658501beff...
+   Tamaño: 11083 bytes
+
+123. 8e5d3aa7e0d0b9c8_da83c654_4106_45be_b410_28ae89d93e22_crnl_l_mold_7054.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/8e5d3aa7e0d0b9c8_da83c654_4106_45be_b410_28ae89d93e22_crnl_l_mold_7054.jpg
+   Hash: 8e5d3aa7e0d0b9c8...
+   Tamaño: 12610 bytes
+
+124. 42621a939666b657_bm_433.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/42621a939666b657_bm_433.jpg
+   Hash: 42621a939666b657...
+   Tamaño: 12550 bytes
+
+125. 09b3f1bd415d65ec_bm_80.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/09b3f1bd415d65ec_bm_80.jpg
+   Hash: 09b3f1bd415d65ec...
+   Tamaño: 10995 bytes
+
+126. e70f9fc069cd4535_bm_505.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/e70f9fc069cd4535_bm_505.jpg
+   Hash: e70f9fc069cd4535...
+   Tamaño: 19436 bytes
+
+127. da017bcf913a7d5a_bm_27.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/da017bcf913a7d5a_bm_27.jpg
+   Hash: da017bcf913a7d5a...
+   Tamaño: 8775 bytes
+
+128. 55968e24feb9a5d6_blm49.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/55968e24feb9a5d6_blm49.jpg
+   Hash: 55968e24feb9a5d6...
+   Tamaño: 5793 bytes
+
+129. cc573f0dd6ac0245_bm_519.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/cc573f0dd6ac0245_bm_519.jpg
+   Hash: cc573f0dd6ac0245...
+   Tamaño: 16219 bytes
+
+130. 187ed48613a864ec_4176b39b_a3b7_4611_b05b_b4020269bae3_crnl_l_mold_7115.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/187ed48613a864ec_4176b39b_a3b7_4611_b05b_b4020269bae3_crnl_l_mold_7115.jpg
+   Hash: 187ed48613a864ec...
+   Tamaño: 12450 bytes
+
+131. e35b83a41d66b066_bm_887.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/e35b83a41d66b066_bm_887.jpg
+   Hash: e35b83a41d66b066...
+   Tamaño: 11440 bytes
+
+132. 4b3c26fdfb2d8882_bm_435.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/4b3c26fdfb2d8882_bm_435.jpg
+   Hash: 4b3c26fdfb2d8882...
+   Tamaño: 11302 bytes
+
+133. 99d0294597cded5e_bm_580.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/99d0294597cded5e_bm_580.jpg
+   Hash: 99d0294597cded5e...
+   Tamaño: 20415 bytes
+
+134. acd3d8f85f10f0b2_44400a5b_bbc1_4298_bf1a_d104eea5cda8_crnl_l_mold_6718.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/acd3d8f85f10f0b2_44400a5b_bbc1_4298_bf1a_d104eea5cda8_crnl_l_mold_6718.jpg
+   Hash: acd3d8f85f10f0b2...
+   Tamaño: 18639 bytes
+
+135. 02e38b1c9635b2c6_e6b6cab1_56f9_429f_b89f_110c0128d5be_crnl_l_mold_7098.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/02e38b1c9635b2c6_e6b6cab1_56f9_429f_b89f_110c0128d5be_crnl_l_mold_7098.jpg
+   Hash: 02e38b1c9635b2c6...
+   Tamaño: 11133 bytes
+
+136. b99753e2c1c28074_bm_602.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/b99753e2c1c28074_bm_602.jpg
+   Hash: b99753e2c1c28074...
+   Tamaño: 13081 bytes
+
+137. 35c16c30becf76a3_bm_929.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/35c16c30becf76a3_bm_929.jpg
+   Hash: 35c16c30becf76a3...
+   Tamaño: 20559 bytes
+
+138. aac168b2fc8271be_bm_585.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/aac168b2fc8271be_bm_585.jpg
+   Hash: aac168b2fc8271be...
+   Tamaño: 18388 bytes
+
+139. 946f3e52968c4bef_bm_444.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/946f3e52968c4bef_bm_444.jpg
+   Hash: 946f3e52968c4bef...
+   Tamaño: 15222 bytes
+
+140. e43b025d2c990b1e_bm_405.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/e43b025d2c990b1e_bm_405.jpg
+   Hash: e43b025d2c990b1e...
+   Tamaño: 9660 bytes
+
+141. b24d9cdd9914b8e1_blm6.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/b24d9cdd9914b8e1_blm6.jpg
+   Hash: b24d9cdd9914b8e1...
+   Tamaño: 7629 bytes
+
+142. 560b97143ac5f5f9_bm_522.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/560b97143ac5f5f9_bm_522.jpg
+   Hash: 560b97143ac5f5f9...
+   Tamaño: 13205 bytes
+
+143. fe8213f7d194eea6_d998fc3d_1314_4f78_86b7_ca3bf205fe6a_crnl_l_mold_7168.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/fe8213f7d194eea6_d998fc3d_1314_4f78_86b7_ca3bf205fe6a_crnl_l_mold_7168.jpg
+   Hash: fe8213f7d194eea6...
+   Tamaño: 13545 bytes
+
+144. 604b7c52e53d0e67_bm_451.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/604b7c52e53d0e67_bm_451.jpg
+   Hash: 604b7c52e53d0e67...
+   Tamaño: 18265 bytes
+
+145. 1fd65f79ab6d5ea0_blm12.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/1fd65f79ab6d5ea0_blm12.jpg
+   Hash: 1fd65f79ab6d5ea0...
+   Tamaño: 8721 bytes
+
+146. 1103b1c8a7f32413_blm63.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/1103b1c8a7f32413_blm63.jpg
+   Hash: 1103b1c8a7f32413...
+   Tamaño: 10259 bytes
+
+147. fca371fa581cdb0d_bm_859.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/fca371fa581cdb0d_bm_859.jpg
+   Hash: fca371fa581cdb0d...
+   Tamaño: 17785 bytes
+
+148. 5b33baacc6518b5f_bm_912.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/5b33baacc6518b5f_bm_912.jpg
+   Hash: 5b33baacc6518b5f...
+   Tamaño: 15667 bytes
+
+149. 8ff9ba7b7b317568_bm_521.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/8ff9ba7b7b317568_bm_521.jpg
+   Hash: 8ff9ba7b7b317568...
+   Tamaño: 13217 bytes
+
+150. ac76a0acdfe4a604_bm_579.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/ac76a0acdfe4a604_bm_579.jpg
+   Hash: ac76a0acdfe4a604...
+   Tamaño: 18816 bytes
+
+151. 9988d499616aeb68_bm_895.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/9988d499616aeb68_bm_895.jpg
+   Hash: 9988d499616aeb68...
+   Tamaño: 18296 bytes
+
+152. 6b6c0b1fa7d891ef_bm_511.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/6b6c0b1fa7d891ef_bm_511.jpg
+   Hash: 6b6c0b1fa7d891ef...
+   Tamaño: 12224 bytes
+
+153. 06862c051a034e53_446be8f2_d462_40f6_87db_ed63fffedb0d_crnl_l_mold_9176.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/06862c051a034e53_446be8f2_d462_40f6_87db_ed63fffedb0d_crnl_l_mold_9176.jpg
+   Hash: 06862c051a034e53...
+   Tamaño: 12985 bytes
+
+154. 50ac4c55535cef5c_bm_31.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/50ac4c55535cef5c_bm_31.jpg
+   Hash: 50ac4c55535cef5c...
+   Tamaño: 8040 bytes
+
+155. 4a97fb86ede98262_bm_471.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/4a97fb86ede98262_bm_471.jpg
+   Hash: 4a97fb86ede98262...
+   Tamaño: 15421 bytes
+
+156. c51459e9d24f4cba_907da8ff_9de5_4078_a1f4_f3cd4bd2a37d_crnl_l_mold_6685.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/c51459e9d24f4cba_907da8ff_9de5_4078_a1f4_f3cd4bd2a37d_crnl_l_mold_6685.jpg
+   Hash: c51459e9d24f4cba...
+   Tamaño: 16360 bytes
+
+157. 0d8dffc2fe687e37_67001860_5fda_495c_b2fb_a036f21448f8_crnl_l_mold_8838.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/0d8dffc2fe687e37_67001860_5fda_495c_b2fb_a036f21448f8_crnl_l_mold_8838.jpg
+   Hash: 0d8dffc2fe687e37...
+   Tamaño: 16319 bytes
+
+158. 2745ec2d7d75e2b4_e4b615ab_7fb8_48cb_a497_49b956ca2437_crnl_l_mold_8778.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/2745ec2d7d75e2b4_e4b615ab_7fb8_48cb_a497_49b956ca2437_crnl_l_mold_8778.jpg
+   Hash: 2745ec2d7d75e2b4...
+   Tamaño: 18208 bytes
+
+159. 8f63d4ade1379354_bm_877.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/8f63d4ade1379354_bm_877.jpg
+   Hash: 8f63d4ade1379354...
+   Tamaño: 10477 bytes
+
+160. 6af0aa2adc01a550_bm_86.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/6af0aa2adc01a550_bm_86.jpg
+   Hash: 6af0aa2adc01a550...
+   Tamaño: 12800 bytes
+
+161. d11cbe52a4fa41e6_bm_882.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/d11cbe52a4fa41e6_bm_882.jpg
+   Hash: d11cbe52a4fa41e6...
+   Tamaño: 11715 bytes
+
+162. efda5300452c4281_0160c3b5_d89e_40e5_a313_49ae1524040a_crnl_l_mold_6823.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/efda5300452c4281_0160c3b5_d89e_40e5_a313_49ae1524040a_crnl_l_mold_6823.jpg
+   Hash: efda5300452c4281...
+   Tamaño: 17761 bytes
+
+163. 683dc1ce44956c42_bm_566.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/683dc1ce44956c42_bm_566.jpg
+   Hash: 683dc1ce44956c42...
+   Tamaño: 18803 bytes
+
+164. 19d5f1570e84a129_bm_418.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/19d5f1570e84a129_bm_418.jpg
+   Hash: 19d5f1570e84a129...
+   Tamaño: 13066 bytes
+
+165. 3e5c619f16d5c15c_blm13.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/3e5c619f16d5c15c_blm13.jpg
+   Hash: 3e5c619f16d5c15c...
+   Tamaño: 8491 bytes
+
+166. 9f70b5b7abeb905d_bm_588.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/9f70b5b7abeb905d_bm_588.jpg
+   Hash: 9f70b5b7abeb905d...
+   Tamaño: 20065 bytes
+
+167. 1c13cfa5ff795750_bm_629.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/1c13cfa5ff795750_bm_629.jpg
+   Hash: 1c13cfa5ff795750...
+   Tamaño: 17225 bytes
+
+168. d82c38b6d267d6bb_2914fe18_387e_4d7f_8580_a0b530d7e727_crnl_l_mold_6777.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/d82c38b6d267d6bb_2914fe18_387e_4d7f_8580_a0b530d7e727_crnl_l_mold_6777.jpg
+   Hash: d82c38b6d267d6bb...
+   Tamaño: 16901 bytes
+
+169. cd4d95d6590e1ee4_d90f334c_18c3_4b20_903e_e51f57d8704d_crnl_l_mold_6935.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/cd4d95d6590e1ee4_d90f334c_18c3_4b20_903e_e51f57d8704d_crnl_l_mold_6935.jpg
+   Hash: cd4d95d6590e1ee4...
+   Tamaño: 10483 bytes
+
+170. 9e9acc77f68f95e4_bm_571.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/9e9acc77f68f95e4_bm_571.jpg
+   Hash: 9e9acc77f68f95e4...
+   Tamaño: 18457 bytes
+
+171. b8022c29691dc19f_bm_948.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/b8022c29691dc19f_bm_948.jpg
+   Hash: b8022c29691dc19f...
+   Tamaño: 14602 bytes
+
+172. 40ce8159fccd3368_bm_436.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/40ce8159fccd3368_bm_436.jpg
+   Hash: 40ce8159fccd3368...
+   Tamaño: 19977 bytes
+
+173. 27358acac326a1bf_bm_544.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/27358acac326a1bf_bm_544.jpg
+   Hash: 27358acac326a1bf...
+   Tamaño: 15488 bytes
+
+174. d291b784f8b1e5a0_bm_395.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/d291b784f8b1e5a0_bm_395.jpg
+   Hash: d291b784f8b1e5a0...
+   Tamaño: 17965 bytes
+
+175. 41e1d63f0cd8a241_99d2b2e1_b3e6_4689_ad9a_209cdfdf4084_crnl_l_mold_7025.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/41e1d63f0cd8a241_99d2b2e1_b3e6_4689_ad9a_209cdfdf4084_crnl_l_mold_7025.jpg
+   Hash: 41e1d63f0cd8a241...
+   Tamaño: 14257 bytes
+
+176. 8b626c97f3a39be0_6371bae8_f9d4_4b4c_88d7_96de89c4c14a_crnl_l_mold_7058.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/8b626c97f3a39be0_6371bae8_f9d4_4b4c_88d7_96de89c4c14a_crnl_l_mold_7058.jpg
+   Hash: 8b626c97f3a39be0...
+   Tamaño: 12901 bytes
+
+177. 4e5074179f6851d7_e3f2056b_aa97_4369_8b56_90fd45f37d4d_crnl_l_mold_6555.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/4e5074179f6851d7_e3f2056b_aa97_4369_8b56_90fd45f37d4d_crnl_l_mold_6555.jpg
+   Hash: 4e5074179f6851d7...
+   Tamaño: 19646 bytes
+
+178. b6732860b8772bb1_bm_416.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/b6732860b8772bb1_bm_416.jpg
+   Hash: b6732860b8772bb1...
+   Tamaño: 17653 bytes
+
+179. f4e95e4a9a56ec60_bm_556.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/f4e95e4a9a56ec60_bm_556.jpg
+   Hash: f4e95e4a9a56ec60...
+   Tamaño: 10602 bytes
+
+180. 14e9323ab55cb418_bm_69.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/14e9323ab55cb418_bm_69.jpg
+   Hash: 14e9323ab55cb418...
+   Tamaño: 5850 bytes
+
+181. 218532ada627bdaa_bm_500.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/218532ada627bdaa_bm_500.jpg
+   Hash: 218532ada627bdaa...
+   Tamaño: 19189 bytes
+
+182. 7c5dac662db414b0_bm_891.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/7c5dac662db414b0_bm_891.jpg
+   Hash: 7c5dac662db414b0...
+   Tamaño: 17052 bytes
+
+183. 62c1882314bbd6fd_077218cb_00b9_4bdf_b091_108a42c7a601_crnl_l_mold_7118.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/62c1882314bbd6fd_077218cb_00b9_4bdf_b091_108a42c7a601_crnl_l_mold_7118.jpg
+   Hash: 62c1882314bbd6fd...
+   Tamaño: 12986 bytes
+
+184. 65cc52a26c5dc62f_bm_438.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/65cc52a26c5dc62f_bm_438.jpg
+   Hash: 65cc52a26c5dc62f...
+   Tamaño: 19335 bytes
+
+185. 8166c3a0fae7e66a_bm_488.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/8166c3a0fae7e66a_bm_488.jpg
+   Hash: 8166c3a0fae7e66a...
+   Tamaño: 14283 bytes
+
+186. ce3ba204aca514f8_bm_38.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/ce3ba204aca514f8_bm_38.jpg
+   Hash: ce3ba204aca514f8...
+   Tamaño: 6905 bytes
+
+187. f22f98e14fa887d0_bm_941.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/f22f98e14fa887d0_bm_941.jpg
+   Hash: f22f98e14fa887d0...
+   Tamaño: 18491 bytes
+
+188. 3d1fe702062cfe7c_bm_482.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/3d1fe702062cfe7c_bm_482.jpg
+   Hash: 3d1fe702062cfe7c...
+   Tamaño: 15701 bytes
+
+189. 023f21740a8c1798_447ca40f_8640_43d7_b7af_3372e8afbfba_crnl_l_mold_8870.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/023f21740a8c1798_447ca40f_8640_43d7_b7af_3372e8afbfba_crnl_l_mold_8870.jpg
+   Hash: 023f21740a8c1798...
+   Tamaño: 16991 bytes
+
+190. 736094220e0f253b_bm_854.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/736094220e0f253b_bm_854.jpg
+   Hash: 736094220e0f253b...
+   Tamaño: 12047 bytes
+
+191. 9f8c1c01fa7f6f2d_bm_497.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/9f8c1c01fa7f6f2d_bm_497.jpg
+   Hash: 9f8c1c01fa7f6f2d...
+   Tamaño: 11040 bytes
+
+192. 40fbc5c86443ad64_e52d4992_f924_4b08_afea_8bbdb4766089_crnl_l_mold_9010.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/40fbc5c86443ad64_e52d4992_f924_4b08_afea_8bbdb4766089_crnl_l_mold_9010.jpg
+   Hash: 40fbc5c86443ad64...
+   Tamaño: 13093 bytes
+
+193. d1d09f33d28363aa_bm_73.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/d1d09f33d28363aa_bm_73.jpg
+   Hash: d1d09f33d28363aa...
+   Tamaño: 6687 bytes
+
+194. 14bcb94147c34fa4_bm_601.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/14bcb94147c34fa4_bm_601.jpg
+   Hash: 14bcb94147c34fa4...
+   Tamaño: 18315 bytes
+
+195. ca3347fdd754dccb_bm_481.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/ca3347fdd754dccb_bm_481.jpg
+   Hash: ca3347fdd754dccb...
+   Tamaño: 11383 bytes
+
+196. 30344693d819c5a7_962f3d89_f439_46ee_b4bb_65409ee76fe1_crnl_l_mold_6914.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/30344693d819c5a7_962f3d89_f439_46ee_b4bb_65409ee76fe1_crnl_l_mold_6914.jpg
+   Hash: 30344693d819c5a7...
+   Tamaño: 14311 bytes
+
+197. 2ac4346d62c6e56f_0857ce1f_5347_493a_acd9_77b698950b45_crnl_l_mold_6748.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/2ac4346d62c6e56f_0857ce1f_5347_493a_acd9_77b698950b45_crnl_l_mold_6748.jpg
+   Hash: 2ac4346d62c6e56f...
+   Tamaño: 19052 bytes
+
+198. 4a7874dd63a1b789_bm_450.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/4a7874dd63a1b789_bm_450.jpg
+   Hash: 4a7874dd63a1b789...
+   Tamaño: 18222 bytes
+
+199. 095d6d3e47d78312_05205449_e0d0_4d2f_a2fb_6f1fc0e2e9c5_crnl_l_mold_8717.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/095d6d3e47d78312_05205449_e0d0_4d2f_a2fb_6f1fc0e2e9c5_crnl_l_mold_8717.jpg
+   Hash: 095d6d3e47d78312...
+   Tamaño: 19709 bytes
+
+200. e9f6b2ae6cda2505_bm_466.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/e9f6b2ae6cda2505_bm_466.jpg
+   Hash: e9f6b2ae6cda2505...
+   Tamaño: 17527 bytes
+
+201. 5dc9e40d3bc368e2_bm_921.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/5dc9e40d3bc368e2_bm_921.jpg
+   Hash: 5dc9e40d3bc368e2...
+   Tamaño: 15739 bytes
+
+202. cfd4d17f7f4625a0_bm_852.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/cfd4d17f7f4625a0_bm_852.jpg
+   Hash: cfd4d17f7f4625a0...
+   Tamaño: 17650 bytes
+
+203. ea18b68697fdd836_bm_563.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/ea18b68697fdd836_bm_563.jpg
+   Hash: ea18b68697fdd836...
+   Tamaño: 13973 bytes
+
+204. 5749def894e64e5f_bm_492.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/5749def894e64e5f_bm_492.jpg
+   Hash: 5749def894e64e5f...
+   Tamaño: 13744 bytes
+
+205. 9634795a35fa24d7_bm_560.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/9634795a35fa24d7_bm_560.jpg
+   Hash: 9634795a35fa24d7...
+   Tamaño: 11986 bytes
+
+206. ad2be36b1cb7d21e_bm_901.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/ad2be36b1cb7d21e_bm_901.jpg
+   Hash: ad2be36b1cb7d21e...
+   Tamaño: 19467 bytes
+
+207. 862492488f07bfa2_bm_477.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/862492488f07bfa2_bm_477.jpg
+   Hash: 862492488f07bfa2...
+   Tamaño: 15353 bytes
+
+208. 9fcd727451459cb6_bm_542.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/9fcd727451459cb6_bm_542.jpg
+   Hash: 9fcd727451459cb6...
+   Tamaño: 12531 bytes
+
+209. 47ec008e75ae0f18_7107f26c_71de_4158_a361_068d5611d046_crnl_l_mold_6600.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/47ec008e75ae0f18_7107f26c_71de_4158_a361_068d5611d046_crnl_l_mold_6600.jpg
+   Hash: 47ec008e75ae0f18...
+   Tamaño: 18595 bytes
+
+210. c523ddeca240920c_bm_441.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/c523ddeca240920c_bm_441.jpg
+   Hash: c523ddeca240920c...
+   Tamaño: 11959 bytes
+
+211. c65994ff27a38fc7_d131dbb4_2255_496a_8e01_fb68f2e6db44_crnl_l_mold_6553.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/c65994ff27a38fc7_d131dbb4_2255_496a_8e01_fb68f2e6db44_crnl_l_mold_6553.jpg
+   Hash: c65994ff27a38fc7...
+   Tamaño: 20083 bytes
+
+212. b2b5eb43a07843c3_69317010_b2b4_4a64_837e_94f8302fd508_crnl_l_mold_9149.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/b2b5eb43a07843c3_69317010_b2b4_4a64_837e_94f8302fd508_crnl_l_mold_9149.jpg
+   Hash: b2b5eb43a07843c3...
+   Tamaño: 12761 bytes
+
+213. 85159513d5c31cc2_bm_547.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/leaf_mold/85159513d5c31cc2_bm_547.jpg
+   Hash: 85159513d5c31cc2...
+   Tamaño: 11768 bytes
+
+214. e061e20cf39a9cbe_ss_283.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/septoria_leaf_spot/e061e20cf39a9cbe_ss_283.jpg
+   Hash: e061e20cf39a9cbe...
+   Tamaño: 21031 bytes
+
+215. ed094700b4604163_a3d07302_420d_4b4e_94f2_6694ef9d2088_rs_erly_b_7652.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/ed094700b4604163_a3d07302_420d_4b4e_94f2_6694ef9d2088_rs_erly_b_7652.jpg
+   Hash: ed094700b4604163...
+   Tamaño: 10658 bytes
+
+216. b39d9b7615b398eb_eb_202.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/b39d9b7615b398eb_eb_202.jpg
+   Hash: b39d9b7615b398eb...
+   Tamaño: 15551 bytes
+
+217. d823c6886f1bee2d_eb_86.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/d823c6886f1bee2d_eb_86.jpg
+   Hash: d823c6886f1bee2d...
+   Tamaño: 18437 bytes
+
+218. 5d74a0b5c339dfac_c1291fe6_06c2_477e_b30f_dca9a9a80079_rs_erly_b_8371.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/5d74a0b5c339dfac_c1291fe6_06c2_477e_b30f_dca9a9a80079_rs_erly_b_8371.jpg
+   Hash: 5d74a0b5c339dfac...
+   Tamaño: 16921 bytes
+
+219. bb10e899ddd601ce_eb_197.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/bb10e899ddd601ce_eb_197.jpg
+   Hash: bb10e899ddd601ce...
+   Tamaño: 17129 bytes
+
+220. a1a47a9476ced3a8_eb_358.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/a1a47a9476ced3a8_eb_358.jpg
+   Hash: a1a47a9476ced3a8...
+   Tamaño: 13557 bytes
+
+221. 52a951ffec8a6155_eb_275.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/52a951ffec8a6155_eb_275.jpg
+   Hash: 52a951ffec8a6155...
+   Tamaño: 21578 bytes
+
+222. 47c9375ad560fb97_55d4f7b2_17d3_4987_92fe_6aff1a8c4f3a_rs_erly_b_7558.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/47c9375ad560fb97_55d4f7b2_17d3_4987_92fe_6aff1a8c4f3a_rs_erly_b_7558.jpg
+   Hash: 47c9375ad560fb97...
+   Tamaño: 10905 bytes
+
+223. c277092e3d6b83df_264bc13b_2bcd_40f8_ae25_23aef0ccdc64_rs_erly_b_7589.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/c277092e3d6b83df_264bc13b_2bcd_40f8_ae25_23aef0ccdc64_rs_erly_b_7589.jpg
+   Hash: c277092e3d6b83df...
+   Tamaño: 11562 bytes
+
+224. 7ed47b34a5e3c294_eb_193.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/7ed47b34a5e3c294_eb_193.jpg
+   Hash: 7ed47b34a5e3c294...
+   Tamaño: 19794 bytes
+
+225. 2e4ab77633de3408_e4739018_9e7b_4251_917f_c8502e8b5e86_rs_erly_b_9443.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/2e4ab77633de3408_e4739018_9e7b_4251_917f_c8502e8b5e86_rs_erly_b_9443.jpg
+   Hash: 2e4ab77633de3408...
+   Tamaño: 13368 bytes
+
+226. 0ee4af534617f124_eb_211.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/0ee4af534617f124_eb_211.jpg
+   Hash: 0ee4af534617f124...
+   Tamaño: 17351 bytes
+
+227. feea1700ce04ef2b_eb_590.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/feea1700ce04ef2b_eb_590.jpg
+   Hash: feea1700ce04ef2b...
+   Tamaño: 12899 bytes
+
+228. 7b544c3791308c0e_c10623b4_33fe_458c_9d8e_d9a74fb74a6a_rs_erly_b_7450.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/7b544c3791308c0e_c10623b4_33fe_458c_9d8e_d9a74fb74a6a_rs_erly_b_7450.jpg
+   Hash: 7b544c3791308c0e...
+   Tamaño: 13463 bytes
+
+229. 20c6b479971d49e5_6c5baf51_ae97_41dd_9728_1995177e3b6a_rs_erly_b_7723.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/20c6b479971d49e5_6c5baf51_ae97_41dd_9728_1995177e3b6a_rs_erly_b_7723.jpg
+   Hash: 20c6b479971d49e5...
+   Tamaño: 16475 bytes
+
+230. 3314ccdda74aff65_eb_369.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/3314ccdda74aff65_eb_369.jpg
+   Hash: 3314ccdda74aff65...
+   Tamaño: 13820 bytes
+
+231. 7e87cf25c861606c_11922494_321b_4742_afbe_f6db6a8b4005_rs_erly_b_9392.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/7e87cf25c861606c_11922494_321b_4742_afbe_f6db6a8b4005_rs_erly_b_9392.jpg
+   Hash: 7e87cf25c861606c...
+   Tamaño: 17720 bytes
+
+232. 950bb1c11e7d7081_51f589f7_d843_4d5d_8c5a_385951f58865_rs_erly_b_9424.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/950bb1c11e7d7081_51f589f7_d843_4d5d_8c5a_385951f58865_rs_erly_b_9424.jpg
+   Hash: 950bb1c11e7d7081...
+   Tamaño: 13198 bytes
+
+233. ed5fa1b6c5805344_eb_285.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/ed5fa1b6c5805344_eb_285.jpg
+   Hash: ed5fa1b6c5805344...
+   Tamaño: 18116 bytes
+
+234. be0d95fb9d7df719_eb_356.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/be0d95fb9d7df719_eb_356.jpg
+   Hash: be0d95fb9d7df719...
+   Tamaño: 14022 bytes
+
+235. 69b702ab89ff406e_eb_108.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/69b702ab89ff406e_eb_108.jpg
+   Hash: 69b702ab89ff406e...
+   Tamaño: 16932 bytes
+
+236. 0db145723097cfcb_71eb9b0a_a7ea_47a0_8108_71949d74e22d_rs_erly_b_7557.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/0db145723097cfcb_71eb9b0a_a7ea_47a0_8108_71949d74e22d_rs_erly_b_7557.jpg
+   Hash: 0db145723097cfcb...
+   Tamaño: 13712 bytes
+
+237. 80221f9c6d85f5e7_a1e875bd_5c06_4031_b0c0_9413d754df0e_rs_erly_b_8221.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/80221f9c6d85f5e7_a1e875bd_5c06_4031_b0c0_9413d754df0e_rs_erly_b_8221.jpg
+   Hash: 80221f9c6d85f5e7...
+   Tamaño: 18906 bytes
+
+238. 6f48d3ab39d040d9_eb_87.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/6f48d3ab39d040d9_eb_87.jpg
+   Hash: 6f48d3ab39d040d9...
+   Tamaño: 13510 bytes
+
+239. f7bf977b3950fc8d_eb_185.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/f7bf977b3950fc8d_eb_185.jpg
+   Hash: f7bf977b3950fc8d...
+   Tamaño: 11414 bytes
+
+240. df04d731f611f150_60b089ee_97ea_4df8_bb95_cd8c2094b24e_rs_erly_b_9426.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/df04d731f611f150_60b089ee_97ea_4df8_bb95_cd8c2094b24e_rs_erly_b_9426.jpg
+   Hash: df04d731f611f150...
+   Tamaño: 15167 bytes
+
+241. a9cc300febac169f_3e9cd8a5_ebe7_4a65_940c_7fd721195c73_rs_erly_b_7616.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/a9cc300febac169f_3e9cd8a5_ebe7_4a65_940c_7fd721195c73_rs_erly_b_7616.jpg
+   Hash: a9cc300febac169f...
+   Tamaño: 12608 bytes
+
+242. a11abdabc0136d00_eb_123.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/a11abdabc0136d00_eb_123.jpg
+   Hash: a11abdabc0136d00...
+   Tamaño: 17480 bytes
+
+243. 3422fb1825349217_eb_347.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/3422fb1825349217_eb_347.jpg
+   Hash: 3422fb1825349217...
+   Tamaño: 16499 bytes
+
+244. 17152005674a5d29_eb_94.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/17152005674a5d29_eb_94.jpg
+   Hash: 17152005674a5d29...
+   Tamaño: 15853 bytes
+
+245. 9e23be62ce4ad0c1_7b32caa4_0d67_4b84_a1bf_cf9dffd7ffe5_rs_erly_b_6405.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/9e23be62ce4ad0c1_7b32caa4_0d67_4b84_a1bf_cf9dffd7ffe5_rs_erly_b_6405.jpg
+   Hash: 9e23be62ce4ad0c1...
+   Tamaño: 13256 bytes
+
+246. c2d08c857cf6e6f0_24379205_969e_4cd0_9232_176c83364d60_rs_erly_b_7617.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/c2d08c857cf6e6f0_24379205_969e_4cd0_9232_176c83364d60_rs_erly_b_7617.jpg
+   Hash: c2d08c857cf6e6f0...
+   Tamaño: 15112 bytes
+
+247. 52a80c3c52143d67_eb_261.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/52a80c3c52143d67_eb_261.jpg
+   Hash: 52a80c3c52143d67...
+   Tamaño: 12707 bytes
+
+248. f34d8ab2f1612f40_eb_332.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/f34d8ab2f1612f40_eb_332.jpg
+   Hash: f34d8ab2f1612f40...
+   Tamaño: 12956 bytes
+
+249. 4c2ac0a0b304798b_eb_348.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/4c2ac0a0b304798b_eb_348.jpg
+   Hash: 4c2ac0a0b304798b...
+   Tamaño: 10414 bytes
+
+250. 327b2a3234d8d62a_eb_135.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/327b2a3234d8d62a_eb_135.jpg
+   Hash: 327b2a3234d8d62a...
+   Tamaño: 19840 bytes
+
+251. 5b61a14d9aec482c_eb_184.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/5b61a14d9aec482c_eb_184.jpg
+   Hash: 5b61a14d9aec482c...
+   Tamaño: 17393 bytes
+
+252. 30609366ca15647b_250f6c43_1800_4c21_9d73_cc51fe144bbc_rs_erly_b_6356.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/30609366ca15647b_250f6c43_1800_4c21_9d73_cc51fe144bbc_rs_erly_b_6356.jpg
+   Hash: 30609366ca15647b...
+   Tamaño: 12624 bytes
+
+253. 4d605379acbc6f98_eb_331.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/4d605379acbc6f98_eb_331.jpg
+   Hash: 4d605379acbc6f98...
+   Tamaño: 11651 bytes
+
+254. d0bcbf9dd2c47ace_0114f7b3_7f56_4bef_aa47_7a82da142d4b_rs_erly_b_7437.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/d0bcbf9dd2c47ace_0114f7b3_7f56_4bef_aa47_7a82da142d4b_rs_erly_b_7437.jpg
+   Hash: d0bcbf9dd2c47ace...
+   Tamaño: 13727 bytes
+
+255. ef9084d995605676_eb_132.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/ef9084d995605676_eb_132.jpg
+   Hash: ef9084d995605676...
+   Tamaño: 17762 bytes
+
+256. 8a0fa9c59ceb786c_eb_410.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/8a0fa9c59ceb786c_eb_410.jpg
+   Hash: 8a0fa9c59ceb786c...
+   Tamaño: 17183 bytes
+
+257. f8c11372b978335f_eb_310.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/f8c11372b978335f_eb_310.jpg
+   Hash: f8c11372b978335f...
+   Tamaño: 9651 bytes
+
+258. 27876ebd23093afb_eb_753.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/27876ebd23093afb_eb_753.jpg
+   Hash: 27876ebd23093afb...
+   Tamaño: 19383 bytes
+
+259. b0c314c4740cb743_96f7a84a_cafa_487d_a032_548cfe965bdb_rs_erly_b_9621.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/b0c314c4740cb743_96f7a84a_cafa_487d_a032_548cfe965bdb_rs_erly_b_9621.jpg
+   Hash: b0c314c4740cb743...
+   Tamaño: 14355 bytes
+
+260. a3e70e42d2dc3aa4_a3af61fe_3cde_4083_963f_909bfced23db_rs_erly_b_7590.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/a3e70e42d2dc3aa4_a3af61fe_3cde_4083_963f_909bfced23db_rs_erly_b_7590.jpg
+   Hash: a3e70e42d2dc3aa4...
+   Tamaño: 12121 bytes
+
+261. 40a2193d0cd0523d_eb_170.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/40a2193d0cd0523d_eb_170.jpg
+   Hash: 40a2193d0cd0523d...
+   Tamaño: 20331 bytes
+
+262. 63bb65c40afd2e55_eb_346.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/63bb65c40afd2e55_eb_346.jpg
+   Hash: 63bb65c40afd2e55...
+   Tamaño: 13654 bytes
+
+263. 9f34e03b6d5d544a_eb_345.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/9f34e03b6d5d544a_eb_345.jpg
+   Hash: 9f34e03b6d5d544a...
+   Tamaño: 14393 bytes
+
+264. f44585e87084c133_eb_177.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/f44585e87084c133_eb_177.jpg
+   Hash: f44585e87084c133...
+   Tamaño: 12552 bytes
+
+265. 182b84039193e8e2_eb_268.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/182b84039193e8e2_eb_268.jpg
+   Hash: 182b84039193e8e2...
+   Tamaño: 13300 bytes
+
+266. 7885910ac8d584a7_eb_974.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/7885910ac8d584a7_eb_974.jpg
+   Hash: 7885910ac8d584a7...
+   Tamaño: 50718 bytes
+
+267. 2ee90af9c718c454_eb_76.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/2ee90af9c718c454_eb_76.jpg
+   Hash: 2ee90af9c718c454...
+   Tamaño: 14030 bytes
+
+268. c06121fea888c231_eb_384.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/c06121fea888c231_eb_384.jpg
+   Hash: c06121fea888c231...
+   Tamaño: 11725 bytes
+
+269. 1496db1fb0997434_eb_324.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/1496db1fb0997434_eb_324.jpg
+   Hash: 1496db1fb0997434...
+   Tamaño: 12812 bytes
+
+270. a2bf7ad7e9f83a2c_eb_870.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/a2bf7ad7e9f83a2c_eb_870.jpg
+   Hash: a2bf7ad7e9f83a2c...
+   Tamaño: 16454 bytes
+
+271. 77ac3fa680f1f4d5_eb_357.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/77ac3fa680f1f4d5_eb_357.jpg
+   Hash: 77ac3fa680f1f4d5...
+   Tamaño: 15770 bytes
+
+272. e567753cd2d09bc5_eb_749.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/e567753cd2d09bc5_eb_749.jpg
+   Hash: e567753cd2d09bc5...
+   Tamaño: 16078 bytes
+
+273. ccf6eea47e701b03_eb_362.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/ccf6eea47e701b03_eb_362.jpg
+   Hash: ccf6eea47e701b03...
+   Tamaño: 13799 bytes
+
+274. e3ad0ab9b6d95a34_eb_589.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/e3ad0ab9b6d95a34_eb_589.jpg
+   Hash: e3ad0ab9b6d95a34...
+   Tamaño: 10916 bytes
+
+275. 6c9fcf5183b42218_eb_598.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/6c9fcf5183b42218_eb_598.jpg
+   Hash: 6c9fcf5183b42218...
+   Tamaño: 11450 bytes
+
+276. 578a24bec25ca44c_eb_364.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/578a24bec25ca44c_eb_364.jpg
+   Hash: 578a24bec25ca44c...
+   Tamaño: 15201 bytes
+
+277. f6852ee2bb6e834a_072ae43a_416b_434a_a5a2_1b48bc47fada_rs_erly_b_7472.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/f6852ee2bb6e834a_072ae43a_416b_434a_a5a2_1b48bc47fada_rs_erly_b_7472.jpg
+   Hash: f6852ee2bb6e834a...
+   Tamaño: 16468 bytes
+
+278. dd2522d97269c8d2_eb_755.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/dd2522d97269c8d2_eb_755.jpg
+   Hash: dd2522d97269c8d2...
+   Tamaño: 13628 bytes
+
+279. 11a001981e71cac3_eb_327.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/11a001981e71cac3_eb_327.jpg
+   Hash: 11a001981e71cac3...
+   Tamaño: 11095 bytes
+
+280. aa059bb506e9a878_74b3c6cf_a35b_481b_aa22_7483a52bff76_rs_erly_b_7792.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/aa059bb506e9a878_74b3c6cf_a35b_481b_aa22_7483a52bff76_rs_erly_b_7792.jpg
+   Hash: aa059bb506e9a878...
+   Tamaño: 17680 bytes
+
+281. dee451e529599659_eb_367.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/dee451e529599659_eb_367.jpg
+   Hash: dee451e529599659...
+   Tamaño: 17163 bytes
+
+282. c768925d82e73376_eb_751.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/c768925d82e73376_eb_751.jpg
+   Hash: c768925d82e73376...
+   Tamaño: 18851 bytes
+
+283. fdb33fb4d2074458_4d007f46_814a_4cec_93d4_0be4b32a9ed6_rs_erly_b_6495.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/fdb33fb4d2074458_4d007f46_814a_4cec_93d4_0be4b32a9ed6_rs_erly_b_6495.jpg
+   Hash: fdb33fb4d2074458...
+   Tamaño: 15167 bytes
+
+284. 3fb549e83ffff133_eb_191.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/3fb549e83ffff133_eb_191.jpg
+   Hash: 3fb549e83ffff133...
+   Tamaño: 16908 bytes
+
+285. f88ba7f485ac1861_eb_80.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/f88ba7f485ac1861_eb_80.jpg
+   Hash: f88ba7f485ac1861...
+   Tamaño: 19432 bytes
+
+286. 95e28944342dd65e_eb_118.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/95e28944342dd65e_eb_118.jpg
+   Hash: 95e28944342dd65e...
+   Tamaño: 16069 bytes
+
+287. 2a91d2d3a7ee5cab_eb_269.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/2a91d2d3a7ee5cab_eb_269.jpg
+   Hash: 2a91d2d3a7ee5cab...
+   Tamaño: 17934 bytes
+
+288. dac3102137b279c6_0208ed52_1b28_4c9c_88e3_4667581e1109_rs_erly_b_7829.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/dac3102137b279c6_0208ed52_1b28_4c9c_88e3_4667581e1109_rs_erly_b_7829.jpg
+   Hash: dac3102137b279c6...
+   Tamaño: 23427 bytes
+
+289. 6ef3ecd0667bda42_5bbfc062_042e_4929_98ba_fd034a03092d_rs_erly_b_7581.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/6ef3ecd0667bda42_5bbfc062_042e_4929_98ba_fd034a03092d_rs_erly_b_7581.jpg
+   Hash: 6ef3ecd0667bda42...
+   Tamaño: 12433 bytes
+
+290. 66ca1ec922cec94f_4c927622_ea22_4718_8e36_319218ee53bf_rs_erly_b_7712.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/66ca1ec922cec94f_4c927622_ea22_4718_8e36_319218ee53bf_rs_erly_b_7712.jpg
+   Hash: 66ca1ec922cec94f...
+   Tamaño: 18258 bytes
+
+291. 6ae670ce5fcc26e1_eb_38.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/6ae670ce5fcc26e1_eb_38.jpg
+   Hash: 6ae670ce5fcc26e1...
+   Tamaño: 56206 bytes
+
+292. ace1282ccba00de2_76e4e737_6526_4007_923f_5b6c1e9951ed_rs_erly_b_7759.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/ace1282ccba00de2_76e4e737_6526_4007_923f_5b6c1e9951ed_rs_erly_b_7759.jpg
+   Hash: ace1282ccba00de2...
+   Tamaño: 15007 bytes
+
+293. 07ba84b5d47184bc_eb_283.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/07ba84b5d47184bc_eb_283.jpg
+   Hash: 07ba84b5d47184bc...
+   Tamaño: 12406 bytes
+
+294. dc92cf54c6708a26_eb_586.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/dc92cf54c6708a26_eb_586.jpg
+   Hash: dc92cf54c6708a26...
+   Tamaño: 13054 bytes
+
+295. 529c4cfb2a7c0f5c_8d70db5b_7916_4397_836d_6a73a2faaead_rs_erly_b_6330.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/529c4cfb2a7c0f5c_8d70db5b_7916_4397_836d_6a73a2faaead_rs_erly_b_6330.jpg
+   Hash: 529c4cfb2a7c0f5c...
+   Tamaño: 10360 bytes
+
+296. 72a9129cfbad6245_eb_337.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/72a9129cfbad6245_eb_337.jpg
+   Hash: 72a9129cfbad6245...
+   Tamaño: 19252 bytes
+
+297. 26abca1a0e6ac3e4_a98a655f_a2f5_44eb_a73b_edf25ca85921_rs_erly_b_6351.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/26abca1a0e6ac3e4_a98a655f_a2f5_44eb_a73b_edf25ca85921_rs_erly_b_6351.jpg
+   Hash: 26abca1a0e6ac3e4...
+   Tamaño: 12117 bytes
+
+298. 2ff54d02dbbcc128_eb_341.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/2ff54d02dbbcc128_eb_341.jpg
+   Hash: 2ff54d02dbbcc128...
+   Tamaño: 13434 bytes
+
+299. d42d1010aa907cce_eb_313.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/d42d1010aa907cce_eb_313.jpg
+   Hash: d42d1010aa907cce...
+   Tamaño: 13014 bytes
+
+300. 3d90971f0a663b23_eb_121.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/3d90971f0a663b23_eb_121.jpg
+   Hash: 3d90971f0a663b23...
+   Tamaño: 12473 bytes
+
+301. 0455c0910e3d37ce_eb_309.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/0455c0910e3d37ce_eb_309.jpg
+   Hash: 0455c0910e3d37ce...
+   Tamaño: 14039 bytes
+
+302. bfa99ba5d91391df_eb_326.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/bfa99ba5d91391df_eb_326.jpg
+   Hash: bfa99ba5d91391df...
+   Tamaño: 15857 bytes
+
+303. 39cb2cdcd95368f5_eb_209.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/39cb2cdcd95368f5_eb_209.jpg
+   Hash: 39cb2cdcd95368f5...
+   Tamaño: 14158 bytes
+
+304. 1af72f8009a1cdba_eb_113.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/1af72f8009a1cdba_eb_113.jpg
+   Hash: 1af72f8009a1cdba...
+   Tamaño: 12862 bytes
+
+305. 48a5bfed8ca27c1e_8b448aba_68ad_461d_a8f4_99c6ccee8fbe_rs_erly_b_7463.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/48a5bfed8ca27c1e_8b448aba_68ad_461d_a8f4_99c6ccee8fbe_rs_erly_b_7463.jpg
+   Hash: 48a5bfed8ca27c1e...
+   Tamaño: 13186 bytes
+
+306. 2177f29a6f1e6867_65568918_2d9c_4f0c_aa9d_3f4fa8b9a60c_rs_erly_b_7354.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/2177f29a6f1e6867_65568918_2d9c_4f0c_aa9d_3f4fa8b9a60c_rs_erly_b_7354.jpg
+   Hash: 2177f29a6f1e6867...
+   Tamaño: 12710 bytes
+
+307. 0f243ab5a4b1c2e2_243a77c6_b401_43c4_9230_68b4b11f3b83_rs_erly_b_7754.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/0f243ab5a4b1c2e2_243a77c6_b401_43c4_9230_68b4b11f3b83_rs_erly_b_7754.jpg
+   Hash: 0f243ab5a4b1c2e2...
+   Tamaño: 22499 bytes
+
+308. dacabe2b277f87f2_eb_174.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/dacabe2b277f87f2_eb_174.jpg
+   Hash: dacabe2b277f87f2...
+   Tamaño: 18300 bytes
+
+309. 1805a1779641d82b_eb_321.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/1805a1779641d82b_eb_321.jpg
+   Hash: 1805a1779641d82b...
+   Tamaño: 17130 bytes
+
+310. 005238d2aa88dbe4_eb_582.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/005238d2aa88dbe4_eb_582.jpg
+   Hash: 005238d2aa88dbe4...
+   Tamaño: 12042 bytes
+
+311. 1cdcbcfa0e9a82b9_8597694d_3162_40ab_9f5b_e8c7cf03e045_rs_erly_b_9485.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/1cdcbcfa0e9a82b9_8597694d_3162_40ab_9f5b_e8c7cf03e045_rs_erly_b_9485.jpg
+   Hash: 1cdcbcfa0e9a82b9...
+   Tamaño: 17683 bytes
+
+312. 68b269f7f5fa6f88_8714986a_ae97_489a_8259_67411bfa2379_rs_erly_b_9400.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/68b269f7f5fa6f88_8714986a_ae97_489a_8259_67411bfa2379_rs_erly_b_9400.jpg
+   Hash: 68b269f7f5fa6f88...
+   Tamaño: 17627 bytes
+
+313. 18125b11128bd331_54e98d19_a7a0_44d8_a004_1eaee5f3610b_rs_erly_b_7348.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/18125b11128bd331_54e98d19_a7a0_44d8_a004_1eaee5f3610b_rs_erly_b_7348.jpg
+   Hash: 18125b11128bd331...
+   Tamaño: 11729 bytes
+
+314. 5fa2be5d90c9e334_eb_342.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/5fa2be5d90c9e334_eb_342.jpg
+   Hash: 5fa2be5d90c9e334...
+   Tamaño: 14967 bytes
+
+315. 34d6092ef2efd175_3f35dad7_734b_46ee_8193_09fd3c8562ff_rs_erly_b_7600.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/34d6092ef2efd175_3f35dad7_734b_46ee_8193_09fd3c8562ff_rs_erly_b_7600.jpg
+   Hash: 34d6092ef2efd175...
+   Tamaño: 12071 bytes
+
+316. e22b568b6fd23a87_8c757ec5_a977_412f_bf8e_208fefc79063_rs_erly_b_9504.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/e22b568b6fd23a87_8c757ec5_a977_412f_bf8e_208fefc79063_rs_erly_b_9504.jpg
+   Hash: e22b568b6fd23a87...
+   Tamaño: 17062 bytes
+
+317. 755d4955b1dd548d_eb_136.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/755d4955b1dd548d_eb_136.jpg
+   Hash: 755d4955b1dd548d...
+   Tamaño: 13654 bytes
+
+318. 6b98a4c1929e772a_3af16e88_1b4d_46d5_a099_7450600f11e8_rs_erly_b_9545.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/6b98a4c1929e772a_3af16e88_1b4d_46d5_a099_7450600f11e8_rs_erly_b_9545.jpg
+   Hash: 6b98a4c1929e772a...
+   Tamaño: 13453 bytes
+
+319. 7b8d78c426d49245_eb_602.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/7b8d78c426d49245_eb_602.jpg
+   Hash: 7b8d78c426d49245...
+   Tamaño: 19294 bytes
+
+320. 42b48ad1860c456a_eb_134.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/42b48ad1860c456a_eb_134.jpg
+   Hash: 42b48ad1860c456a...
+   Tamaño: 14481 bytes
+
+321. 719d6a1f27468a3f_eb_306.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/719d6a1f27468a3f_eb_306.jpg
+   Hash: 719d6a1f27468a3f...
+   Tamaño: 11897 bytes
+
+322. bb92704ee59ffd55_171b6622_c111_4fe9_b3f9_12b12ee0db06_rs_erly_b_7836.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/bb92704ee59ffd55_171b6622_c111_4fe9_b3f9_12b12ee0db06_rs_erly_b_7836.jpg
+   Hash: bb92704ee59ffd55...
+   Tamaño: 17282 bytes
+
+323. 8d3f66a19e42bf9c_eb_112.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/8d3f66a19e42bf9c_eb_112.jpg
+   Hash: 8d3f66a19e42bf9c...
+   Tamaño: 14656 bytes
+
+324. 209e1fdb2b7af8e1_22faea13_4b3e_4d87_b80c_379755a7b747_rs_erly_b_7852.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/209e1fdb2b7af8e1_22faea13_4b3e_4d87_b80c_379755a7b747_rs_erly_b_7852.jpg
+   Hash: 209e1fdb2b7af8e1...
+   Tamaño: 17843 bytes
+
+325. d00e986577766498_3daf2ed3_e39b_4b4d_a691_a7722ef8ed32_rs_erly_b_7373.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/d00e986577766498_3daf2ed3_e39b_4b4d_a691_a7722ef8ed32_rs_erly_b_7373.jpg
+   Hash: d00e986577766498...
+   Tamaño: 16136 bytes
+
+326. f13bfb46e1bb2b07_eb_272.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/f13bfb46e1bb2b07_eb_272.jpg
+   Hash: f13bfb46e1bb2b07...
+   Tamaño: 15864 bytes
+
+327. e8ef414fdc716aa1_eb_196.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/e8ef414fdc716aa1_eb_196.jpg
+   Hash: e8ef414fdc716aa1...
+   Tamaño: 12002 bytes
+
+328. d2818a374901aa3a_eb_84.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/d2818a374901aa3a_eb_84.jpg
+   Hash: d2818a374901aa3a...
+   Tamaño: 13423 bytes
+
+329. 9f45e90781d14749_eb_386.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/9f45e90781d14749_eb_386.jpg
+   Hash: 9f45e90781d14749...
+   Tamaño: 19204 bytes
+
+330. bedd12a1bdbf139d_eb_282.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/bedd12a1bdbf139d_eb_282.jpg
+   Hash: bedd12a1bdbf139d...
+   Tamaño: 12688 bytes
+
+331. 32de7a37f59f2f40_6da1cf1b_a236_4d45_a390_dac6b65c45f7_gh_hl_leaf_264.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/32de7a37f59f2f40_6da1cf1b_a236_4d45_a390_dac6b65c45f7_gh_hl_leaf_264.jpg
+   Hash: 32de7a37f59f2f40...
+   Tamaño: 16348 bytes
+
+332. 81ccdf6150cd31c7_hl_81.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/81ccdf6150cd31c7_hl_81.jpg
+   Hash: 81ccdf6150cd31c7...
+   Tamaño: 12876 bytes
+
+333. ce9e3a821ac5e212_h91.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/ce9e3a821ac5e212_h91.jpg
+   Hash: ce9e3a821ac5e212...
+   Tamaño: 12306 bytes
+
+334. 2c00b71f3ab2c23c_h9.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/2c00b71f3ab2c23c_h9.jpg
+   Hash: 2c00b71f3ab2c23c...
+   Tamaño: 12910 bytes
+
+335. 226c752f8f644ffc_6a74d0a9_4a5e_4dc2_9e14_aeade8b0c3b2_gh_hl_leaf_400_1.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/226c752f8f644ffc_6a74d0a9_4a5e_4dc2_9e14_aeade8b0c3b2_gh_hl_leaf_400_1.jpg
+   Hash: 226c752f8f644ffc...
+   Tamaño: 13228 bytes
+
+336. f606bffe58577935_hl_122.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/f606bffe58577935_hl_122.jpg
+   Hash: f606bffe58577935...
+   Tamaño: 14897 bytes
+
+337. 4d3eeadaf86bc214_h47.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/4d3eeadaf86bc214_h47.jpg
+   Hash: 4d3eeadaf86bc214...
+   Tamaño: 12523 bytes
+
+338. bb5260d08e82dfe8_hl_85.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/bb5260d08e82dfe8_hl_85.jpg
+   Hash: bb5260d08e82dfe8...
+   Tamaño: 11432 bytes
+
+339. 61f6fa6195ef5c59_1af0bfe1_4bcf_4b8b_be66_5d0953eb647e_gh_hl_leaf_482_2.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/61f6fa6195ef5c59_1af0bfe1_4bcf_4b8b_be66_5d0953eb647e_gh_hl_leaf_482_2.jpg
+   Hash: 61f6fa6195ef5c59...
+   Tamaño: 16740 bytes
+
+340. f20dcd9f222b376d_h62.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/f20dcd9f222b376d_h62.jpg
+   Hash: f20dcd9f222b376d...
+   Tamaño: 11558 bytes
+
+341. abd21da50933bb9b_hl_117.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/abd21da50933bb9b_hl_117.jpg
+   Hash: abd21da50933bb9b...
+   Tamaño: 11152 bytes
+
+342. d65ccd07c8532149_6b53630d_c9df_4e67_a490_b1835772d9a0_gh_hl_leaf_450_2.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/d65ccd07c8532149_6b53630d_c9df_4e67_a490_b1835772d9a0_gh_hl_leaf_450_2.jpg
+   Hash: d65ccd07c8532149...
+   Tamaño: 14106 bytes
+
+343. 65ae79a46c123cd7_h97.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/65ae79a46c123cd7_h97.jpg
+   Hash: 65ae79a46c123cd7...
+   Tamaño: 13249 bytes
+
+344. 1a715a865aa14852_h51.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/1a715a865aa14852_h51.jpg
+   Hash: 1a715a865aa14852...
+   Tamaño: 10840 bytes
+
+345. 09ea2163f2ce6235_h55.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/09ea2163f2ce6235_h55.jpg
+   Hash: 09ea2163f2ce6235...
+   Tamaño: 10699 bytes
+
+346. 1b356112f047cd43_hl_74.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/1b356112f047cd43_hl_74.jpg
+   Hash: 1b356112f047cd43...
+   Tamaño: 11445 bytes
+
+347. 75d63443205fd08b_h5.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/75d63443205fd08b_h5.jpg
+   Hash: 75d63443205fd08b...
+   Tamaño: 11461 bytes
+
+348. 8843faed3ceaa715_h95.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/8843faed3ceaa715_h95.jpg
+   Hash: 8843faed3ceaa715...
+   Tamaño: 13118 bytes
+
+349. 4396310ac0e9196b_hl_130.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/4396310ac0e9196b_hl_130.jpg
+   Hash: 4396310ac0e9196b...
+   Tamaño: 11277 bytes
+
+350. 8aeb8a48781580ca_h68.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/8aeb8a48781580ca_h68.jpg
+   Hash: 8aeb8a48781580ca...
+   Tamaño: 11449 bytes
+
+351. c52519e3ed32734a_hl_120.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/c52519e3ed32734a_hl_120.jpg
+   Hash: c52519e3ed32734a...
+   Tamaño: 12177 bytes
+
+352. 0ae020110205fa21_hl_151.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/0ae020110205fa21_hl_151.jpg
+   Hash: 0ae020110205fa21...
+   Tamaño: 12526 bytes
+
+353. fbddb5a659dadd2d_hl_143.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/fbddb5a659dadd2d_hl_143.jpg
+   Hash: fbddb5a659dadd2d...
+   Tamaño: 12208 bytes
+
+354. d898174645cec4c0_hl_73.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/d898174645cec4c0_hl_73.jpg
+   Hash: d898174645cec4c0...
+   Tamaño: 10653 bytes
+
+355. bcac5e87026531f2_hl_274.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/bcac5e87026531f2_hl_274.jpg
+   Hash: bcac5e87026531f2...
+   Tamaño: 13050 bytes
+
+356. 2e38b145732d741c_hl_354.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/2e38b145732d741c_hl_354.jpg
+   Hash: 2e38b145732d741c...
+   Tamaño: 18400 bytes
+
+357. f4d9cf6bbd2fda2f_hl_159.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/f4d9cf6bbd2fda2f_hl_159.jpg
+   Hash: f4d9cf6bbd2fda2f...
+   Tamaño: 12080 bytes
+
+358. ce28ee305b0f0b39_hl_169.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/ce28ee305b0f0b39_hl_169.jpg
+   Hash: ce28ee305b0f0b39...
+   Tamaño: 14233 bytes
+
+359. 00b6cf192398aeb0_hl_84.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/00b6cf192398aeb0_hl_84.jpg
+   Hash: 00b6cf192398aeb0...
+   Tamaño: 12305 bytes
+
+360. 4c9a4d8da4506945_hl_142.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/4c9a4d8da4506945_hl_142.jpg
+   Hash: 4c9a4d8da4506945...
+   Tamaño: 11386 bytes
+
+361. 49ed30e0f3d5d9a8_hl_150.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/49ed30e0f3d5d9a8_hl_150.jpg
+   Hash: 49ed30e0f3d5d9a8...
+   Tamaño: 12194 bytes
+
+362. 781f9f918b7a4a8c_h63.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/781f9f918b7a4a8c_h63.jpg
+   Hash: 781f9f918b7a4a8c...
+   Tamaño: 13675 bytes
+
+363. 0034396dcc3cfaff_hl_385.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/0034396dcc3cfaff_hl_385.jpg
+   Hash: 0034396dcc3cfaff...
+   Tamaño: 14804 bytes
+
+364. af5ef921c08a7d06_h73.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/af5ef921c08a7d06_h73.jpg
+   Hash: af5ef921c08a7d06...
+   Tamaño: 11447 bytes
+
+365. c1f77373c3a2520c_h31.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/c1f77373c3a2520c_h31.jpg
+   Hash: c1f77373c3a2520c...
+   Tamaño: 11457 bytes
+
+366. 726553a5e18793c2_hl_111.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/726553a5e18793c2_hl_111.jpg
+   Hash: 726553a5e18793c2...
+   Tamaño: 10657 bytes
+
+367. c35884014c43e070_hl_177.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/c35884014c43e070_hl_177.jpg
+   Hash: c35884014c43e070...
+   Tamaño: 11915 bytes
+
+368. dbaaff1cfbde1a3e_hl_155.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/dbaaff1cfbde1a3e_hl_155.jpg
+   Hash: dbaaff1cfbde1a3e...
+   Tamaño: 12601 bytes
+
+369. e86a619f0f974a26_hl_337.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/e86a619f0f974a26_hl_337.jpg
+   Hash: e86a619f0f974a26...
+   Tamaño: 13516 bytes
+
+370. baa7d58e96dd9a91_h53.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/baa7d58e96dd9a91_h53.jpg
+   Hash: baa7d58e96dd9a91...
+   Tamaño: 11497 bytes
+
+371. 816cc01a9d1f7bc4_hl_105.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/816cc01a9d1f7bc4_hl_105.jpg
+   Hash: 816cc01a9d1f7bc4...
+   Tamaño: 14253 bytes
+
+372. 98a7f38fbfe7e6e3_hl_129.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/98a7f38fbfe7e6e3_hl_129.jpg
+   Hash: 98a7f38fbfe7e6e3...
+   Tamaño: 9833 bytes
+
+373. 6a57f2b95c43ded0_hl_272.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/6a57f2b95c43ded0_hl_272.jpg
+   Hash: 6a57f2b95c43ded0...
+   Tamaño: 18614 bytes
+
+374. 30af8b7a51f2b38c_hl_126.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/30af8b7a51f2b38c_hl_126.jpg
+   Hash: 30af8b7a51f2b38c...
+   Tamaño: 14128 bytes
+
+375. 68cda8c3ceca7626_e786ac89_29fe_47e3_b49e_b9a9ee7edd9d_gh_hl_leaf_342_1.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/68cda8c3ceca7626_e786ac89_29fe_47e3_b49e_b9a9ee7edd9d_gh_hl_leaf_342_1.jpg
+   Hash: 68cda8c3ceca7626...
+   Tamaño: 15878 bytes
+
+376. a9dd4dee0f0c8867_h98.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/a9dd4dee0f0c8867_h98.jpg
+   Hash: a9dd4dee0f0c8867...
+   Tamaño: 12823 bytes
+
+377. aa0ae215841d7913_hl_115.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/aa0ae215841d7913_hl_115.jpg
+   Hash: aa0ae215841d7913...
+   Tamaño: 10180 bytes
+
+378. 5c97cf32f2b2defa_0b330273_890c_4995_af72_cba070fc0061_gh_hl_leaf_312.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/5c97cf32f2b2defa_0b330273_890c_4995_af72_cba070fc0061_gh_hl_leaf_312.jpg
+   Hash: 5c97cf32f2b2defa...
+   Tamaño: 19174 bytes
+
+379. bef8706f6142be79_h85.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/bef8706f6142be79_h85.jpg
+   Hash: bef8706f6142be79...
+   Tamaño: 10964 bytes
+
+380. de8214a9e719d4a6_hl_188.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/de8214a9e719d4a6_hl_188.jpg
+   Hash: de8214a9e719d4a6...
+   Tamaño: 14748 bytes
+
+381. 87e8af800bbf8cee_hl_160.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/87e8af800bbf8cee_hl_160.jpg
+   Hash: 87e8af800bbf8cee...
+   Tamaño: 12025 bytes
+
+382. 778fd481f3c693b2_6dca3464_9e71_4edf_9ca5_746b5eebe418_gh_hl_leaf_352.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/778fd481f3c693b2_6dca3464_9e71_4edf_9ca5_746b5eebe418_gh_hl_leaf_352.jpg
+   Hash: 778fd481f3c693b2...
+   Tamaño: 17585 bytes
+
+383. e8256d5072eeef5e_hl_358.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/e8256d5072eeef5e_hl_358.jpg
+   Hash: e8256d5072eeef5e...
+   Tamaño: 17585 bytes
+
+384. ff88cb6444865f9a_hl_123.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/ff88cb6444865f9a_hl_123.jpg
+   Hash: ff88cb6444865f9a...
+   Tamaño: 12403 bytes
+
+385. e2915be51bc98928_hl_162.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/e2915be51bc98928_hl_162.jpg
+   Hash: e2915be51bc98928...
+   Tamaño: 11923 bytes
+
+386. 2c6dddbf7686cff2_h104.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/2c6dddbf7686cff2_h104.jpg
+   Hash: 2c6dddbf7686cff2...
+   Tamaño: 12008 bytes
+
+387. 8a12192d57f19a33_hl_156.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/8a12192d57f19a33_hl_156.jpg
+   Hash: 8a12192d57f19a33...
+   Tamaño: 12832 bytes
+
+388. 6070a9bea2bbcbe6_h67.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/6070a9bea2bbcbe6_h67.jpg
+   Hash: 6070a9bea2bbcbe6...
+   Tamaño: 11519 bytes
+
+389. fab1d82312819d94_hl_88.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/fab1d82312819d94_hl_88.jpg
+   Hash: fab1d82312819d94...
+   Tamaño: 11617 bytes
+
+390. 6f06e2f1cee1edf5_5d11d60f_fb4a_4178_9594_d017a0f51b59_gh_hl_leaf_271.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/6f06e2f1cee1edf5_5d11d60f_fb4a_4178_9594_d017a0f51b59_gh_hl_leaf_271.jpg
+   Hash: 6f06e2f1cee1edf5...
+   Tamaño: 20964 bytes
+
+391. 85419ca1b5c0efe5_hl_133.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/85419ca1b5c0efe5_hl_133.jpg
+   Hash: 85419ca1b5c0efe5...
+   Tamaño: 10941 bytes
+
+
+Archivos eliminados de TRAIN (duplicados adicionales): 2
+1. 986b5920087df6ed_septoria_leafspot.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/septoria_leaf_spot/986b5920087df6ed_septoria_leafspot.jpg
+   Hash: 986b5920087df6ed...
+   Tamaño: 22461 bytes
+
+2. 5c1914d9fb471460_lateblighttom_lesion3.jpg
+   Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/early_blight/5c1914d9fb471460_lateblighttom_lesion3.jpg
+   Hash: 5c1914d9fb471460...
+   Tamaño: 297103 bytes
+
+ESPACIO LIBERADO:
+--------------------
+Total de bytes liberados: 6601213
+Espacio liberado en MB: 6.30 MB
+Espacio liberado en GB: 0.01 GB
+
+ESTADÍSTICAS FINALES:
+-------------------------
+Total de archivos procesados: 31846
+Archivos eliminados: 393
+Archivos preservados: 31453
+Errores: 0
+Porcentaje eliminado: 1.23%

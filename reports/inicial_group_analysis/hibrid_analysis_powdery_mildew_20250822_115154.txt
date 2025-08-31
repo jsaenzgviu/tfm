@@ -1,0 +1,56 @@
+ANÁLISIS HÍBRIDO CON VERIFICACIÓN VISUAL SELECTIVA
+================================================================================
+
+Directorio: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same0/valid/powdery_mildew
+Tiempo de análisis: 0.001s
+Fecha: 2025-08-22 11:51:54
+
+ESTADÍSTICAS FINALES:
+- Total de archivos: 37
+- Grupos verificados: 0
+- Archivos agrupados: 0
+- Archivos únicos: 37
+- Eficiencia: 0.0% archivos agrupados
+
+GRUPOS VERIFICADOS VISUALMENTE:
+--------------------------------------------------
+
+ARCHIVOS ÚNICOS (37 total):
+----------------------------------------
+- 6e8cde54a7e52dff_pm105.jpg
+- 69c8d4db446d8173_pm78.jpg
+- 50e519867cbb71b7_pm131.jpg
+- 27cc050f643e3ba5_pm46.jpg
+- 22e3166c64489a44_pm54.jpg
+- e695f39d48042a19_pm41.jpg
+- 2626b645cbb1d49d_pm92.jpg
+- 14ec502935ddec97_pm145.jpg
+- 04caf6dc697fa87e_pm53.jpg
+- 37ed8a153ea5b485_pm110.jpg
+- 88b79c079f84ffec_pm33.jpg
+- 369ea7031e27adbc_pm40.jpg
+- 5a10f41e547fbd1a_pm42.jpg
+- 0f23daf2ee4d233c_pm106.jpg
+- 6d0f898215864be6_pm100.jpg
+- 6d78823c4dde87db_pm118.jpg
+- 0da8afed80952083_pm73.jpg
+- 166caa1811e34a41_pm108.jpg
+- c6a7f83581e42654_pm64.jpg
+- 754d0ecebc3d8de3_pm94.jpg
+- c40ee4181cf2f1d7_pm104.jpg
+- 8fcadf815f3daa23_pm43.jpg
+- 03e165df74acbb36_pm5.jpg
+- b1ea33577814f37b_pm49.jpg
+- 67e2f99fe715d6bf_pm142.jpg
+- 5727ac03bf267033_pm2.jpg
+- b134e4e1af1707db_pm27.jpg
+- dfd01c50e7e82a63_pm13.jpg
+- 72506232abb4e5a8_pm75.jpg
+- e72bd053ec811505_pm99.jpg
+- 229a54183afe8f99_pm91.jpg
+- fb0b024711668ba6_pm154.jpg
+- 5ee9d36717280276_pm3.jpg
+- 5fde67c802ab1faa_pm130.jpg
+- 5b5811cb2e97377d_pm63.jpg
+- c3ed3bab41e037db_pm6.jpg
+- ae422c848971f464_pm122.jpg

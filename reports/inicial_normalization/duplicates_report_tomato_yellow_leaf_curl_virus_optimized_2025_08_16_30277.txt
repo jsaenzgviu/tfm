@@ -1,0 +1,28 @@
+=== REPORTE DE DUPLICADOS OPTIMIZADO ===
+
+TOTAL DE DUPLICADOS ENCONTRADOS: 0
+
+=== LOGS DE PROCESAMIENTO ===
+
+🚀 ALGORITMO OPTIMIZADO INICIADO
+Directorio 1: 2039 archivos
+Directorio 2: 498 archivos
+
+=== PASO 1: Verificando duplicados exactos (paralelo) ===
+Duplicados exactos encontrados: 0 (⏱️ 0.19s)
+
+=== PASO 2: Verificando duplicados perceptuales (optimizado) ===
+🔄 Calculando hashes perceptuales en paralelo...
+📊 Índices creados en 10.92s
+🎯 1453327 candidatos encontrados en 5.64s
+✅ Verificando candidatos en paralelo...
+🎊 Duplicados perceptuales: 0 (⏱️ 3094.97s total, 3078.41s verificación)
+
+=== PASO 3: Detectando versiones adicionales (optimizado) ===
+🔗 Versiones adicionales: 0 (⏱️ 0.00s)
+
+🎉 PROCESO COMPLETADO EN 3095.16s
+   - Exactos: 0.19s
+   - Perceptuales: 3094.97s
+   - Versiones: 0.00s
+   - Aceleración estimada: 32.8x

@@ -1,0 +1,4277 @@
+================================================================================
+INFORME DE ARCHIVOS CON EL MISMO NOMBRE
+================================================================================
+Fecha: 2025-08-08 16:43:17
+Directorio analizado: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/
+Total de nombres únicos: 32173
+Nombres con duplicados: 353
+================================================================================
+
+ARCHIVOS CON EL MISMO NOMBRE:
+----------------------------------------
+
+Nombre base: unnamed
+Cantidad de archivos: 5
+Archivos encontrados:
+  1. unnamed.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/bacterial_spot/unnamed.jpg
+     Extensión: .jpg
+  2. unnamed.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/tomato_mosaic_virus/unnamed.jpg
+     Extensión: .jpg
+  3. unnamed.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/septoria_leaf_spot/unnamed.jpg
+     Extensión: .jpg
+  4. unnamed.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/early_blight/unnamed.jpg
+     Extensión: .jpg
+  5. unnamed.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/unnamed.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: septoria_leafspot
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. septoria_leafspot.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/bacterial_spot/septoria_leafspot.jpg
+     Extensión: .jpg
+  2. septoria_leafspot.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/septoria_leaf_spot/septoria_leafspot.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: unnamed_1
+Cantidad de archivos: 3
+Archivos encontrados:
+  1. unnamed_1.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/bacterial_spot/unnamed_1.jpg
+     Extensión: .jpg
+  2. unnamed_1.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/tomato_mosaic_virus/unnamed_1.jpg
+     Extensión: .jpg
+  3. unnamed_1.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/early_blight/unnamed_1.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_269
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_269.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_269.png
+     Extensión: .png
+  2. lb_269.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_269.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_264
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_264.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_264.png
+     Extensión: .png
+  2. lb_264.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_264.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_383
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_383.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_383.jpg
+     Extensión: .jpg
+  2. lb_383.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_383.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_231
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_231.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_231.png
+     Extensión: .png
+  2. lb_231.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_231.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_360
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_360.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_360.png
+     Extensión: .png
+  2. lb_360.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_360.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_258
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_258.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_258.jpg
+     Extensión: .jpg
+  2. lb_258.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_258.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_381
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_381.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_381.png
+     Extensión: .png
+  2. lb_381.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_381.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_364
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_364.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_364.png
+     Extensión: .png
+  2. lb_364.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_364.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_261
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_261.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_261.jpg
+     Extensión: .jpg
+  2. lb_261.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_261.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_216
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_216.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_216.jpg
+     Extensión: .jpg
+  2. lb_216.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_216.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_351
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_351.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_351.png
+     Extensión: .png
+  2. lb_351.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_351.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_98
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_98.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_98.jpg
+     Extensión: .jpg
+  2. lb_98.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_98.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_48
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_48.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_48.png
+     Extensión: .png
+  2. lb_48.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_48.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_407
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_407.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_407.jpg
+     Extensión: .jpg
+  2. lb_407.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_407.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_234
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_234.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_234.png
+     Extensión: .png
+  2. lb_234.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_234.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_221
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_221.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_221.png
+     Extensión: .png
+  2. lb_221.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_221.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_402
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_402.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_402.png
+     Extensión: .png
+  2. lb_402.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_402.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_399
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_399.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_399.jpg
+     Extensión: .jpg
+  2. lb_399.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_399.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_227
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_227.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_227.png
+     Extensión: .png
+  2. lb_227.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_227.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_230
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_230.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_230.jpg
+     Extensión: .jpg
+  2. lb_230.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_230.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_260
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_260.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_260.png
+     Extensión: .png
+  2. lb_260.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_260.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_99
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_99.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_99.jpg
+     Extensión: .jpg
+  2. lb_99.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_99.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_242
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_242.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_242.jpg
+     Extensión: .jpg
+  2. lb_242.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_242.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_219
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_219.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_219.png
+     Extensión: .png
+  2. lb_219.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_219.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_236
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_236.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_236.jpg
+     Extensión: .jpg
+  2. lb_236.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_236.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_386
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_386.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_386.png
+     Extensión: .png
+  2. lb_386.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_386.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_259
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_259.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_259.png
+     Extensión: .png
+  2. lb_259.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_259.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_380
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_380.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_380.png
+     Extensión: .png
+  2. lb_380.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_380.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_226
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_226.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_226.png
+     Extensión: .png
+  2. lb_226.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_226.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_267
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_267.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_267.jpg
+     Extensión: .jpg
+  2. lb_267.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_267.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_232
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_232.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_232.png
+     Extensión: .png
+  2. lb_232.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_232.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_268
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_268.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_268.png
+     Extensión: .png
+  2. lb_268.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_268.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_272
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_272.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_272.png
+     Extensión: .png
+  2. lb_272.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_272.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_252
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_252.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_252.png
+     Extensión: .png
+  2. lb_252.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_252.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_387
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_387.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_387.png
+     Extensión: .png
+  2. lb_387.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_387.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_370
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_370.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_370.jpg
+     Extensión: .jpg
+  2. lb_370.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_370.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_239
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_239.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_239.png
+     Extensión: .png
+  2. lb_239.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_239.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_273
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_273.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_273.jpg
+     Extensión: .jpg
+  2. lb_273.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_273.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_373
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_373.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_373.jpg
+     Extensión: .jpg
+  2. lb_373.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_373.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_355
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_355.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_355.png
+     Extensión: .png
+  2. lb_355.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_355.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_241
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_241.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_241.jpg
+     Extensión: .jpg
+  2. lb_241.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_241.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_11
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_11.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_11.png
+     Extensión: .png
+  2. lb_11.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_11.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_237
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_237.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_237.png
+     Extensión: .png
+  2. lb_237.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_237.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_5
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_5.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_5.png
+     Extensión: .png
+  2. lb_5.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_5.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_349
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_349.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_349.jpg
+     Extensión: .jpg
+  2. lb_349.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_349.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_249
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_249.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_249.png
+     Extensión: .png
+  2. lb_249.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_249.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_405
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_405.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_405.png
+     Extensión: .png
+  2. lb_405.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_405.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_257
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_257.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_257.png
+     Extensión: .png
+  2. lb_257.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_257.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_255
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_255.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_255.jpg
+     Extensión: .jpg
+  2. lb_255.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_255.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_270
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_270.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_270.jpg
+     Extensión: .jpg
+  2. lb_270.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_270.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_347
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_347.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_347.jpg
+     Extensión: .jpg
+  2. lb_347.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_347.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_353
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_353.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_353.jpg
+     Extensión: .jpg
+  2. lb_353.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_353.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_384
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_384.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_384.png
+     Extensión: .png
+  2. lb_384.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_384.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_294
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_294.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_294.jpg
+     Extensión: .jpg
+  2. lb_294.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_294.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_318
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_318.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_318.jpg
+     Extensión: .jpg
+  2. lb_318.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_318.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_4
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_4.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_4.png
+     Extensión: .png
+  2. lb_4.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_4.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_277
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_277.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_277.jpg
+     Extensión: .jpg
+  2. lb_277.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_277.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_375
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_375.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_375.jpg
+     Extensión: .jpg
+  2. lb_375.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_375.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_379
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_379.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_379.png
+     Extensión: .png
+  2. lb_379.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_379.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_276
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_276.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_276.jpg
+     Extensión: .jpg
+  2. lb_276.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_276.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_385
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_385.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_385.jpg
+     Extensión: .jpg
+  2. lb_385.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_385.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_357
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_357.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_357.png
+     Extensión: .png
+  2. lb_357.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_357.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_367
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_367.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_367.png
+     Extensión: .png
+  2. lb_367.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_367.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_228
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_228.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_228.png
+     Extensión: .png
+  2. lb_228.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_228.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_278
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_278.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_278.jpg
+     Extensión: .jpg
+  2. lb_278.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_278.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_406
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_406.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_406.jpg
+     Extensión: .jpg
+  2. lb_406.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_406.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_368
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_368.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_368.jpg
+     Extensión: .jpg
+  2. lb_368.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_368.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_394
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_394.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_394.jpg
+     Extensión: .jpg
+  2. lb_394.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_394.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_411
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_411.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_411.png
+     Extensión: .png
+  2. lb_411.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_411.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_217
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_217.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_217.png
+     Extensión: .png
+  2. lb_217.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_217.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_393
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_393.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_393.png
+     Extensión: .png
+  2. lb_393.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_393.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_398
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_398.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_398.png
+     Extensión: .png
+  2. lb_398.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_398.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_251
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_251.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_251.jpg
+     Extensión: .jpg
+  2. lb_251.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_251.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_224
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_224.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_224.png
+     Extensión: .png
+  2. lb_224.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_224.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_37
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_37.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_37.jpg
+     Extensión: .jpg
+  2. lb_37.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_37.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_238
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_238.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_238.png
+     Extensión: .png
+  2. lb_238.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_238.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_403
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_403.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_403.png
+     Extensión: .png
+  2. lb_403.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_403.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_12
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_12.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_12.png
+     Extensión: .png
+  2. lb_12.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_12.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_265
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_265.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_265.png
+     Extensión: .png
+  2. lb_265.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_265.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_359
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_359.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_359.png
+     Extensión: .png
+  2. lb_359.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_359.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_225
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_225.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_225.png
+     Extensión: .png
+  2. lb_225.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_225.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_391
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_391.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_391.jpg
+     Extensión: .jpg
+  2. lb_391.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_391.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_247
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_247.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_247.png
+     Extensión: .png
+  2. lb_247.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_247.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_222
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_222.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_222.png
+     Extensión: .png
+  2. lb_222.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_222.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_382
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_382.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_382.png
+     Extensión: .png
+  2. lb_382.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_382.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_397
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_397.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_397.png
+     Extensión: .png
+  2. lb_397.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_397.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_235
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_235.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_235.jpg
+     Extensión: .jpg
+  2. lb_235.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_235.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_376
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_376.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_376.png
+     Extensión: .png
+  2. lb_376.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_376.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_97
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_97.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_97.png
+     Extensión: .png
+  2. lb_97.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_97.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_229
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_229.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_229.jpg
+     Extensión: .jpg
+  2. lb_229.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_229.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_371
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_371.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_371.jpg
+     Extensión: .jpg
+  2. lb_371.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_371.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_244
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_244.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_244.jpg
+     Extensión: .jpg
+  2. lb_244.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_244.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_218
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_218.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_218.jpg
+     Extensión: .jpg
+  2. lb_218.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_218.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_392
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_392.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_392.png
+     Extensión: .png
+  2. lb_392.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_392.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_262
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_262.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_262.png
+     Extensión: .png
+  2. lb_262.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_262.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_400
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_400.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_400.png
+     Extensión: .png
+  2. lb_400.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_400.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_378
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_378.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_378.jpg
+     Extensión: .jpg
+  2. lb_378.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_378.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_125
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_125.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_125.png
+     Extensión: .png
+  2. lb_125.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_125.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_369
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_369.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_369.jpg
+     Extensión: .jpg
+  2. lb_369.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_369.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_409
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_409.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_409.png
+     Extensión: .png
+  2. lb_409.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_409.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_361
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_361.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_361.png
+     Extensión: .png
+  2. lb_361.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_361.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_39
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_39.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_39.png
+     Extensión: .png
+  2. lb_39.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_39.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_365
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_365.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_365.jpg
+     Extensión: .jpg
+  2. lb_365.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_365.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_374
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_374.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_374.png
+     Extensión: .png
+  2. lb_374.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_374.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_356
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_356.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_356.jpg
+     Extensión: .jpg
+  2. lb_356.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_356.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_253
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_253.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_253.jpg
+     Extensión: .jpg
+  2. lb_253.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_253.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_223
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_223.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_223.png
+     Extensión: .png
+  2. lb_223.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_223.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_350
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_350.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_350.jpg
+     Extensión: .jpg
+  2. lb_350.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_350.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_6
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_6.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_6.jpg
+     Extensión: .jpg
+  2. lb_6.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_6.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_395
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_395.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_395.jpg
+     Extensión: .jpg
+  2. lb_395.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_395.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_396
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_396.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_396.png
+     Extensión: .png
+  2. lb_396.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_396.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_36
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_36.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_36.png
+     Extensión: .png
+  2. lb_36.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_36.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_256
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_256.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_256.png
+     Extensión: .png
+  2. lb_256.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_256.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_21
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_21.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_21.jpg
+     Extensión: .jpg
+  2. lb_21.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_21.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_372
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_372.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_372.png
+     Extensión: .png
+  2. lb_372.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_372.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_35
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_35.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_35.jpg
+     Extensión: .jpg
+  2. lb_35.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_35.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_363
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_363.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_363.png
+     Extensión: .png
+  2. lb_363.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_363.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_254
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_254.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_254.png
+     Extensión: .png
+  2. lb_254.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_254.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_250
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_250.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_250.png
+     Extensión: .png
+  2. lb_250.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_250.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_404
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_404.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_404.jpg
+     Extensión: .jpg
+  2. lb_404.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_404.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_366
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_366.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_366.jpg
+     Extensión: .jpg
+  2. lb_366.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_366.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_246
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_246.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_246.png
+     Extensión: .png
+  2. lb_246.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_246.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_266
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_266.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_266.png
+     Extensión: .png
+  2. lb_266.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_266.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_390
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_390.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_390.jpg
+     Extensión: .jpg
+  2. lb_390.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_390.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_274
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_274.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_274.png
+     Extensión: .png
+  2. lb_274.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_274.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_263
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_263.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_263.jpg
+     Extensión: .jpg
+  2. lb_263.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_263.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_271
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_271.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_271.png
+     Extensión: .png
+  2. lb_271.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_271.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_157
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_157.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_157.png
+     Extensión: .png
+  2. lb_157.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_157.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_354
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_354.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_354.jpg
+     Extensión: .jpg
+  2. lb_354.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_354.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_377
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_377.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_377.jpg
+     Extensión: .jpg
+  2. lb_377.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_377.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_348
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_348.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_348.png
+     Extensión: .png
+  2. lb_348.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_348.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_362
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_362.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_362.png
+     Extensión: .png
+  2. lb_362.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_362.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_45
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_45.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_45.jpg
+     Extensión: .jpg
+  2. lb_45.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_45.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_293
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_293.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_293.jpg
+     Extensión: .jpg
+  2. lb_293.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_293.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_317
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_317.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_317.jpg
+     Extensión: .jpg
+  2. lb_317.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_317.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_14
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_14.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_14.jpg
+     Extensión: .jpg
+  2. lb_14.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_14.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_243
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_243.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_243.jpg
+     Extensión: .jpg
+  2. lb_243.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_243.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_245
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_245.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_245.png
+     Extensión: .png
+  2. lb_245.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_245.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_389
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_389.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_389.png
+     Extensión: .png
+  2. lb_389.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_389.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_15
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_15.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/late_blight/lb_15.png
+     Extensión: .png
+  2. lb_15.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_15.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: images
+Cantidad de archivos: 5
+Archivos encontrados:
+  1. images.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/tomato_mosaic_virus/images.jpg
+     Extensión: .jpg
+  2. images.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/leaf_mold/images.jpg
+     Extensión: .jpg
+  3. images.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/septoria_leaf_spot/images.jpg
+     Extensión: .jpg
+  4. images.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/early_blight/images.jpg
+     Extensión: .jpg
+  5. images.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/images.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: images_2
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. images_2.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/septoria_leaf_spot/images_2.jpg
+     Extensión: .jpg
+  2. images_2.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/early_blight/images_2.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: images_1
+Cantidad de archivos: 3
+Archivos encontrados:
+  1. images_1.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/septoria_leaf_spot/images_1.jpg
+     Extensión: .jpg
+  2. images_1.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/early_blight/images_1.jpg
+     Extensión: .jpg
+  3. images_1.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/images_1.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: septoria_leaf_spot_1
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. septoria_leaf_spot_1.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/septoria_leaf_spot/septoria_leaf_spot_1.jpg
+     Extensión: .jpg
+  2. septoria_leaf_spot_1.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/septoria_leaf_spot_1.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_62
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_62.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_62.jpg
+     Extensión: .jpg
+  2. hl_62.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_62.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_124
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_124.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_124.png
+     Extensión: .png
+  2. hl_124.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_124.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_1
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_1.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_1.jpg
+     Extensión: .jpg
+  2. hl_1.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_1.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_165
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_165.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_165.jpg
+     Extensión: .jpg
+  2. hl_165.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_165.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_332
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_332.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_332.png
+     Extensión: .png
+  2. hl_332.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_332.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_183
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_183.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_183.png
+     Extensión: .png
+  2. hl_183.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_183.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_22
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_22.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_22.png
+     Extensión: .png
+  2. hl_22.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_22.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_54
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_54.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_54.jpg
+     Extensión: .jpg
+  2. hl_54.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_54.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_384
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_384.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_384.jpg
+     Extensión: .jpg
+  2. hl_384.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_384.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_74
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_74.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_74.png
+     Extensión: .png
+  2. hl_74.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_74.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_86
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_86.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_86.jpg
+     Extensión: .jpg
+  2. hl_86.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_86.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_283
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_283.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_283.jpg
+     Extensión: .jpg
+  2. hl_283.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_283.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_351
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_351.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_351.jpg
+     Extensión: .jpg
+  2. hl_351.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_351.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_114
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_114.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_114.jpg
+     Extensión: .jpg
+  2. hl_114.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_114.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_87
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_87.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_87.jpg
+     Extensión: .jpg
+  2. hl_87.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_87.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_88
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_88.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_88.png
+     Extensión: .png
+  2. hl_88.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_88.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_173
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_173.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_173.jpg
+     Extensión: .jpg
+  2. hl_173.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_173.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_109
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_109.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_109.png
+     Extensión: .png
+  2. hl_109.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_109.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_130
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_130.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_130.png
+     Extensión: .png
+  2. hl_130.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_130.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_140
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_140.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_140.png
+     Extensión: .png
+  2. hl_140.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_140.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_90
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_90.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_90.jpg
+     Extensión: .jpg
+  2. hl_90.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_90.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_134
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_134.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_134.jpg
+     Extensión: .jpg
+  2. hl_134.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_134.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_133
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_133.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_133.png
+     Extensión: .png
+  2. hl_133.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_133.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_346
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_346.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_346.png
+     Extensión: .png
+  2. hl_346.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_346.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_278
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_278.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_278.jpg
+     Extensión: .jpg
+  2. hl_278.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_278.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_6
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_6.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_6.jpg
+     Extensión: .jpg
+  2. hl_6.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_6.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_152
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_152.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_152.jpg
+     Extensión: .jpg
+  2. hl_152.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_152.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_148
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_148.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_148.jpg
+     Extensión: .jpg
+  2. hl_148.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_148.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_15
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_15.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_15.jpg
+     Extensión: .jpg
+  2. hl_15.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_15.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_44
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_44.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_44.jpg
+     Extensión: .jpg
+  2. hl_44.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_44.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_408
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_408.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_408.jpg
+     Extensión: .jpg
+  2. hl_408.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_408.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_67
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_67.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_67.jpg
+     Extensión: .jpg
+  2. hl_67.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_67.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_34
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_34.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_34.png
+     Extensión: .png
+  2. hl_34.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_34.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_68
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_68.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_68.png
+     Extensión: .png
+  2. hl_68.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_68.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_161
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_161.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_161.png
+     Extensión: .png
+  2. hl_161.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_161.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_61
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_61.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_61.png
+     Extensión: .png
+  2. hl_61.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_61.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_129
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_129.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_129.png
+     Extensión: .png
+  2. hl_129.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_129.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_118
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_118.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_118.png
+     Extensión: .png
+  2. hl_118.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_118.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_132
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_132.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_132.jpg
+     Extensión: .jpg
+  2. hl_132.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_132.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_330
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_330.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_330.png
+     Extensión: .png
+  2. hl_330.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_330.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_46
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_46.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_46.png
+     Extensión: .png
+  2. hl_46.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_46.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_117
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_117.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_117.png
+     Extensión: .png
+  2. hl_117.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_117.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_356
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_356.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_356.png
+     Extensión: .png
+  2. hl_356.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_356.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_70
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_70.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_70.png
+     Extensión: .png
+  2. hl_70.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_70.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_119
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_119.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_119.png
+     Extensión: .png
+  2. hl_119.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_119.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_91
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_91.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_91.png
+     Extensión: .png
+  2. hl_91.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_91.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_50
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_50.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_50.jpg
+     Extensión: .jpg
+  2. hl_50.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_50.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_138
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_138.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_138.jpg
+     Extensión: .jpg
+  2. hl_138.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_138.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_19
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_19.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_19.png
+     Extensión: .png
+  2. hl_19.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_19.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_163
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_163.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_163.png
+     Extensión: .png
+  2. hl_163.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_163.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_349
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_349.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_349.jpg
+     Extensión: .jpg
+  2. hl_349.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_349.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_192
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_192.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_192.png
+     Extensión: .png
+  2. hl_192.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_192.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_116
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_116.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_116.jpg
+     Extensión: .jpg
+  2. hl_116.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_116.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_79
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_79.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_79.png
+     Extensión: .png
+  2. hl_79.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_79.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_3
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_3.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_3.png
+     Extensión: .png
+  2. hl_3.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_3.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_32
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_32.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_32.jpg
+     Extensión: .jpg
+  2. hl_32.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_32.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_181
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_181.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_181.png
+     Extensión: .png
+  2. hl_181.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_181.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_95
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_95.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_95.png
+     Extensión: .png
+  2. hl_95.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_95.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_27
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_27.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_27.png
+     Extensión: .png
+  2. hl_27.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_27.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_64
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_64.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_64.png
+     Extensión: .png
+  2. hl_64.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_64.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_45
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_45.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_45.png
+     Extensión: .png
+  2. hl_45.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_45.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_407
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_407.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_407.png
+     Extensión: .png
+  2. hl_407.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_407.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_69
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_69.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_69.jpg
+     Extensión: .jpg
+  2. hl_69.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_69.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_335
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_335.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_335.jpg
+     Extensión: .jpg
+  2. hl_335.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_335.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_29
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_29.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_29.jpg
+     Extensión: .jpg
+  2. hl_29.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_29.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_131
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_131.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_131.jpg
+     Extensión: .jpg
+  2. hl_131.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_131.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_127
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_127.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_127.jpg
+     Extensión: .jpg
+  2. hl_127.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_127.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_40
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_40.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_40.jpg
+     Extensión: .jpg
+  2. hl_40.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_40.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_363
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_363.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_363.jpg
+     Extensión: .jpg
+  2. hl_363.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_363.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_82
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_82.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_82.jpg
+     Extensión: .jpg
+  2. hl_82.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_82.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_159
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_159.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_159.png
+     Extensión: .png
+  2. hl_159.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_159.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_364
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_364.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_364.png
+     Extensión: .png
+  2. hl_364.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_364.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_125
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_125.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_125.jpg
+     Extensión: .jpg
+  2. hl_125.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_125.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_51
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_51.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_51.png
+     Extensión: .png
+  2. hl_51.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_51.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_93
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_93.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_93.png
+     Extensión: .png
+  2. hl_93.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_93.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_176
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_176.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_176.png
+     Extensión: .png
+  2. hl_176.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_176.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_77
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_77.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_77.jpg
+     Extensión: .jpg
+  2. hl_77.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_77.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_10
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_10.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_10.jpg
+     Extensión: .jpg
+  2. hl_10.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_10.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_126
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_126.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_126.png
+     Extensión: .png
+  2. hl_126.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_126.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_5
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_5.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_5.jpg
+     Extensión: .jpg
+  2. hl_5.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_5.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_71
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_71.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_71.jpg
+     Extensión: .jpg
+  2. hl_71.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_71.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_60
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_60.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_60.jpg
+     Extensión: .jpg
+  2. hl_60.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_60.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_105
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_105.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_105.png
+     Extensión: .png
+  2. hl_105.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_105.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_36
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_36.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_36.jpg
+     Extensión: .jpg
+  2. hl_36.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_36.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_8
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_8.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_8.jpg
+     Extensión: .jpg
+  2. hl_8.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_8.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_30
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_30.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_30.png
+     Extensión: .png
+  2. hl_30.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_30.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_89
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_89.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_89.jpg
+     Extensión: .jpg
+  2. hl_89.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_89.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_58
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_58.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_58.png
+     Extensión: .png
+  2. hl_58.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_58.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_52
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_52.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_52.png
+     Extensión: .png
+  2. hl_52.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_52.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_55
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_55.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_55.png
+     Extensión: .png
+  2. hl_55.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_55.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_128
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_128.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_128.jpg
+     Extensión: .jpg
+  2. hl_128.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_128.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_33
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_33.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_33.png
+     Extensión: .png
+  2. hl_33.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_33.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_153
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_153.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_153.jpg
+     Extensión: .jpg
+  2. hl_153.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_153.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_145
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_145.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_145.jpg
+     Extensión: .jpg
+  2. hl_145.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_145.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_120
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_120.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_120.png
+     Extensión: .png
+  2. hl_120.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_120.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_63
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_63.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_63.jpg
+     Extensión: .jpg
+  2. hl_63.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_63.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_47
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_47.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_47.png
+     Extensión: .png
+  2. hl_47.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_47.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_123
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_123.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_123.png
+     Extensión: .png
+  2. hl_123.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_123.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_76
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_76.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_76.png
+     Extensión: .png
+  2. hl_76.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_76.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_164
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_164.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_164.png
+     Extensión: .png
+  2. hl_164.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_164.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_26
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_26.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_26.png
+     Extensión: .png
+  2. hl_26.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_26.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_147
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_147.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_147.jpg
+     Extensión: .jpg
+  2. hl_147.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_147.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_343
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_343.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_343.png
+     Extensión: .png
+  2. hl_343.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_343.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_111
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_111.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_111.png
+     Extensión: .png
+  2. hl_111.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_111.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_100
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_100.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_100.png
+     Extensión: .png
+  2. hl_100.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_100.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_97
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_97.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_97.jpg
+     Extensión: .jpg
+  2. hl_97.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_97.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_337
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_337.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_337.png
+     Extensión: .png
+  2. hl_337.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_337.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_43
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_43.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_43.jpg
+     Extensión: .jpg
+  2. hl_43.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_43.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_158
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_158.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_158.jpg
+     Extensión: .jpg
+  2. hl_158.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_158.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_383
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_383.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_383.jpg
+     Extensión: .jpg
+  2. hl_383.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_383.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_78
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_78.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_78.jpg
+     Extensión: .jpg
+  2. hl_78.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_78.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_57
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_57.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_57.jpg
+     Extensión: .jpg
+  2. hl_57.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_57.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_80
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_80.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_80.png
+     Extensión: .png
+  2. hl_80.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_80.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_106
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_106.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_106.jpg
+     Extensión: .jpg
+  2. hl_106.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_106.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_23
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_23.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_23.jpg
+     Extensión: .jpg
+  2. hl_23.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_23.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_137
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_137.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_137.jpg
+     Extensión: .jpg
+  2. hl_137.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_137.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_150
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_150.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_150.png
+     Extensión: .png
+  2. hl_150.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_150.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_103
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_103.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_103.jpg
+     Extensión: .jpg
+  2. hl_103.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_103.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_7
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_7.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_7.png
+     Extensión: .png
+  2. hl_7.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_7.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_167
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_167.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_167.jpg
+     Extensión: .jpg
+  2. hl_167.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_167.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_272
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_272.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_272.png
+     Extensión: .png
+  2. hl_272.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_272.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_102
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_102.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_102.jpg
+     Extensión: .jpg
+  2. hl_102.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_102.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_75
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_75.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_75.jpg
+     Extensión: .jpg
+  2. hl_75.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_75.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_17
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_17.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_17.png
+     Extensión: .png
+  2. hl_17.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_17.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_101
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_101.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_101.jpg
+     Extensión: .jpg
+  2. hl_101.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_101.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_98
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_98.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_98.png
+     Extensión: .png
+  2. hl_98.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_98.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_154
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_154.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_154.jpg
+     Extensión: .jpg
+  2. hl_154.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_154.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_83
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_83.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_83.jpg
+     Extensión: .jpg
+  2. hl_83.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_83.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_110
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_110.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_110.jpg
+     Extensión: .jpg
+  2. hl_110.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_110.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_115
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_115.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_115.png
+     Extensión: .png
+  2. hl_115.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_115.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_146
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_146.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_146.jpg
+     Extensión: .jpg
+  2. hl_146.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_146.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_144
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_144.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_144.png
+     Extensión: .png
+  2. hl_144.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_144.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_259
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_259.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_259.png
+     Extensión: .png
+  2. hl_259.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_259.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_99
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_99.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_99.png
+     Extensión: .png
+  2. hl_99.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_99.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_84
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_84.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_84.png
+     Extensión: .png
+  2. hl_84.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_84.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_94
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_94.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_94.jpg
+     Extensión: .jpg
+  2. hl_94.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_94.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_338
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_338.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_338.jpg
+     Extensión: .jpg
+  2. hl_338.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_338.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_177
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_177.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_177.png
+     Extensión: .png
+  2. hl_177.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_177.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_166
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_166.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_166.png
+     Extensión: .png
+  2. hl_166.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_166.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_13
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_13.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_13.jpg
+     Extensión: .jpg
+  2. hl_13.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_13.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_72
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_72.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_72.jpg
+     Extensión: .jpg
+  2. hl_72.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_72.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_18
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_18.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_18.png
+     Extensión: .png
+  2. hl_18.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_18.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_107
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_107.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_107.png
+     Extensión: .png
+  2. hl_107.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_107.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_92
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_92.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_92.jpg
+     Extensión: .jpg
+  2. hl_92.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_92.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_65
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_65.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_65.jpg
+     Extensión: .jpg
+  2. hl_65.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_65.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_180
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_180.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_180.jpg
+     Extensión: .jpg
+  2. hl_180.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_180.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_142
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_142.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_142.png
+     Extensión: .png
+  2. hl_142.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_142.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_2
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_2.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_2.png
+     Extensión: .png
+  2. hl_2.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_2.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_156
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_156.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_156.png
+     Extensión: .png
+  2. hl_156.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_156.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_136
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_136.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_136.png
+     Extensión: .png
+  2. hl_136.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_136.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_143
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_143.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_143.png
+     Extensión: .png
+  2. hl_143.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_143.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_188
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_188.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_188.png
+     Extensión: .png
+  2. hl_188.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_188.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_38
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_38.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_38.png
+     Extensión: .png
+  2. hl_38.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_38.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_66
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_66.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_66.png
+     Extensión: .png
+  2. hl_66.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_66.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_31
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_31.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_31.png
+     Extensión: .png
+  2. hl_31.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_31.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_139
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_139.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_139.jpg
+     Extensión: .jpg
+  2. hl_139.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_139.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_121
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_121.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_121.jpg
+     Extensión: .jpg
+  2. hl_121.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_121.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_49
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_49.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_49.jpg
+     Extensión: .jpg
+  2. hl_49.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_49.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_48
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_48.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_48.jpg
+     Extensión: .jpg
+  2. hl_48.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_48.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_104
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_104.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_104.jpg
+     Extensión: .jpg
+  2. hl_104.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_104.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_113
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_113.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_113.jpg
+     Extensión: .jpg
+  2. hl_113.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_113.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_135
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_135.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_135.png
+     Extensión: .png
+  2. hl_135.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_135.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_108
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_108.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_108.jpg
+     Extensión: .jpg
+  2. hl_108.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_108.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_160
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_160.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_160.png
+     Extensión: .png
+  2. hl_160.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_160.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_273
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_273.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_273.png
+     Extensión: .png
+  2. hl_273.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_273.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_16
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_16.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_16.jpg
+     Extensión: .jpg
+  2. hl_16.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_16.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_21
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_21.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_21.png
+     Extensión: .png
+  2. hl_21.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_21.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_112
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_112.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_112.jpg
+     Extensión: .jpg
+  2. hl_112.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_112.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_149
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_149.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_149.png
+     Extensión: .png
+  2. hl_149.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_149.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_96
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_96.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_96.jpg
+     Extensión: .jpg
+  2. hl_96.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_96.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_41
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_41.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_41.png
+     Extensión: .png
+  2. hl_41.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_41.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_385
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_385.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_385.png
+     Extensión: .png
+  2. hl_385.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_385.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_122
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_122.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_122.png
+     Extensión: .png
+  2. hl_122.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_122.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_157
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_157.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/healthy/hl_157.jpg
+     Extensión: .jpg
+  2. hl_157.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_157.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_240
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_240.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_240.jpg
+     Extensión: .jpg
+  2. lb_240.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_240.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_248
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_248.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_248.jpg
+     Extensión: .jpg
+  2. lb_248.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_248.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_233
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_233.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_233.jpg
+     Extensión: .jpg
+  2. lb_233.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_233.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_220
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_220.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_220.jpg
+     Extensión: .jpg
+  2. lb_220.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_220.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_401
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_401.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_401.png
+     Extensión: .png
+  2. lb_401.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_401.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_358
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_358.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_358.png
+     Extensión: .png
+  2. lb_358.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_358.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_3
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_3.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_3.jpg
+     Extensión: .jpg
+  2. lb_3.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_3.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_352
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_352.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_352.jpg
+     Extensión: .jpg
+  2. lb_352.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_352.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: lb_388
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_388.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_388.png
+     Extensión: .png
+  2. lb_388.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_388.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: lb_275
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. lb_275.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_275.png
+     Extensión: .png
+  2. lb_275.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/late_blight/lb_275.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: unnamed_2
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. unnamed_2.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/tomato_mosaic_virus/unnamed_2.jpg
+     Extensión: .jpg
+  2. unnamed_2.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/unnamed_2.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: image
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. image.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/septoria_leaf_spot/image.jpg
+     Extensión: .jpg
+  2. image.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/early_blight/image.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_56
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_56.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_56.jpg
+     Extensión: .jpg
+  2. hl_56.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_56.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_37
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_37.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_37.png
+     Extensión: .png
+  2. hl_37.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_37.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_155
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_155.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_155.png
+     Extensión: .png
+  2. hl_155.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_155.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_59
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_59.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_59.png
+     Extensión: .png
+  2. hl_59.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_59.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_358
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_358.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_358.png
+     Extensión: .png
+  2. hl_358.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_358.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_85
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_85.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_85.png
+     Extensión: .png
+  2. hl_85.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_85.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_151
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_151.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_151.jpg
+     Extensión: .jpg
+  2. hl_151.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_151.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_28
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_28.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_28.jpg
+     Extensión: .jpg
+  2. hl_28.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_28.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_4
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_4.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_4.png
+     Extensión: .png
+  2. hl_4.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_4.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_141
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_141.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_141.png
+     Extensión: .png
+  2. hl_141.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_141.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_20
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_20.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_20.jpg
+     Extensión: .jpg
+  2. hl_20.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_20.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_25
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_25.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_25.jpg
+     Extensión: .jpg
+  2. hl_25.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_25.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_81
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_81.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_81.png
+     Extensión: .png
+  2. hl_81.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_81.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_162
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_162.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_162.jpg
+     Extensión: .jpg
+  2. hl_162.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_162.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_274
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_274.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_274.png
+     Extensión: .png
+  2. hl_274.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_274.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_24
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_24.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_24.jpg
+     Extensión: .jpg
+  2. hl_24.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_24.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_39
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_39.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_39.jpg
+     Extensión: .jpg
+  2. hl_39.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_39.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_169
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_169.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_169.jpg
+     Extensión: .jpg
+  2. hl_169.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_169.png
+     Extensión: .png
+----------------------------------------
+
+Nombre base: hl_73
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_73.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_73.png
+     Extensión: .png
+  2. hl_73.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_73.jpg
+     Extensión: .jpg
+----------------------------------------
+
+Nombre base: hl_354
+Cantidad de archivos: 2
+Archivos encontrados:
+  1. hl_354.png
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_354.png
+     Extensión: .png
+  2. hl_354.jpg
+     Ruta: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/healthy/hl_354.jpg
+     Extensión: .jpg
+----------------------------------------
+
+ESTADÍSTICAS:
+--------------------
+Total de archivos analizados: 32534
+
+RESUMEN DE DUPLICADOS:
+- unnamed: 5 archivos ['.jpg', '.jpg', '.jpg', '.jpg', '.jpg']
+- septoria_leafspot: 2 archivos ['.jpg', '.jpg']
+- unnamed_1: 3 archivos ['.jpg', '.jpg', '.jpg']
+- lb_269: 2 archivos ['.png', '.jpg']
+- lb_264: 2 archivos ['.png', '.jpg']
+- lb_383: 2 archivos ['.jpg', '.png']
+- lb_231: 2 archivos ['.png', '.jpg']
+- lb_360: 2 archivos ['.png', '.jpg']
+- lb_258: 2 archivos ['.jpg', '.png']
+- lb_381: 2 archivos ['.png', '.jpg']
+- lb_364: 2 archivos ['.png', '.jpg']
+- lb_261: 2 archivos ['.jpg', '.png']
+- lb_216: 2 archivos ['.jpg', '.png']
+- lb_351: 2 archivos ['.png', '.jpg']
+- lb_98: 2 archivos ['.jpg', '.png']
+- lb_48: 2 archivos ['.png', '.jpg']
+- lb_407: 2 archivos ['.jpg', '.png']
+- lb_234: 2 archivos ['.png', '.jpg']
+- lb_221: 2 archivos ['.png', '.jpg']
+- lb_402: 2 archivos ['.png', '.jpg']
+- lb_399: 2 archivos ['.jpg', '.png']
+- lb_227: 2 archivos ['.png', '.jpg']
+- lb_230: 2 archivos ['.jpg', '.png']
+- lb_260: 2 archivos ['.png', '.jpg']
+- lb_99: 2 archivos ['.jpg', '.png']
+- lb_242: 2 archivos ['.jpg', '.png']
+- lb_219: 2 archivos ['.png', '.jpg']
+- lb_236: 2 archivos ['.jpg', '.png']
+- lb_386: 2 archivos ['.png', '.jpg']
+- lb_259: 2 archivos ['.png', '.jpg']
+- lb_380: 2 archivos ['.png', '.jpg']
+- lb_226: 2 archivos ['.png', '.jpg']
+- lb_267: 2 archivos ['.jpg', '.png']
+- lb_232: 2 archivos ['.png', '.jpg']
+- lb_268: 2 archivos ['.png', '.jpg']
+- lb_272: 2 archivos ['.png', '.jpg']
+- lb_252: 2 archivos ['.png', '.jpg']
+- lb_387: 2 archivos ['.png', '.jpg']
+- lb_370: 2 archivos ['.jpg', '.png']
+- lb_239: 2 archivos ['.png', '.jpg']
+- lb_273: 2 archivos ['.jpg', '.png']
+- lb_373: 2 archivos ['.jpg', '.png']
+- lb_355: 2 archivos ['.png', '.jpg']
+- lb_241: 2 archivos ['.jpg', '.png']
+- lb_11: 2 archivos ['.png', '.jpg']
+- lb_237: 2 archivos ['.png', '.jpg']
+- lb_5: 2 archivos ['.png', '.jpg']
+- lb_349: 2 archivos ['.jpg', '.png']
+- lb_249: 2 archivos ['.png', '.jpg']
+- lb_405: 2 archivos ['.png', '.jpg']
+- lb_257: 2 archivos ['.png', '.jpg']
+- lb_255: 2 archivos ['.jpg', '.png']
+- lb_270: 2 archivos ['.jpg', '.png']
+- lb_347: 2 archivos ['.jpg', '.png']
+- lb_353: 2 archivos ['.jpg', '.png']
+- lb_384: 2 archivos ['.png', '.jpg']
+- lb_294: 2 archivos ['.jpg', '.png']
+- lb_318: 2 archivos ['.jpg', '.png']
+- lb_4: 2 archivos ['.png', '.jpg']
+- lb_277: 2 archivos ['.jpg', '.png']
+- lb_375: 2 archivos ['.jpg', '.png']
+- lb_379: 2 archivos ['.png', '.jpg']
+- lb_276: 2 archivos ['.jpg', '.png']
+- lb_385: 2 archivos ['.jpg', '.png']
+- lb_357: 2 archivos ['.png', '.jpg']
+- lb_367: 2 archivos ['.png', '.jpg']
+- lb_228: 2 archivos ['.png', '.jpg']
+- lb_278: 2 archivos ['.jpg', '.png']
+- lb_406: 2 archivos ['.jpg', '.png']
+- lb_368: 2 archivos ['.jpg', '.png']
+- lb_394: 2 archivos ['.jpg', '.png']
+- lb_411: 2 archivos ['.png', '.jpg']
+- lb_217: 2 archivos ['.png', '.jpg']
+- lb_393: 2 archivos ['.png', '.jpg']
+- lb_398: 2 archivos ['.png', '.jpg']
+- lb_251: 2 archivos ['.jpg', '.png']
+- lb_224: 2 archivos ['.png', '.jpg']
+- lb_37: 2 archivos ['.jpg', '.png']
+- lb_238: 2 archivos ['.png', '.jpg']
+- lb_403: 2 archivos ['.png', '.jpg']
+- lb_12: 2 archivos ['.png', '.jpg']
+- lb_265: 2 archivos ['.png', '.jpg']
+- lb_359: 2 archivos ['.png', '.jpg']
+- lb_225: 2 archivos ['.png', '.jpg']
+- lb_391: 2 archivos ['.jpg', '.png']
+- lb_247: 2 archivos ['.png', '.jpg']
+- lb_222: 2 archivos ['.png', '.jpg']
+- lb_382: 2 archivos ['.png', '.jpg']
+- lb_397: 2 archivos ['.png', '.jpg']
+- lb_235: 2 archivos ['.jpg', '.png']
+- lb_376: 2 archivos ['.png', '.jpg']
+- lb_97: 2 archivos ['.png', '.jpg']
+- lb_229: 2 archivos ['.jpg', '.png']
+- lb_371: 2 archivos ['.jpg', '.png']
+- lb_244: 2 archivos ['.jpg', '.png']
+- lb_218: 2 archivos ['.jpg', '.png']
+- lb_392: 2 archivos ['.png', '.jpg']
+- lb_262: 2 archivos ['.png', '.jpg']
+- lb_400: 2 archivos ['.png', '.jpg']
+- lb_378: 2 archivos ['.jpg', '.png']
+- lb_125: 2 archivos ['.png', '.jpg']
+- lb_369: 2 archivos ['.jpg', '.png']
+- lb_409: 2 archivos ['.png', '.jpg']
+- lb_361: 2 archivos ['.png', '.jpg']
+- lb_39: 2 archivos ['.png', '.jpg']
+- lb_365: 2 archivos ['.jpg', '.png']
+- lb_374: 2 archivos ['.png', '.jpg']
+- lb_356: 2 archivos ['.jpg', '.png']
+- lb_253: 2 archivos ['.jpg', '.png']
+- lb_223: 2 archivos ['.png', '.jpg']
+- lb_350: 2 archivos ['.jpg', '.png']
+- lb_6: 2 archivos ['.jpg', '.png']
+- lb_395: 2 archivos ['.jpg', '.png']
+- lb_396: 2 archivos ['.png', '.jpg']
+- lb_36: 2 archivos ['.png', '.jpg']
+- lb_256: 2 archivos ['.png', '.jpg']
+- lb_21: 2 archivos ['.jpg', '.png']
+- lb_372: 2 archivos ['.png', '.jpg']
+- lb_35: 2 archivos ['.jpg', '.png']
+- lb_363: 2 archivos ['.png', '.jpg']
+- lb_254: 2 archivos ['.png', '.jpg']
+- lb_250: 2 archivos ['.png', '.jpg']
+- lb_404: 2 archivos ['.jpg', '.png']
+- lb_366: 2 archivos ['.jpg', '.png']
+- lb_246: 2 archivos ['.png', '.jpg']
+- lb_266: 2 archivos ['.png', '.jpg']
+- lb_390: 2 archivos ['.jpg', '.png']
+- lb_274: 2 archivos ['.png', '.jpg']
+- lb_263: 2 archivos ['.jpg', '.png']
+- lb_271: 2 archivos ['.png', '.jpg']
+- lb_157: 2 archivos ['.png', '.jpg']
+- lb_354: 2 archivos ['.jpg', '.png']
+- lb_377: 2 archivos ['.jpg', '.png']
+- lb_348: 2 archivos ['.png', '.jpg']
+- lb_362: 2 archivos ['.png', '.jpg']
+- lb_45: 2 archivos ['.jpg', '.png']
+- lb_293: 2 archivos ['.jpg', '.png']
+- lb_317: 2 archivos ['.jpg', '.png']
+- lb_14: 2 archivos ['.jpg', '.png']
+- lb_243: 2 archivos ['.jpg', '.png']
+- lb_245: 2 archivos ['.png', '.jpg']
+- lb_389: 2 archivos ['.png', '.jpg']
+- lb_15: 2 archivos ['.png', '.jpg']
+- images: 5 archivos ['.jpg', '.jpg', '.jpg', '.jpg', '.jpg']
+- images_2: 2 archivos ['.jpg', '.jpg']
+- images_1: 3 archivos ['.jpg', '.jpg', '.jpg']
+- septoria_leaf_spot_1: 2 archivos ['.jpg', '.jpg']
+- hl_62: 2 archivos ['.jpg', '.png']
+- hl_124: 2 archivos ['.png', '.jpg']
+- hl_1: 2 archivos ['.jpg', '.png']
+- hl_165: 2 archivos ['.jpg', '.png']
+- hl_332: 2 archivos ['.png', '.jpg']
+- hl_183: 2 archivos ['.png', '.jpg']
+- hl_22: 2 archivos ['.png', '.jpg']
+- hl_54: 2 archivos ['.jpg', '.png']
+- hl_384: 2 archivos ['.jpg', '.png']
+- hl_74: 2 archivos ['.png', '.jpg']
+- hl_86: 2 archivos ['.jpg', '.png']
+- hl_283: 2 archivos ['.jpg', '.png']
+- hl_351: 2 archivos ['.jpg', '.png']
+- hl_114: 2 archivos ['.jpg', '.png']
+- hl_87: 2 archivos ['.jpg', '.png']
+- hl_88: 2 archivos ['.png', '.jpg']
+- hl_173: 2 archivos ['.jpg', '.png']
+- hl_109: 2 archivos ['.png', '.jpg']
+- hl_130: 2 archivos ['.png', '.jpg']
+- hl_140: 2 archivos ['.png', '.jpg']
+- hl_90: 2 archivos ['.jpg', '.png']
+- hl_134: 2 archivos ['.jpg', '.png']
+- hl_133: 2 archivos ['.png', '.jpg']
+- hl_346: 2 archivos ['.png', '.jpg']
+- hl_278: 2 archivos ['.jpg', '.png']
+- hl_6: 2 archivos ['.jpg', '.png']
+- hl_152: 2 archivos ['.jpg', '.png']
+- hl_148: 2 archivos ['.jpg', '.png']
+- hl_15: 2 archivos ['.jpg', '.png']
+- hl_44: 2 archivos ['.jpg', '.png']
+- hl_408: 2 archivos ['.jpg', '.png']
+- hl_67: 2 archivos ['.jpg', '.png']
+- hl_34: 2 archivos ['.png', '.jpg']
+- hl_68: 2 archivos ['.png', '.jpg']
+- hl_161: 2 archivos ['.png', '.jpg']
+- hl_61: 2 archivos ['.png', '.jpg']
+- hl_129: 2 archivos ['.png', '.jpg']
+- hl_118: 2 archivos ['.png', '.jpg']
+- hl_132: 2 archivos ['.jpg', '.png']
+- hl_330: 2 archivos ['.png', '.jpg']
+- hl_46: 2 archivos ['.png', '.jpg']
+- hl_117: 2 archivos ['.png', '.jpg']
+- hl_356: 2 archivos ['.png', '.jpg']
+- hl_70: 2 archivos ['.png', '.jpg']
+- hl_119: 2 archivos ['.png', '.jpg']
+- hl_91: 2 archivos ['.png', '.jpg']
+- hl_50: 2 archivos ['.jpg', '.png']
+- hl_138: 2 archivos ['.jpg', '.png']
+- hl_19: 2 archivos ['.png', '.jpg']
+- hl_163: 2 archivos ['.png', '.jpg']
+- hl_349: 2 archivos ['.jpg', '.png']
+- hl_192: 2 archivos ['.png', '.jpg']
+- hl_116: 2 archivos ['.jpg', '.png']
+- hl_79: 2 archivos ['.png', '.jpg']
+- hl_3: 2 archivos ['.png', '.jpg']
+- hl_32: 2 archivos ['.jpg', '.png']
+- hl_181: 2 archivos ['.png', '.jpg']
+- hl_95: 2 archivos ['.png', '.jpg']
+- hl_27: 2 archivos ['.png', '.jpg']
+- hl_64: 2 archivos ['.png', '.jpg']
+- hl_45: 2 archivos ['.png', '.jpg']
+- hl_407: 2 archivos ['.png', '.jpg']
+- hl_69: 2 archivos ['.jpg', '.png']
+- hl_335: 2 archivos ['.jpg', '.png']
+- hl_29: 2 archivos ['.jpg', '.png']
+- hl_131: 2 archivos ['.jpg', '.png']
+- hl_127: 2 archivos ['.jpg', '.png']
+- hl_40: 2 archivos ['.jpg', '.png']
+- hl_363: 2 archivos ['.jpg', '.png']
+- hl_82: 2 archivos ['.jpg', '.png']
+- hl_159: 2 archivos ['.png', '.jpg']
+- hl_364: 2 archivos ['.png', '.jpg']
+- hl_125: 2 archivos ['.jpg', '.png']
+- hl_51: 2 archivos ['.png', '.jpg']
+- hl_93: 2 archivos ['.png', '.jpg']
+- hl_176: 2 archivos ['.png', '.jpg']
+- hl_77: 2 archivos ['.jpg', '.png']
+- hl_10: 2 archivos ['.jpg', '.png']
+- hl_126: 2 archivos ['.png', '.jpg']
+- hl_5: 2 archivos ['.jpg', '.png']
+- hl_71: 2 archivos ['.jpg', '.png']
+- hl_60: 2 archivos ['.jpg', '.png']
+- hl_105: 2 archivos ['.png', '.jpg']
+- hl_36: 2 archivos ['.jpg', '.png']
+- hl_8: 2 archivos ['.jpg', '.png']
+- hl_30: 2 archivos ['.png', '.jpg']
+- hl_89: 2 archivos ['.jpg', '.png']
+- hl_58: 2 archivos ['.png', '.jpg']
+- hl_52: 2 archivos ['.png', '.jpg']
+- hl_55: 2 archivos ['.png', '.jpg']
+- hl_128: 2 archivos ['.jpg', '.png']
+- hl_33: 2 archivos ['.png', '.jpg']
+- hl_153: 2 archivos ['.jpg', '.png']
+- hl_145: 2 archivos ['.jpg', '.png']
+- hl_120: 2 archivos ['.png', '.jpg']
+- hl_63: 2 archivos ['.jpg', '.png']
+- hl_47: 2 archivos ['.png', '.jpg']
+- hl_123: 2 archivos ['.png', '.jpg']
+- hl_76: 2 archivos ['.png', '.jpg']
+- hl_164: 2 archivos ['.png', '.jpg']
+- hl_26: 2 archivos ['.png', '.jpg']
+- hl_147: 2 archivos ['.jpg', '.png']
+- hl_343: 2 archivos ['.png', '.jpg']
+- hl_111: 2 archivos ['.png', '.jpg']
+- hl_100: 2 archivos ['.png', '.jpg']
+- hl_97: 2 archivos ['.jpg', '.png']
+- hl_337: 2 archivos ['.png', '.jpg']
+- hl_43: 2 archivos ['.jpg', '.png']
+- hl_158: 2 archivos ['.jpg', '.png']
+- hl_383: 2 archivos ['.jpg', '.png']
+- hl_78: 2 archivos ['.jpg', '.png']
+- hl_57: 2 archivos ['.jpg', '.png']
+- hl_80: 2 archivos ['.png', '.jpg']
+- hl_106: 2 archivos ['.jpg', '.png']
+- hl_23: 2 archivos ['.jpg', '.png']
+- hl_137: 2 archivos ['.jpg', '.png']
+- hl_150: 2 archivos ['.png', '.jpg']
+- hl_103: 2 archivos ['.jpg', '.png']
+- hl_7: 2 archivos ['.png', '.jpg']
+- hl_167: 2 archivos ['.jpg', '.png']
+- hl_272: 2 archivos ['.png', '.jpg']
+- hl_102: 2 archivos ['.jpg', '.png']
+- hl_75: 2 archivos ['.jpg', '.png']
+- hl_17: 2 archivos ['.png', '.jpg']
+- hl_101: 2 archivos ['.jpg', '.png']
+- hl_98: 2 archivos ['.png', '.jpg']
+- hl_154: 2 archivos ['.jpg', '.png']
+- hl_83: 2 archivos ['.jpg', '.png']
+- hl_110: 2 archivos ['.jpg', '.png']
+- hl_115: 2 archivos ['.png', '.jpg']
+- hl_146: 2 archivos ['.jpg', '.png']
+- hl_144: 2 archivos ['.png', '.jpg']
+- hl_259: 2 archivos ['.png', '.jpg']
+- hl_99: 2 archivos ['.png', '.jpg']
+- hl_84: 2 archivos ['.png', '.jpg']
+- hl_94: 2 archivos ['.jpg', '.png']
+- hl_338: 2 archivos ['.jpg', '.png']
+- hl_177: 2 archivos ['.png', '.jpg']
+- hl_166: 2 archivos ['.png', '.jpg']
+- hl_13: 2 archivos ['.jpg', '.png']
+- hl_72: 2 archivos ['.jpg', '.png']
+- hl_18: 2 archivos ['.png', '.jpg']
+- hl_107: 2 archivos ['.png', '.jpg']
+- hl_92: 2 archivos ['.jpg', '.png']
+- hl_65: 2 archivos ['.jpg', '.png']
+- hl_180: 2 archivos ['.jpg', '.png']
+- hl_142: 2 archivos ['.png', '.jpg']
+- hl_2: 2 archivos ['.png', '.jpg']
+- hl_156: 2 archivos ['.png', '.jpg']
+- hl_136: 2 archivos ['.png', '.jpg']
+- hl_143: 2 archivos ['.png', '.jpg']
+- hl_188: 2 archivos ['.png', '.jpg']
+- hl_38: 2 archivos ['.png', '.jpg']
+- hl_66: 2 archivos ['.png', '.jpg']
+- hl_31: 2 archivos ['.png', '.jpg']
+- hl_139: 2 archivos ['.jpg', '.png']
+- hl_121: 2 archivos ['.jpg', '.png']
+- hl_49: 2 archivos ['.jpg', '.png']
+- hl_48: 2 archivos ['.jpg', '.png']
+- hl_104: 2 archivos ['.jpg', '.png']
+- hl_113: 2 archivos ['.jpg', '.png']
+- hl_135: 2 archivos ['.png', '.jpg']
+- hl_108: 2 archivos ['.jpg', '.png']
+- hl_160: 2 archivos ['.png', '.jpg']
+- hl_273: 2 archivos ['.png', '.jpg']
+- hl_16: 2 archivos ['.jpg', '.png']
+- hl_21: 2 archivos ['.png', '.jpg']
+- hl_112: 2 archivos ['.jpg', '.png']
+- hl_149: 2 archivos ['.png', '.jpg']
+- hl_96: 2 archivos ['.jpg', '.png']
+- hl_41: 2 archivos ['.png', '.jpg']
+- hl_385: 2 archivos ['.png', '.jpg']
+- hl_122: 2 archivos ['.png', '.jpg']
+- hl_157: 2 archivos ['.jpg', '.png']
+- lb_240: 2 archivos ['.jpg', '.png']
+- lb_248: 2 archivos ['.jpg', '.png']
+- lb_233: 2 archivos ['.jpg', '.png']
+- lb_220: 2 archivos ['.jpg', '.png']
+- lb_401: 2 archivos ['.png', '.jpg']
+- lb_358: 2 archivos ['.png', '.jpg']
+- lb_3: 2 archivos ['.jpg', '.png']
+- lb_352: 2 archivos ['.jpg', '.png']
+- lb_388: 2 archivos ['.png', '.jpg']
+- lb_275: 2 archivos ['.png', '.jpg']
+- unnamed_2: 2 archivos ['.jpg', '.jpg']
+- image: 2 archivos ['.jpg', '.jpg']
+- hl_56: 2 archivos ['.jpg', '.png']
+- hl_37: 2 archivos ['.png', '.jpg']
+- hl_155: 2 archivos ['.png', '.jpg']
+- hl_59: 2 archivos ['.png', '.jpg']
+- hl_358: 2 archivos ['.png', '.jpg']
+- hl_85: 2 archivos ['.png', '.jpg']
+- hl_151: 2 archivos ['.jpg', '.png']
+- hl_28: 2 archivos ['.jpg', '.png']
+- hl_4: 2 archivos ['.png', '.jpg']
+- hl_141: 2 archivos ['.png', '.jpg']
+- hl_20: 2 archivos ['.jpg', '.png']
+- hl_25: 2 archivos ['.jpg', '.png']
+- hl_81: 2 archivos ['.png', '.jpg']
+- hl_162: 2 archivos ['.jpg', '.png']
+- hl_274: 2 archivos ['.png', '.jpg']
+- hl_24: 2 archivos ['.jpg', '.png']
+- hl_39: 2 archivos ['.jpg', '.png']
+- hl_169: 2 archivos ['.jpg', '.png']
+- hl_73: 2 archivos ['.png', '.jpg']
+- hl_354: 2 archivos ['.png', '.jpg']

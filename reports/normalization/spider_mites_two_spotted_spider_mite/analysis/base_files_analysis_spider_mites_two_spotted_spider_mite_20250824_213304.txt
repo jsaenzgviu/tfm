@@ -1,0 +1,2033 @@
+ANÁLISIS DE ARCHIVOS BASE EN GRUPOS
+================================================================================
+
+Directorio: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same4/train/spider_mites_two_spotted_spider_mite
+Tiempo de análisis: 0.056s
+Fecha: 2025-08-24 21:33:04
+
+ESTADÍSTICAS FINALES:
+- Total de archivos: 756
+- Grupos analizados: 252
+- Archivos base identificados: 252
+
+MÉTODOS UTILIZADOS:
+- pattern_analysis: 252 grupos
+
+GRUPOS ANALIZADOS:
+--------------------------------------------------
+
+Grupo: fl_1580 (3 archivos)
+Método: pattern_analysis
+Archivo base: da609ae5d46c76c7_3ef63475_d311_4af4_9a8d_48279238cba2_com_g_spm_fl_1580.jpg
+Archivos del grupo:
+     57e7a7e3f1e8ea47_3ef63475_d311_4af4_9a8d_48279238cba2_com_g_spm_fl_1580_fliptb.jpg
+     6dd2b5c833a08a06_3ef63475_d311_4af4_9a8d_48279238cba2_com_g_spm_fl_1580_180deg.jpg
+  🎯 da609ae5d46c76c7_3ef63475_d311_4af4_9a8d_48279238cba2_com_g_spm_fl_1580.jpg
+
+Grupo: fl_8483 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3bcca8b44e132e7e_4d794f1e_199b_4689_bade_d6dca0160883_com_g_spm_fl_8483.jpg
+Archivos del grupo:
+     250302e211c8ab06_4d794f1e_199b_4689_bade_d6dca0160883_com_g_spm_fl_8483_180deg.jpg
+     462027db401cf57b_4d794f1e_199b_4689_bade_d6dca0160883_com_g_spm_fl_8483_fliptb.jpg
+  🎯 3bcca8b44e132e7e_4d794f1e_199b_4689_bade_d6dca0160883_com_g_spm_fl_8483.jpg
+
+Grupo: fl_1413 (3 archivos)
+Método: pattern_analysis
+Archivo base: f9e9f091d4762492_3d74d3e8_d946_4270_b762_19b0d1552351_com_g_spm_fl_1413.jpg
+Archivos del grupo:
+  🎯 f9e9f091d4762492_3d74d3e8_d946_4270_b762_19b0d1552351_com_g_spm_fl_1413.jpg
+     5b95a1f91dfe7c4e_3d74d3e8_d946_4270_b762_19b0d1552351_com_g_spm_fl_1413_180deg.jpg
+     b6c79eb81b6c0dda_3d74d3e8_d946_4270_b762_19b0d1552351_com_g_spm_fl_1413_fliptb.jpg
+
+Grupo: fl_9326 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2ae358387a8fd8fa_2b47c565_c37a_4bdb_baa9_b3721dbf9bb6_com_g_spm_fl_9326.jpg
+Archivos del grupo:
+  🎯 2ae358387a8fd8fa_2b47c565_c37a_4bdb_baa9_b3721dbf9bb6_com_g_spm_fl_9326.jpg
+     81cb4ec3a99ad16e_2b47c565_c37a_4bdb_baa9_b3721dbf9bb6_com_g_spm_fl_9326_fliptb.jpg
+     3c99b03d6cd6b70a_2b47c565_c37a_4bdb_baa9_b3721dbf9bb6_com_g_spm_fl_9326_180deg.jpg
+
+Grupo: fl_9566 (3 archivos)
+Método: pattern_analysis
+Archivo base: f030812d254f1612_4d1d81ce_2c5e_469f_857f_83691b0cdab9_com_g_spm_fl_9566.jpg
+Archivos del grupo:
+     126f38c74fdda68e_4d1d81ce_2c5e_469f_857f_83691b0cdab9_com_g_spm_fl_9566_fliptb.jpg
+  🎯 f030812d254f1612_4d1d81ce_2c5e_469f_857f_83691b0cdab9_com_g_spm_fl_9566.jpg
+     7fc3dfba809923f5_4d1d81ce_2c5e_469f_857f_83691b0cdab9_com_g_spm_fl_9566_180deg.jpg
+
+Grupo: fl_8884 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5140a90d714f0ef2_2d213315_0896_4c0b_92a6_f7d84b17775f_com_g_spm_fl_8884.jpg
+Archivos del grupo:
+  🎯 5140a90d714f0ef2_2d213315_0896_4c0b_92a6_f7d84b17775f_com_g_spm_fl_8884.jpg
+     7211ebf9532596f4_2d213315_0896_4c0b_92a6_f7d84b17775f_com_g_spm_fl_8884_180deg.jpg
+     7352d58cd5b0c753_2d213315_0896_4c0b_92a6_f7d84b17775f_com_g_spm_fl_8884_fliptb.jpg
+
+Grupo: fl_1729 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6b90f799d71e8639_0f75930a_4f0c_49db_b5d8_6e4987b868eb_com_g_spm_fl_1729.jpg
+Archivos del grupo:
+     5d8ba32ee7b44703_0f75930a_4f0c_49db_b5d8_6e4987b868eb_com_g_spm_fl_1729_180deg.jpg
+     4e3cb7f378a15b69_0f75930a_4f0c_49db_b5d8_6e4987b868eb_com_g_spm_fl_1729_fliptb.jpg
+  🎯 6b90f799d71e8639_0f75930a_4f0c_49db_b5d8_6e4987b868eb_com_g_spm_fl_1729.jpg
+
+Grupo: fl_1649 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0a3ce7a2a489e3b3_2aa0254f_e3c8_400f_bb0c_c039f19f4aa5_com_g_spm_fl_1649.jpg
+Archivos del grupo:
+  🎯 0a3ce7a2a489e3b3_2aa0254f_e3c8_400f_bb0c_c039f19f4aa5_com_g_spm_fl_1649.jpg
+     7d8b2f797110f916_2aa0254f_e3c8_400f_bb0c_c039f19f4aa5_com_g_spm_fl_1649_fliptb.jpg
+     a6f878eddf7fdfd5_2aa0254f_e3c8_400f_bb0c_c039f19f4aa5_com_g_spm_fl_1649_180deg.jpg
+
+Grupo: fl_1142 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0ae6a7c125520031_0c2e84df_4d41_46f6_9cf9_05aea349ce18_com_g_spm_fl_1142.jpg
+Archivos del grupo:
+     3d4936ab415e874a_0c2e84df_4d41_46f6_9cf9_05aea349ce18_com_g_spm_fl_1142_fliptb.jpg
+     69445bea77b262dd_0c2e84df_4d41_46f6_9cf9_05aea349ce18_com_g_spm_fl_1142_180deg.jpg
+  🎯 0ae6a7c125520031_0c2e84df_4d41_46f6_9cf9_05aea349ce18_com_g_spm_fl_1142.jpg
+
+Grupo: fl_1619 (3 archivos)
+Método: pattern_analysis
+Archivo base: e3a1f06f2ce8efb2_4aba5f7f_3081_4dbe_9009_f70d962622fa_com_g_spm_fl_1619.jpg
+Archivos del grupo:
+     d69335b3a6d20d67_4aba5f7f_3081_4dbe_9009_f70d962622fa_com_g_spm_fl_1619_fliptb.jpg
+  🎯 e3a1f06f2ce8efb2_4aba5f7f_3081_4dbe_9009_f70d962622fa_com_g_spm_fl_1619.jpg
+     7b35f656f51fae2b_4aba5f7f_3081_4dbe_9009_f70d962622fa_com_g_spm_fl_1619_180deg.jpg
+
+Grupo: fl_9635 (3 archivos)
+Método: pattern_analysis
+Archivo base: 16adefdb7445040f_2a686a22_3384_43b6_a0e1_4b176ebde206_com_g_spm_fl_9635.jpg
+Archivos del grupo:
+  🎯 16adefdb7445040f_2a686a22_3384_43b6_a0e1_4b176ebde206_com_g_spm_fl_9635.jpg
+     e0c840f47822c690_2a686a22_3384_43b6_a0e1_4b176ebde206_com_g_spm_fl_9635_180deg.jpg
+     08b0a4846ee3a0df_2a686a22_3384_43b6_a0e1_4b176ebde206_com_g_spm_fl_9635_fliptb.jpg
+
+Grupo: fl_1205 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8d455186f2aaebf8_0f514b75_2c74_4075_b9c7_5d469ab292ba_com_g_spm_fl_1205.jpg
+Archivos del grupo:
+     57607905ad3efda7_0f514b75_2c74_4075_b9c7_5d469ab292ba_com_g_spm_fl_1205_fliptb.jpg
+     04de78b556fb900e_0f514b75_2c74_4075_b9c7_5d469ab292ba_com_g_spm_fl_1205_180deg.jpg
+  🎯 8d455186f2aaebf8_0f514b75_2c74_4075_b9c7_5d469ab292ba_com_g_spm_fl_1205.jpg
+
+Grupo: fl_8724 (3 archivos)
+Método: pattern_analysis
+Archivo base: ee92c8ca56ee3fa2_3b26b807_0511_477d_92ff_5e84d0c4059a_com_g_spm_fl_8724.jpg
+Archivos del grupo:
+     cf6bcd551fa04c6f_3b26b807_0511_477d_92ff_5e84d0c4059a_com_g_spm_fl_8724_fliptb.jpg
+  🎯 ee92c8ca56ee3fa2_3b26b807_0511_477d_92ff_5e84d0c4059a_com_g_spm_fl_8724.jpg
+     6993182ec6652473_3b26b807_0511_477d_92ff_5e84d0c4059a_com_g_spm_fl_8724_180deg.jpg
+
+Grupo: fl_9601 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3a6844888fb46605_1e06dafa_f977_4354_992e_3271f34a2344_com_g_spm_fl_9601.jpg
+Archivos del grupo:
+     f4263f9dbbcbf3f6_1e06dafa_f977_4354_992e_3271f34a2344_com_g_spm_fl_9601_fliptb.jpg
+  🎯 3a6844888fb46605_1e06dafa_f977_4354_992e_3271f34a2344_com_g_spm_fl_9601.jpg
+     a00883561af3153b_1e06dafa_f977_4354_992e_3271f34a2344_com_g_spm_fl_9601_180deg.jpg
+
+Grupo: fl_8746 (3 archivos)
+Método: pattern_analysis
+Archivo base: 44059d2c96d55c13_4b1d558e_7ffb_409b_bf8e_9b665519e896_com_g_spm_fl_8746.jpg
+Archivos del grupo:
+  🎯 44059d2c96d55c13_4b1d558e_7ffb_409b_bf8e_9b665519e896_com_g_spm_fl_8746.jpg
+     9d3f684288218f8f_4b1d558e_7ffb_409b_bf8e_9b665519e896_com_g_spm_fl_8746_180deg.jpg
+     470cc0c0a8d9a1bf_4b1d558e_7ffb_409b_bf8e_9b665519e896_com_g_spm_fl_8746_fliptb.jpg
+
+Grupo: fl_9585 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3c389cc90c41d80e_4db4942d_464a_462e_ba03_306587f0275f_com_g_spm_fl_9585.jpg
+Archivos del grupo:
+     83a5c7f859c792cb_4db4942d_464a_462e_ba03_306587f0275f_com_g_spm_fl_9585_fliptb.jpg
+  🎯 3c389cc90c41d80e_4db4942d_464a_462e_ba03_306587f0275f_com_g_spm_fl_9585.jpg
+     55a51dde89c4ccfc_4db4942d_464a_462e_ba03_306587f0275f_com_g_spm_fl_9585_180deg.jpg
+
+Grupo: fl_1668 (3 archivos)
+Método: pattern_analysis
+Archivo base: ed5873d066380a81_0e20026b_8b12_4c86_bd41_3e10ea0fae44_com_g_spm_fl_1668.jpg
+Archivos del grupo:
+  🎯 ed5873d066380a81_0e20026b_8b12_4c86_bd41_3e10ea0fae44_com_g_spm_fl_1668.jpg
+     9f044a81191108b6_0e20026b_8b12_4c86_bd41_3e10ea0fae44_com_g_spm_fl_1668_180deg.jpg
+     0d14d38beae28fc3_0e20026b_8b12_4c86_bd41_3e10ea0fae44_com_g_spm_fl_1668_fliptb.jpg
+
+Grupo: fl_9603 (3 archivos)
+Método: pattern_analysis
+Archivo base: d0dabaf1a22f7017_1e2f0007_3bba_4d4c_b533_879a2be8ac04_com_g_spm_fl_9603.jpg
+Archivos del grupo:
+     3201418229598fd6_1e2f0007_3bba_4d4c_b533_879a2be8ac04_com_g_spm_fl_9603_fliptb.jpg
+  🎯 d0dabaf1a22f7017_1e2f0007_3bba_4d4c_b533_879a2be8ac04_com_g_spm_fl_9603.jpg
+     194a7ae6b35a73e0_1e2f0007_3bba_4d4c_b533_879a2be8ac04_com_g_spm_fl_9603_180deg.jpg
+
+Grupo: fl_8532 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9ad4fac863bf21b0_5da96ce7_7da5_4709_b88d_d560e70e0085_com_g_spm_fl_8532.jpg
+Archivos del grupo:
+     0f0917d46cb3a61e_5da96ce7_7da5_4709_b88d_d560e70e0085_com_g_spm_fl_8532_fliptb.jpg
+     8364b7a75a84ae2d_5da96ce7_7da5_4709_b88d_d560e70e0085_com_g_spm_fl_8532_180deg.jpg
+  🎯 9ad4fac863bf21b0_5da96ce7_7da5_4709_b88d_d560e70e0085_com_g_spm_fl_8532.jpg
+
+Grupo: fl_1593 (3 archivos)
+Método: pattern_analysis
+Archivo base: 892f6a77342f104d_1bb271cf_e12d_4536_a164_9a6a87002cd0_com_g_spm_fl_1593.jpg
+Archivos del grupo:
+     8b0a02b7c2dbcc0d_1bb271cf_e12d_4536_a164_9a6a87002cd0_com_g_spm_fl_1593_180deg.jpg
+  🎯 892f6a77342f104d_1bb271cf_e12d_4536_a164_9a6a87002cd0_com_g_spm_fl_1593.jpg
+     e3dc377eee06b6f4_1bb271cf_e12d_4536_a164_9a6a87002cd0_com_g_spm_fl_1593_fliptb.jpg
+
+Grupo: fl_1159 (3 archivos)
+Método: pattern_analysis
+Archivo base: d401ac577557638c_0e0d9560_41ee_45cf_8bea_8cddfdc04979_com_g_spm_fl_1159.jpg
+Archivos del grupo:
+     9b07f33b4701e8ab_0e0d9560_41ee_45cf_8bea_8cddfdc04979_com_g_spm_fl_1159_fliptb.jpg
+  🎯 d401ac577557638c_0e0d9560_41ee_45cf_8bea_8cddfdc04979_com_g_spm_fl_1159.jpg
+     8058f998cdf0d3f2_0e0d9560_41ee_45cf_8bea_8cddfdc04979_com_g_spm_fl_1159_180deg.jpg
+
+Grupo: fl_8873 (3 archivos)
+Método: pattern_analysis
+Archivo base: e6e04365d2e0a9ed_0f3b55b7_39de_4a05_9ed0_9ceaa32a2c34_com_g_spm_fl_8873.jpg
+Archivos del grupo:
+     49062c14a63ea877_0f3b55b7_39de_4a05_9ed0_9ceaa32a2c34_com_g_spm_fl_8873_180deg.jpg
+     4611ac354b1a479c_0f3b55b7_39de_4a05_9ed0_9ceaa32a2c34_com_g_spm_fl_8873_fliptb.jpg
+  🎯 e6e04365d2e0a9ed_0f3b55b7_39de_4a05_9ed0_9ceaa32a2c34_com_g_spm_fl_8873.jpg
+
+Grupo: fl_9325 (3 archivos)
+Método: pattern_analysis
+Archivo base: 1630a3b72386fb3a_0d956449_8243_4229_b293_124461cc4940_com_g_spm_fl_9325.jpg
+Archivos del grupo:
+  🎯 1630a3b72386fb3a_0d956449_8243_4229_b293_124461cc4940_com_g_spm_fl_9325.jpg
+     605ca1abcabff650_0d956449_8243_4229_b293_124461cc4940_com_g_spm_fl_9325_180deg.jpg
+     da048459422a543a_0d956449_8243_4229_b293_124461cc4940_com_g_spm_fl_9325_fliptb.jpg
+
+Grupo: fl_9277 (3 archivos)
+Método: pattern_analysis
+Archivo base: f91e47330b9e541a_3c8199f8_aa54_47f8_9d70_1bf6cdd2e97b_com_g_spm_fl_9277.jpg
+Archivos del grupo:
+     07202cb10d8bee1f_3c8199f8_aa54_47f8_9d70_1bf6cdd2e97b_com_g_spm_fl_9277_180deg.jpg
+  🎯 f91e47330b9e541a_3c8199f8_aa54_47f8_9d70_1bf6cdd2e97b_com_g_spm_fl_9277.jpg
+     95e0ed59262f71dd_3c8199f8_aa54_47f8_9d70_1bf6cdd2e97b_com_g_spm_fl_9277_fliptb.jpg
+
+Grupo: fl_8922 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8e8fd732b1228f8b_3a190004_02f9_4284_9750_d12fe0272a6f_com_g_spm_fl_8922.jpg
+Archivos del grupo:
+     33f919ba21238a35_3a190004_02f9_4284_9750_d12fe0272a6f_com_g_spm_fl_8922_180deg.jpg
+  🎯 8e8fd732b1228f8b_3a190004_02f9_4284_9750_d12fe0272a6f_com_g_spm_fl_8922.jpg
+     d6cb86a59990f5d8_3a190004_02f9_4284_9750_d12fe0272a6f_com_g_spm_fl_8922_fliptb.jpg
+
+Grupo: fl_9428 (3 archivos)
+Método: pattern_analysis
+Archivo base: 37daa6019e6e10ac_4b945a1f_7fed_4ca6_8a8c_5a08f4235fe7_com_g_spm_fl_9428.jpg
+Archivos del grupo:
+  🎯 37daa6019e6e10ac_4b945a1f_7fed_4ca6_8a8c_5a08f4235fe7_com_g_spm_fl_9428.jpg
+     9d61547a4f452c0c_4b945a1f_7fed_4ca6_8a8c_5a08f4235fe7_com_g_spm_fl_9428_180deg.jpg
+     02238ccf817e4ca3_4b945a1f_7fed_4ca6_8a8c_5a08f4235fe7_com_g_spm_fl_9428_fliptb.jpg
+
+Grupo: fl_8877 (3 archivos)
+Método: pattern_analysis
+Archivo base: 39df45fc33a6ff3e_2a70c9e6_2c2f_4355_94fb_02afc8141be5_com_g_spm_fl_8877.jpg
+Archivos del grupo:
+     3a0056bf2ba1e3a9_2a70c9e6_2c2f_4355_94fb_02afc8141be5_com_g_spm_fl_8877_180deg.jpg
+     75cddd56b8711f3d_2a70c9e6_2c2f_4355_94fb_02afc8141be5_com_g_spm_fl_8877_fliptb.jpg
+  🎯 39df45fc33a6ff3e_2a70c9e6_2c2f_4355_94fb_02afc8141be5_com_g_spm_fl_8877.jpg
+
+Grupo: fl_9316 (3 archivos)
+Método: pattern_analysis
+Archivo base: 46b0204018a4b320_3eb2dbc2_ea12_40b3_9d38_11d5bfa97af1_com_g_spm_fl_9316.jpg
+Archivos del grupo:
+     fd8e75045259008b_3eb2dbc2_ea12_40b3_9d38_11d5bfa97af1_com_g_spm_fl_9316_fliptb.jpg
+     f6976e67e9f120b7_3eb2dbc2_ea12_40b3_9d38_11d5bfa97af1_com_g_spm_fl_9316_180deg.jpg
+  🎯 46b0204018a4b320_3eb2dbc2_ea12_40b3_9d38_11d5bfa97af1_com_g_spm_fl_9316.jpg
+
+Grupo: fl_1661 (3 archivos)
+Método: pattern_analysis
+Archivo base: e30685f6b649b6bb_0f6a5f32_3d95_4ef1_bc01_ba36f2efb2b4_com_g_spm_fl_1661.jpg
+Archivos del grupo:
+     a00d315a46979bfd_0f6a5f32_3d95_4ef1_bc01_ba36f2efb2b4_com_g_spm_fl_1661_180deg.jpg
+     a0d34bd2e1125e02_0f6a5f32_3d95_4ef1_bc01_ba36f2efb2b4_com_g_spm_fl_1661_fliptb.jpg
+  🎯 e30685f6b649b6bb_0f6a5f32_3d95_4ef1_bc01_ba36f2efb2b4_com_g_spm_fl_1661.jpg
+
+Grupo: fl_1471 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2962f966b60d01d3_5dead4dc_bc58_4470_9d86_3d5cb6be14b7_com_g_spm_fl_1471.jpg
+Archivos del grupo:
+  🎯 2962f966b60d01d3_5dead4dc_bc58_4470_9d86_3d5cb6be14b7_com_g_spm_fl_1471.jpg
+     748f1e01ef235c65_5dead4dc_bc58_4470_9d86_3d5cb6be14b7_com_g_spm_fl_1471_180deg.jpg
+     8602c2a9ec8a4e09_5dead4dc_bc58_4470_9d86_3d5cb6be14b7_com_g_spm_fl_1471_fliptb.jpg
+
+Grupo: fl_8580 (3 archivos)
+Método: pattern_analysis
+Archivo base: e1bb63c1119bf101_2b86b68a_c9a0_4b37_82b6_667de062f30f_com_g_spm_fl_8580.jpg
+Archivos del grupo:
+     93b667839081d465_2b86b68a_c9a0_4b37_82b6_667de062f30f_com_g_spm_fl_8580_180deg.jpg
+  🎯 e1bb63c1119bf101_2b86b68a_c9a0_4b37_82b6_667de062f30f_com_g_spm_fl_8580.jpg
+     5601340f865737af_2b86b68a_c9a0_4b37_82b6_667de062f30f_com_g_spm_fl_8580_fliptb.jpg
+
+Grupo: fl_1309 (3 archivos)
+Método: pattern_analysis
+Archivo base: 98ff81c541070e4c_5ba81aa5_31af_4494_8805_ab9d38716626_com_g_spm_fl_1309.jpg
+Archivos del grupo:
+     df70767211f4c6fb_5ba81aa5_31af_4494_8805_ab9d38716626_com_g_spm_fl_1309_180deg.jpg
+  🎯 98ff81c541070e4c_5ba81aa5_31af_4494_8805_ab9d38716626_com_g_spm_fl_1309.jpg
+     aa8af8fd7f03552e_5ba81aa5_31af_4494_8805_ab9d38716626_com_g_spm_fl_1309_fliptb.jpg
+
+Grupo: fl_9564 (3 archivos)
+Método: pattern_analysis
+Archivo base: f7742fe84e8e494a_3bf7ca2f_8ba9_4ec1_82a4_8e8b45bc7449_com_g_spm_fl_9564.jpg
+Archivos del grupo:
+  🎯 f7742fe84e8e494a_3bf7ca2f_8ba9_4ec1_82a4_8e8b45bc7449_com_g_spm_fl_9564.jpg
+     6562cf3a19d9491f_3bf7ca2f_8ba9_4ec1_82a4_8e8b45bc7449_com_g_spm_fl_9564_180deg.jpg
+     a7f38266fcec2afc_3bf7ca2f_8ba9_4ec1_82a4_8e8b45bc7449_com_g_spm_fl_9564_fliptb.jpg
+
+Grupo: fl_8519 (3 archivos)
+Método: pattern_analysis
+Archivo base: 101976484667a628_3fe4c6c1_6c3b_45ec_83e7_24eb41e6a20c_com_g_spm_fl_8519.jpg
+Archivos del grupo:
+  🎯 101976484667a628_3fe4c6c1_6c3b_45ec_83e7_24eb41e6a20c_com_g_spm_fl_8519.jpg
+     d3991e62db3a3961_3fe4c6c1_6c3b_45ec_83e7_24eb41e6a20c_com_g_spm_fl_8519_fliptb.jpg
+     ea4e3fd485d4bb01_3fe4c6c1_6c3b_45ec_83e7_24eb41e6a20c_com_g_spm_fl_8519_180deg.jpg
+
+Grupo: fl_1145 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4363caa5723f6537_4bbb48dc_64cb_4777_be6b_2bae6c9c1444_com_g_spm_fl_1145.jpg
+Archivos del grupo:
+     ae3797b817725d66_4bbb48dc_64cb_4777_be6b_2bae6c9c1444_com_g_spm_fl_1145_fliptb.jpg
+  🎯 4363caa5723f6537_4bbb48dc_64cb_4777_be6b_2bae6c9c1444_com_g_spm_fl_1145.jpg
+     ee9ab8a0439300cc_4bbb48dc_64cb_4777_be6b_2bae6c9c1444_com_g_spm_fl_1145_180deg.jpg
+
+Grupo: fl_8798 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9674cda627540c55_03e18a00_ffbd_4863_a0c5_7c597c09b025_com_g_spm_fl_8798.jpg
+Archivos del grupo:
+  🎯 9674cda627540c55_03e18a00_ffbd_4863_a0c5_7c597c09b025_com_g_spm_fl_8798.jpg
+     17a410c114445467_03e18a00_ffbd_4863_a0c5_7c597c09b025_com_g_spm_fl_8798_180deg.jpg
+     2a73a920c4df744f_03e18a00_ffbd_4863_a0c5_7c597c09b025_com_g_spm_fl_8798_fliptb.jpg
+
+Grupo: fl_9455 (3 archivos)
+Método: pattern_analysis
+Archivo base: 19aa2d94cc46f761_00bc7858_1dca_4bfb_a828_225f03bd72a5_com_g_spm_fl_9455.jpg
+Archivos del grupo:
+     185ecf462563bfe6_00bc7858_1dca_4bfb_a828_225f03bd72a5_com_g_spm_fl_9455_180deg.jpg
+  🎯 19aa2d94cc46f761_00bc7858_1dca_4bfb_a828_225f03bd72a5_com_g_spm_fl_9455.jpg
+     fd85ac16ac139b95_00bc7858_1dca_4bfb_a828_225f03bd72a5_com_g_spm_fl_9455_fliptb.jpg
+
+Grupo: fl_8530 (3 archivos)
+Método: pattern_analysis
+Archivo base: edcaeccf959126f6_5a79ccbc_ed73_4870_8a2d_6e305c78f76b_com_g_spm_fl_8530.jpg
+Archivos del grupo:
+     c1135f125f712549_5a79ccbc_ed73_4870_8a2d_6e305c78f76b_com_g_spm_fl_8530_180deg.jpg
+     1ec286f56712c9ae_5a79ccbc_ed73_4870_8a2d_6e305c78f76b_com_g_spm_fl_8530_fliptb.jpg
+  🎯 edcaeccf959126f6_5a79ccbc_ed73_4870_8a2d_6e305c78f76b_com_g_spm_fl_8530.jpg
+
+Grupo: fl_8422 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3ee3fcf91b3e0a1e_3c0df0a9_32f7_4f30_9b50_09aac666701e_com_g_spm_fl_8422.jpg
+Archivos del grupo:
+     78e92211080897e2_3c0df0a9_32f7_4f30_9b50_09aac666701e_com_g_spm_fl_8422_180deg.jpg
+     aba09ce17bce455e_3c0df0a9_32f7_4f30_9b50_09aac666701e_com_g_spm_fl_8422_fliptb.jpg
+  🎯 3ee3fcf91b3e0a1e_3c0df0a9_32f7_4f30_9b50_09aac666701e_com_g_spm_fl_8422.jpg
+
+Grupo: fl_9506 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4941de1498e0bfcf_1c4723cd_8ef6_483d_ae4e_8a3112fd9766_com_g_spm_fl_9506.jpg
+Archivos del grupo:
+  🎯 4941de1498e0bfcf_1c4723cd_8ef6_483d_ae4e_8a3112fd9766_com_g_spm_fl_9506.jpg
+     61996d8cc7aa4cba_1c4723cd_8ef6_483d_ae4e_8a3112fd9766_com_g_spm_fl_9506_fliptb.jpg
+     2fb80b83dc085505_1c4723cd_8ef6_483d_ae4e_8a3112fd9766_com_g_spm_fl_9506_180deg.jpg
+
+Grupo: fl_8717 (3 archivos)
+Método: pattern_analysis
+Archivo base: f9e899a978885c31_00c8e9a0_1fb8_434b_8981_25511358ddc9_com_g_spm_fl_8717.jpg
+Archivos del grupo:
+     c51965cf81e7bd7b_00c8e9a0_1fb8_434b_8981_25511358ddc9_com_g_spm_fl_8717_fliptb.jpg
+     4a0fec3ff79eaecb_00c8e9a0_1fb8_434b_8981_25511358ddc9_com_g_spm_fl_8717_180deg.jpg
+  🎯 f9e899a978885c31_00c8e9a0_1fb8_434b_8981_25511358ddc9_com_g_spm_fl_8717.jpg
+
+Grupo: fl_9265 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6e5dd03487c4757c_4ac9c932_72ee_45a7_8602_8fc1923e9e8e_com_g_spm_fl_9265.jpg
+Archivos del grupo:
+     9c29515818f4d718_4ac9c932_72ee_45a7_8602_8fc1923e9e8e_com_g_spm_fl_9265_180deg.jpg
+     fb1b1b29150a578c_4ac9c932_72ee_45a7_8602_8fc1923e9e8e_com_g_spm_fl_9265_fliptb.jpg
+  🎯 6e5dd03487c4757c_4ac9c932_72ee_45a7_8602_8fc1923e9e8e_com_g_spm_fl_9265.jpg
+
+Grupo: fl_8768 (3 archivos)
+Método: pattern_analysis
+Archivo base: 975c231d76bad417_0c142adf_5d26_4593_a7b3_d16a07f1df33_com_g_spm_fl_8768.jpg
+Archivos del grupo:
+     3da87f798c569777_0c142adf_5d26_4593_a7b3_d16a07f1df33_com_g_spm_fl_8768_180deg.jpg
+     a1b2729a82405723_0c142adf_5d26_4593_a7b3_d16a07f1df33_com_g_spm_fl_8768_fliptb.jpg
+  🎯 975c231d76bad417_0c142adf_5d26_4593_a7b3_d16a07f1df33_com_g_spm_fl_8768.jpg
+
+Grupo: fl_9621 (3 archivos)
+Método: pattern_analysis
+Archivo base: 965dfd2b27730906_2cd8d4c9_6eb7_4ed2_808f_df3ae1aedf7a_com_g_spm_fl_9621.jpg
+Archivos del grupo:
+     57a3156c8a0747a9_2cd8d4c9_6eb7_4ed2_808f_df3ae1aedf7a_com_g_spm_fl_9621_fliptb.jpg
+  🎯 965dfd2b27730906_2cd8d4c9_6eb7_4ed2_808f_df3ae1aedf7a_com_g_spm_fl_9621.jpg
+     0cdbef8c5c8fe10c_2cd8d4c9_6eb7_4ed2_808f_df3ae1aedf7a_com_g_spm_fl_9621_180deg.jpg
+
+Grupo: fl_9406 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0d2f3d8687c0c1d0_4f2684bf_6392_4ce6_9e5a_4b37f44483be_com_g_spm_fl_9406.jpg
+Archivos del grupo:
+     187252d3d72a4bad_4f2684bf_6392_4ce6_9e5a_4b37f44483be_com_g_spm_fl_9406_fliptb.jpg
+  🎯 0d2f3d8687c0c1d0_4f2684bf_6392_4ce6_9e5a_4b37f44483be_com_g_spm_fl_9406.jpg
+     e755adeb361d3a12_4f2684bf_6392_4ce6_9e5a_4b37f44483be_com_g_spm_fl_9406_180deg.jpg
+
+Grupo: fl_1719 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5035506e30c3eaa5_3d240189_36f3_4468_be7e_c0db11af648b_com_g_spm_fl_1719.jpg
+Archivos del grupo:
+  🎯 5035506e30c3eaa5_3d240189_36f3_4468_be7e_c0db11af648b_com_g_spm_fl_1719.jpg
+     fb072c27c4625a2f_3d240189_36f3_4468_be7e_c0db11af648b_com_g_spm_fl_1719_fliptb.jpg
+     011ba6e7fc23f193_3d240189_36f3_4468_be7e_c0db11af648b_com_g_spm_fl_1719_180deg.jpg
+
+Grupo: fl_9449 (3 archivos)
+Método: pattern_analysis
+Archivo base: a7789378c2af95b4_0ade19e4_c48b_4e58_bddf_153d44d48c3e_com_g_spm_fl_9449.jpg
+Archivos del grupo:
+     2c54ed5a0844a28e_0ade19e4_c48b_4e58_bddf_153d44d48c3e_com_g_spm_fl_9449_180deg.jpg
+  🎯 a7789378c2af95b4_0ade19e4_c48b_4e58_bddf_153d44d48c3e_com_g_spm_fl_9449.jpg
+     a4ec03e1ccbbb464_0ade19e4_c48b_4e58_bddf_153d44d48c3e_com_g_spm_fl_9449_fliptb.jpg
+
+Grupo: fl_1784 (3 archivos)
+Método: pattern_analysis
+Archivo base: d73c51b780a1179f_0b5cda10_da2f_4647_b159_69647b42212f_com_g_spm_fl_1784.jpg
+Archivos del grupo:
+     9b92a4e45d326609_0b5cda10_da2f_4647_b159_69647b42212f_com_g_spm_fl_1784_180deg.jpg
+  🎯 d73c51b780a1179f_0b5cda10_da2f_4647_b159_69647b42212f_com_g_spm_fl_1784.jpg
+     b040137fcf22d4b5_0b5cda10_da2f_4647_b159_69647b42212f_com_g_spm_fl_1784_fliptb.jpg
+
+Grupo: fl_9319 (3 archivos)
+Método: pattern_analysis
+Archivo base: 186ace4956420f22_1bbcbd22_5959_4ae4_a044_85f81a1a02dd_com_g_spm_fl_9319.jpg
+Archivos del grupo:
+  🎯 186ace4956420f22_1bbcbd22_5959_4ae4_a044_85f81a1a02dd_com_g_spm_fl_9319.jpg
+     c04c6354808ba9c3_1bbcbd22_5959_4ae4_a044_85f81a1a02dd_com_g_spm_fl_9319_180deg.jpg
+     d7abde2317458fe0_1bbcbd22_5959_4ae4_a044_85f81a1a02dd_com_g_spm_fl_9319_fliptb.jpg
+
+Grupo: fl_9364 (3 archivos)
+Método: pattern_analysis
+Archivo base: aeb514063ef6691c_4da271e5_a4db_458a_b09c_caa83f8c6eb9_com_g_spm_fl_9364.jpg
+Archivos del grupo:
+     1e50e96eb87db9b7_4da271e5_a4db_458a_b09c_caa83f8c6eb9_com_g_spm_fl_9364_180deg.jpg
+     ee3740653c4beae2_4da271e5_a4db_458a_b09c_caa83f8c6eb9_com_g_spm_fl_9364_fliptb.jpg
+  🎯 aeb514063ef6691c_4da271e5_a4db_458a_b09c_caa83f8c6eb9_com_g_spm_fl_9364.jpg
+
+Grupo: fl_8792 (3 archivos)
+Método: pattern_analysis
+Archivo base: cb70d472d11c6855_5b432300_9fe3_428a_8a4f_ae38a283f953_com_g_spm_fl_8792.jpg
+Archivos del grupo:
+  🎯 cb70d472d11c6855_5b432300_9fe3_428a_8a4f_ae38a283f953_com_g_spm_fl_8792.jpg
+     7111061aa2ef6eaa_5b432300_9fe3_428a_8a4f_ae38a283f953_com_g_spm_fl_8792_180deg.jpg
+     2ce238faae0e3eaf_5b432300_9fe3_428a_8a4f_ae38a283f953_com_g_spm_fl_8792_fliptb.jpg
+
+Grupo: fl_1148 (3 archivos)
+Método: pattern_analysis
+Archivo base: 95f28f28154f6633_0ac9558f_1e02_4498_9584_887627587bc0_com_g_spm_fl_1148.jpg
+Archivos del grupo:
+     15dafdfc86c7f713_0ac9558f_1e02_4498_9584_887627587bc0_com_g_spm_fl_1148_fliptb.jpg
+     dfe037b969315315_0ac9558f_1e02_4498_9584_887627587bc0_com_g_spm_fl_1148_180deg.jpg
+  🎯 95f28f28154f6633_0ac9558f_1e02_4498_9584_887627587bc0_com_g_spm_fl_1148.jpg
+
+Grupo: fl_9441 (3 archivos)
+Método: pattern_analysis
+Archivo base: 01c5a5567d13b4ce_4a6a93a5_d51c_4769_8669_12ec54d87ce6_com_g_spm_fl_9441.jpg
+Archivos del grupo:
+     6b6483d6cc8e9d66_4a6a93a5_d51c_4769_8669_12ec54d87ce6_com_g_spm_fl_9441_fliptb.jpg
+  🎯 01c5a5567d13b4ce_4a6a93a5_d51c_4769_8669_12ec54d87ce6_com_g_spm_fl_9441.jpg
+     86444a8bb67e75c5_4a6a93a5_d51c_4769_8669_12ec54d87ce6_com_g_spm_fl_9441_180deg.jpg
+
+Grupo: fl_1430 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7de8d2ec13320018_3aad576c_3189_4b78_a5df_c9bac0078612_com_g_spm_fl_1430.jpg
+Archivos del grupo:
+     35aba2236a81c03e_3aad576c_3189_4b78_a5df_c9bac0078612_com_g_spm_fl_1430_fliptb.jpg
+  🎯 7de8d2ec13320018_3aad576c_3189_4b78_a5df_c9bac0078612_com_g_spm_fl_1430.jpg
+     c5367c9635e2616e_3aad576c_3189_4b78_a5df_c9bac0078612_com_g_spm_fl_1430_180deg.jpg
+
+Grupo: fl_1133 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7321de4f8d34c37f_5d56e1f3_4092_476e_830b_7e14e31b677d_com_g_spm_fl_1133.jpg
+Archivos del grupo:
+     82876ec6300facd7_5d56e1f3_4092_476e_830b_7e14e31b677d_com_g_spm_fl_1133_180deg.jpg
+     0dbaccfc174ec601_5d56e1f3_4092_476e_830b_7e14e31b677d_com_g_spm_fl_1133_fliptb.jpg
+  🎯 7321de4f8d34c37f_5d56e1f3_4092_476e_830b_7e14e31b677d_com_g_spm_fl_1133.jpg
+
+Grupo: fl_1243 (3 archivos)
+Método: pattern_analysis
+Archivo base: cd43647ee7b76cd1_3a54bf13_626b_4d55_b445_127cc82a52a6_com_g_spm_fl_1243.jpg
+Archivos del grupo:
+     7f8f916e604902c3_3a54bf13_626b_4d55_b445_127cc82a52a6_com_g_spm_fl_1243_fliptb.jpg
+  🎯 cd43647ee7b76cd1_3a54bf13_626b_4d55_b445_127cc82a52a6_com_g_spm_fl_1243.jpg
+     ac622db149f32dcc_3a54bf13_626b_4d55_b445_127cc82a52a6_com_g_spm_fl_1243_180deg.jpg
+
+Grupo: fl_1640 (3 archivos)
+Método: pattern_analysis
+Archivo base: f3f5a548ec8b841c_02c791ab_ffc3_40d4_9b42_db946eee2413_com_g_spm_fl_1640.jpg
+Archivos del grupo:
+     edc6f686dfc5416b_02c791ab_ffc3_40d4_9b42_db946eee2413_com_g_spm_fl_1640_180deg.jpg
+     5b5d6b819a67e378_02c791ab_ffc3_40d4_9b42_db946eee2413_com_g_spm_fl_1640_fliptb.jpg
+  🎯 f3f5a548ec8b841c_02c791ab_ffc3_40d4_9b42_db946eee2413_com_g_spm_fl_1640.jpg
+
+Grupo: fl_1245 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2dde11bd9be4ad50_1b43c451_503f_446e_9e31_dcfd3544fbcd_com_g_spm_fl_1245.jpg
+Archivos del grupo:
+     90ea20c447bc51a5_1b43c451_503f_446e_9e31_dcfd3544fbcd_com_g_spm_fl_1245_180deg.jpg
+  🎯 2dde11bd9be4ad50_1b43c451_503f_446e_9e31_dcfd3544fbcd_com_g_spm_fl_1245.jpg
+     d8aa299dcb29cbfa_1b43c451_503f_446e_9e31_dcfd3544fbcd_com_g_spm_fl_1245_fliptb.jpg
+
+Grupo: fl_8843 (3 archivos)
+Método: pattern_analysis
+Archivo base: d8d0c36e2465b22e_1dac8b31_ebbc_4ff5_965c_19f58c368e9e_com_g_spm_fl_8843.jpg
+Archivos del grupo:
+     ad75d42a8c2633f4_1dac8b31_ebbc_4ff5_965c_19f58c368e9e_com_g_spm_fl_8843_fliptb.jpg
+     98ee3dcd1d269c2e_1dac8b31_ebbc_4ff5_965c_19f58c368e9e_com_g_spm_fl_8843_180deg.jpg
+  🎯 d8d0c36e2465b22e_1dac8b31_ebbc_4ff5_965c_19f58c368e9e_com_g_spm_fl_8843.jpg
+
+Grupo: fl_9017 (3 archivos)
+Método: pattern_analysis
+Archivo base: 916d3d46052466a4_3b241fdb_8655_46c0_ad66_4010bca7c6f5_com_g_spm_fl_9017.jpg
+Archivos del grupo:
+     4127736ffaa710ba_3b241fdb_8655_46c0_ad66_4010bca7c6f5_com_g_spm_fl_9017_fliptb.jpg
+  🎯 916d3d46052466a4_3b241fdb_8655_46c0_ad66_4010bca7c6f5_com_g_spm_fl_9017.jpg
+     e116a71feba5f713_3b241fdb_8655_46c0_ad66_4010bca7c6f5_com_g_spm_fl_9017_180deg.jpg
+
+Grupo: fl_1679 (3 archivos)
+Método: pattern_analysis
+Archivo base: b364eab5ec5d9596_3f3b3e8c_9b45_4f68_ae3c_a3b3a12f69a1_com_g_spm_fl_1679.jpg
+Archivos del grupo:
+  🎯 b364eab5ec5d9596_3f3b3e8c_9b45_4f68_ae3c_a3b3a12f69a1_com_g_spm_fl_1679.jpg
+     27320a6d8697f20b_3f3b3e8c_9b45_4f68_ae3c_a3b3a12f69a1_com_g_spm_fl_1679_fliptb.jpg
+     c075bdb2d5aed475_3f3b3e8c_9b45_4f68_ae3c_a3b3a12f69a1_com_g_spm_fl_1679_180deg.jpg
+
+Grupo: fl_1306 (3 archivos)
+Método: pattern_analysis
+Archivo base: f22eb9bf068a9fa4_4d142800_be82_4dfb_a550_6fa08fb19984_com_g_spm_fl_1306.jpg
+Archivos del grupo:
+     7ab931749659e160_4d142800_be82_4dfb_a550_6fa08fb19984_com_g_spm_fl_1306_180deg.jpg
+     696b19d2e07bde32_4d142800_be82_4dfb_a550_6fa08fb19984_com_g_spm_fl_1306_fliptb.jpg
+  🎯 f22eb9bf068a9fa4_4d142800_be82_4dfb_a550_6fa08fb19984_com_g_spm_fl_1306.jpg
+
+Grupo: fl_9272 (3 archivos)
+Método: pattern_analysis
+Archivo base: b66402bdc7786305_5d218af0_e5cf_43b7_acce_de9f86baa690_com_g_spm_fl_9272.jpg
+Archivos del grupo:
+  🎯 b66402bdc7786305_5d218af0_e5cf_43b7_acce_de9f86baa690_com_g_spm_fl_9272.jpg
+     9b530fd6c3305edb_5d218af0_e5cf_43b7_acce_de9f86baa690_com_g_spm_fl_9272_fliptb.jpg
+     0a96f5a4d0124124_5d218af0_e5cf_43b7_acce_de9f86baa690_com_g_spm_fl_9272_180deg.jpg
+
+Grupo: fl_8549 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9e3a12b96121067b_0b17e71c_fee6_4b5e_9a7d_8ba44d29215f_com_g_spm_fl_8549.jpg
+Archivos del grupo:
+     047825a4b6a4c746_0b17e71c_fee6_4b5e_9a7d_8ba44d29215f_com_g_spm_fl_8549_180deg.jpg
+     dcef167e5aedcc75_0b17e71c_fee6_4b5e_9a7d_8ba44d29215f_com_g_spm_fl_8549_fliptb.jpg
+  🎯 9e3a12b96121067b_0b17e71c_fee6_4b5e_9a7d_8ba44d29215f_com_g_spm_fl_8549.jpg
+
+Grupo: fl_9421 (3 archivos)
+Método: pattern_analysis
+Archivo base: b2efb2bb020ecee2_4f267ed7_b6f7_48f0_9741_8660f78c4507_com_g_spm_fl_9421.jpg
+Archivos del grupo:
+  🎯 b2efb2bb020ecee2_4f267ed7_b6f7_48f0_9741_8660f78c4507_com_g_spm_fl_9421.jpg
+     f9dc972523530f0b_4f267ed7_b6f7_48f0_9741_8660f78c4507_com_g_spm_fl_9421_180deg.jpg
+     64d0661b6c476506_4f267ed7_b6f7_48f0_9741_8660f78c4507_com_g_spm_fl_9421_fliptb.jpg
+
+Grupo: fl_1358 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7bafdfcbf9e9f89c_5a4839d8_71de_41a8_9ca7_d3929c8e95ee_com_g_spm_fl_1358.jpg
+Archivos del grupo:
+     4d2d13a5e269d415_5a4839d8_71de_41a8_9ca7_d3929c8e95ee_com_g_spm_fl_1358_fliptb.jpg
+     755e9d34d2918c78_5a4839d8_71de_41a8_9ca7_d3929c8e95ee_com_g_spm_fl_1358_180deg.jpg
+  🎯 7bafdfcbf9e9f89c_5a4839d8_71de_41a8_9ca7_d3929c8e95ee_com_g_spm_fl_1358.jpg
+
+Grupo: fl_9563 (3 archivos)
+Método: pattern_analysis
+Archivo base: aed54012bef2fb75_1beb7ab1_cb7c_4a42_a5d7_16a643c81100_com_g_spm_fl_9563.jpg
+Archivos del grupo:
+     70c83d853fb29b15_1beb7ab1_cb7c_4a42_a5d7_16a643c81100_com_g_spm_fl_9563_fliptb.jpg
+  🎯 aed54012bef2fb75_1beb7ab1_cb7c_4a42_a5d7_16a643c81100_com_g_spm_fl_9563.jpg
+     708343d883cdd8af_1beb7ab1_cb7c_4a42_a5d7_16a643c81100_com_g_spm_fl_9563_180deg.jpg
+
+Grupo: fl_1328 (3 archivos)
+Método: pattern_analysis
+Archivo base: 145cc8a0910119ee_2cf7009e_f40f_4903_9571_84784d637e7a_com_g_spm_fl_1328.jpg
+Archivos del grupo:
+     3ebe13740539cf42_2cf7009e_f40f_4903_9571_84784d637e7a_com_g_spm_fl_1328_180deg.jpg
+     84fd53b4d4d38cba_2cf7009e_f40f_4903_9571_84784d637e7a_com_g_spm_fl_1328_fliptb.jpg
+  🎯 145cc8a0910119ee_2cf7009e_f40f_4903_9571_84784d637e7a_com_g_spm_fl_1328.jpg
+
+Grupo: fl_1443 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5769ec24afdc8e53_1d7bff81_b441_4f32_8cc0_85dd50b79cf3_com_g_spm_fl_1443.jpg
+Archivos del grupo:
+     3204ec8fa7294050_1d7bff81_b441_4f32_8cc0_85dd50b79cf3_com_g_spm_fl_1443_fliptb.jpg
+  🎯 5769ec24afdc8e53_1d7bff81_b441_4f32_8cc0_85dd50b79cf3_com_g_spm_fl_1443.jpg
+     e40c8de99a6e0db4_1d7bff81_b441_4f32_8cc0_85dd50b79cf3_com_g_spm_fl_1443_180deg.jpg
+
+Grupo: fl_1442 (3 archivos)
+Método: pattern_analysis
+Archivo base: 70a0ce1033158c50_0cc75e2e_9e6f_4b8e_b564_3840c9ecff58_com_g_spm_fl_1442.jpg
+Archivos del grupo:
+     1bc45da1ef65d268_0cc75e2e_9e6f_4b8e_b564_3840c9ecff58_com_g_spm_fl_1442_fliptb.jpg
+  🎯 70a0ce1033158c50_0cc75e2e_9e6f_4b8e_b564_3840c9ecff58_com_g_spm_fl_1442.jpg
+     8275bf5ee4125bdb_0cc75e2e_9e6f_4b8e_b564_3840c9ecff58_com_g_spm_fl_1442_180deg.jpg
+
+Grupo: fl_8924 (3 archivos)
+Método: pattern_analysis
+Archivo base: 64503099d1f8bd5f_3b90769e_82f9_4b5f_93dd_6c2666f3c952_com_g_spm_fl_8924.jpg
+Archivos del grupo:
+     7884128a619e348a_3b90769e_82f9_4b5f_93dd_6c2666f3c952_com_g_spm_fl_8924_180deg.jpg
+     041e73675a914125_3b90769e_82f9_4b5f_93dd_6c2666f3c952_com_g_spm_fl_8924_fliptb.jpg
+  🎯 64503099d1f8bd5f_3b90769e_82f9_4b5f_93dd_6c2666f3c952_com_g_spm_fl_8924.jpg
+
+Grupo: fl_8937 (3 archivos)
+Método: pattern_analysis
+Archivo base: b71869efaf6207a6_0d6a202a_046f_47b2_beec_cc6a1e7deae6_com_g_spm_fl_8937.jpg
+Archivos del grupo:
+  🎯 b71869efaf6207a6_0d6a202a_046f_47b2_beec_cc6a1e7deae6_com_g_spm_fl_8937.jpg
+     73380a1b394187a9_0d6a202a_046f_47b2_beec_cc6a1e7deae6_com_g_spm_fl_8937_fliptb.jpg
+     de11e1a3575a5ef9_0d6a202a_046f_47b2_beec_cc6a1e7deae6_com_g_spm_fl_8937_180deg.jpg
+
+Grupo: fl_1193 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5653e88cf78e6989_03dc4d71_45b6_4845_9f66_3b7aae5375e1_com_g_spm_fl_1193.jpg
+Archivos del grupo:
+  🎯 5653e88cf78e6989_03dc4d71_45b6_4845_9f66_3b7aae5375e1_com_g_spm_fl_1193.jpg
+     07ce1d8625fadf3e_03dc4d71_45b6_4845_9f66_3b7aae5375e1_com_g_spm_fl_1193_fliptb.jpg
+     d03b86c3457edb9a_03dc4d71_45b6_4845_9f66_3b7aae5375e1_com_g_spm_fl_1193_180deg.jpg
+
+Grupo: fl_1583 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4258f01970c1a1d4_3bc0207a_406f_49e9_bf64_7082897ef2a4_com_g_spm_fl_1583.jpg
+Archivos del grupo:
+     773e0fa1f4c9e6b7_3bc0207a_406f_49e9_bf64_7082897ef2a4_com_g_spm_fl_1583_fliptb.jpg
+     8007b08f82bc105a_3bc0207a_406f_49e9_bf64_7082897ef2a4_com_g_spm_fl_1583_180deg.jpg
+  🎯 4258f01970c1a1d4_3bc0207a_406f_49e9_bf64_7082897ef2a4_com_g_spm_fl_1583.jpg
+
+Grupo: fl_8734 (3 archivos)
+Método: pattern_analysis
+Archivo base: a8a7b2202baee2a2_2c2f7f98_8c5b_4981_bb74_f827c5f963fe_com_g_spm_fl_8734.jpg
+Archivos del grupo:
+  🎯 a8a7b2202baee2a2_2c2f7f98_8c5b_4981_bb74_f827c5f963fe_com_g_spm_fl_8734.jpg
+     0762fac452c97d03_2c2f7f98_8c5b_4981_bb74_f827c5f963fe_com_g_spm_fl_8734_180deg.jpg
+     6b97c8d00627f7d6_2c2f7f98_8c5b_4981_bb74_f827c5f963fe_com_g_spm_fl_8734_fliptb.jpg
+
+Grupo: fl_8608 (3 archivos)
+Método: pattern_analysis
+Archivo base: b12138560e96d010_4e567e3a_d2fe_4eb2_be86_daa1e4a95052_com_g_spm_fl_8608.jpg
+Archivos del grupo:
+     fbc5c77260843ecd_4e567e3a_d2fe_4eb2_be86_daa1e4a95052_com_g_spm_fl_8608_180deg.jpg
+     33ce8b283cd805e5_4e567e3a_d2fe_4eb2_be86_daa1e4a95052_com_g_spm_fl_8608_fliptb.jpg
+  🎯 b12138560e96d010_4e567e3a_d2fe_4eb2_be86_daa1e4a95052_com_g_spm_fl_8608.jpg
+
+Grupo: fl_8613 (3 archivos)
+Método: pattern_analysis
+Archivo base: a459f25b4eef9793_0c817d69_a13f_47d9_be7b_a17eea45774d_com_g_spm_fl_8613.jpg
+Archivos del grupo:
+     3a0ed2c804a76dd5_0c817d69_a13f_47d9_be7b_a17eea45774d_com_g_spm_fl_8613_180deg.jpg
+  🎯 a459f25b4eef9793_0c817d69_a13f_47d9_be7b_a17eea45774d_com_g_spm_fl_8613.jpg
+     db10e2899170cc25_0c817d69_a13f_47d9_be7b_a17eea45774d_com_g_spm_fl_8613_fliptb.jpg
+
+Grupo: fl_9030 (3 archivos)
+Método: pattern_analysis
+Archivo base: 97a755328c2509d5_5d41d1f6_6e1c_401c_9ac3_d81683ea1191_com_g_spm_fl_9030.jpg
+Archivos del grupo:
+  🎯 97a755328c2509d5_5d41d1f6_6e1c_401c_9ac3_d81683ea1191_com_g_spm_fl_9030.jpg
+     d627cd168a460963_5d41d1f6_6e1c_401c_9ac3_d81683ea1191_com_g_spm_fl_9030_180deg.jpg
+     ed490c8160942b26_5d41d1f6_6e1c_401c_9ac3_d81683ea1191_com_g_spm_fl_9030_fliptb.jpg
+
+Grupo: fl_1671 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8153ef0bcf1fe567_3e20bc98_68a5_4afa_8a05_eb570630bfd4_com_g_spm_fl_1671.jpg
+Archivos del grupo:
+     8dd56741c67d2834_3e20bc98_68a5_4afa_8a05_eb570630bfd4_com_g_spm_fl_1671_fliptb.jpg
+     be89e22c7b15646c_3e20bc98_68a5_4afa_8a05_eb570630bfd4_com_g_spm_fl_1671_180deg.jpg
+  🎯 8153ef0bcf1fe567_3e20bc98_68a5_4afa_8a05_eb570630bfd4_com_g_spm_fl_1671.jpg
+
+Grupo: fl_8981 (3 archivos)
+Método: pattern_analysis
+Archivo base: f3e4f993c9863656_4f355304_d619_4594_8370_a0863049bf4d_com_g_spm_fl_8981.jpg
+Archivos del grupo:
+     bab39895961a5005_4f355304_d619_4594_8370_a0863049bf4d_com_g_spm_fl_8981_180deg.jpg
+     a1c32532a9120b60_4f355304_d619_4594_8370_a0863049bf4d_com_g_spm_fl_8981_fliptb.jpg
+  🎯 f3e4f993c9863656_4f355304_d619_4594_8370_a0863049bf4d_com_g_spm_fl_8981.jpg
+
+Grupo: fl_8534 (3 archivos)
+Método: pattern_analysis
+Archivo base: af6abe2f6ed0cc11_04a5f541_9202_4475_b5a0_01c14543f211_com_g_spm_fl_8534.jpg
+Archivos del grupo:
+     07fc7cd25c8a00ef_04a5f541_9202_4475_b5a0_01c14543f211_com_g_spm_fl_8534_fliptb.jpg
+     10a83b5ab21e6810_04a5f541_9202_4475_b5a0_01c14543f211_com_g_spm_fl_8534_180deg.jpg
+  🎯 af6abe2f6ed0cc11_04a5f541_9202_4475_b5a0_01c14543f211_com_g_spm_fl_8534.jpg
+
+Grupo: fl_1466 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0163abf36c2bf324_2f577458_6085_4b56_9291_56a902c577d4_com_g_spm_fl_1466.jpg
+Archivos del grupo:
+  🎯 0163abf36c2bf324_2f577458_6085_4b56_9291_56a902c577d4_com_g_spm_fl_1466.jpg
+     1a4c6ae8efd8866b_2f577458_6085_4b56_9291_56a902c577d4_com_g_spm_fl_1466_fliptb.jpg
+     1558f04dbf0c2ac9_2f577458_6085_4b56_9291_56a902c577d4_com_g_spm_fl_1466_180deg.jpg
+
+Grupo: fl_1242 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2a74db49a2d3608f_3ff572ac_0f2f_494a_9c64_99ae63d318ef_com_g_spm_fl_1242.jpg
+Archivos del grupo:
+  🎯 2a74db49a2d3608f_3ff572ac_0f2f_494a_9c64_99ae63d318ef_com_g_spm_fl_1242.jpg
+     e915a5fe18fe313d_3ff572ac_0f2f_494a_9c64_99ae63d318ef_com_g_spm_fl_1242_180deg.jpg
+     4b580d1e49f1d0b2_3ff572ac_0f2f_494a_9c64_99ae63d318ef_com_g_spm_fl_1242_fliptb.jpg
+
+Grupo: fl_1164 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0572e740f7b99f9a_3f364683_faa4_490f_b512_1f78010fcbe8_com_g_spm_fl_1164.jpg
+Archivos del grupo:
+     5a3bc6b4885ec276_3f364683_faa4_490f_b512_1f78010fcbe8_com_g_spm_fl_1164_180deg.jpg
+  🎯 0572e740f7b99f9a_3f364683_faa4_490f_b512_1f78010fcbe8_com_g_spm_fl_1164.jpg
+     ed580e14920a905f_3f364683_faa4_490f_b512_1f78010fcbe8_com_g_spm_fl_1164_fliptb.jpg
+
+Grupo: fl_9484 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5ac28183a31fcb0c_1ba7b39c_c687_42da_b283_edf7a03b17b7_com_g_spm_fl_9484.jpg
+Archivos del grupo:
+     011e204b73430091_1ba7b39c_c687_42da_b283_edf7a03b17b7_com_g_spm_fl_9484_fliptb.jpg
+     c34ce6735fbb0d27_1ba7b39c_c687_42da_b283_edf7a03b17b7_com_g_spm_fl_9484_180deg.jpg
+  🎯 5ac28183a31fcb0c_1ba7b39c_c687_42da_b283_edf7a03b17b7_com_g_spm_fl_9484.jpg
+
+Grupo: fl_8828 (3 archivos)
+Método: pattern_analysis
+Archivo base: c80b0c4537f0202c_4c9e9795_8252_4c13_84e8_1dd5564f6517_com_g_spm_fl_8828.jpg
+Archivos del grupo:
+     9fca79e5a41df73c_4c9e9795_8252_4c13_84e8_1dd5564f6517_com_g_spm_fl_8828_fliptb.jpg
+  🎯 c80b0c4537f0202c_4c9e9795_8252_4c13_84e8_1dd5564f6517_com_g_spm_fl_8828.jpg
+     0de5a4ef3aa35967_4c9e9795_8252_4c13_84e8_1dd5564f6517_com_g_spm_fl_8828_180deg.jpg
+
+Grupo: fl_1227 (3 archivos)
+Método: pattern_analysis
+Archivo base: 47fa43229564b556_4fc60427_ea10_4975_8ab9_f3b83aa362ea_com_g_spm_fl_1227.jpg
+Archivos del grupo:
+     bec020b26fbb044c_4fc60427_ea10_4975_8ab9_f3b83aa362ea_com_g_spm_fl_1227_180deg.jpg
+     1343d75d0a119c83_4fc60427_ea10_4975_8ab9_f3b83aa362ea_com_g_spm_fl_1227_fliptb.jpg
+  🎯 47fa43229564b556_4fc60427_ea10_4975_8ab9_f3b83aa362ea_com_g_spm_fl_1227.jpg
+
+Grupo: fl_1414 (3 archivos)
+Método: pattern_analysis
+Archivo base: ba4c4472d7a8aad9_003b7929_a364_4e74_be1c_37c4c0a6ec63_com_g_spm_fl_1414.jpg
+Archivos del grupo:
+  🎯 ba4c4472d7a8aad9_003b7929_a364_4e74_be1c_37c4c0a6ec63_com_g_spm_fl_1414.jpg
+     42d8c4c274b25d0c_003b7929_a364_4e74_be1c_37c4c0a6ec63_com_g_spm_fl_1414_180deg.jpg
+     28948f4e671f9c5b_003b7929_a364_4e74_be1c_37c4c0a6ec63_com_g_spm_fl_1414_fliptb.jpg
+
+Grupo: fl_1244 (3 archivos)
+Método: pattern_analysis
+Archivo base: bbda928e8a55d1cb_3b12d772_00c3_4cf9_9e2f_25f6aa027790_com_g_spm_fl_1244.jpg
+Archivos del grupo:
+  🎯 bbda928e8a55d1cb_3b12d772_00c3_4cf9_9e2f_25f6aa027790_com_g_spm_fl_1244.jpg
+     98c944397dbf6b85_3b12d772_00c3_4cf9_9e2f_25f6aa027790_com_g_spm_fl_1244_fliptb.jpg
+     e2b01e456f0ca003_3b12d772_00c3_4cf9_9e2f_25f6aa027790_com_g_spm_fl_1244_180deg.jpg
+
+Grupo: fl_8785 (3 archivos)
+Método: pattern_analysis
+Archivo base: a0c53f058612a184_5ce665bf_79e1_4769_847b_4b8f996eb770_com_g_spm_fl_8785.jpg
+Archivos del grupo:
+     f335aeeab85dea00_5ce665bf_79e1_4769_847b_4b8f996eb770_com_g_spm_fl_8785_fliptb.jpg
+  🎯 a0c53f058612a184_5ce665bf_79e1_4769_847b_4b8f996eb770_com_g_spm_fl_8785.jpg
+     028e428803064c70_5ce665bf_79e1_4769_847b_4b8f996eb770_com_g_spm_fl_8785_180deg.jpg
+
+Grupo: fl_1648 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9f2de78cfe1cd204_5a227441_a1a8_4538_b79f_c637fa8e25e1_com_g_spm_fl_1648.jpg
+Archivos del grupo:
+     27e84f77af3e9a61_5a227441_a1a8_4538_b79f_c637fa8e25e1_com_g_spm_fl_1648_180deg.jpg
+     10824eb05ef48b86_5a227441_a1a8_4538_b79f_c637fa8e25e1_com_g_spm_fl_1648_fliptb.jpg
+  🎯 9f2de78cfe1cd204_5a227441_a1a8_4538_b79f_c637fa8e25e1_com_g_spm_fl_1648.jpg
+
+Grupo: fl_1387 (3 archivos)
+Método: pattern_analysis
+Archivo base: f6ac3a73322554ca_4bc9b750_ac19_4da1_88cc_bf8dd46e2272_com_g_spm_fl_1387.jpg
+Archivos del grupo:
+  🎯 f6ac3a73322554ca_4bc9b750_ac19_4da1_88cc_bf8dd46e2272_com_g_spm_fl_1387.jpg
+     9e53321b5d4c2f2e_4bc9b750_ac19_4da1_88cc_bf8dd46e2272_com_g_spm_fl_1387_fliptb.jpg
+     3e4adf2a4702d4b2_4bc9b750_ac19_4da1_88cc_bf8dd46e2272_com_g_spm_fl_1387_180deg.jpg
+
+Grupo: fl_1213 (3 archivos)
+Método: pattern_analysis
+Archivo base: d122f69415da8d10_3fbb18c9_eea8_431b_a4ac_eb791fb580d0_com_g_spm_fl_1213.jpg
+Archivos del grupo:
+  🎯 d122f69415da8d10_3fbb18c9_eea8_431b_a4ac_eb791fb580d0_com_g_spm_fl_1213.jpg
+     b46b5520b4206a35_3fbb18c9_eea8_431b_a4ac_eb791fb580d0_com_g_spm_fl_1213_fliptb.jpg
+     441a22c06b85f248_3fbb18c9_eea8_431b_a4ac_eb791fb580d0_com_g_spm_fl_1213_180deg.jpg
+
+Grupo: fl_9327 (3 archivos)
+Método: pattern_analysis
+Archivo base: e7ece1fa9b8659e7_0a167675_0317_4105_b885_b707b6ea52cf_com_g_spm_fl_9327.jpg
+Archivos del grupo:
+     f54b178d4c0140b4_0a167675_0317_4105_b885_b707b6ea52cf_com_g_spm_fl_9327_180deg.jpg
+     c143c7a92a70d01d_0a167675_0317_4105_b885_b707b6ea52cf_com_g_spm_fl_9327_fliptb.jpg
+  🎯 e7ece1fa9b8659e7_0a167675_0317_4105_b885_b707b6ea52cf_com_g_spm_fl_9327.jpg
+
+Grupo: fl_8967 (3 archivos)
+Método: pattern_analysis
+Archivo base: ad7a12872f6eb9d2_2db5ec80_9a7d_4963_9aaa_24014848a087_com_g_spm_fl_8967.jpg
+Archivos del grupo:
+     fc64e3e7007131a7_2db5ec80_9a7d_4963_9aaa_24014848a087_com_g_spm_fl_8967_180deg.jpg
+  🎯 ad7a12872f6eb9d2_2db5ec80_9a7d_4963_9aaa_24014848a087_com_g_spm_fl_8967.jpg
+     cbfd0ae44e097e12_2db5ec80_9a7d_4963_9aaa_24014848a087_com_g_spm_fl_8967_fliptb.jpg
+
+Grupo: fl_1312 (3 archivos)
+Método: pattern_analysis
+Archivo base: b7764a29cd43bfba_1d34e045_0cee_4bea_bd14_3a60de7c255e_com_g_spm_fl_1312.jpg
+Archivos del grupo:
+     080d8535ed27921a_1d34e045_0cee_4bea_bd14_3a60de7c255e_com_g_spm_fl_1312_fliptb.jpg
+     0088ba985b2fa5b8_1d34e045_0cee_4bea_bd14_3a60de7c255e_com_g_spm_fl_1312_180deg.jpg
+  🎯 b7764a29cd43bfba_1d34e045_0cee_4bea_bd14_3a60de7c255e_com_g_spm_fl_1312.jpg
+
+Grupo: fl_1748 (3 archivos)
+Método: pattern_analysis
+Archivo base: 30529fe5cfc3c996_4eb26e2d_1467_4709_8f37_eda9ca1ee92e_com_g_spm_fl_1748.jpg
+Archivos del grupo:
+     49e0a6f21abc8ea6_4eb26e2d_1467_4709_8f37_eda9ca1ee92e_com_g_spm_fl_1748_fliptb.jpg
+     48446fb162a46380_4eb26e2d_1467_4709_8f37_eda9ca1ee92e_com_g_spm_fl_1748_180deg.jpg
+  🎯 30529fe5cfc3c996_4eb26e2d_1467_4709_8f37_eda9ca1ee92e_com_g_spm_fl_1748.jpg
+
+Grupo: fl_8800 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0ea9c98751e535d2_5d765559_4d4d_4afd_8b17_73abc109cb13_com_g_spm_fl_8800.jpg
+Archivos del grupo:
+  🎯 0ea9c98751e535d2_5d765559_4d4d_4afd_8b17_73abc109cb13_com_g_spm_fl_8800.jpg
+     c2591d1a1c7e619e_5d765559_4d4d_4afd_8b17_73abc109cb13_com_g_spm_fl_8800_fliptb.jpg
+     afc8d939c756bddc_5d765559_4d4d_4afd_8b17_73abc109cb13_com_g_spm_fl_8800_180deg.jpg
+
+Grupo: fl_1592 (3 archivos)
+Método: pattern_analysis
+Archivo base: c7e58d0d1f4ada55_0bc5e91c_637e_4a44_a44d_3ee6c941bb96_com_g_spm_fl_1592.jpg
+Archivos del grupo:
+     855b06388edb9b3f_0bc5e91c_637e_4a44_a44d_3ee6c941bb96_com_g_spm_fl_1592_fliptb.jpg
+     89c3cdec50c73b99_0bc5e91c_637e_4a44_a44d_3ee6c941bb96_com_g_spm_fl_1592_180deg.jpg
+  🎯 c7e58d0d1f4ada55_0bc5e91c_637e_4a44_a44d_3ee6c941bb96_com_g_spm_fl_1592.jpg
+
+Grupo: fl_1344 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0f24470ba92ec97f_4abc263b_f7eb_400b_a4b1_50bb812d749a_com_g_spm_fl_1344.jpg
+Archivos del grupo:
+     994eef22ec79b32f_4abc263b_f7eb_400b_a4b1_50bb812d749a_com_g_spm_fl_1344_180deg.jpg
+  🎯 0f24470ba92ec97f_4abc263b_f7eb_400b_a4b1_50bb812d749a_com_g_spm_fl_1344.jpg
+     e340a272037c402d_4abc263b_f7eb_400b_a4b1_50bb812d749a_com_g_spm_fl_1344_fliptb.jpg
+
+Grupo: fl_1440 (3 archivos)
+Método: pattern_analysis
+Archivo base: 145791d45607dc0c_3d56ef50_1028_4b69_b04c_e1800cc740aa_com_g_spm_fl_1440.jpg
+Archivos del grupo:
+     49890a0aa6b4c0a9_3d56ef50_1028_4b69_b04c_e1800cc740aa_com_g_spm_fl_1440_fliptb.jpg
+  🎯 145791d45607dc0c_3d56ef50_1028_4b69_b04c_e1800cc740aa_com_g_spm_fl_1440.jpg
+     d6253ba1a46f1ff4_3d56ef50_1028_4b69_b04c_e1800cc740aa_com_g_spm_fl_1440_180deg.jpg
+
+Grupo: fl_9570 (3 archivos)
+Método: pattern_analysis
+Archivo base: 14bb7c623cd5fb91_2e41a813_b5a7_4501_bec2_e0f2db310a2c_com_g_spm_fl_9570.jpg
+Archivos del grupo:
+  🎯 14bb7c623cd5fb91_2e41a813_b5a7_4501_bec2_e0f2db310a2c_com_g_spm_fl_9570.jpg
+     c81ae0f63afe0de4_2e41a813_b5a7_4501_bec2_e0f2db310a2c_com_g_spm_fl_9570_180deg.jpg
+     c316d3765a5a3cb0_2e41a813_b5a7_4501_bec2_e0f2db310a2c_com_g_spm_fl_9570_fliptb.jpg
+
+Grupo: fl_9288 (3 archivos)
+Método: pattern_analysis
+Archivo base: 42d277592eec36b9_1b9607e3_1eec_4a0f_876b_f7923515b7e6_com_g_spm_fl_9288.jpg
+Archivos del grupo:
+     1ac1870fdb435723_1b9607e3_1eec_4a0f_876b_f7923515b7e6_com_g_spm_fl_9288_180deg.jpg
+  🎯 42d277592eec36b9_1b9607e3_1eec_4a0f_876b_f7923515b7e6_com_g_spm_fl_9288.jpg
+     16f0ceb50c7b1dc3_1b9607e3_1eec_4a0f_876b_f7923515b7e6_com_g_spm_fl_9288_fliptb.jpg
+
+Grupo: fl_9640 (3 archivos)
+Método: pattern_analysis
+Archivo base: 52680011ac3dcdf0_0f94b000_c54f_45c1_b976_22cb57dda0c4_com_g_spm_fl_9640.jpg
+Archivos del grupo:
+  🎯 52680011ac3dcdf0_0f94b000_c54f_45c1_b976_22cb57dda0c4_com_g_spm_fl_9640.jpg
+     129ef545ba17f3cb_0f94b000_c54f_45c1_b976_22cb57dda0c4_com_g_spm_fl_9640_fliptb.jpg
+     09e9310bf05b87b6_0f94b000_c54f_45c1_b976_22cb57dda0c4_com_g_spm_fl_9640_180deg.jpg
+
+Grupo: fl_1188 (3 archivos)
+Método: pattern_analysis
+Archivo base: 800e83b66d5c71e2_2eacde8c_c10b_4768_b5f8_9405673cd19b_com_g_spm_fl_1188.jpg
+Archivos del grupo:
+  🎯 800e83b66d5c71e2_2eacde8c_c10b_4768_b5f8_9405673cd19b_com_g_spm_fl_1188.jpg
+     ffc3531c970b82bb_2eacde8c_c10b_4768_b5f8_9405673cd19b_com_g_spm_fl_1188_180deg.jpg
+     6b6f8c8f78ccb22d_2eacde8c_c10b_4768_b5f8_9405673cd19b_com_g_spm_fl_1188_fliptb.jpg
+
+Grupo: fl_8839 (3 archivos)
+Método: pattern_analysis
+Archivo base: a493b934dd38adaf_2c3edf31_5e58_4122_a909_be004063db57_com_g_spm_fl_8839.jpg
+Archivos del grupo:
+     87dc0df50e0e5337_2c3edf31_5e58_4122_a909_be004063db57_com_g_spm_fl_8839_180deg.jpg
+     2ebc30a46cf8e253_2c3edf31_5e58_4122_a909_be004063db57_com_g_spm_fl_8839_fliptb.jpg
+  🎯 a493b934dd38adaf_2c3edf31_5e58_4122_a909_be004063db57_com_g_spm_fl_8839.jpg
+
+Grupo: fl_9033 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6e9cc5dff5fd8a67_5c701153_8a6c_4661_a943_a7467312552f_com_g_spm_fl_9033.jpg
+Archivos del grupo:
+     6dd2a4406a7d90b5_5c701153_8a6c_4661_a943_a7467312552f_com_g_spm_fl_9033_fliptb.jpg
+  🎯 6e9cc5dff5fd8a67_5c701153_8a6c_4661_a943_a7467312552f_com_g_spm_fl_9033.jpg
+     5296c6522a547ca8_5c701153_8a6c_4661_a943_a7467312552f_com_g_spm_fl_9033_180deg.jpg
+
+Grupo: fl_8993 (3 archivos)
+Método: pattern_analysis
+Archivo base: 01f384ec873d6b01_1b184d8e_69bf_4af8_bdb5_22f477d587c0_com_g_spm_fl_8993.jpg
+Archivos del grupo:
+  🎯 01f384ec873d6b01_1b184d8e_69bf_4af8_bdb5_22f477d587c0_com_g_spm_fl_8993.jpg
+     c7e182bb88766823_1b184d8e_69bf_4af8_bdb5_22f477d587c0_com_g_spm_fl_8993_fliptb.jpg
+     f00925a25de383a8_1b184d8e_69bf_4af8_bdb5_22f477d587c0_com_g_spm_fl_8993_180deg.jpg
+
+Grupo: fl_9433 (3 archivos)
+Método: pattern_analysis
+Archivo base: acf842a37561b748_0a1c03ea_1a2d_449e_bcc4_4a8b62febf88_com_g_spm_fl_9433.jpg
+Archivos del grupo:
+     b5745d05f536d326_0a1c03ea_1a2d_449e_bcc4_4a8b62febf88_com_g_spm_fl_9433_fliptb.jpg
+     5971d5c8eaf31aff_0a1c03ea_1a2d_449e_bcc4_4a8b62febf88_com_g_spm_fl_9433_180deg.jpg
+  🎯 acf842a37561b748_0a1c03ea_1a2d_449e_bcc4_4a8b62febf88_com_g_spm_fl_9433.jpg
+
+Grupo: fl_8963 (3 archivos)
+Método: pattern_analysis
+Archivo base: 77d8d998b38043db_4ceaac12_5d26_494a_be0a_6f7e747a02c2_com_g_spm_fl_8963.jpg
+Archivos del grupo:
+     ad3ee08feb2fbca6_4ceaac12_5d26_494a_be0a_6f7e747a02c2_com_g_spm_fl_8963_fliptb.jpg
+     fc5af34c3057437a_4ceaac12_5d26_494a_be0a_6f7e747a02c2_com_g_spm_fl_8963_180deg.jpg
+  🎯 77d8d998b38043db_4ceaac12_5d26_494a_be0a_6f7e747a02c2_com_g_spm_fl_8963.jpg
+
+Grupo: fl_1726 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4649c6d6f696da99_0f1049cd_1fb5_4792_9b41_8544ee1c18a7_com_g_spm_fl_1726.jpg
+Archivos del grupo:
+     2971da9bcb3d3281_0f1049cd_1fb5_4792_9b41_8544ee1c18a7_com_g_spm_fl_1726_fliptb.jpg
+     c69b58a306454f14_0f1049cd_1fb5_4792_9b41_8544ee1c18a7_com_g_spm_fl_1726_180deg.jpg
+  🎯 4649c6d6f696da99_0f1049cd_1fb5_4792_9b41_8544ee1c18a7_com_g_spm_fl_1726.jpg
+
+Grupo: fl_9444 (3 archivos)
+Método: pattern_analysis
+Archivo base: 77645a3e47d68c9c_0a3ec09c_ccf4_49ab_bae2_f82f913aa9c8_com_g_spm_fl_9444.jpg
+Archivos del grupo:
+  🎯 77645a3e47d68c9c_0a3ec09c_ccf4_49ab_bae2_f82f913aa9c8_com_g_spm_fl_9444.jpg
+     41346ecae2e736ee_0a3ec09c_ccf4_49ab_bae2_f82f913aa9c8_com_g_spm_fl_9444_fliptb.jpg
+     cd091dd0eb7c3064_0a3ec09c_ccf4_49ab_bae2_f82f913aa9c8_com_g_spm_fl_9444_180deg.jpg
+
+Grupo: fl_9282 (3 archivos)
+Método: pattern_analysis
+Archivo base: 28c398ff8c1a994a_5a5afa95_1fb6_477e_a24c_a6fe1cac644f_com_g_spm_fl_9282.jpg
+Archivos del grupo:
+  🎯 28c398ff8c1a994a_5a5afa95_1fb6_477e_a24c_a6fe1cac644f_com_g_spm_fl_9282.jpg
+     81dcbf6c36365a31_5a5afa95_1fb6_477e_a24c_a6fe1cac644f_com_g_spm_fl_9282_fliptb.jpg
+     6e76496c08698b21_5a5afa95_1fb6_477e_a24c_a6fe1cac644f_com_g_spm_fl_9282_180deg.jpg
+
+Grupo: fl_1175 (3 archivos)
+Método: pattern_analysis
+Archivo base: 08c147fde9ade953_5a5bbff6_4eae_4bda_ad08_f781109979cb_com_g_spm_fl_1175.jpg
+Archivos del grupo:
+     dda26e1e50863a32_5a5bbff6_4eae_4bda_ad08_f781109979cb_com_g_spm_fl_1175_fliptb.jpg
+     cbeefbbf0da97562_5a5bbff6_4eae_4bda_ad08_f781109979cb_com_g_spm_fl_1175_180deg.jpg
+  🎯 08c147fde9ade953_5a5bbff6_4eae_4bda_ad08_f781109979cb_com_g_spm_fl_1175.jpg
+
+Grupo: fl_8814 (3 archivos)
+Método: pattern_analysis
+Archivo base: efd85a4cd222e9a7_2ff25000_2715_471d_bb1d_50af786bc8f6_com_g_spm_fl_8814.jpg
+Archivos del grupo:
+     e2fefa388e8e9043_2ff25000_2715_471d_bb1d_50af786bc8f6_com_g_spm_fl_8814_fliptb.jpg
+     5c7e2bd7cc566997_2ff25000_2715_471d_bb1d_50af786bc8f6_com_g_spm_fl_8814_180deg.jpg
+  🎯 efd85a4cd222e9a7_2ff25000_2715_471d_bb1d_50af786bc8f6_com_g_spm_fl_8814.jpg
+
+Grupo: fl_1179 (3 archivos)
+Método: pattern_analysis
+Archivo base: 98178331a9c1ad1f_1f100e65_f5ab_4991_8665_f9fb28f5c0e2_com_g_spm_fl_1179.jpg
+Archivos del grupo:
+     ac2c89206a60ffb1_1f100e65_f5ab_4991_8665_f9fb28f5c0e2_com_g_spm_fl_1179_fliptb.jpg
+     a9fcb58eba0b9ef9_1f100e65_f5ab_4991_8665_f9fb28f5c0e2_com_g_spm_fl_1179_180deg.jpg
+  🎯 98178331a9c1ad1f_1f100e65_f5ab_4991_8665_f9fb28f5c0e2_com_g_spm_fl_1179.jpg
+
+Grupo: fl_1574 (3 archivos)
+Método: pattern_analysis
+Archivo base: 71d89f0be755c6f3_5a6127d7_01c4_45a4_8ee9_fa61266f57e4_com_g_spm_fl_1574.jpg
+Archivos del grupo:
+     21c6aba31c398572_5a6127d7_01c4_45a4_8ee9_fa61266f57e4_com_g_spm_fl_1574_fliptb.jpg
+     7455b468fe674fb7_5a6127d7_01c4_45a4_8ee9_fa61266f57e4_com_g_spm_fl_1574_180deg.jpg
+  🎯 71d89f0be755c6f3_5a6127d7_01c4_45a4_8ee9_fa61266f57e4_com_g_spm_fl_1574.jpg
+
+Grupo: fl_1223 (3 archivos)
+Método: pattern_analysis
+Archivo base: 51759f205e7875cb_3cf4bee8_cd23_461c_b1c4_1d857b37ad76_com_g_spm_fl_1223.jpg
+Archivos del grupo:
+     b34dd2b73bec8fdb_3cf4bee8_cd23_461c_b1c4_1d857b37ad76_com_g_spm_fl_1223_180deg.jpg
+     1976cc78e2ba5c06_3cf4bee8_cd23_461c_b1c4_1d857b37ad76_com_g_spm_fl_1223_fliptb.jpg
+  🎯 51759f205e7875cb_3cf4bee8_cd23_461c_b1c4_1d857b37ad76_com_g_spm_fl_1223.jpg
+
+Grupo: fl_9598 (3 archivos)
+Método: pattern_analysis
+Archivo base: aeb78ff855286228_2c0e3e42_3856_46e3_b12f_57719eeb5ef4_com_g_spm_fl_9598.jpg
+Archivos del grupo:
+  🎯 aeb78ff855286228_2c0e3e42_3856_46e3_b12f_57719eeb5ef4_com_g_spm_fl_9598.jpg
+     8b8173fef6132b5f_2c0e3e42_3856_46e3_b12f_57719eeb5ef4_com_g_spm_fl_9598_180deg.jpg
+     c9f3e1268726975b_2c0e3e42_3856_46e3_b12f_57719eeb5ef4_com_g_spm_fl_9598_fliptb.jpg
+
+Grupo: fl_9434 (3 archivos)
+Método: pattern_analysis
+Archivo base: 1b947be92c7a864f_4ec05191_b512_43a4_91bb_1b4a28d12207_com_g_spm_fl_9434.jpg
+Archivos del grupo:
+     40171395e5bf1342_4ec05191_b512_43a4_91bb_1b4a28d12207_com_g_spm_fl_9434_fliptb.jpg
+  🎯 1b947be92c7a864f_4ec05191_b512_43a4_91bb_1b4a28d12207_com_g_spm_fl_9434.jpg
+     97afbb5ed0add9cb_4ec05191_b512_43a4_91bb_1b4a28d12207_com_g_spm_fl_9434_180deg.jpg
+
+Grupo: fl_1578 (3 archivos)
+Método: pattern_analysis
+Archivo base: e188bbe125302182_1e0febc9_f544_45bb_9a39_69722d288393_com_g_spm_fl_1578.jpg
+Archivos del grupo:
+     9634f7b8b972399c_1e0febc9_f544_45bb_9a39_69722d288393_com_g_spm_fl_1578_fliptb.jpg
+     5e3d5f4b74f4b4dc_1e0febc9_f544_45bb_9a39_69722d288393_com_g_spm_fl_1578_180deg.jpg
+  🎯 e188bbe125302182_1e0febc9_f544_45bb_9a39_69722d288393_com_g_spm_fl_1578.jpg
+
+Grupo: fl_1548 (3 archivos)
+Método: pattern_analysis
+Archivo base: 49b5c25fb0cb4b52_3ed8e245_778d_4003_8f4f_1be77c97978c_com_g_spm_fl_1548.jpg
+Archivos del grupo:
+     ede179ba173c65ff_3ed8e245_778d_4003_8f4f_1be77c97978c_com_g_spm_fl_1548_180deg.jpg
+  🎯 49b5c25fb0cb4b52_3ed8e245_778d_4003_8f4f_1be77c97978c_com_g_spm_fl_1548.jpg
+     5ce2640dd2793cac_3ed8e245_778d_4003_8f4f_1be77c97978c_com_g_spm_fl_1548_fliptb.jpg
+
+Grupo: fl_1727 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0e3b2e662fff4031_2e41d72c_c68b_44f1_8380_ece84ab98bfd_com_g_spm_fl_1727.jpg
+Archivos del grupo:
+  🎯 0e3b2e662fff4031_2e41d72c_c68b_44f1_8380_ece84ab98bfd_com_g_spm_fl_1727.jpg
+     f5c2775887c978a5_2e41d72c_c68b_44f1_8380_ece84ab98bfd_com_g_spm_fl_1727_fliptb.jpg
+     914e7d48d7d8842b_2e41d72c_c68b_44f1_8380_ece84ab98bfd_com_g_spm_fl_1727_180deg.jpg
+
+Grupo: fl_9653 (3 archivos)
+Método: pattern_analysis
+Archivo base: a29f4887a26ca389_03fa54ef_d6cc_40f3_8ae2_469d1ab5b541_com_g_spm_fl_9653.jpg
+Archivos del grupo:
+     be9821554214ab89_03fa54ef_d6cc_40f3_8ae2_469d1ab5b541_com_g_spm_fl_9653_fliptb.jpg
+  🎯 a29f4887a26ca389_03fa54ef_d6cc_40f3_8ae2_469d1ab5b541_com_g_spm_fl_9653.jpg
+     4b60f7df632fc996_03fa54ef_d6cc_40f3_8ae2_469d1ab5b541_com_g_spm_fl_9653_180deg.jpg
+
+Grupo: fl_1541 (3 archivos)
+Método: pattern_analysis
+Archivo base: eef9045eb5444a0b_4a3665bf_932d_4526_95a6_e491354df4ff_com_g_spm_fl_1541.jpg
+Archivos del grupo:
+     3df67f7976edcbad_4a3665bf_932d_4526_95a6_e491354df4ff_com_g_spm_fl_1541_fliptb.jpg
+  🎯 eef9045eb5444a0b_4a3665bf_932d_4526_95a6_e491354df4ff_com_g_spm_fl_1541.jpg
+     8efa89321197b595_4a3665bf_932d_4526_95a6_e491354df4ff_com_g_spm_fl_1541_180deg.jpg
+
+Grupo: fl_1204 (3 archivos)
+Método: pattern_analysis
+Archivo base: 616d957cfd37bfb0_4eafd895_1d10_4f48_8da7_a78220788514_com_g_spm_fl_1204.jpg
+Archivos del grupo:
+  🎯 616d957cfd37bfb0_4eafd895_1d10_4f48_8da7_a78220788514_com_g_spm_fl_1204.jpg
+     08b56bc0928eb38e_4eafd895_1d10_4f48_8da7_a78220788514_com_g_spm_fl_1204_fliptb.jpg
+     646622423eabd15f_4eafd895_1d10_4f48_8da7_a78220788514_com_g_spm_fl_1204_180deg.jpg
+
+Grupo: fl_9302 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6b53b96c9b5e25a2_0e9318de_e920_4d2c_bb61_5ef0a628d273_com_g_spm_fl_9302.jpg
+Archivos del grupo:
+     a84efa90c2373f34_0e9318de_e920_4d2c_bb61_5ef0a628d273_com_g_spm_fl_9302_180deg.jpg
+     e0e38e56c518fd0c_0e9318de_e920_4d2c_bb61_5ef0a628d273_com_g_spm_fl_9302_fliptb.jpg
+  🎯 6b53b96c9b5e25a2_0e9318de_e920_4d2c_bb61_5ef0a628d273_com_g_spm_fl_9302.jpg
+
+Grupo: fl_9018 (3 archivos)
+Método: pattern_analysis
+Archivo base: 121c3131c5ce80cf_0bb186a0_f27a_41b1_b0d2_5cf82eb87251_com_g_spm_fl_9018.jpg
+Archivos del grupo:
+     89e9288a04fee9d1_0bb186a0_f27a_41b1_b0d2_5cf82eb87251_com_g_spm_fl_9018_180deg.jpg
+     137d984e5751cec8_0bb186a0_f27a_41b1_b0d2_5cf82eb87251_com_g_spm_fl_9018_fliptb.jpg
+  🎯 121c3131c5ce80cf_0bb186a0_f27a_41b1_b0d2_5cf82eb87251_com_g_spm_fl_9018.jpg
+
+Grupo: fl_1196 (3 archivos)
+Método: pattern_analysis
+Archivo base: a3ac0e78e62e7fd8_5c0e506b_b1cb_49a7_b764_b80b73d4244e_com_g_spm_fl_1196.jpg
+Archivos del grupo:
+     babfbef063903baa_5c0e506b_b1cb_49a7_b764_b80b73d4244e_com_g_spm_fl_1196_fliptb.jpg
+     a4759849c9135cf9_5c0e506b_b1cb_49a7_b764_b80b73d4244e_com_g_spm_fl_1196_180deg.jpg
+  🎯 a3ac0e78e62e7fd8_5c0e506b_b1cb_49a7_b764_b80b73d4244e_com_g_spm_fl_1196.jpg
+
+Grupo: fl_1146 (3 archivos)
+Método: pattern_analysis
+Archivo base: 99f090a2a7f4f77f_4f67760e_24e8_4a5d_8162_93e0ce8d93f7_com_g_spm_fl_1146.jpg
+Archivos del grupo:
+     b3ba7b8e1ba31432_4f67760e_24e8_4a5d_8162_93e0ce8d93f7_com_g_spm_fl_1146_180deg.jpg
+  🎯 99f090a2a7f4f77f_4f67760e_24e8_4a5d_8162_93e0ce8d93f7_com_g_spm_fl_1146.jpg
+     ef8443edc3c1300f_4f67760e_24e8_4a5d_8162_93e0ce8d93f7_com_g_spm_fl_1146_fliptb.jpg
+
+Grupo: fl_1582 (3 archivos)
+Método: pattern_analysis
+Archivo base: 81cc513293e47de3_5d3d9d20_5a2e_4723_82ef_fa470a003d87_com_g_spm_fl_1582.jpg
+Archivos del grupo:
+  🎯 81cc513293e47de3_5d3d9d20_5a2e_4723_82ef_fa470a003d87_com_g_spm_fl_1582.jpg
+     9a6f863a086480af_5d3d9d20_5a2e_4723_82ef_fa470a003d87_com_g_spm_fl_1582_fliptb.jpg
+     e4141519933843ee_5d3d9d20_5a2e_4723_82ef_fa470a003d87_com_g_spm_fl_1582_180deg.jpg
+
+Grupo: fl_8795 (3 archivos)
+Método: pattern_analysis
+Archivo base: e90940960d54622b_2ec0c679_521d_455f_8741_067470353fe3_com_g_spm_fl_8795.jpg
+Archivos del grupo:
+  🎯 e90940960d54622b_2ec0c679_521d_455f_8741_067470353fe3_com_g_spm_fl_8795.jpg
+     0fce228edb291080_2ec0c679_521d_455f_8741_067470353fe3_com_g_spm_fl_8795_180deg.jpg
+     236443ef136890e7_2ec0c679_521d_455f_8741_067470353fe3_com_g_spm_fl_8795_fliptb.jpg
+
+Grupo: fl_1743 (3 archivos)
+Método: pattern_analysis
+Archivo base: 97c08db137e142e2_0b891169_2116_431d_968f_d2a36bb69243_com_g_spm_fl_1743.jpg
+Archivos del grupo:
+     b898949e2e741930_0b891169_2116_431d_968f_d2a36bb69243_com_g_spm_fl_1743_180deg.jpg
+     4377bfc7c4a034e7_0b891169_2116_431d_968f_d2a36bb69243_com_g_spm_fl_1743_fliptb.jpg
+  🎯 97c08db137e142e2_0b891169_2116_431d_968f_d2a36bb69243_com_g_spm_fl_1743.jpg
+
+Grupo: fl_8582 (3 archivos)
+Método: pattern_analysis
+Archivo base: bdb9734a5ff4efca_3dcda958_8c55_4ef5_a7fa_f166bb69ad38_com_g_spm_fl_8582.jpg
+Archivos del grupo:
+     184f5dbf48a73b2c_3dcda958_8c55_4ef5_a7fa_f166bb69ad38_com_g_spm_fl_8582_fliptb.jpg
+     375867e18c5cf359_3dcda958_8c55_4ef5_a7fa_f166bb69ad38_com_g_spm_fl_8582_180deg.jpg
+  🎯 bdb9734a5ff4efca_3dcda958_8c55_4ef5_a7fa_f166bb69ad38_com_g_spm_fl_8582.jpg
+
+Grupo: fl_1447 (3 archivos)
+Método: pattern_analysis
+Archivo base: fd6bc0a3a8ae3dfc_4dbc8d8b_4d1d_410f_927b_16556e2039c5_com_g_spm_fl_1447.jpg
+Archivos del grupo:
+     cf60d609f3ee489c_4dbc8d8b_4d1d_410f_927b_16556e2039c5_com_g_spm_fl_1447_180deg.jpg
+     15e6f0ac9261a4af_4dbc8d8b_4d1d_410f_927b_16556e2039c5_com_g_spm_fl_1447_fliptb.jpg
+  🎯 fd6bc0a3a8ae3dfc_4dbc8d8b_4d1d_410f_927b_16556e2039c5_com_g_spm_fl_1447.jpg
+
+Grupo: fl_8790 (3 archivos)
+Método: pattern_analysis
+Archivo base: bdc736a0a2e09b18_0fb21160_9113_4c5a_b1d4_7001b5253bb9_com_g_spm_fl_8790.jpg
+Archivos del grupo:
+     71af67ae4f0fc1b6_0fb21160_9113_4c5a_b1d4_7001b5253bb9_com_g_spm_fl_8790_fliptb.jpg
+  🎯 bdc736a0a2e09b18_0fb21160_9113_4c5a_b1d4_7001b5253bb9_com_g_spm_fl_8790.jpg
+     400aecc4b5335cf9_0fb21160_9113_4c5a_b1d4_7001b5253bb9_com_g_spm_fl_8790_180deg.jpg
+
+Grupo: fl_1529 (3 archivos)
+Método: pattern_analysis
+Archivo base: ad70078bb9845d19_1e09bb35_ef0d_4efb_b3eb_320a976a5e13_com_g_spm_fl_1529.jpg
+Archivos del grupo:
+     ba889b277a25289f_1e09bb35_ef0d_4efb_b3eb_320a976a5e13_com_g_spm_fl_1529_180deg.jpg
+  🎯 ad70078bb9845d19_1e09bb35_ef0d_4efb_b3eb_320a976a5e13_com_g_spm_fl_1529.jpg
+     f5495b887d6fe2ae_1e09bb35_ef0d_4efb_b3eb_320a976a5e13_com_g_spm_fl_1529_fliptb.jpg
+
+Grupo: fl_1200 (3 archivos)
+Método: pattern_analysis
+Archivo base: d3c736cae6d4f11e_2d0b5528_6c40_4881_9b9d_bd2cb06a2831_com_g_spm_fl_1200.jpg
+Archivos del grupo:
+     cd40eec7d2d739d1_2d0b5528_6c40_4881_9b9d_bd2cb06a2831_com_g_spm_fl_1200_180deg.jpg
+     01fc4fbb96dfdff1_2d0b5528_6c40_4881_9b9d_bd2cb06a2831_com_g_spm_fl_1200_fliptb.jpg
+  🎯 d3c736cae6d4f11e_2d0b5528_6c40_4881_9b9d_bd2cb06a2831_com_g_spm_fl_1200.jpg
+
+Grupo: fl_9329 (3 archivos)
+Método: pattern_analysis
+Archivo base: 621d7f43bb8078f0_05a76480_4ffe_476f_a101_fdadd8b3fbcf_com_g_spm_fl_9329.jpg
+Archivos del grupo:
+     ea7174675402f0e6_05a76480_4ffe_476f_a101_fdadd8b3fbcf_com_g_spm_fl_9329_180deg.jpg
+  🎯 621d7f43bb8078f0_05a76480_4ffe_476f_a101_fdadd8b3fbcf_com_g_spm_fl_9329.jpg
+     8200965c8c147e7a_05a76480_4ffe_476f_a101_fdadd8b3fbcf_com_g_spm_fl_9329_fliptb.jpg
+
+Grupo: fl_8599 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4742659332cb6db1_4f44e677_ae55_48f2_a439_11d162fcfe3e_com_g_spm_fl_8599.jpg
+Archivos del grupo:
+     29c79dcd5afdbd1b_4f44e677_ae55_48f2_a439_11d162fcfe3e_com_g_spm_fl_8599_180deg.jpg
+  🎯 4742659332cb6db1_4f44e677_ae55_48f2_a439_11d162fcfe3e_com_g_spm_fl_8599.jpg
+     f948bb18fa5c93f0_4f44e677_ae55_48f2_a439_11d162fcfe3e_com_g_spm_fl_8599_fliptb.jpg
+
+Grupo: fl_1185 (3 archivos)
+Método: pattern_analysis
+Archivo base: 721f87bdc701a8d9_5dfe90b9_9c33_4d29_bc96_c08dd5cf5d05_com_g_spm_fl_1185.jpg
+Archivos del grupo:
+  🎯 721f87bdc701a8d9_5dfe90b9_9c33_4d29_bc96_c08dd5cf5d05_com_g_spm_fl_1185.jpg
+     1c5be1bc536a3f59_5dfe90b9_9c33_4d29_bc96_c08dd5cf5d05_com_g_spm_fl_1185_180deg.jpg
+     6b910159095420eb_5dfe90b9_9c33_4d29_bc96_c08dd5cf5d05_com_g_spm_fl_1185_fliptb.jpg
+
+Grupo: fl_9346 (3 archivos)
+Método: pattern_analysis
+Archivo base: 55fedb888e894be8_1fd449fe_904b_4df4_bdb1_a6b5c701efab_com_g_spm_fl_9346.jpg
+Archivos del grupo:
+     b56134fc3784cc3b_1fd449fe_904b_4df4_bdb1_a6b5c701efab_com_g_spm_fl_9346_180deg.jpg
+  🎯 55fedb888e894be8_1fd449fe_904b_4df4_bdb1_a6b5c701efab_com_g_spm_fl_9346.jpg
+     42aa6296189c76f6_1fd449fe_904b_4df4_bdb1_a6b5c701efab_com_g_spm_fl_9346_fliptb.jpg
+
+Grupo: fl_9522 (3 archivos)
+Método: pattern_analysis
+Archivo base: 92a674b8161b410b_2db25538_8655_4530_95e8_025d428e158c_com_g_spm_fl_9522.jpg
+Archivos del grupo:
+     612d4c375b7eb3e8_2db25538_8655_4530_95e8_025d428e158c_com_g_spm_fl_9522_180deg.jpg
+     5fad8cbaff0b5939_2db25538_8655_4530_95e8_025d428e158c_com_g_spm_fl_9522_fliptb.jpg
+  🎯 92a674b8161b410b_2db25538_8655_4530_95e8_025d428e158c_com_g_spm_fl_9522.jpg
+
+Grupo: fl_1187 (3 archivos)
+Método: pattern_analysis
+Archivo base: 97c9181803f98ee9_4c8a4e16_7d22_4352_afa0_c5a2a4bf5983_com_g_spm_fl_1187.jpg
+Archivos del grupo:
+     5bc94f997beb5880_4c8a4e16_7d22_4352_afa0_c5a2a4bf5983_com_g_spm_fl_1187_fliptb.jpg
+  🎯 97c9181803f98ee9_4c8a4e16_7d22_4352_afa0_c5a2a4bf5983_com_g_spm_fl_1187.jpg
+     dc21ee23d2327c23_4c8a4e16_7d22_4352_afa0_c5a2a4bf5983_com_g_spm_fl_1187_180deg.jpg
+
+Grupo: fl_9438 (3 archivos)
+Método: pattern_analysis
+Archivo base: 879130b87d9740fc_4daec425_746f_4816_8bd2_dec04d3292ad_com_g_spm_fl_9438.jpg
+Archivos del grupo:
+     8dad5a4171033ab2_4daec425_746f_4816_8bd2_dec04d3292ad_com_g_spm_fl_9438_fliptb.jpg
+     b4c264b10ac40e17_4daec425_746f_4816_8bd2_dec04d3292ad_com_g_spm_fl_9438_180deg.jpg
+  🎯 879130b87d9740fc_4daec425_746f_4816_8bd2_dec04d3292ad_com_g_spm_fl_9438.jpg
+
+Grupo: fl_8829 (3 archivos)
+Método: pattern_analysis
+Archivo base: f3a8ed10381b39ce_0dd13a82_3fd8_426b_8a87_4e695c92d3b2_com_g_spm_fl_8829.jpg
+Archivos del grupo:
+     9d3c5580d8ca3f4c_0dd13a82_3fd8_426b_8a87_4e695c92d3b2_com_g_spm_fl_8829_180deg.jpg
+  🎯 f3a8ed10381b39ce_0dd13a82_3fd8_426b_8a87_4e695c92d3b2_com_g_spm_fl_8829.jpg
+     77cc3b3df2c56437_0dd13a82_3fd8_426b_8a87_4e695c92d3b2_com_g_spm_fl_8829_fliptb.jpg
+
+Grupo: fl_1483 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5dbc3fe56455ce1a_2f44f20c_6c77_439b_9528_f5ab5242dd4d_com_g_spm_fl_1483.jpg
+Archivos del grupo:
+  🎯 5dbc3fe56455ce1a_2f44f20c_6c77_439b_9528_f5ab5242dd4d_com_g_spm_fl_1483.jpg
+     c0d6f812adb95f5d_2f44f20c_6c77_439b_9528_f5ab5242dd4d_com_g_spm_fl_1483_fliptb.jpg
+     6a302150b965715e_2f44f20c_6c77_439b_9528_f5ab5242dd4d_com_g_spm_fl_1483_180deg.jpg
+
+Grupo: fl_9608 (3 archivos)
+Método: pattern_analysis
+Archivo base: 848b58d0fc19e34a_1ff30221_d082_4dd3_ab7b_0028ecf897db_com_g_spm_fl_9608.jpg
+Archivos del grupo:
+     a925a1b219a874f1_1ff30221_d082_4dd3_ab7b_0028ecf897db_com_g_spm_fl_9608_fliptb.jpg
+  🎯 848b58d0fc19e34a_1ff30221_d082_4dd3_ab7b_0028ecf897db_com_g_spm_fl_9608.jpg
+     754bad2755fde752_1ff30221_d082_4dd3_ab7b_0028ecf897db_com_g_spm_fl_9608_180deg.jpg
+
+Grupo: fl_1656 (3 archivos)
+Método: pattern_analysis
+Archivo base: c7e8594d29b2cb9b_4eb77fce_64d4_4d40_bac3_35d205ce61b9_com_g_spm_fl_1656.jpg
+Archivos del grupo:
+  🎯 c7e8594d29b2cb9b_4eb77fce_64d4_4d40_bac3_35d205ce61b9_com_g_spm_fl_1656.jpg
+     a41b1e5346c2eb8b_4eb77fce_64d4_4d40_bac3_35d205ce61b9_com_g_spm_fl_1656_fliptb.jpg
+     bd9d460e63c74f85_4eb77fce_64d4_4d40_bac3_35d205ce61b9_com_g_spm_fl_1656_180deg.jpg
+
+Grupo: fl_1397 (3 archivos)
+Método: pattern_analysis
+Archivo base: 76f656be326bbd3e_5baabb99_9a77_4b9d_b298_b39042a935d3_com_g_spm_fl_1397.jpg
+Archivos del grupo:
+     45d3994767d325bf_5baabb99_9a77_4b9d_b298_b39042a935d3_com_g_spm_fl_1397_180deg.jpg
+  🎯 76f656be326bbd3e_5baabb99_9a77_4b9d_b298_b39042a935d3_com_g_spm_fl_1397.jpg
+     614458a58252ffa2_5baabb99_9a77_4b9d_b298_b39042a935d3_com_g_spm_fl_1397_fliptb.jpg
+
+Grupo: fl_1313 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7797c1bbb809ce29_3d39341d_dbcb_4453_b193_c00d57af0fe9_com_g_spm_fl_1313.jpg
+Archivos del grupo:
+  🎯 7797c1bbb809ce29_3d39341d_dbcb_4453_b193_c00d57af0fe9_com_g_spm_fl_1313.jpg
+     f80f61b43b2596fd_3d39341d_dbcb_4453_b193_c00d57af0fe9_com_g_spm_fl_1313_180deg.jpg
+     cbe81c3d6acf16d1_3d39341d_dbcb_4453_b193_c00d57af0fe9_com_g_spm_fl_1313_fliptb.jpg
+
+Grupo: fl_1321 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0a3019d2a94baed1_3a2b3d76_060b_41c2_b6e5_44149f209b73_com_g_spm_fl_1321.jpg
+Archivos del grupo:
+     93047018cfb5b7bf_3a2b3d76_060b_41c2_b6e5_44149f209b73_com_g_spm_fl_1321_180deg.jpg
+     ba19354d71c59eb9_3a2b3d76_060b_41c2_b6e5_44149f209b73_com_g_spm_fl_1321_fliptb.jpg
+  🎯 0a3019d2a94baed1_3a2b3d76_060b_41c2_b6e5_44149f209b73_com_g_spm_fl_1321.jpg
+
+Grupo: fl_8706 (3 archivos)
+Método: pattern_analysis
+Archivo base: 455931b94be3c252_5a5cd601_bff2_4815_88da_5f641928aa67_com_g_spm_fl_8706.jpg
+Archivos del grupo:
+     67fbe9f15f57bcfb_5a5cd601_bff2_4815_88da_5f641928aa67_com_g_spm_fl_8706_fliptb.jpg
+  🎯 455931b94be3c252_5a5cd601_bff2_4815_88da_5f641928aa67_com_g_spm_fl_8706.jpg
+     7827f2049c35d74f_5a5cd601_bff2_4815_88da_5f641928aa67_com_g_spm_fl_8706_180deg.jpg
+
+Grupo: fl_1178 (3 archivos)
+Método: pattern_analysis
+Archivo base: f36a7e889d29b635_0a246e71_0551_4603_a017_d1dfc4ea06be_com_g_spm_fl_1178.jpg
+Archivos del grupo:
+     f25602ea1745f861_0a246e71_0551_4603_a017_d1dfc4ea06be_com_g_spm_fl_1178_fliptb.jpg
+     1d2540fdaf76eb40_0a246e71_0551_4603_a017_d1dfc4ea06be_com_g_spm_fl_1178_180deg.jpg
+  🎯 f36a7e889d29b635_0a246e71_0551_4603_a017_d1dfc4ea06be_com_g_spm_fl_1178.jpg
+
+Grupo: fl_1484 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0c1fb012abd69fad_0d5846df_f761_4d38_b10f_7bdb42b989b7_com_g_spm_fl_1484.jpg
+Archivos del grupo:
+     0cefd83914649a26_0d5846df_f761_4d38_b10f_7bdb42b989b7_com_g_spm_fl_1484_fliptb.jpg
+     bdbfd98deb5b2c03_0d5846df_f761_4d38_b10f_7bdb42b989b7_com_g_spm_fl_1484_180deg.jpg
+  🎯 0c1fb012abd69fad_0d5846df_f761_4d38_b10f_7bdb42b989b7_com_g_spm_fl_1484.jpg
+
+Grupo: dscf2712 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2cc95b1fa0177faf_dscf2712_jpg_rf_998b0ba7fefeff2adf6660c48ae39e19.jpg
+Archivos del grupo:
+  🎯 2cc95b1fa0177faf_dscf2712_jpg_rf_998b0ba7fefeff2adf6660c48ae39e19.jpg
+     c3f1dca4e308c900_dscf2712_jpg_rf_e226d5bf12b0953c28c76cd5535d04c1.jpg
+     044023b80d312c4c_dscf2712_jpg_rf_447031153104773f2c17dd56be8cd72c.jpg
+
+Grupo: fl_8803 (3 archivos)
+Método: pattern_analysis
+Archivo base: 054908361377fa94_1d7350c2_9ca5_42c8_89bd_6c6f94dd6459_com_g_spm_fl_8803.jpg
+Archivos del grupo:
+  🎯 054908361377fa94_1d7350c2_9ca5_42c8_89bd_6c6f94dd6459_com_g_spm_fl_8803.jpg
+     e3052bd934c2833b_1d7350c2_9ca5_42c8_89bd_6c6f94dd6459_com_g_spm_fl_8803_180deg.jpg
+     12e787051346a1d8_1d7350c2_9ca5_42c8_89bd_6c6f94dd6459_com_g_spm_fl_8803_fliptb.jpg
+
+Grupo: fl_8497 (3 archivos)
+Método: pattern_analysis
+Archivo base: fd1d11bacdfdbc81_2a6aa96a_1916_4d47_932a_9eda7ca46c91_com_g_spm_fl_8497.jpg
+Archivos del grupo:
+     e630bb81c1dde7f7_2a6aa96a_1916_4d47_932a_9eda7ca46c91_com_g_spm_fl_8497_180deg.jpg
+  🎯 fd1d11bacdfdbc81_2a6aa96a_1916_4d47_932a_9eda7ca46c91_com_g_spm_fl_8497.jpg
+     773b3af960ca335a_2a6aa96a_1916_4d47_932a_9eda7ca46c91_com_g_spm_fl_8497_fliptb.jpg
+
+Grupo: fl_9318 (3 archivos)
+Método: pattern_analysis
+Archivo base: b36e7b2e8d6826ca_4fb875a3_1dd9_4694_92b9_92cd77af7ed9_com_g_spm_fl_9318.jpg
+Archivos del grupo:
+     696477d1518133ad_4fb875a3_1dd9_4694_92b9_92cd77af7ed9_com_g_spm_fl_9318_fliptb.jpg
+     e229f205ba62dc52_4fb875a3_1dd9_4694_92b9_92cd77af7ed9_com_g_spm_fl_9318_180deg.jpg
+  🎯 b36e7b2e8d6826ca_4fb875a3_1dd9_4694_92b9_92cd77af7ed9_com_g_spm_fl_9318.jpg
+
+Grupo: fl_1378 (3 archivos)
+Método: pattern_analysis
+Archivo base: 69c639f3fff41e2b_0db2da38_8650_461a_a785_814cc442f44d_com_g_spm_fl_1378.jpg
+Archivos del grupo:
+     b25cbe4f1e3344c6_0db2da38_8650_461a_a785_814cc442f44d_com_g_spm_fl_1378_180deg.jpg
+     316f90597db1fb31_0db2da38_8650_461a_a785_814cc442f44d_com_g_spm_fl_1378_fliptb.jpg
+  🎯 69c639f3fff41e2b_0db2da38_8650_461a_a785_814cc442f44d_com_g_spm_fl_1378.jpg
+
+Grupo: fl_1522 (3 archivos)
+Método: pattern_analysis
+Archivo base: 95f8719e17d9ac89_1e802d57_3ff5_4527_8c9a_b1b764d6ccc9_com_g_spm_fl_1522.jpg
+Archivos del grupo:
+     12a978fdd1eba571_1e802d57_3ff5_4527_8c9a_b1b764d6ccc9_com_g_spm_fl_1522_fliptb.jpg
+     92c3ce8efb4f26d4_1e802d57_3ff5_4527_8c9a_b1b764d6ccc9_com_g_spm_fl_1522_180deg.jpg
+  🎯 95f8719e17d9ac89_1e802d57_3ff5_4527_8c9a_b1b764d6ccc9_com_g_spm_fl_1522.jpg
+
+Grupo: fl_1285 (3 archivos)
+Método: pattern_analysis
+Archivo base: 5ff77eafbf5cfdf7_1e0e0b1b_bc70_486b_9d85_f6e3ca348516_com_g_spm_fl_1285.jpg
+Archivos del grupo:
+  🎯 5ff77eafbf5cfdf7_1e0e0b1b_bc70_486b_9d85_f6e3ca348516_com_g_spm_fl_1285.jpg
+     071c39550a7909dc_1e0e0b1b_bc70_486b_9d85_f6e3ca348516_com_g_spm_fl_1285_fliptb.jpg
+     256bb67e1696930b_1e0e0b1b_bc70_486b_9d85_f6e3ca348516_com_g_spm_fl_1285_180deg.jpg
+
+Grupo: fl_1390 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3cab258f9d26e8e9_4d19f5b1_d82b_437d_936e_5afaa8ebb885_com_g_spm_fl_1390.jpg
+Archivos del grupo:
+     8132f104fa148160_4d19f5b1_d82b_437d_936e_5afaa8ebb885_com_g_spm_fl_1390_180deg.jpg
+  🎯 3cab258f9d26e8e9_4d19f5b1_d82b_437d_936e_5afaa8ebb885_com_g_spm_fl_1390.jpg
+     f7401ff48ba07933_4d19f5b1_d82b_437d_936e_5afaa8ebb885_com_g_spm_fl_1390_fliptb.jpg
+
+Grupo: fl_8898 (3 archivos)
+Método: pattern_analysis
+Archivo base: a136e1d0a3421b58_5bcce939_5b53_4f75_a02c_e9f947d49ce4_com_g_spm_fl_8898.jpg
+Archivos del grupo:
+     65c0b60861bf5535_5bcce939_5b53_4f75_a02c_e9f947d49ce4_com_g_spm_fl_8898_180deg.jpg
+  🎯 a136e1d0a3421b58_5bcce939_5b53_4f75_a02c_e9f947d49ce4_com_g_spm_fl_8898.jpg
+     69834d601512faf5_5bcce939_5b53_4f75_a02c_e9f947d49ce4_com_g_spm_fl_8898_fliptb.jpg
+
+Grupo: fl_8736 (3 archivos)
+Método: pattern_analysis
+Archivo base: 1422dd3b0e7180cb_5b9ca8f7_fe90_49f6_934e_b27c980065f3_com_g_spm_fl_8736.jpg
+Archivos del grupo:
+     72256e72d569881b_5b9ca8f7_fe90_49f6_934e_b27c980065f3_com_g_spm_fl_8736_fliptb.jpg
+  🎯 1422dd3b0e7180cb_5b9ca8f7_fe90_49f6_934e_b27c980065f3_com_g_spm_fl_8736.jpg
+     6f0000a3dbe187d9_5b9ca8f7_fe90_49f6_934e_b27c980065f3_com_g_spm_fl_8736_180deg.jpg
+
+Grupo: fl_8997 (3 archivos)
+Método: pattern_analysis
+Archivo base: ca87e9563e65142b_3e2da864_f81f_4cd7_8152_744782a3c7c2_com_g_spm_fl_8997.jpg
+Archivos del grupo:
+     b52fc25fe19a7c63_3e2da864_f81f_4cd7_8152_744782a3c7c2_com_g_spm_fl_8997_180deg.jpg
+     9c44b6584b70fb10_3e2da864_f81f_4cd7_8152_744782a3c7c2_com_g_spm_fl_8997_fliptb.jpg
+  🎯 ca87e9563e65142b_3e2da864_f81f_4cd7_8152_744782a3c7c2_com_g_spm_fl_8997.jpg
+
+Grupo: fl_9596 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4929c565be2dde1e_3c4379ee_ffcf_4387_bcc6_3e1bbb98c11e_com_g_spm_fl_9596.jpg
+Archivos del grupo:
+  🎯 4929c565be2dde1e_3c4379ee_ffcf_4387_bcc6_3e1bbb98c11e_com_g_spm_fl_9596.jpg
+     7d29edaf033671d7_3c4379ee_ffcf_4387_bcc6_3e1bbb98c11e_com_g_spm_fl_9596_fliptb.jpg
+     e450240cdb801d9b_3c4379ee_ffcf_4387_bcc6_3e1bbb98c11e_com_g_spm_fl_9596_180deg.jpg
+
+Grupo: fl_1740 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9b1d96867144d394_3ca50b98_7e7c_4164_b53f_abf3c28b513f_com_g_spm_fl_1740.jpg
+Archivos del grupo:
+     43bfa1b25f54dc9e_3ca50b98_7e7c_4164_b53f_abf3c28b513f_com_g_spm_fl_1740_180deg.jpg
+  🎯 9b1d96867144d394_3ca50b98_7e7c_4164_b53f_abf3c28b513f_com_g_spm_fl_1740.jpg
+     70bcc2cd9ef032b9_3ca50b98_7e7c_4164_b53f_abf3c28b513f_com_g_spm_fl_1740_fliptb.jpg
+
+Grupo: fl_1579 (3 archivos)
+Método: pattern_analysis
+Archivo base: 88452166583ffb21_4cab6361_aae6_4bc4_bd5b_d206d4e7e942_com_g_spm_fl_1579.jpg
+Archivos del grupo:
+     0b06c3ea01c9bd2b_4cab6361_aae6_4bc4_bd5b_d206d4e7e942_com_g_spm_fl_1579_180deg.jpg
+     10f1b91ada8bb14a_4cab6361_aae6_4bc4_bd5b_d206d4e7e942_com_g_spm_fl_1579_fliptb.jpg
+  🎯 88452166583ffb21_4cab6361_aae6_4bc4_bd5b_d206d4e7e942_com_g_spm_fl_1579.jpg
+
+Grupo: fl_1441 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4d0606544b341206_4edd3dc5_09c7_465b_8596_03b6cd8ffa78_com_g_spm_fl_1441.jpg
+Archivos del grupo:
+     043f1dab57661db2_4edd3dc5_09c7_465b_8596_03b6cd8ffa78_com_g_spm_fl_1441_180deg.jpg
+  🎯 4d0606544b341206_4edd3dc5_09c7_465b_8596_03b6cd8ffa78_com_g_spm_fl_1441.jpg
+     ecfdc16e22bb8562_4edd3dc5_09c7_465b_8596_03b6cd8ffa78_com_g_spm_fl_1441_fliptb.jpg
+
+Grupo: fl_1386 (3 archivos)
+Método: pattern_analysis
+Archivo base: 16111801515b7d8b_3eab318e_f431_42eb_8990_3f613dbba67b_com_g_spm_fl_1386.jpg
+Archivos del grupo:
+     e6fda86a8c07e13c_3eab318e_f431_42eb_8990_3f613dbba67b_com_g_spm_fl_1386_fliptb.jpg
+     6a5a3d8bd96d08d2_3eab318e_f431_42eb_8990_3f613dbba67b_com_g_spm_fl_1386_180deg.jpg
+  🎯 16111801515b7d8b_3eab318e_f431_42eb_8990_3f613dbba67b_com_g_spm_fl_1386.jpg
+
+Grupo: fl_1598 (3 archivos)
+Método: pattern_analysis
+Archivo base: ec538d8aa2512ed0_05d67c02_8fb8_40dd_bbbe_efdc9837dced_com_g_spm_fl_1598.jpg
+Archivos del grupo:
+  🎯 ec538d8aa2512ed0_05d67c02_8fb8_40dd_bbbe_efdc9837dced_com_g_spm_fl_1598.jpg
+     c515a89a21d4d9fa_05d67c02_8fb8_40dd_bbbe_efdc9837dced_com_g_spm_fl_1598_fliptb.jpg
+     e346f7bdaa5594f5_05d67c02_8fb8_40dd_bbbe_efdc9837dced_com_g_spm_fl_1598_180deg.jpg
+
+Grupo: fl_8658 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7b8431c8c4d0f586_5baec3fa_4a77_4bee_96b3_330696b48f8a_com_g_spm_fl_8658.jpg
+Archivos del grupo:
+     d31e1ed4e5aa1439_5baec3fa_4a77_4bee_96b3_330696b48f8a_com_g_spm_fl_8658_fliptb.jpg
+     642e0fecc49a9919_5baec3fa_4a77_4bee_96b3_330696b48f8a_com_g_spm_fl_8658_180deg.jpg
+  🎯 7b8431c8c4d0f586_5baec3fa_4a77_4bee_96b3_330696b48f8a_com_g_spm_fl_8658.jpg
+
+Grupo: fl_1448 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7bd1bdd9f6c17c27_1c4ea24a_8e30_4fde_8ff3_32c9bbe4b432_com_g_spm_fl_1448.jpg
+Archivos del grupo:
+     5bf359ef69823f3e_1c4ea24a_8e30_4fde_8ff3_32c9bbe4b432_com_g_spm_fl_1448_fliptb.jpg
+     418f1f7c2de8f048_1c4ea24a_8e30_4fde_8ff3_32c9bbe4b432_com_g_spm_fl_1448_180deg.jpg
+  🎯 7bd1bdd9f6c17c27_1c4ea24a_8e30_4fde_8ff3_32c9bbe4b432_com_g_spm_fl_1448.jpg
+
+Grupo: fl_1295 (3 archivos)
+Método: pattern_analysis
+Archivo base: ea7ebeaf9a3edd9f_2ae5364f_20a9_46e9_8ca8_e47710c50446_com_g_spm_fl_1295.jpg
+Archivos del grupo:
+     8dc6d9dfad159884_2ae5364f_20a9_46e9_8ca8_e47710c50446_com_g_spm_fl_1295_fliptb.jpg
+     767cceba05112420_2ae5364f_20a9_46e9_8ca8_e47710c50446_com_g_spm_fl_1295_180deg.jpg
+  🎯 ea7ebeaf9a3edd9f_2ae5364f_20a9_46e9_8ca8_e47710c50446_com_g_spm_fl_1295.jpg
+
+Grupo: fl_8579 (3 archivos)
+Método: pattern_analysis
+Archivo base: 27a3bc2bd2caae0e_0e74fa9e_a63f_46b3_a976_46510e7fdfba_com_g_spm_fl_8579.jpg
+Archivos del grupo:
+     a084690b38ce706e_0e74fa9e_a63f_46b3_a976_46510e7fdfba_com_g_spm_fl_8579_180deg.jpg
+     5e704c022a95f837_0e74fa9e_a63f_46b3_a976_46510e7fdfba_com_g_spm_fl_8579_fliptb.jpg
+  🎯 27a3bc2bd2caae0e_0e74fa9e_a63f_46b3_a976_46510e7fdfba_com_g_spm_fl_8579.jpg
+
+Grupo: fl_1316 (3 archivos)
+Método: pattern_analysis
+Archivo base: 66aedfcd899a3ebb_4a1fef3f_35be_48ca_9e6c_78d5578c727a_com_g_spm_fl_1316.jpg
+Archivos del grupo:
+     656a5ebcc4ae1c9b_4a1fef3f_35be_48ca_9e6c_78d5578c727a_com_g_spm_fl_1316_fliptb.jpg
+  🎯 66aedfcd899a3ebb_4a1fef3f_35be_48ca_9e6c_78d5578c727a_com_g_spm_fl_1316.jpg
+     4f02842a2b58d571_4a1fef3f_35be_48ca_9e6c_78d5578c727a_com_g_spm_fl_1316_180deg.jpg
+
+Grupo: fl_9419 (3 archivos)
+Método: pattern_analysis
+Archivo base: dd51b7ce024f07dc_0d831ad9_bc2a_4168_bbf2_6030f3f886f2_com_g_spm_fl_9419.jpg
+Archivos del grupo:
+     2753847d2f28b3d9_0d831ad9_bc2a_4168_bbf2_6030f3f886f2_com_g_spm_fl_9419_180deg.jpg
+  🎯 dd51b7ce024f07dc_0d831ad9_bc2a_4168_bbf2_6030f3f886f2_com_g_spm_fl_9419.jpg
+     6f40f7115a218c4b_0d831ad9_bc2a_4168_bbf2_6030f3f886f2_com_g_spm_fl_9419_fliptb.jpg
+
+Grupo: fl_8629 (3 archivos)
+Método: pattern_analysis
+Archivo base: 29bd58b8804d4aec_2e9248a1_78c7_4aa8_a696_ab96c6947ceb_com_g_spm_fl_8629.jpg
+Archivos del grupo:
+     27ebf06e6ccb4319_2e9248a1_78c7_4aa8_a696_ab96c6947ceb_com_g_spm_fl_8629_180deg.jpg
+  🎯 29bd58b8804d4aec_2e9248a1_78c7_4aa8_a696_ab96c6947ceb_com_g_spm_fl_8629.jpg
+     ac81dabb234a094d_2e9248a1_78c7_4aa8_a696_ab96c6947ceb_com_g_spm_fl_8629_fliptb.jpg
+
+Grupo: fl_1752 (3 archivos)
+Método: pattern_analysis
+Archivo base: ccc402fd9af0cd21_0db59779_c927_4b54_a258_73344972746b_com_g_spm_fl_1752.jpg
+Archivos del grupo:
+     0ebc5bfb61a43a30_0db59779_c927_4b54_a258_73344972746b_com_g_spm_fl_1752_180deg.jpg
+  🎯 ccc402fd9af0cd21_0db59779_c927_4b54_a258_73344972746b_com_g_spm_fl_1752.jpg
+     41ee2242130bfaed_0db59779_c927_4b54_a258_73344972746b_com_g_spm_fl_1752_fliptb.jpg
+
+Grupo: fl_8953 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0afe62a97be066e0_4a3af292_7433_414b_bda0_0398a3b782fb_com_g_spm_fl_8953.jpg
+Archivos del grupo:
+     dfd531e1217069df_4a3af292_7433_414b_bda0_0398a3b782fb_com_g_spm_fl_8953_180deg.jpg
+  🎯 0afe62a97be066e0_4a3af292_7433_414b_bda0_0398a3b782fb_com_g_spm_fl_8953.jpg
+     62805593d84ef1ba_4a3af292_7433_414b_bda0_0398a3b782fb_com_g_spm_fl_8953_fliptb.jpg
+
+Grupo: fl_8802 (3 archivos)
+Método: pattern_analysis
+Archivo base: d47026d70de8aa0a_0eee4e0a_7952_4973_96c9_2c441f864752_com_g_spm_fl_8802.jpg
+Archivos del grupo:
+  🎯 d47026d70de8aa0a_0eee4e0a_7952_4973_96c9_2c441f864752_com_g_spm_fl_8802.jpg
+     fe422c907ac45cdc_0eee4e0a_7952_4973_96c9_2c441f864752_com_g_spm_fl_8802_fliptb.jpg
+     65045be701a40779_0eee4e0a_7952_4973_96c9_2c441f864752_com_g_spm_fl_8802_180deg.jpg
+
+Grupo: fl_8971 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8785a218a3c28a72_4eb820b8_435d_45c4_a23b_29a375d58bea_com_g_spm_fl_8971.jpg
+Archivos del grupo:
+     78a5ca289e1cfc4a_4eb820b8_435d_45c4_a23b_29a375d58bea_com_g_spm_fl_8971_180deg.jpg
+  🎯 8785a218a3c28a72_4eb820b8_435d_45c4_a23b_29a375d58bea_com_g_spm_fl_8971.jpg
+     532d9e99eb565b19_4eb820b8_435d_45c4_a23b_29a375d58bea_com_g_spm_fl_8971_fliptb.jpg
+
+Grupo: fl_8915 (3 archivos)
+Método: pattern_analysis
+Archivo base: 00fb28d0a0e65e6f_1d1c9133_33c7_476d_a358_8699d5de8e1d_com_g_spm_fl_8915.jpg
+Archivos del grupo:
+     429235aa411eabd1_1d1c9133_33c7_476d_a358_8699d5de8e1d_com_g_spm_fl_8915_180deg.jpg
+     1d4e5582a90fff8f_1d1c9133_33c7_476d_a358_8699d5de8e1d_com_g_spm_fl_8915_fliptb.jpg
+  🎯 00fb28d0a0e65e6f_1d1c9133_33c7_476d_a358_8699d5de8e1d_com_g_spm_fl_8915.jpg
+
+Grupo: fl_9350 (3 archivos)
+Método: pattern_analysis
+Archivo base: 422139e863d6f2e4_0a2b122a_0f23_4c92_8b7a_21b274dffbe5_com_g_spm_fl_9350.jpg
+Archivos del grupo:
+     8a06dbca234395a3_0a2b122a_0f23_4c92_8b7a_21b274dffbe5_com_g_spm_fl_9350_180deg.jpg
+  🎯 422139e863d6f2e4_0a2b122a_0f23_4c92_8b7a_21b274dffbe5_com_g_spm_fl_9350.jpg
+     e8f9a82dfbd15b42_0a2b122a_0f23_4c92_8b7a_21b274dffbe5_com_g_spm_fl_9350_fliptb.jpg
+
+Grupo: fl_9306 (3 archivos)
+Método: pattern_analysis
+Archivo base: cfe247ebb136c0a5_5d0e79cc_2a50_49cf_9d1c_d5dc064545f3_com_g_spm_fl_9306.jpg
+Archivos del grupo:
+  🎯 cfe247ebb136c0a5_5d0e79cc_2a50_49cf_9d1c_d5dc064545f3_com_g_spm_fl_9306.jpg
+     f978f2b289b2b4c5_5d0e79cc_2a50_49cf_9d1c_d5dc064545f3_com_g_spm_fl_9306_fliptb.jpg
+     44837053cb62b2e7_5d0e79cc_2a50_49cf_9d1c_d5dc064545f3_com_g_spm_fl_9306_180deg.jpg
+
+Grupo: fl_9370 (3 archivos)
+Método: pattern_analysis
+Archivo base: 252b59e3f99fdea0_3f76904f_64db_46e5_98e0_6b08d528b459_com_g_spm_fl_9370.jpg
+Archivos del grupo:
+  🎯 252b59e3f99fdea0_3f76904f_64db_46e5_98e0_6b08d528b459_com_g_spm_fl_9370.jpg
+     86261a97a8ae7c5f_3f76904f_64db_46e5_98e0_6b08d528b459_com_g_spm_fl_9370_fliptb.jpg
+     b232cc97cf007217_3f76904f_64db_46e5_98e0_6b08d528b459_com_g_spm_fl_9370_180deg.jpg
+
+Grupo: fl_8667 (3 archivos)
+Método: pattern_analysis
+Archivo base: dd252c13224c5ccb_3d59267d_cf74_4354_a41c_d3f79783fcfd_com_g_spm_fl_8667.jpg
+Archivos del grupo:
+  🎯 dd252c13224c5ccb_3d59267d_cf74_4354_a41c_d3f79783fcfd_com_g_spm_fl_8667.jpg
+     e31764dbd2d611b8_3d59267d_cf74_4354_a41c_d3f79783fcfd_com_g_spm_fl_8667_180deg.jpg
+     5a09cd71f7c87d20_3d59267d_cf74_4354_a41c_d3f79783fcfd_com_g_spm_fl_8667_fliptb.jpg
+
+Grupo: fl_1349 (3 archivos)
+Método: pattern_analysis
+Archivo base: 12c196984c8262c3_3ecafd6d_017a_49aa_bb63_e4e8605df540_com_g_spm_fl_1349.jpg
+Archivos del grupo:
+  🎯 12c196984c8262c3_3ecafd6d_017a_49aa_bb63_e4e8605df540_com_g_spm_fl_1349.jpg
+     bfa7b266bdb180ea_3ecafd6d_017a_49aa_bb63_e4e8605df540_com_g_spm_fl_1349_fliptb.jpg
+     a3b1665b363a20ca_3ecafd6d_017a_49aa_bb63_e4e8605df540_com_g_spm_fl_1349_180deg.jpg
+
+Grupo: fl_1319 (3 archivos)
+Método: pattern_analysis
+Archivo base: e78c06c0f1b2a60b_0eead1ad_106f_4bb7_8e9e_4ed03cdeb7ab_com_g_spm_fl_1319.jpg
+Archivos del grupo:
+  🎯 e78c06c0f1b2a60b_0eead1ad_106f_4bb7_8e9e_4ed03cdeb7ab_com_g_spm_fl_1319.jpg
+     f75a48b17c60b63b_0eead1ad_106f_4bb7_8e9e_4ed03cdeb7ab_com_g_spm_fl_1319_180deg.jpg
+     ebf6b2151cddd7df_0eead1ad_106f_4bb7_8e9e_4ed03cdeb7ab_com_g_spm_fl_1319_fliptb.jpg
+
+Grupo: fl_1453 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8cb025f4d7c647ee_00fa99e8_2605_4d72_be69_98277587d84b_com_g_spm_fl_1453.jpg
+Archivos del grupo:
+     99bdc3ce1392a2e7_00fa99e8_2605_4d72_be69_98277587d84b_com_g_spm_fl_1453_180deg.jpg
+  🎯 8cb025f4d7c647ee_00fa99e8_2605_4d72_be69_98277587d84b_com_g_spm_fl_1453.jpg
+     97ae3f05947b93f0_00fa99e8_2605_4d72_be69_98277587d84b_com_g_spm_fl_1453_fliptb.jpg
+
+Grupo: fl_8890 (3 archivos)
+Método: pattern_analysis
+Archivo base: 59e6aa1343f3df5f_5b92430f_86a7_4845_b0eb_eb4df61797e8_com_g_spm_fl_8890.jpg
+Archivos del grupo:
+     9fd7b89addc1bcef_5b92430f_86a7_4845_b0eb_eb4df61797e8_com_g_spm_fl_8890_180deg.jpg
+     234a5954c2f4df78_5b92430f_86a7_4845_b0eb_eb4df61797e8_com_g_spm_fl_8890_fliptb.jpg
+  🎯 59e6aa1343f3df5f_5b92430f_86a7_4845_b0eb_eb4df61797e8_com_g_spm_fl_8890.jpg
+
+Grupo: fl_8638 (3 archivos)
+Método: pattern_analysis
+Archivo base: d60e5d956ccd8c1d_1efb352f_b742_4654_a61d_bd9d8f38049b_com_g_spm_fl_8638.jpg
+Archivos del grupo:
+  🎯 d60e5d956ccd8c1d_1efb352f_b742_4654_a61d_bd9d8f38049b_com_g_spm_fl_8638.jpg
+     6fce0995ab4bb84d_1efb352f_b742_4654_a61d_bd9d8f38049b_com_g_spm_fl_8638_180deg.jpg
+     1ef5fe4a371f6e88_1efb352f_b742_4654_a61d_bd9d8f38049b_com_g_spm_fl_8638_fliptb.jpg
+
+Grupo: fl_8845 (3 archivos)
+Método: pattern_analysis
+Archivo base: ce40a9cd4b1e7e91_4ab2b9cc_67cd_417c_934c_5e76a4f9fa49_com_g_spm_fl_8845.jpg
+Archivos del grupo:
+     f4e8854c08c2e9c2_4ab2b9cc_67cd_417c_934c_5e76a4f9fa49_com_g_spm_fl_8845_180deg.jpg
+  🎯 ce40a9cd4b1e7e91_4ab2b9cc_67cd_417c_934c_5e76a4f9fa49_com_g_spm_fl_8845.jpg
+     ff0b37793b7debe6_4ab2b9cc_67cd_417c_934c_5e76a4f9fa49_com_g_spm_fl_8845_fliptb.jpg
+
+Grupo: fl_8857 (3 archivos)
+Método: pattern_analysis
+Archivo base: 83754ae3afe74395_05be6ebc_1641_4707_91da_9b5650b9641a_com_g_spm_fl_8857.jpg
+Archivos del grupo:
+  🎯 83754ae3afe74395_05be6ebc_1641_4707_91da_9b5650b9641a_com_g_spm_fl_8857.jpg
+     bbed74bc19f62f69_05be6ebc_1641_4707_91da_9b5650b9641a_com_g_spm_fl_8857_180deg.jpg
+     90c97724efd915aa_05be6ebc_1641_4707_91da_9b5650b9641a_com_g_spm_fl_8857_fliptb.jpg
+
+Grupo: fl_1203 (3 archivos)
+Método: pattern_analysis
+Archivo base: efc66111d784ffdb_2fad548e_ff9d_4f86_9831_3ce68a76da57_com_g_spm_fl_1203.jpg
+Archivos del grupo:
+     47259335577b723e_2fad548e_ff9d_4f86_9831_3ce68a76da57_com_g_spm_fl_1203_180deg.jpg
+  🎯 efc66111d784ffdb_2fad548e_ff9d_4f86_9831_3ce68a76da57_com_g_spm_fl_1203.jpg
+     35b13d0414053724_2fad548e_ff9d_4f86_9831_3ce68a76da57_com_g_spm_fl_1203_fliptb.jpg
+
+Grupo: fl_1410 (3 archivos)
+Método: pattern_analysis
+Archivo base: e500d8264b0f7e6c_4d8c0ff0_fc0e_4c17_8047_55843cdf22bf_com_g_spm_fl_1410.jpg
+Archivos del grupo:
+     b3ba1321995adc26_4d8c0ff0_fc0e_4c17_8047_55843cdf22bf_com_g_spm_fl_1410_fliptb.jpg
+     c1fb71ea40ace7d1_4d8c0ff0_fc0e_4c17_8047_55843cdf22bf_com_g_spm_fl_1410_180deg.jpg
+  🎯 e500d8264b0f7e6c_4d8c0ff0_fc0e_4c17_8047_55843cdf22bf_com_g_spm_fl_1410.jpg
+
+Grupo: fl_1452 (3 archivos)
+Método: pattern_analysis
+Archivo base: c395464633f204e1_1d7a6c32_da22_42a0_8dca_85b758836bc6_com_g_spm_fl_1452.jpg
+Archivos del grupo:
+     e203111192007a12_1d7a6c32_da22_42a0_8dca_85b758836bc6_com_g_spm_fl_1452_180deg.jpg
+     16e4560b8896aecc_1d7a6c32_da22_42a0_8dca_85b758836bc6_com_g_spm_fl_1452_fliptb.jpg
+  🎯 c395464633f204e1_1d7a6c32_da22_42a0_8dca_85b758836bc6_com_g_spm_fl_1452.jpg
+
+Grupo: fl_8639 (3 archivos)
+Método: pattern_analysis
+Archivo base: cab1503fe9616f94_5b4623f4_cf1e_4135_9fee_d9c6a1120ae8_com_g_spm_fl_8639.jpg
+Archivos del grupo:
+  🎯 cab1503fe9616f94_5b4623f4_cf1e_4135_9fee_d9c6a1120ae8_com_g_spm_fl_8639.jpg
+     d5aecdcc21a86624_5b4623f4_cf1e_4135_9fee_d9c6a1120ae8_com_g_spm_fl_8639_fliptb.jpg
+     44a7d1cf6b8c674b_5b4623f4_cf1e_4135_9fee_d9c6a1120ae8_com_g_spm_fl_8639_180deg.jpg
+
+Grupo: fl_1769 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2d1639b372f69b70_1b51a575_adbd_406b_8371_754b6009e7fb_com_g_spm_fl_1769.jpg
+Archivos del grupo:
+     d9dae1a6145833ce_1b51a575_adbd_406b_8371_754b6009e7fb_com_g_spm_fl_1769_fliptb.jpg
+     ef90aa850871fcc3_1b51a575_adbd_406b_8371_754b6009e7fb_com_g_spm_fl_1769_180deg.jpg
+  🎯 2d1639b372f69b70_1b51a575_adbd_406b_8371_754b6009e7fb_com_g_spm_fl_1769.jpg
+
+Grupo: fl_8591 (3 archivos)
+Método: pattern_analysis
+Archivo base: da707fa2745f6c80_2b92d125_cf19_499f_9987_9579b0ba695b_com_g_spm_fl_8591.jpg
+Archivos del grupo:
+     3770f56137aa9eef_2b92d125_cf19_499f_9987_9579b0ba695b_com_g_spm_fl_8591_fliptb.jpg
+     47be146c06f36190_2b92d125_cf19_499f_9987_9579b0ba695b_com_g_spm_fl_8591_180deg.jpg
+  🎯 da707fa2745f6c80_2b92d125_cf19_499f_9987_9579b0ba695b_com_g_spm_fl_8591.jpg
+
+Grupo: fl_1307 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4f9ffdbeeb553e46_1f3c081d_ddf4_48f7_884b_08b3a5b3ae0a_com_g_spm_fl_1307.jpg
+Archivos del grupo:
+     203af5afd30b960d_1f3c081d_ddf4_48f7_884b_08b3a5b3ae0a_com_g_spm_fl_1307_fliptb.jpg
+     a2dd318ecde93298_1f3c081d_ddf4_48f7_884b_08b3a5b3ae0a_com_g_spm_fl_1307_180deg.jpg
+  🎯 4f9ffdbeeb553e46_1f3c081d_ddf4_48f7_884b_08b3a5b3ae0a_com_g_spm_fl_1307.jpg
+
+Grupo: fl_8521 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8287ab01eb2b4c3b_4c2524a6_1d2b_4a5a_b3f6_3e3b1dc587e9_com_g_spm_fl_8521.jpg
+Archivos del grupo:
+     113d80eac434e89f_4c2524a6_1d2b_4a5a_b3f6_3e3b1dc587e9_com_g_spm_fl_8521_fliptb.jpg
+     58e31946b0e2cb7a_4c2524a6_1d2b_4a5a_b3f6_3e3b1dc587e9_com_g_spm_fl_8521_180deg.jpg
+  🎯 8287ab01eb2b4c3b_4c2524a6_1d2b_4a5a_b3f6_3e3b1dc587e9_com_g_spm_fl_8521.jpg
+
+Grupo: fl_8793 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7f9922fa1b48f3cc_1b50c39d_8e8c_4d76_be2d_9d2c43cf09a6_com_g_spm_fl_8793.jpg
+Archivos del grupo:
+  🎯 7f9922fa1b48f3cc_1b50c39d_8e8c_4d76_be2d_9d2c43cf09a6_com_g_spm_fl_8793.jpg
+     b1d519645dc141d4_1b50c39d_8e8c_4d76_be2d_9d2c43cf09a6_com_g_spm_fl_8793_180deg.jpg
+     7fe6ec8c03afdb0b_1b50c39d_8e8c_4d76_be2d_9d2c43cf09a6_com_g_spm_fl_8793_fliptb.jpg
+
+Grupo: fl_8645 (3 archivos)
+Método: pattern_analysis
+Archivo base: 453bcf9aebdca3d3_4ad85b66_43f0_476f_aee4_a320e793a42f_com_g_spm_fl_8645.jpg
+Archivos del grupo:
+     c8c2485ed3055a79_4ad85b66_43f0_476f_aee4_a320e793a42f_com_g_spm_fl_8645_fliptb.jpg
+  🎯 453bcf9aebdca3d3_4ad85b66_43f0_476f_aee4_a320e793a42f_com_g_spm_fl_8645.jpg
+     20a1545ccd526a0f_4ad85b66_43f0_476f_aee4_a320e793a42f_com_g_spm_fl_8645_180deg.jpg
+
+Grupo: fl_8755 (3 archivos)
+Método: pattern_analysis
+Archivo base: dd0b365bab520364_4d9645fa_c250_4224_b730_21710bf11596_com_g_spm_fl_8755.jpg
+Archivos del grupo:
+     772ed2c5de0ec2a4_4d9645fa_c250_4224_b730_21710bf11596_com_g_spm_fl_8755_180deg.jpg
+     38f6bf056cf145b6_4d9645fa_c250_4224_b730_21710bf11596_com_g_spm_fl_8755_fliptb.jpg
+  🎯 dd0b365bab520364_4d9645fa_c250_4224_b730_21710bf11596_com_g_spm_fl_8755.jpg
+
+Grupo: fl_8904 (3 archivos)
+Método: pattern_analysis
+Archivo base: 6d7a72e3e3180fdc_0cee18fc_bbbd_40dd_8d73_93df072c09ea_com_g_spm_fl_8904.jpg
+Archivos del grupo:
+  🎯 6d7a72e3e3180fdc_0cee18fc_bbbd_40dd_8d73_93df072c09ea_com_g_spm_fl_8904.jpg
+     564d014f1157a1bc_0cee18fc_bbbd_40dd_8d73_93df072c09ea_com_g_spm_fl_8904_180deg.jpg
+     e4523f02406532fc_0cee18fc_bbbd_40dd_8d73_93df072c09ea_com_g_spm_fl_8904_fliptb.jpg
+
+Grupo: fl_8943 (3 archivos)
+Método: pattern_analysis
+Archivo base: 72f2bffba123eaa3_3bcb18e7_7c44_4184_b02a_09eb04957be7_com_g_spm_fl_8943.jpg
+Archivos del grupo:
+     6352725a948eb916_3bcb18e7_7c44_4184_b02a_09eb04957be7_com_g_spm_fl_8943_fliptb.jpg
+     a4142c5d49af104f_3bcb18e7_7c44_4184_b02a_09eb04957be7_com_g_spm_fl_8943_180deg.jpg
+  🎯 72f2bffba123eaa3_3bcb18e7_7c44_4184_b02a_09eb04957be7_com_g_spm_fl_8943.jpg
+
+Grupo: fl_1198 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0b2922ea42821527_3ba4c514_567a_4e4b_9d22_9cf2a957e906_com_g_spm_fl_1198.jpg
+Archivos del grupo:
+     31224cc1404f30aa_3ba4c514_567a_4e4b_9d22_9cf2a957e906_com_g_spm_fl_1198_fliptb.jpg
+  🎯 0b2922ea42821527_3ba4c514_567a_4e4b_9d22_9cf2a957e906_com_g_spm_fl_1198.jpg
+     52d97387ee7f5bf5_3ba4c514_567a_4e4b_9d22_9cf2a957e906_com_g_spm_fl_1198_180deg.jpg
+
+Grupo: fl_9389 (3 archivos)
+Método: pattern_analysis
+Archivo base: 980097fabb88644c_1ea67ad6_cd45_45f3_a5a0_30474042f0fc_com_g_spm_fl_9389.jpg
+Archivos del grupo:
+     9bf9f67f6e390b41_1ea67ad6_cd45_45f3_a5a0_30474042f0fc_com_g_spm_fl_9389_180deg.jpg
+  🎯 980097fabb88644c_1ea67ad6_cd45_45f3_a5a0_30474042f0fc_com_g_spm_fl_9389.jpg
+     bd221c2189e74413_1ea67ad6_cd45_45f3_a5a0_30474042f0fc_com_g_spm_fl_9389_fliptb.jpg
+
+Grupo: fl_9560 (3 archivos)
+Método: pattern_analysis
+Archivo base: b885e95f39695d8c_1dde88ff_2897_4181_834f_e3629e3cd12c_com_g_spm_fl_9560.jpg
+Archivos del grupo:
+     a31bbfcd3261fc1f_1dde88ff_2897_4181_834f_e3629e3cd12c_com_g_spm_fl_9560_fliptb.jpg
+     2c6acf66a1eb84d1_1dde88ff_2897_4181_834f_e3629e3cd12c_com_g_spm_fl_9560_180deg.jpg
+  🎯 b885e95f39695d8c_1dde88ff_2897_4181_834f_e3629e3cd12c_com_g_spm_fl_9560.jpg
+
+Grupo: fl_8489 (3 archivos)
+Método: pattern_analysis
+Archivo base: 05d34380491961fd_0ad80523_3f34_41ae_aec8_e676546ddde5_com_g_spm_fl_8489.jpg
+Archivos del grupo:
+     29691a2946520998_0ad80523_3f34_41ae_aec8_e676546ddde5_com_g_spm_fl_8489_fliptb.jpg
+  🎯 05d34380491961fd_0ad80523_3f34_41ae_aec8_e676546ddde5_com_g_spm_fl_8489.jpg
+     3bfb6316b9303b84_0ad80523_3f34_41ae_aec8_e676546ddde5_com_g_spm_fl_8489_180deg.jpg
+
+Grupo: fl_9649 (3 archivos)
+Método: pattern_analysis
+Archivo base: 59d07b08dee299c3_4d6d5c99_09de_4dea_a9af_802ce6a095b8_com_g_spm_fl_9649.jpg
+Archivos del grupo:
+     5fdce2356f394842_4d6d5c99_09de_4dea_a9af_802ce6a095b8_com_g_spm_fl_9649_180deg.jpg
+     98993fab557c3fd9_4d6d5c99_09de_4dea_a9af_802ce6a095b8_com_g_spm_fl_9649_fliptb.jpg
+  🎯 59d07b08dee299c3_4d6d5c99_09de_4dea_a9af_802ce6a095b8_com_g_spm_fl_9649.jpg
+
+Grupo: fl_1496 (3 archivos)
+Método: pattern_analysis
+Archivo base: 47bd20668e327ac9_0a714292_45d6_483a_bbd0_2eab8fe72888_com_g_spm_fl_1496.jpg
+Archivos del grupo:
+     1ff5f2e276ea023f_0a714292_45d6_483a_bbd0_2eab8fe72888_com_g_spm_fl_1496_180deg.jpg
+     2906b727a69a415a_0a714292_45d6_483a_bbd0_2eab8fe72888_com_g_spm_fl_1496_fliptb.jpg
+  🎯 47bd20668e327ac9_0a714292_45d6_483a_bbd0_2eab8fe72888_com_g_spm_fl_1496.jpg
+
+Grupo: fl_9367 (3 archivos)
+Método: pattern_analysis
+Archivo base: 63c4ed6672549f1b_2fb77f60_ae5b_40c4_b6fb_3c90ac55ccd4_com_g_spm_fl_9367.jpg
+Archivos del grupo:
+     bcf7eb61eb1795b9_2fb77f60_ae5b_40c4_b6fb_3c90ac55ccd4_com_g_spm_fl_9367_180deg.jpg
+  🎯 63c4ed6672549f1b_2fb77f60_ae5b_40c4_b6fb_3c90ac55ccd4_com_g_spm_fl_9367.jpg
+     c2ea5074b60568b1_2fb77f60_ae5b_40c4_b6fb_3c90ac55ccd4_com_g_spm_fl_9367_fliptb.jpg
+
+Grupo: fl_9038 (3 archivos)
+Método: pattern_analysis
+Archivo base: ef617c8dc8e3c64c_0d7c22dc_323c_4979_9dad_0fdbfdeb6e4e_com_g_spm_fl_9038.jpg
+Archivos del grupo:
+     7c5d0c2cc4a38f11_0d7c22dc_323c_4979_9dad_0fdbfdeb6e4e_com_g_spm_fl_9038_fliptb.jpg
+  🎯 ef617c8dc8e3c64c_0d7c22dc_323c_4979_9dad_0fdbfdeb6e4e_com_g_spm_fl_9038.jpg
+     633f6dfe9c8b91c0_0d7c22dc_323c_4979_9dad_0fdbfdeb6e4e_com_g_spm_fl_9038_180deg.jpg
+
+Grupo: fl_1137 (3 archivos)
+Método: pattern_analysis
+Archivo base: 07932572c3d3a315_0b437fa8_c1c8_45f4_b608_bdc6f7e09f84_com_g_spm_fl_1137.jpg
+Archivos del grupo:
+     51bb01bf5fc4492a_0b437fa8_c1c8_45f4_b608_bdc6f7e09f84_com_g_spm_fl_1137_180deg.jpg
+  🎯 07932572c3d3a315_0b437fa8_c1c8_45f4_b608_bdc6f7e09f84_com_g_spm_fl_1137.jpg
+     20fada3b98b164d7_0b437fa8_c1c8_45f4_b608_bdc6f7e09f84_com_g_spm_fl_1137_fliptb.jpg
+
+Grupo: fl_1161 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3ec3ab8496031141_1dd207c1_1fbe_454a_b63f_8051bb26aea8_com_g_spm_fl_1161.jpg
+Archivos del grupo:
+     32bfaacdb825ffe5_1dd207c1_1fbe_454a_b63f_8051bb26aea8_com_g_spm_fl_1161_fliptb.jpg
+     3326b86173bd883d_1dd207c1_1fbe_454a_b63f_8051bb26aea8_com_g_spm_fl_1161_180deg.jpg
+  🎯 3ec3ab8496031141_1dd207c1_1fbe_454a_b63f_8051bb26aea8_com_g_spm_fl_1161.jpg
+
+Grupo: fl_8719 (3 archivos)
+Método: pattern_analysis
+Archivo base: ab36ccdd19857515_3e8c5090_c278_4726_80db_a1d21e6c7e06_com_g_spm_fl_8719.jpg
+Archivos del grupo:
+     3f40df6f5c14f5e2_3e8c5090_c278_4726_80db_a1d21e6c7e06_com_g_spm_fl_8719_fliptb.jpg
+  🎯 ab36ccdd19857515_3e8c5090_c278_4726_80db_a1d21e6c7e06_com_g_spm_fl_8719.jpg
+     83cc4b9cfc35a0b6_3e8c5090_c278_4726_80db_a1d21e6c7e06_com_g_spm_fl_8719_180deg.jpg
+
+Grupo: 05_069f12 (3 archivos)
+Método: pattern_analysis
+Archivo base: d701d59f14a8c8d2_05_069f12_jpg_rf_abf60b680df6a2bf44fd47e0e7d98a33.jpg
+Archivos del grupo:
+  🎯 d701d59f14a8c8d2_05_069f12_jpg_rf_abf60b680df6a2bf44fd47e0e7d98a33.jpg
+     987cb271134782a2_05_069f12_jpg_rf_5b1c3f620615ba7b9c928f6635c1ef96.jpg
+     b3d391600a1e2ad1_05_069f12_jpg_rf_3c2c640506f04b5eac21e1efc13126fb.jpg
+
+Grupo: fl_1389 (3 archivos)
+Método: pattern_analysis
+Archivo base: a391b1557df7f63b_1da21007_3d29_487f_b839_e835993f20d2_com_g_spm_fl_1389.jpg
+Archivos del grupo:
+     7f5b3c73fa535615_1da21007_3d29_487f_b839_e835993f20d2_com_g_spm_fl_1389_fliptb.jpg
+  🎯 a391b1557df7f63b_1da21007_3d29_487f_b839_e835993f20d2_com_g_spm_fl_1389.jpg
+     5153a6f557d99c1b_1da21007_3d29_487f_b839_e835993f20d2_com_g_spm_fl_1389_180deg.jpg
+
+Grupo: fl_8451 (3 archivos)
+Método: pattern_analysis
+Archivo base: 492466e8d1cadb05_1f79e619_5551_4d1e_b5f9_9f097781a967_com_g_spm_fl_8451.jpg
+Archivos del grupo:
+     c63e1e8b739c1a81_1f79e619_5551_4d1e_b5f9_9f097781a967_com_g_spm_fl_8451_180deg.jpg
+  🎯 492466e8d1cadb05_1f79e619_5551_4d1e_b5f9_9f097781a967_com_g_spm_fl_8451.jpg
+     5a3d773039727249_1f79e619_5551_4d1e_b5f9_9f097781a967_com_g_spm_fl_8451_fliptb.jpg
+
+Grupo: fl_8545 (3 archivos)
+Método: pattern_analysis
+Archivo base: 2c1684b6ab7d5215_2af7c6b3_d37c_4f2f_9129_ea679437740c_com_g_spm_fl_8545.jpg
+Archivos del grupo:
+  🎯 2c1684b6ab7d5215_2af7c6b3_d37c_4f2f_9129_ea679437740c_com_g_spm_fl_8545.jpg
+     dfcd258e44bb9602_2af7c6b3_d37c_4f2f_9129_ea679437740c_com_g_spm_fl_8545_fliptb.jpg
+     9b13e135d4c44936_2af7c6b3_d37c_4f2f_9129_ea679437740c_com_g_spm_fl_8545_180deg.jpg
+
+Grupo: fl_9261 (3 archivos)
+Método: pattern_analysis
+Archivo base: 9b6d5df4d4943ec6_2e1daff5_2bc2_4c45_8563_7c6a7a929ddf_com_g_spm_fl_9261.jpg
+Archivos del grupo:
+     cbc9fe6b1070503e_2e1daff5_2bc2_4c45_8563_7c6a7a929ddf_com_g_spm_fl_9261_fliptb.jpg
+  🎯 9b6d5df4d4943ec6_2e1daff5_2bc2_4c45_8563_7c6a7a929ddf_com_g_spm_fl_9261.jpg
+     f99aa05bd8461c8f_2e1daff5_2bc2_4c45_8563_7c6a7a929ddf_com_g_spm_fl_9261_180deg.jpg
+
+Grupo: fl_8926 (3 archivos)
+Método: pattern_analysis
+Archivo base: 0aa3ac5cf5ac4a5d_2fd0efb7_d0fd_4c57_ba78_8e6a3fc5e149_com_g_spm_fl_8926.jpg
+Archivos del grupo:
+     4b58cf1ed120a080_2fd0efb7_d0fd_4c57_ba78_8e6a3fc5e149_com_g_spm_fl_8926_fliptb.jpg
+  🎯 0aa3ac5cf5ac4a5d_2fd0efb7_d0fd_4c57_ba78_8e6a3fc5e149_com_g_spm_fl_8926.jpg
+     76f5bc0357a1e245_2fd0efb7_d0fd_4c57_ba78_8e6a3fc5e149_com_g_spm_fl_8926_180deg.jpg
+
+Grupo: fl_1418 (3 archivos)
+Método: pattern_analysis
+Archivo base: b914d6b0c689b701_2a1b18db_6bbb_4c36_ad06_bf0fcaa5c4b8_com_g_spm_fl_1418.jpg
+Archivos del grupo:
+     835000ce10d69a4b_2a1b18db_6bbb_4c36_ad06_bf0fcaa5c4b8_com_g_spm_fl_1418_180deg.jpg
+     66b76e4cea04bfb8_2a1b18db_6bbb_4c36_ad06_bf0fcaa5c4b8_com_g_spm_fl_1418_fliptb.jpg
+  🎯 b914d6b0c689b701_2a1b18db_6bbb_4c36_ad06_bf0fcaa5c4b8_com_g_spm_fl_1418.jpg
+
+Grupo: fl_9334 (3 archivos)
+Método: pattern_analysis
+Archivo base: 3410462e4eedc860_2cfa680e_a8f9_43b5_856d_cb8fe9607a73_com_g_spm_fl_9334.jpg
+Archivos del grupo:
+     9d29242e94b76362_2cfa680e_a8f9_43b5_856d_cb8fe9607a73_com_g_spm_fl_9334_fliptb.jpg
+  🎯 3410462e4eedc860_2cfa680e_a8f9_43b5_856d_cb8fe9607a73_com_g_spm_fl_9334.jpg
+     f277cb83390522e6_2cfa680e_a8f9_43b5_856d_cb8fe9607a73_com_g_spm_fl_9334_180deg.jpg
+
+Grupo: fl_1775 (3 archivos)
+Método: pattern_analysis
+Archivo base: 1b68c3ffc324ee7d_0a7714a4_530b_49e0_821f_be8d33c588ac_com_g_spm_fl_1775.jpg
+Archivos del grupo:
+     7ed6f28ec80cfb30_0a7714a4_530b_49e0_821f_be8d33c588ac_com_g_spm_fl_1775_180deg.jpg
+  🎯 1b68c3ffc324ee7d_0a7714a4_530b_49e0_821f_be8d33c588ac_com_g_spm_fl_1775.jpg
+     828a952b30763ec7_0a7714a4_530b_49e0_821f_be8d33c588ac_com_g_spm_fl_1775_fliptb.jpg
+
+Grupo: fl_8428 (3 archivos)
+Método: pattern_analysis
+Archivo base: 99172e816c1b418d_0e05cc2b_1209_4a5a_9ae1_26b3dd13204b_com_g_spm_fl_8428.jpg
+Archivos del grupo:
+     f8ad16c0364952e5_0e05cc2b_1209_4a5a_9ae1_26b3dd13204b_com_g_spm_fl_8428_180deg.jpg
+  🎯 99172e816c1b418d_0e05cc2b_1209_4a5a_9ae1_26b3dd13204b_com_g_spm_fl_8428.jpg
+     bddb58b44976d2c9_0e05cc2b_1209_4a5a_9ae1_26b3dd13204b_com_g_spm_fl_8428_fliptb.jpg
+
+Grupo: fl_8824 (3 archivos)
+Método: pattern_analysis
+Archivo base: cbcd944b6f4ff5ce_3b5769b2_b497_47de_9992_bc328452b1ee_com_g_spm_fl_8824.jpg
+Archivos del grupo:
+     fdc6d581b2e181cc_3b5769b2_b497_47de_9992_bc328452b1ee_com_g_spm_fl_8824_180deg.jpg
+  🎯 cbcd944b6f4ff5ce_3b5769b2_b497_47de_9992_bc328452b1ee_com_g_spm_fl_8824.jpg
+     cb6589928828ac11_3b5769b2_b497_47de_9992_bc328452b1ee_com_g_spm_fl_8824_fliptb.jpg
+
+Grupo: fl_8596 (3 archivos)
+Método: pattern_analysis
+Archivo base: 7e386c209ff0f7a1_3d06d27e_cfea_40b4_ac55_9e0dc96f6b55_com_g_spm_fl_8596.jpg
+Archivos del grupo:
+     10f9f4017f6316b8_3d06d27e_cfea_40b4_ac55_9e0dc96f6b55_com_g_spm_fl_8596_180deg.jpg
+  🎯 7e386c209ff0f7a1_3d06d27e_cfea_40b4_ac55_9e0dc96f6b55_com_g_spm_fl_8596.jpg
+     5bca08df628ab0fb_3d06d27e_cfea_40b4_ac55_9e0dc96f6b55_com_g_spm_fl_8596_fliptb.jpg
+
+Grupo: fl_1438 (3 archivos)
+Método: pattern_analysis
+Archivo base: 312601405db9a5f0_0af13d73_170d_4b37_bddf_51a14e597905_com_g_spm_fl_1438.jpg
+Archivos del grupo:
+  🎯 312601405db9a5f0_0af13d73_170d_4b37_bddf_51a14e597905_com_g_spm_fl_1438.jpg
+     56302bd5a7f23e6b_0af13d73_170d_4b37_bddf_51a14e597905_com_g_spm_fl_1438_fliptb.jpg
+     40f1ed2d750162c9_0af13d73_170d_4b37_bddf_51a14e597905_com_g_spm_fl_1438_180deg.jpg
+
+Grupo: fl_9339 (3 archivos)
+Método: pattern_analysis
+Archivo base: dd403092c1c9ecfb_4e381fc2_c150_4199_a8e7_379815b24e35_com_g_spm_fl_9339.jpg
+Archivos del grupo:
+     ca95558862b50272_4e381fc2_c150_4199_a8e7_379815b24e35_com_g_spm_fl_9339_fliptb.jpg
+  🎯 dd403092c1c9ecfb_4e381fc2_c150_4199_a8e7_379815b24e35_com_g_spm_fl_9339.jpg
+     c4d4a79b0d38d23c_4e381fc2_c150_4199_a8e7_379815b24e35_com_g_spm_fl_9339_180deg.jpg
+
+Grupo: fl_8913 (3 archivos)
+Método: pattern_analysis
+Archivo base: 14ffb73a587fa8fe_3ad81dac_39c6_422a_95f9_1a7834d474ec_com_g_spm_fl_8913.jpg
+Archivos del grupo:
+  🎯 14ffb73a587fa8fe_3ad81dac_39c6_422a_95f9_1a7834d474ec_com_g_spm_fl_8913.jpg
+     1da5c8c345e44fb1_3ad81dac_39c6_422a_95f9_1a7834d474ec_com_g_spm_fl_8913_fliptb.jpg
+     50298b2c8f50ce5b_3ad81dac_39c6_422a_95f9_1a7834d474ec_com_g_spm_fl_8913_180deg.jpg
+
+Grupo: fl_8642 (3 archivos)
+Método: pattern_analysis
+Archivo base: f30b8a7b4d9eb33b_4fb1b62d_f244_4198_8643_27a14678180c_com_g_spm_fl_8642.jpg
+Archivos del grupo:
+     8d68a5f34c794a6a_4fb1b62d_f244_4198_8643_27a14678180c_com_g_spm_fl_8642_fliptb.jpg
+     139045d65442e54b_4fb1b62d_f244_4198_8643_27a14678180c_com_g_spm_fl_8642_180deg.jpg
+  🎯 f30b8a7b4d9eb33b_4fb1b62d_f244_4198_8643_27a14678180c_com_g_spm_fl_8642.jpg
+
+Grupo: fl_1284 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8df714835784712c_04b0cccf_da6f_4ad8_9ff9_0055170a990c_com_g_spm_fl_1284.jpg
+Archivos del grupo:
+     b1f298f81fd29aaf_04b0cccf_da6f_4ad8_9ff9_0055170a990c_com_g_spm_fl_1284_fliptb.jpg
+     e9ac3fd1a84f1290_04b0cccf_da6f_4ad8_9ff9_0055170a990c_com_g_spm_fl_1284_180deg.jpg
+  🎯 8df714835784712c_04b0cccf_da6f_4ad8_9ff9_0055170a990c_com_g_spm_fl_1284.jpg
+
+Grupo: fl_8837 (3 archivos)
+Método: pattern_analysis
+Archivo base: c7981bd3103d2bfe_0bfd3a50_768e_4661_a134_43aaee7a1c1d_com_g_spm_fl_8837.jpg
+Archivos del grupo:
+     77a47e83f1f87479_0bfd3a50_768e_4661_a134_43aaee7a1c1d_com_g_spm_fl_8837_fliptb.jpg
+  🎯 c7981bd3103d2bfe_0bfd3a50_768e_4661_a134_43aaee7a1c1d_com_g_spm_fl_8837.jpg
+     bb092dfe8a259f9d_0bfd3a50_768e_4661_a134_43aaee7a1c1d_com_g_spm_fl_8837_180deg.jpg
+
+Grupo: fl_8515 (3 archivos)
+Método: pattern_analysis
+Archivo base: e8f39002c4c1dec9_1dba797c_45b1_4509_8326_753cf2cf7ebe_com_g_spm_fl_8515.jpg
+Archivos del grupo:
+     82eea917e552b2dc_1dba797c_45b1_4509_8326_753cf2cf7ebe_com_g_spm_fl_8515_fliptb.jpg
+  🎯 e8f39002c4c1dec9_1dba797c_45b1_4509_8326_753cf2cf7ebe_com_g_spm_fl_8515.jpg
+     d36d962782c1c585_1dba797c_45b1_4509_8326_753cf2cf7ebe_com_g_spm_fl_8515_180deg.jpg
+
+Grupo: fl_8887 (3 archivos)
+Método: pattern_analysis
+Archivo base: faa058ff99c74d47_4c41c67d_564c_44e2_98e0_b19bc3e10c7c_com_g_spm_fl_8887.jpg
+Archivos del grupo:
+     0a395ce716c16658_4c41c67d_564c_44e2_98e0_b19bc3e10c7c_com_g_spm_fl_8887_180deg.jpg
+     6e607ad0a1995bc2_4c41c67d_564c_44e2_98e0_b19bc3e10c7c_com_g_spm_fl_8887_fliptb.jpg
+  🎯 faa058ff99c74d47_4c41c67d_564c_44e2_98e0_b19bc3e10c7c_com_g_spm_fl_8887.jpg
+
+Grupo: fl_9021 (3 archivos)
+Método: pattern_analysis
+Archivo base: f77e599ca9ef4f95_4bac1537_cc33_460d_901c_70eb70db38a0_com_g_spm_fl_9021.jpg
+Archivos del grupo:
+     c736c49da2f47c58_4bac1537_cc33_460d_901c_70eb70db38a0_com_g_spm_fl_9021_fliptb.jpg
+     636e3cc4a97ed067_4bac1537_cc33_460d_901c_70eb70db38a0_com_g_spm_fl_9021_180deg.jpg
+  🎯 f77e599ca9ef4f95_4bac1537_cc33_460d_901c_70eb70db38a0_com_g_spm_fl_9021.jpg
+
+Grupo: fl_9399 (3 archivos)
+Método: pattern_analysis
+Archivo base: 8ed01d5027caff24_2bc44ebe_0c50_4e13_b174_c7af34098ed9_com_g_spm_fl_9399.jpg
+Archivos del grupo:
+     ece41733c3eb0b5e_2bc44ebe_0c50_4e13_b174_c7af34098ed9_com_g_spm_fl_9399_180deg.jpg
+     3a7ab4992da18fea_2bc44ebe_0c50_4e13_b174_c7af34098ed9_com_g_spm_fl_9399_fliptb.jpg
+  🎯 8ed01d5027caff24_2bc44ebe_0c50_4e13_b174_c7af34098ed9_com_g_spm_fl_9399.jpg
+
+Grupo: fl_1260 (3 archivos)
+Método: pattern_analysis
+Archivo base: 4b78949f9f4109d5_4cf2d9a3_ae18_426a_a455_526aed2167a0_com_g_spm_fl_1260.jpg
+Archivos del grupo:
+     777be2364208da05_4cf2d9a3_ae18_426a_a455_526aed2167a0_com_g_spm_fl_1260_fliptb.jpg
+  🎯 4b78949f9f4109d5_4cf2d9a3_ae18_426a_a455_526aed2167a0_com_g_spm_fl_1260.jpg
+     c28bcc857a1cca76_4cf2d9a3_ae18_426a_a455_526aed2167a0_com_g_spm_fl_1260_180deg.jpg
+
+Grupo: fl_8917 (3 archivos)
+Método: pattern_analysis
+Archivo base: e62b4b41cd68290d_0d835caf_0069_4fa5_a022_c8cc7763189c_com_g_spm_fl_8917.jpg
+Archivos del grupo:
+     bf2bba067d70150d_0d835caf_0069_4fa5_a022_c8cc7763189c_com_g_spm_fl_8917_180deg.jpg
+  🎯 e62b4b41cd68290d_0d835caf_0069_4fa5_a022_c8cc7763189c_com_g_spm_fl_8917.jpg
+     1d3b2599bc391d76_0d835caf_0069_4fa5_a022_c8cc7763189c_com_g_spm_fl_8917_fliptb.jpg
+
+Grupo: fl_9651 (3 archivos)
+Método: pattern_analysis
+Archivo base: c69cc4f72cdfc6e3_2ac9a09c_b68a_4dba_a5c9_ae740fc9b8d4_com_g_spm_fl_9651.jpg
+Archivos del grupo:
+     fbc47cc43b10a437_2ac9a09c_b68a_4dba_a5c9_ae740fc9b8d4_com_g_spm_fl_9651_180deg.jpg
+  🎯 c69cc4f72cdfc6e3_2ac9a09c_b68a_4dba_a5c9_ae740fc9b8d4_com_g_spm_fl_9651.jpg
+     55d6e369dd1a94ce_2ac9a09c_b68a_4dba_a5c9_ae740fc9b8d4_com_g_spm_fl_9651_fliptb.jpg
+
+Grupo: fl_1439 (3 archivos)
+Método: pattern_analysis
+Archivo base: 71b175d7b7185aa5_5bad9c7d_db56_488a_9f62_6fe285b511a3_com_g_spm_fl_1439.jpg
+Archivos del grupo:
+  🎯 71b175d7b7185aa5_5bad9c7d_db56_488a_9f62_6fe285b511a3_com_g_spm_fl_1439.jpg
+     f18efda510570ad0_5bad9c7d_db56_488a_9f62_6fe285b511a3_com_g_spm_fl_1439_fliptb.jpg
+     854f7463f3e19a7d_5bad9c7d_db56_488a_9f62_6fe285b511a3_com_g_spm_fl_1439_180deg.jpg
+
+Grupo: fl_8787 (3 archivos)
+Método: pattern_analysis
+Archivo base: c9fae063e475d500_3b62abc2_b01e_4a47_bc67_fd677a3840fe_com_g_spm_fl_8787.jpg
+Archivos del grupo:
+  🎯 c9fae063e475d500_3b62abc2_b01e_4a47_bc67_fd677a3840fe_com_g_spm_fl_8787.jpg
+     c71fc135483f3938_3b62abc2_b01e_4a47_bc67_fd677a3840fe_com_g_spm_fl_8787_fliptb.jpg
+     c8817ecc91433247_3b62abc2_b01e_4a47_bc67_fd677a3840fe_com_g_spm_fl_8787_180deg.jpg
+
+Grupo: fl_8781 (3 archivos)
+Método: pattern_analysis
+Archivo base: 886209686ec8e5f7_2deab6b3_44aa_4ea1_8b18_13b39117ca2d_com_g_spm_fl_8781.jpg
+Archivos del grupo:
+     42498caa1875ba0b_2deab6b3_44aa_4ea1_8b18_13b39117ca2d_com_g_spm_fl_8781_180deg.jpg
+     ba9956e68c264cda_2deab6b3_44aa_4ea1_8b18_13b39117ca2d_com_g_spm_fl_8781_fliptb.jpg
+  🎯 886209686ec8e5f7_2deab6b3_44aa_4ea1_8b18_13b39117ca2d_com_g_spm_fl_8781.jpg
+
+Grupo: fl_1393 (3 archivos)
+Método: pattern_analysis
+Archivo base: 514681c35b517911_3d7b00e9_5e2b_4fa7_ae44_373b6f09dfe7_com_g_spm_fl_1393.jpg
+Archivos del grupo:
+     494ca5a66b2df1e6_3d7b00e9_5e2b_4fa7_ae44_373b6f09dfe7_com_g_spm_fl_1393_180deg.jpg
+     e2cdaffc0f85be10_3d7b00e9_5e2b_4fa7_ae44_373b6f09dfe7_com_g_spm_fl_1393_fliptb.jpg
+  🎯 514681c35b517911_3d7b00e9_5e2b_4fa7_ae44_373b6f09dfe7_com_g_spm_fl_1393.jpg
+
+Grupo: fl_1557 (3 archivos)
+Método: pattern_analysis
+Archivo base: b1252fe65ac94032_5b7d7af1_b710_4d56_ac06_e4c413321f9c_com_g_spm_fl_1557.jpg
+Archivos del grupo:
+  🎯 b1252fe65ac94032_5b7d7af1_b710_4d56_ac06_e4c413321f9c_com_g_spm_fl_1557.jpg
+     4592e276483a5170_5b7d7af1_b710_4d56_ac06_e4c413321f9c_com_g_spm_fl_1557_180deg.jpg
+     69143454313b326a_5b7d7af1_b710_4d56_ac06_e4c413321f9c_com_g_spm_fl_1557_fliptb.jpg
+
+Grupo: fl_8885 (3 archivos)
+Método: pattern_analysis
+Archivo base: 83ccec359017ac80_4e6c3abe_6ba6_41d2_b748_a349e40a79aa_com_g_spm_fl_8885.jpg
+Archivos del grupo:
+  🎯 83ccec359017ac80_4e6c3abe_6ba6_41d2_b748_a349e40a79aa_com_g_spm_fl_8885.jpg
+     02654079f145417f_4e6c3abe_6ba6_41d2_b748_a349e40a79aa_com_g_spm_fl_8885_180deg.jpg
+     21e758daaf525c2a_4e6c3abe_6ba6_41d2_b748_a349e40a79aa_com_g_spm_fl_8885_fliptb.jpg
+
+Grupo: fl_8692 (3 archivos)
+Método: pattern_analysis
+Archivo base: bb6a91f8c08abff2_5a1d60e3_82e6_468f_8d84_790842a54590_com_g_spm_fl_8692.jpg
+Archivos del grupo:
+     365191d19aeb01e9_5a1d60e3_82e6_468f_8d84_790842a54590_com_g_spm_fl_8692_fliptb.jpg
+  🎯 bb6a91f8c08abff2_5a1d60e3_82e6_468f_8d84_790842a54590_com_g_spm_fl_8692.jpg
+     9ee5f992c13a27a4_5a1d60e3_82e6_468f_8d84_790842a54590_com_g_spm_fl_8692_180deg.jpg
+
+Grupo: fl_1515 (3 archivos)
+Método: pattern_analysis
+Archivo base: f29f26db51a7127a_2f286777_f4b0_4b89_9d29_8942267199dd_com_g_spm_fl_1515.jpg
+Archivos del grupo:
+     6420772bc1eb9a03_2f286777_f4b0_4b89_9d29_8942267199dd_com_g_spm_fl_1515_180deg.jpg
+     ad0aad697bcee443_2f286777_f4b0_4b89_9d29_8942267199dd_com_g_spm_fl_1515_fliptb.jpg
+  🎯 f29f26db51a7127a_2f286777_f4b0_4b89_9d29_8942267199dd_com_g_spm_fl_1515.jpg

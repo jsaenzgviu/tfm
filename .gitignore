@@ -1,0 +1,74 @@
+# ===============================
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.tmp
+*.log
+*.sqlite3
+*.db
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Data/Models
+*.h5
+*.tflite
+*.csv
+*.json
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.npy
+*.npz
+
+# Android/Java
+*.apk
+*.dex
+*.class
+*.jar
+*.ap_
+*.so
+*.gradle
+build/
+intermediates/
+local.properties
+.gradle/
+
+# Reports/Temp
+*.html
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.out
+*.aux
+*.toc
+*.log
+*.tmp
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Exclude experiment results and reports only if not needed for reproducibility
+# Uncomment if you want to ignore them
+# reports/
+# tomato_dataset/*.png
+# tomato_dataset/*.csv
+# tomato_dataset/*.json
+# tomato_dataset/*.h5
+
+# ===============================
+# End of .gitignore

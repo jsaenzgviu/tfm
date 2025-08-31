@@ -1,0 +1,15 @@
+================================================================================
+INFORME DE ARCHIVOS CON HASH SHA256 DUPLICADOS
+================================================================================
+Fecha: 2025-08-25 09:50:31
+Directorio analizado: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/tomato_tomato_mosaic_virus2
+Total de hashes únicos: 335
+Hashes con duplicados: 0
+================================================================================
+
+✓ No se encontraron archivos con hashes duplicados.
+Todos los archivos son únicos según su contenido.
+
+ESTADÍSTICAS DETALLADAS:
+------------------------------
+Total de archivos analizados: 335

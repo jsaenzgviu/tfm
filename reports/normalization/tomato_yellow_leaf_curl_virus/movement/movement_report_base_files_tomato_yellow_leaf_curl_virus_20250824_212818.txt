@@ -1,0 +1,61 @@
+REPORTE DE MOVIMIENTO DE ARCHIVOS BASE
+======================================================================
+
+Fecha: 2025-08-24 21:28:18
+Análisis base: base_files_analysis_tomato_yellow_leaf_curl_virus_20250824_212807.csv
+Método: Identificación de archivos base por patrón
+Directorio origen: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same4/train/tomato_yellow_leaf_curl_virus
+Directorio destino: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same4/train/tomato_yellow_leaf_curl_virus/base_files
+
+Grupos analizados: 34
+Archivos base movidos exitosamente: 34
+Archivos con errores: 0
+
+MÉTODOS UTILIZADOS EN EL ANÁLISIS:
+- pattern_analysis: 78 archivos
+- single_file: 8 archivos
+
+ARCHIVOS BASE MOVIDOS EXITOSAMENTE (34):
+--------------------------------------------------
+✅ ee867b6846351c41_1342017_162221_44540_jpg_rf_23a1b554f636deded60ceaccf67b9c4d.jpg
+✅ acdabd0aaf5f70b8_8226402877_9abf151b5b_b_jpg_rf_a2dff27e03c5ab47916df5d873c1590f.jpg
+✅ bb08cab9cf003f94_tylcvdferrinlr_jpg_rf_ec4fe967510813448703b64facfb2fdf.jpg
+✅ fa8a5a8145eb2dfe_8_virus_damaged_foliage_at_top_versus_healthy_non_infected_bottom_foliage_jpg_rf_f9f5c2c295778b7bd504ec527d4d83a5.jpg
+✅ 5623968415ea9512_dscn1652cropped_jpg_rf_62bbe32dbf5c662ccca7326479a76832.jpg
+✅ 1920bc30e54a59cb_tomato_plant_virus_tomato_yellow_leaf_curl_virus_tomato_plant_disease_mosaic_virus_jpg_rf_e4c7a60e3ae863be3b96c6771bd8b893.jpg
+✅ aa9a98c365d1136c_tylcv1_jpg_rf_c8539dae0c7e3da2ac3e536fe518dfca.jpg
+✅ e898b7ddbae6a051_534ddf3a932e62dd929a3ac1b29bfa29_jpg_rf_643de88a88a3fa4ffb64eabf80963269.jpg
+✅ 01108dd9e289b37d_dsc01999_jpg_jpg_rf_33714f648786538c2dc230488bc918f8.jpg
+✅ ad42cae4193f2179_illustration_thematique_urbino_fig5_plante_20tylcv_jpg_rf_4faf19711bc7f057ca277a460b3eb713.jpg
+✅ 531a95ccf6df5e9f_tlcv_tomato_leaf_curl_virus_symptoms_on_a_glasshouse_tomato_plant_bmyh62_jpg_rf_b34ee7b42b45c0d8b78e207f21b0f9f8.jpg
+✅ a67a1f1f8d898e91_tomato_yellow_leaf_curl_disease_260nw_1006958086_jpg_rf_0e9fbc1cbfcc3895548fee2f9edd2872.jpg
+✅ bef437dfd960e73e_28619919393_7ef44acccc_b_jpg_rf_ce90c9d585067f2e967228ebf84ad0e6.jpg
+✅ c37870d49e80282f_18071_img_jpg_rf_f7921850584a2b43745f059b244275f5.jpg
+✅ b8fb7fd3a7099be9_leaves_on_tomato_plant_turning_yellow_what_does_it_mean_when_your_plant_leaves_turn_yellow_tomato_leaf_problems_a_guide_to_leaves_tomato_plant_turning_yellow_jpg_rf_f2a07c3bb650b2758b123cef723bf9b0.jpg
+✅ d6339b858bd0f9b2_8227475116_0d40e8f21c_b_jpg_rf_b1e10d9a03177f68f4f5ae06a76a04db.jpg
+✅ 3db19b31e33cf93d_tj5itxzunn3k_jpg_rf_4aeda27b2535578e718fe6279491d0d4.jpg
+✅ 1bd2aeef909a2a09_dsc02006_jpg_jpg_rf_8f2ffd781d00a6bceac031618e9479ed.jpg
+✅ 2425689dfaab938b_img_2684_jpg_jpg_rf_63624901f44a7bca485768c8e75690ef.jpg
+✅ 9e8bc757b477556c_29994445671_b6914b44d0_b_jpg_rf_fe8c1417b2350a40fce2257339dd9008.jpg
+✅ f6717a1d5d207200_8226402609_62d16884a7_b_jpg_rf_cd0b6c4bf4f29acadf3b152d89e608ab.jpg
+✅ 31dfb15709fa6df7_tylcv_tomate_db_445_171_jpg_rf_9d70326900dd981ab5d49063b0d644f0.jpg
+✅ 090f9c12870784f9_tylc_jpg_rf_4aeb1389be5d1f40047f4fc79149fdd1.jpg
+✅ c097533c5a5bedbe_tylcv2_jpg_rf_73dd8a722d2a4a7c8a6c9d2b502bfd05.jpg
+✅ dcec738daea5d253_tylcv_tomate_db_441_170_jpg_rf_1951e07f31c2e87ca36ac06309ed152a.jpg
+✅ 3f41ee35afa3d819_dsc02007_jpg_jpg_rf_48624a3517ed066a1046dfb7bf2e9126.jpg
+✅ 7ac93030108ab4d6_tylcv4_jpg_rf_0d5f9fbd2e12607b2345ccedd9d507d9.jpg
+✅ f6ad9db3d26b1396_figure_4_jpg_rf_7f0145c44ff9e28f33f6da9e4f53c0f1.jpg
+✅ a954bcc965795951_tomato_yellow_closeup_3_jpg_rf_7da3e3cfee9138d8457689706f8f81ab.jpg
+✅ 27cf15a8f337e68a_art_15017325188173_a24a66_jpg_rf_51bec96e4b77d0a34c567f5a55089e97.jpg
+✅ a8ecd7f655240592_psyllid_yellows_jpg_rf_dfa133ac22507f433a17bf12c2fb4a81.jpg
+✅ fa4d344f57b6ce15_tlcv_tomato_leaf_curl_virus_symptoms_on_a_glasshouse_tomato_plant_acgag6_jpg_rf_188574ee3c65133a7a3ff79204cdfb76.jpg
+✅ d44cd41a0effb984_tomatoyellowleafcurlcropped_jpg_rf_5fa2fe279c84cb42dd8fd14a1e59af29.jpg
+✅ f650e2cace0a8f8b_latest_cb_20100719124603_jpg_rf_add5453b140e4ae688a169133f8f2ccb.jpg
+
+ESTADÍSTICAS:
+- Total grupos analizados: 34
+- Archivos base identificados: 34
+- Exitosamente movidos: 34
+- Fallidos: 0
+- Tasa de éxito: 100.0%
+- Eficiencia: 100.0% (archivos base/grupos)

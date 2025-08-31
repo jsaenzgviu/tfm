@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <!-- Header -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🍅 Detector de Enfermedades del Tomate"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#2E7D32"
+            android:layout_marginBottom="8dp"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Powered by MobileNetV4 + TensorFlow Lite"
+            android:textSize="14sp"
+            android:textColor="#666"
+            android:layout_marginBottom="24dp"
+            android:gravity="center" />
+
+        <!-- Imagen Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="📸 Imagen a Analizar"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#333"
+                    android:layout_marginBottom="12dp" />
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:scaleType="centerCrop"
+                    android:background="#E0E0E0"
+                    android:src="@drawable/ic_placeholder"
+                    android:layout_marginBottom="16dp" />
+
+                <!-- Botones de captura -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center">
+
+                    <Button
+                        android:id="@+id/captureButton"
+                        android:layout_width="0dp"
+                        android:layout_height="48dp"
+                        android:layout_weight="1"
+                        android:text="📷 Cámara"
+                        android:textColor="@color/white"
+                        android:background="@drawable/button_primary"
+                        android:layout_marginEnd="8dp"
+                        android:textSize="14sp" />
+
+                    <Button
+                        android:id="@+id/galleryButton"
+                        android:layout_width="0dp"
+                        android:layout_height="48dp"
+                        android:layout_weight="1"
+                        android:text="🖼️ Galería"
+                        android:textColor="@color/white"
+                        android:background="@drawable/button_secondary"
+                        android:layout_marginStart="8dp"
+                        android:textSize="14sp" />
+
+                </LinearLayout>
+                <Button
+                    android:id="@+id/shareMetricsButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:text="📊 Compartir métricas"
+                    android:textColor="@color/white"
+                    android:background="@drawable/button_primary"
+                    android:layout_marginTop="12dp"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- Resultados Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🔍 Resultado del Análisis"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#333"
+                    android:layout_marginBottom="12dp" />
+
+                <TextView
+                    android:id="@+id/resultText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Toma una foto o selecciona una imagen de una hoja de tomate"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textColor="#2E7D32"
+                    android:layout_marginBottom="8dp"
+                    android:padding="8dp"
+                    android:background="#E8F5E8"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/confidenceText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="14sp"
+                    android:textColor="#666"
+                    android:layout_marginBottom="12dp"
+                    android:gravity="center" />
+
+                <TextView
+                    android:id="@+id/descriptionText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="La aplicación analizará la imagen y detectará posibles enfermedades"
+                    android:textSize="14sp"
+                    android:textColor="#444"
+                    android:lineSpacingMultiplier="1.2"
+                    android:padding="12dp"
+                    android:background="#F8F8F8" />
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- Información del Modelo Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ℹ️ Información del Modelo"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#333"
+                    android:layout_marginBottom="8dp" />
+
+                <TextView
+                    android:id="@+id/modelInfoText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Cargando información del modelo..."
+                    android:textSize="13sp"
+                    android:textColor="#555"
+                    android:lineSpacingMultiplier="1.3" />
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- Enfermedades Detectables Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🦠 Enfermedades Detectables"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#333"
+                    android:layout_marginBottom="8dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="✅ Planta Saludable\n🔴 Mancha Bacteriana\n🟤 Tizón Temprano\n⚫ Tizón Tardío\n🟫 Moho Foliar\n⚪ Mildiu Polvoriento\n🟡 Mancha Foliar Septoria\n🔴 Araña Roja\n🎯 Mancha Objetivo\n🟢 Virus Mosaico\n🟨 Virus Rizado Amarillo"
+                    android:textSize="13sp"
+                    android:textColor="#555"
+                    android:lineSpacingMultiplier="1.3" />
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- Footer -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Desarrollado para agricultura de precisión\nVersión 1.0.0"
+            android:textSize="12sp"
+            android:textColor="#999"
+            android:gravity="center"
+            android:layout_marginTop="16dp" />
+
+    </LinearLayout>
+
+</ScrollView>

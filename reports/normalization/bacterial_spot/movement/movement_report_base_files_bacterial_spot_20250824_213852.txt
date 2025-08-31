@@ -1,0 +1,188 @@
+REPORTE DE MOVIMIENTO DE ARCHIVOS BASE
+======================================================================
+
+Fecha: 2025-08-24 21:38:52
+Análisis base: base_files_analysis_bacterial_spot_20250824_213838.csv
+Método: Identificación de archivos base por patrón
+Directorio origen: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same4/train/bacterial_spot
+Directorio destino: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same4/train/bacterial_spot/base_files
+
+Grupos analizados: 161
+Archivos base movidos exitosamente: 161
+Archivos con errores: 0
+
+MÉTODOS UTILIZADOS EN EL ANÁLISIS:
+- pattern_analysis: 1014 archivos
+- single_file: 7 archivos
+
+ARCHIVOS BASE MOVIDOS EXITOSAMENTE (161):
+--------------------------------------------------
+✅ 8769c747853c775a_bs101.jpg
+✅ 742c09929244b93f_bs21.jpg
+✅ cfcdd8a9a004065b_bs108.jpg
+✅ c8c1493e0e715668_bs41.jpg
+✅ e4e5ac797d884c66_bs87.jpg
+✅ 6056aea7bf11bfc0_bs37.jpg
+✅ 3cb39b70da7cc5e5_bs106.jpg
+✅ 3cd901bede03d138_bs63.jpg
+✅ 1af20eab306efd1f_bs80.jpg
+✅ 7c8d0fbfc9f1a9be_droppedimage_3_jpg_rf_9a5ea7f57d87daf66314dd096ff8dd5c.jpg
+✅ dbffcdf5aae360a5_bs104.jpg
+✅ 28353e3cb439e51b_bs53.jpg
+✅ c260deea681d8eed_bs24.jpg
+✅ aa3aaeff150f18a2_bs92.jpg
+✅ 8aebdb780c22009f_bs105.jpg
+✅ 87d1464672f0ffc8_bs16.jpg
+✅ 4a41248b66d91064_bs54.jpg
+✅ 8eb95f59d48f2e25_bs67.jpg
+✅ a03b7db2d0c2c96e_bs13.jpg
+✅ 8b0ebf6067260c4f_bs73.jpg
+✅ 4b0f1a7305dae777_bs69.jpg
+✅ 25307974cafb0149_bs96.jpg
+✅ c6664706ca327e2e_bacterialspottomato2_jpg_rf_0288e17b9e001db0a10da913b6d3d6db.jpg
+✅ ec1c772d8fcc883a_bs36.jpg
+✅ 1f6c47cdf643478d_bs8.jpg
+✅ 8498260a2e939f86_bs91.jpg
+✅ fd87ef64e3a74ed6_bs90.jpg
+✅ 1a92e0aaf7dfb330_38849847120_7ae02bd6c3_b_jpg_rf_4467ca620eed28feae9ce47193a42051.jpg
+✅ 870f1c261597961d_bs12.jpg
+✅ ea4fcd82f3ce40bf_bs18.jpg
+✅ a9e59b8ff5e6f57d_bs98.jpg
+✅ f197964accef03c0_bs34.jpg
+✅ 6c5c0544fe0ddbf4_bs17.jpg
+✅ 87405b41ac3507e7_bs100.jpg
+✅ 51fde9776d0262ad_bs46.jpg
+✅ 6cd5e2972e80f0c2_bs74.jpg
+✅ f5af064111e8cacc_paret_fig_1_tomato_bacterial_leaf_spot_jpg_rf_a5dcfdb4b3d403cfb5f18fc873f25a5e.jpg
+✅ dd9f084f52e1ba77_bs50.jpg
+✅ b40d4b9e8f683c5d_bs60.jpg
+✅ b94e96c8ca786d79_bs59.jpg
+✅ 51876b8a40aba263_bs10.jpg
+✅ 7f3f12fca723c48b_bs23.jpg
+✅ 50433ed5201b36a1_bs65.jpg
+✅ 05077120a8938b2d_bs7.jpg
+✅ 6d96d1dc2c05581c_bs30.jpg
+✅ ca12c885ffe0c750_bs102.jpg
+✅ 82ada2adfdbe934d_img_3175_jpg_rf_49bcd50677de47b5dd86997310dca5b2.jpg
+✅ 27d0501fe0d9dc02_photo_1_jpg_rf_5d2741d2c2d2d146782f028de2ac90f8.jpg
+✅ fcfa2523dfc869fc_bacterial_speck_tomato_3_jpg_rf_89f6dec7ccd92d9a0c4ce540d18692b1.jpg
+✅ c447e447cb0e76f2_bs4.jpg
+✅ b9a9f52e38f55384_bs35.jpg
+✅ ba6df29fd3aeb971_bs49.jpg
+✅ fd4d281662789ebf_bacterial_spot_of_tomato_img_2_jpg_rf_e5bb75fbce3d46e24fc9cf824a86d103.jpg
+✅ 4098055aa7d22c90_bs26.jpg
+✅ 35c9694fa4895f53_bs72.jpg
+✅ 09b30bfd95a27903_bs81.jpg
+✅ 3b3acf8742a860c0_bs70.jpg
+✅ 5e24b03194e271f9_bs45.jpg
+✅ 674ddb6aaca8e4e5_b_speck_jpg_rf_d717c6292e301d47136f6947a81c9f7e.jpg
+✅ c6d1936b16caed14_bs107.jpg
+✅ 9e82a444b1c1cade_3182_jpg_rf_4bbbb0f36a8ddaa9657810cce02ebb89.jpg
+✅ d04000680a5dec22_bs71.jpg
+✅ bfb26a77b0bbd40e_pest2371_jpg_rf_9a87743f71cfcf40bd9d42ce5beee67a.jpg
+✅ 8dc268edba696a82_bs68.jpg
+✅ f603720277f2ef8b_140714_2811_29_jpg_jpg_rf_448c2d52393da9ba02c8f2762d66f457.jpg
+✅ 02af838cad51b8d6_stock_photo_bacterial_spot_on_tomato_559799107_jpg_rf_578f8f61e8f635aef5f5ac24926c98aa.jpg
+✅ 059cd0049bd0a9e5_bs9.jpg
+✅ 699d963548c83ef1_bs55.jpg
+✅ b87e45daf746b731_bs93.jpg
+✅ 86b4b1221f5533c4_bs62.jpg
+✅ 6e1eb99868746b39_bs78.jpg
+✅ a91f9ee267648965_bs11.jpg
+✅ f66b32f1067b752d_bs2.jpg
+✅ 21cb31e5f1d84310_bs97.jpg
+✅ 3f9b71d3e49710a7_bs86.jpg
+✅ 294004563a94828e_bs22.jpg
+✅ 8dde4450a9a880b5_leaf_spot_300x253_jpg_rf_2a471652c7beddc76fd5aae547f051b4.jpg
+✅ 1ce3dbf872d27d10_bacterial_speck_tomato1x2400_275mmny_jpg_rf_b2b32ceb7ffb6284e28ff58df0cf46f2.jpg
+✅ 4d4585e091b683b5_bs42.jpg
+✅ b6c7d3eac2386f2b_bs76.jpg
+✅ 9ddc68840923e4ca_bs27.jpg
+✅ a1bf77f72e640435_bs28.jpg
+✅ 3c886b8f44338fa9_bs88.jpg
+✅ 358ea1d567d6ade4_bs57.jpg
+✅ 3f8be5b823108575_figure_3_7_jpg_rf_f4046473d27ab752b9458aef3e36c859.jpg
+✅ bb5a2cd82e6be78d_bs61.jpg
+✅ 1777ee74ddef5dbc_bs5.jpg
+✅ b952112380fdd6ba_bacterial_spots1300_jpg_rf_3330ef1ebf6a4c195a935cfa73e523b6.jpg
+✅ 2e49fdaf9607d587_bs47.jpg
+✅ 03ab7a2b2288d7f9_bs58.jpg
+✅ e0b517911f358651_bs32.jpg
+✅ 1aadca1990d30346_bs75.jpg
+✅ 84a048e1a0c16807_tomato_septoria_5_500x384_jpg_rf_30a13f568b42a9b34556bcea32446285.jpg
+✅ 4b80a14d98e3f681_bs14.jpg
+✅ f6d9730e1de28e86_bact_spot_fig_1_jpg_rf_95458de8ef8bd2452b24dd7dffe0a80a.jpg
+✅ 6feb0f8604102113_tc3_jpg_rf_d6c8f902f11f9c5bb14e70da92f28593.jpg
+✅ 1a74122db07cfbde_tomato_plant_diseases_identification_leaf_spot_tomato_disease_tomato_plant_fungus_identification_jpg_rf_122c19e4191d81e2d313af66e6a0f197.jpg
+✅ 7924cac7301f70dc_bacterialleafspot04_xqxm03_jpg_rf_09891d2ae8ec46ad7055409b4356fdeb.jpg
+✅ 617bc1f238a3bc3a_jeter_20mtn_20farm_7053_jpg_jpg_rf_e9030db80d2ab433c7770de7b890b21b.jpg
+✅ faaf3aaa48dc8383_bs33.jpg
+✅ 2df8620be8aa07e9_bacterial_speck_tomato_2_jpg_rf_bd83bad77881b569b91a68b7e115afad.jpg
+✅ 81c7c5356db633b6_tomato_2bbacterial_2bspot_2bon_2bleaves_jpg_rf_a3dad8813ba0700d89d402e36852a868.jpg
+✅ 3493cdd3d5ad90d6_bs79.jpg
+✅ f9ca6fec9f24afb8_bs38.jpg
+✅ 6824ef75e8b21f0b_bs110.jpg
+✅ 9929d12212929d3c_bs77.jpg
+✅ 03943fff80bb6812_bs40.jpg
+✅ 400ed9b11f4aac35_6134794031202304_jpeg_jpg_rf_51605ce074abdc0be0b857242db850aa.jpg
+✅ f461ed39b426e87a_bs1.jpg
+✅ 7264f58800907298_bacterialspeck03510339f27656b_1scmgh1_jpg_rf_cd18fc51233fe801a3f6ad9281ecb6f3.jpg
+✅ cde3b3c0a7a12abc_bs83.jpg
+✅ 1e4cc657e60a65d0_bs66.jpg
+✅ f6f5619a5e768386_bs64.jpg
+✅ c6aa06317d51c4d8_bs85.jpg
+✅ 92e8f575dcddac47_bch_20medium_20thumbnail_20for_20upload_20_2814_29_jpg_rf_473cf4a1d7f387ad184d360ccbdd2cb5.jpg
+✅ ee8b65bbe613c28b_bs52.jpg
+✅ 0246f999d1202db8_bacterialleafspot07_2jqdlmz_jpg_rf_55145cc875da0f3b1907768ecb09a697.jpg
+✅ 20de457e1725c1a3_bs51.jpg
+✅ 9d3e78fa427bec73_leaf_spots_on_tomato_leaves_credits_hank_dankers_q320_jpg_rf_572533976f481b5316456a85d7d8e923.jpg
+✅ 9ec53dcff572b1b1_bs84.jpg
+✅ 18182ebc59a597c9_bs89.jpg
+✅ 30108434971294e3_bs48.jpg
+✅ 353c4b928a25ab82_tomato_bacterial_speck_01_zoom_jpg_rf_64c5e5c5edd9392321b2db4ca6dc031b.jpg
+✅ e4331589687c2513_photo_1333642732277_jpg_rf_5e2c8002303d5bf9f334339432ee2bc3.jpg
+✅ 13492fddb1860f96_bacterial_leaf_spot_transplants1_jpg_rf_bf41fa1b829ef6ae30605b160d7424c3.jpg
+✅ b82ff910e8da7eb8_b54d0e40027ff5e90e8ba7e1e9abf9bd_garden_guide_garden_ideas_jpg_rf_a6695f26e5c5e9690884bb724ad860ef.jpg
+✅ 20de7c422d59364b_bs20.jpg
+✅ 4e21c426ec25ed55_bs25.jpg
+✅ f4a1694790a5d511_bs31.jpg
+✅ fd95b412dc454f80_bs94.jpg
+✅ 4f13fd65cb823aa2_bs39.jpg
+✅ 705aa2de6e35ae5a_bac_spot_tomato_leaf_l_jpg_rf_4560ca9a3c199a4a607c93b899d7f430.jpg
+✅ 3887f2a3143ae16a_bs56.jpg
+✅ b3fc75492237c251_bs82.jpg
+✅ 5b73a335c68ed322_bacterial_speck_tomato_leaves_jpg_rf_a60f8548dafced50180b4f535c4068c1.jpg
+✅ 3526e468e7865fd2_comparing_diseases_4_canker_tomato_1y51ejs_jpg_rf_7722220997e5f47ba9fb6e8553bfb00a.jpg
+✅ 13b84b3fe91aeec3_bs109.jpg
+✅ 34cdaddb469cc41c_bs99.jpg
+✅ b8147968ccfbee7d_bact_spot_leaf_big_jpg_rf_15a86be219117a84dae399cc00602095.jpg
+✅ b1e4f6f4b4dac0a3_bs3.jpg
+✅ fc6135799c1877bd_39765006175_e2f0da764d_b_jpg_rf_1e435c0243234e8b6c63a30b1775aa3e.jpg
+✅ 8e5205fa9cede774_bs103.jpg
+✅ 4cf2f67f1786204f_bacterial_20leaf_20spot_jpg_rf_65cbf895106afeed2ccd200f4df82fdc.jpg
+✅ e1af260fc53f5844_bs43.jpg
+✅ 9a756047abd9b412_bs19.jpg
+✅ 61c5e58b75d201d0_bs95.jpg
+✅ 1100eb528d3814b9_bs44.jpg
+✅ 4907852bde95653e_bs6.jpg
+✅ 0590dc00b09dfb70_bacterial_spots563_jpg_rf_48e5f1ad4fa652be8d5e58017370f150.jpg
+✅ d488840599082ed7_tomatobacterialspot2_jpg_rf_302abe89ae550008f47ec5590da56cf6.jpg
+✅ c604b608637a8d64_spotspeckblightmite_1l4v879_jpg_rf_ccf023ca8d181178da1117b344f30012.jpg
+✅ 14fbac7d7b01fac0_bs29.jpg
+✅ 685302437f6478f6_pddl_highlights_fig_1_bact_spot_jpg_rf_7928dc0ac2d6fa3f8d1e6cba28888700.jpg
+✅ d068da2229426166_bs15.jpg
+✅ bbfe3393119c5db8_8_20mistakes_204_jpg_rf_c8dde57556100ea83d17c49ba01816d3.jpg
+✅ e9ec09e9936efea0_figure_1_6.jpg
+✅ 44080b0f275873c2_tomato_bacterial_speck_03_zoom_jpg_rf_734632d04cb3e2b295b905815e2b007e.jpg
+✅ 55d1c5372d282d8a_image5_300x300_2523_jpg_1472755422_jpg_rf_ebd7c150c67fb35be55347609f012bd3.jpg
+✅ a5f8716ced897508_bac_spot_jpg_rf_9199fe337de719760b4a68962001f781.jpg
+✅ 59276f626e682896_kg32_beefsteak_tomatoes_08_lg_jpg_rf_71926450b2638e9a95a7690452495ff4.jpg
+✅ 7b159bb34b404b25_bacterial_leaf_spot_2_jpg_rf_e07236a4a8ec2f55ad03205a64325a9e.jpg
+
+ESTADÍSTICAS:
+- Total grupos analizados: 161
+- Archivos base identificados: 161
+- Exitosamente movidos: 161
+- Fallidos: 0
+- Tasa de éxito: 100.0%
+- Eficiencia: 100.0% (archivos base/grupos)
