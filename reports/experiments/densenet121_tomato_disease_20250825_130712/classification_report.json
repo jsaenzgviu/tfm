@@ -1,0 +1,81 @@
+{
+  "bacterial_spot": {
+    "precision": 0.9802816901408451,
+    "recall": 0.9405405405405406,
+    "f1-score": 0.96,
+    "support": 370.0
+  },
+  "early_blight": {
+    "precision": 0.9526462395543176,
+    "recall": 0.9243243243243243,
+    "f1-score": 0.9382716049382716,
+    "support": 370.0
+  },
+  "healthy": {
+    "precision": 0.989159891598916,
+    "recall": 0.9864864864864865,
+    "f1-score": 0.9878213802435724,
+    "support": 370.0
+  },
+  "late_blight": {
+    "precision": 0.9164556962025316,
+    "recall": 0.9783783783783784,
+    "f1-score": 0.9464052287581699,
+    "support": 370.0
+  },
+  "leaf_mold": {
+    "precision": 0.9776536312849162,
+    "recall": 0.9459459459459459,
+    "f1-score": 0.9615384615384616,
+    "support": 370.0
+  },
+  "powdery_mildew": {
+    "precision": 0.9865591397849462,
+    "recall": 0.9918918918918919,
+    "f1-score": 0.9892183288409704,
+    "support": 370.0
+  },
+  "septoria_leaf_spot": {
+    "precision": 0.9272727272727272,
+    "recall": 0.9648648648648649,
+    "f1-score": 0.9456953642384106,
+    "support": 370.0
+  },
+  "spider_mites_two_spotted_spider_mite": {
+    "precision": 0.9865591397849462,
+    "recall": 0.9918918918918919,
+    "f1-score": 0.9892183288409704,
+    "support": 370.0
+  },
+  "target_spot": {
+    "precision": 0.9919137466307277,
+    "recall": 0.9945945945945946,
+    "f1-score": 0.9932523616734144,
+    "support": 370.0
+  },
+  "tomato_mosaic_virus": {
+    "precision": 0.9918256130790191,
+    "recall": 0.9837837837837838,
+    "f1-score": 0.9877883310719131,
+    "support": 370.0
+  },
+  "tomato_yellow_leaf_curl_virus": {
+    "precision": 0.997275204359673,
+    "recall": 0.9891891891891892,
+    "f1-score": 0.9932157394843962,
+    "support": 370.0
+  },
+  "accuracy": 0.971990171990172,
+  "macro avg": {
+    "precision": 0.9725093381539605,
+    "recall": 0.971990171990172,
+    "f1-score": 0.97203864814805,
+    "support": 4070.0
+  },
+  "weighted avg": {
+    "precision": 0.9725093381539606,
+    "recall": 0.971990171990172,
+    "f1-score": 0.9720386481480501,
+    "support": 4070.0
+  }
+}

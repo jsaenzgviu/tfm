@@ -1,0 +1,39 @@
+{
+  "processing_info": {
+    "timestamp": "2025-08-21T10:34:33.681645",
+    "source_directory": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/./same2/spider_mites_two_spotted_spider_mite",
+    "source_directory_name": "spider_mites_two_spotted_spider_mite",
+    "output_directory": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/./same3/train/spider_mites_two_spotted_spider_mite",
+    "script_name": "0_resize_image.py"
+  },
+  "configuration": {
+    "target_size": {
+      "width": 224,
+      "height": 224
+    },
+    "resampling_algorithm": "Lanczos",
+    "jpeg_quality": 96,
+    "output_format": "JPEG",
+    "padding_method": "edge_color_average"
+  },
+  "results": {
+    "images_processed": 2182,
+    "errors": 0,
+    "total_files": 2182,
+    "success_rate": 100.0,
+    "processing_time_seconds": 5.86,
+    "average_time_per_image": 0.0027
+  },
+  "transformations": [
+    "proportional_resize_lanczos",
+    "square_padding_edge_color",
+    "png_to_jpeg_conversion",
+    "jpeg_optimization",
+    "ml_standardization"
+  ],
+  "reproducibility": {
+    "command": "resize_image.py --source spider_mites_two_spotted_spider_mite --output spider_mites_two_spotted_spider_mite --size 224 224 --quality 96",
+    "pillow_version": "11.3.0",
+    "python_version": "3.11.13"
+  }
+}

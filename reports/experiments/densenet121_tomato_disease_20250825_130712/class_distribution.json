@@ -1,0 +1,42 @@
+{
+  "class_names": [
+    "bacterial_spot",
+    "early_blight",
+    "healthy",
+    "late_blight",
+    "leaf_mold",
+    "powdery_mildew",
+    "septoria_leaf_spot",
+    "spider_mites_two_spotted_spider_mite",
+    "target_spot",
+    "tomato_mosaic_virus",
+    "tomato_yellow_leaf_curl_virus"
+  ],
+  "class_counts": {
+    "bacterial_spot": 2327,
+    "early_blight": 919,
+    "healthy": 1610,
+    "late_blight": 1868,
+    "leaf_mold": 962,
+    "powdery_mildew": 1596,
+    "septoria_leaf_spot": 2062,
+    "spider_mites_two_spotted_spider_mite": 1308,
+    "target_spot": 1034,
+    "tomato_mosaic_virus": 793,
+    "tomato_yellow_leaf_curl_virus": 2115
+  },
+  "class_weights": {
+    "0": 0.6482790952064695,
+    "1": 1.6415075675140964,
+    "2": 0.9369847543760588,
+    "3": 0.8075725131399649,
+    "4": 1.5681345681345682,
+    "5": 0.9452039188881294,
+    "6": 0.731593333921171,
+    "7": 1.1533222129552405,
+    "8": 1.4589414454017935,
+    "9": 1.9023271810157056,
+    "10": 0.7132602621964325
+  },
+  "total_samples": 16594
+}

@@ -23,7 +23,7 @@ __pycache__/
 *.h5
 # *.tflite
 # *.csv
-*.json
+# *.json
 # *.png
 *.jpg
 *.jpeg

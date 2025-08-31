@@ -1,0 +1,39 @@
+{
+  "processing_info": {
+    "timestamp": "2025-08-21T10:34:56.972820",
+    "source_directory": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/./same2/target_spot",
+    "source_directory_name": "target_spot",
+    "output_directory": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/./same3/train/target_spot",
+    "script_name": "0_resize_image.py"
+  },
+  "configuration": {
+    "target_size": {
+      "width": 224,
+      "height": 224
+    },
+    "resampling_algorithm": "Lanczos",
+    "jpeg_quality": 96,
+    "output_format": "JPEG",
+    "padding_method": "edge_color_average"
+  },
+  "results": {
+    "images_processed": 2284,
+    "errors": 0,
+    "total_files": 2284,
+    "success_rate": 100.0,
+    "processing_time_seconds": 6.221,
+    "average_time_per_image": 0.0027
+  },
+  "transformations": [
+    "proportional_resize_lanczos",
+    "square_padding_edge_color",
+    "png_to_jpeg_conversion",
+    "jpeg_optimization",
+    "ml_standardization"
+  ],
+  "reproducibility": {
+    "command": "resize_image.py --source target_spot --output target_spot --size 224 224 --quality 96",
+    "pillow_version": "11.3.0",
+    "python_version": "3.11.13"
+  }
+}

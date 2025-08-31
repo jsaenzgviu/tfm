@@ -1,0 +1,8 @@
+{
+  "test_loss": 0.1343071013689041,
+  "test_accuracy": 0.9626843333244324,
+  "model_params": 1032707,
+  "experiment_name": "mobilenetv4_fixed_v2_20250827_225128",
+  "macro_f1": 0.9616785298724717,
+  "weighted_f1": 0.962672802728726
+}

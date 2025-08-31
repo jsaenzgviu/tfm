@@ -1,0 +1,69 @@
+{
+  "model_name": "Tomato Disease Detection - MobileNetV4",
+  "version": "1.0.0",
+  "created_date": "2025-08-28T11:45:04.870378",
+  "accuracy": "96.27%",
+  "model_file": "tomato_disease_mobilenetv4.tflite",
+  "input_size": [
+    224,
+    224,
+    3
+  ],
+  "num_classes": 11,
+  "class_names": [
+    "bacterial_spot",
+    "early_blight",
+    "healthy",
+    "late_blight",
+    "leaf_mold",
+    "powdery_mildew",
+    "septoria_leaf_spot",
+    "spider_mites_two_spotted_spider_mite",
+    "target_spot",
+    "tomato_mosaic_virus",
+    "yellow_leaf_curl_virus"
+  ],
+  "preprocessing": {
+    "resize": [
+      224,
+      224
+    ],
+    "normalize": "0-1",
+    "channels": "RGB"
+  },
+  "performance": {
+    "model_size_mb": 1.94,
+    "input_shape": [
+      1,
+      224,
+      224,
+      3
+    ],
+    "input_dtype": "<class 'numpy.float32'>",
+    "output_shape": [
+      1,
+      11
+    ],
+    "output_dtype": "<class 'numpy.float32'>",
+    "quantized": false,
+    "test_accuracy": 0.9626843333244324,
+    "test_loss": 0.1343071013689041,
+    "macro_f1": 0.9616785298724717,
+    "weighted_f1": 0.962672802728726,
+    "model_params": 1032707,
+    "experiment_name": "mobilenetv4_fixed_v2_20250827_225128"
+  },
+  "android_requirements": {
+    "min_api": 21,
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "tensorflow-lite",
+      "tensorflow-lite-select-tf-ops",
+      "camera2"
+    ],
+    "note": "Requires TF Select for MobileNetV4 operations"
+  }
+}

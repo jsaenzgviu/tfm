@@ -1,0 +1,54 @@
+{
+  "model_config": {
+    "model_name": "mobilenetv4_knowledge_distillation",
+    "mobilenetv4_variant": "medium",
+    "teacher_model": "densenet121",
+    "img_height": 224,
+    "img_width": 224,
+    "img_channels": 3,
+    "num_classes": 11
+  },
+  "dataset_config": {
+    "dataset_base_dir": "dataset_final",
+    "train_path": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/dataset_final/train",
+    "valid_path": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/dataset_final/valid",
+    "test_path": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/dataset_final/test"
+  },
+  "training_config": {
+    "batch_size": 16,
+    "learning_rate": 0.001,
+    "weight_decay": 0.01,
+    "epochs": 40,
+    "early_stopping_patience": 10,
+    "reduce_lr_patience": 5,
+    "reduce_lr_factor": 0.5
+  },
+  "knowledge_distillation_config": {
+    "temperature": 4.0,
+    "alpha": 0.3,
+    "teacher_weights_path": "teacher_densenet121.weights.h5"
+  },
+  "augmentation_config": {
+    "rotation_range": 20,
+    "width_shift_range": 0.2,
+    "height_shift_range": 0.2,
+    "shear_range": 0.2,
+    "zoom_range": 0.2,
+    "horizontal_flip": true,
+    "brightness_range": [
+      0.8,
+      1.2
+    ],
+    "fill_mode": "nearest"
+  },
+  "hardware_config": {
+    "use_mixed_precision": false,
+    "gpu_memory_growth": false
+  },
+  "experiment_info": {
+    "timestamp": "2025-08-27T22:51:30.782862",
+    "experiment_name": "mobilenetv4_fixed_v2_20250827_225128",
+    "dataset_path": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/dataset_final",
+    "results_dir": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/experiments/mobilenetv4_fixed_v2_20250827_225128"
+  }
+}

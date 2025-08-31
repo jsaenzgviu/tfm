@@ -1,0 +1,42 @@
+{
+  "flagship_2024": {
+    "device_name": "Flagship 2024 (Snapdragon 8 Gen 3)",
+    "accuracy_percent": 95.27272727272728,
+    "avg_latency_ms": 7.018168670909248,
+    "p95_latency_ms": 7.9562078500003945,
+    "throughput_fps": 142.4873135558943,
+    "total_samples": 550,
+    "detailed_json": "flagship_2024_detailed.json",
+    "samples_csv": "flagship_2024_samples.csv"
+  },
+  "mid_range_2023": {
+    "device_name": "Mid-range 2023 (Snapdragon 7 Gen 1)",
+    "accuracy_percent": 95.27272727272728,
+    "avg_latency_ms": 6.381604590909081,
+    "p95_latency_ms": 7.084253750019797,
+    "throughput_fps": 156.70040124775994,
+    "total_samples": 550,
+    "detailed_json": "mid_range_2023_detailed.json",
+    "samples_csv": "mid_range_2023_samples.csv"
+  },
+  "budget_2022": {
+    "device_name": "Budget 2022 (Snapdragon 4 Gen 1)",
+    "accuracy_percent": 95.27272727272728,
+    "avg_latency_ms": 8.563717114545593,
+    "p95_latency_ms": 9.145035550004366,
+    "throughput_fps": 116.77172267886874,
+    "total_samples": 550,
+    "detailed_json": "budget_2022_detailed.json",
+    "samples_csv": "budget_2022_samples.csv"
+  },
+  "legacy_2020": {
+    "device_name": "Legacy 2020 (Snapdragon 665)",
+    "accuracy_percent": 95.27272727272728,
+    "avg_latency_ms": 15.864981927273178,
+    "p95_latency_ms": 16.944589149993305,
+    "throughput_fps": 63.03190287793015,
+    "total_samples": 550,
+    "detailed_json": "legacy_2020_detailed.json",
+    "samples_csv": "legacy_2020_samples.csv"
+  }
+}

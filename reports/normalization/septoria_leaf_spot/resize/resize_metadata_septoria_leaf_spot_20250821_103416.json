@@ -1,0 +1,39 @@
+{
+  "processing_info": {
+    "timestamp": "2025-08-21T10:34:16.228748",
+    "source_directory": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/./same2/septoria_leaf_spot",
+    "source_directory_name": "septoria_leaf_spot",
+    "output_directory": "/home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/./same3/train/septoria_leaf_spot",
+    "script_name": "0_resize_image.py"
+  },
+  "configuration": {
+    "target_size": {
+      "width": 224,
+      "height": 224
+    },
+    "resampling_algorithm": "Lanczos",
+    "jpeg_quality": 96,
+    "output_format": "JPEG",
+    "padding_method": "edge_color_average"
+  },
+  "results": {
+    "images_processed": 3622,
+    "errors": 0,
+    "total_files": 3622,
+    "success_rate": 100.0,
+    "processing_time_seconds": 13.969,
+    "average_time_per_image": 0.0039
+  },
+  "transformations": [
+    "proportional_resize_lanczos",
+    "square_padding_edge_color",
+    "png_to_jpeg_conversion",
+    "jpeg_optimization",
+    "ml_standardization"
+  ],
+  "reproducibility": {
+    "command": "resize_image.py --source septoria_leaf_spot --output septoria_leaf_spot --size 224 224 --quality 96",
+    "pillow_version": "11.3.0",
+    "python_version": "3.11.13"
+  }
+}
