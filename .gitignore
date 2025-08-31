@@ -21,10 +21,10 @@ __pycache__/
 
 # Data/Models
 *.h5
-*.tflite
-*.csv
+# *.tflite
+# *.csv
 *.json
-*.png
+# *.png
 *.jpg
 *.jpeg
 *.bmp

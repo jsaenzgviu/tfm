@@ -6,7 +6,7 @@
 Sistema completo para la detección automática de enfermedades en hojas de tomate usando Computer Vision y modelos de Deep Learning, optimizado para despliegue en dispositivos Android.
 
 ## Estructura del Proyecto
-```
+
 py/                  # Código fuente Python
   preprocessing/     # Scripts de preprocesamiento de datos
   processing/        # Scripts de procesamiento y agrupación de patrones
@@ -22,7 +22,6 @@ reports/             # Resultados, experimentos, análisis y documentación
 tomato_dataset/      # Scripts y documentación adicional
 README.md            # Este archivo
 requirements.txt     # Dependencias Python
-```
 
 ## Instalación
 1. Clona el repositorio:
@@ -60,9 +59,4 @@ requirements.txt     # Dependencias Python
 - Los resultados y modelos están en `reports/experiments/`.
 - Documentación técnica y científica en `reports/` y `tomato_dataset/`.
 
-## Contacto y Licencia
-- Autor: [Tu Nombre]
-- Licencia: [Selecciona una licencia, por ejemplo MIT]
-
 ---
-```
