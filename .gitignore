@@ -33,7 +33,7 @@ __pycache__/
 *.npz
 
 # Android/Java
-*.apk
+# *.apk
 *.dex
 *.class
 *.jar
