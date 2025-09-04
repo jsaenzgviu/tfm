@@ -25,7 +25,7 @@ __pycache__/
 # *.csv
 # *.json
 # *.png
-*.jpg
+#*.jpg
 *.jpeg
 *.bmp
 *.gif

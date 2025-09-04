@@ -1,0 +1,32 @@
+{
+  "validation_split": 0.2,
+  "random_state": 42,
+  "train_counts": {
+    "bacterial_spot": 1861,
+    "early_blight": 735,
+    "healthy": 1288,
+    "late_blight": 1494,
+    "leaf_mold": 769,
+    "powdery_mildew": 1276,
+    "septoria_leaf_spot": 1649,
+    "spider_mites_two_spotted_spider_mite": 1046,
+    "target_spot": 827,
+    "tomato_mosaic_virus": 634,
+    "tomato_yellow_leaf_curl_virus": 1692
+  },
+  "valid_counts": {
+    "bacterial_spot": 466,
+    "early_blight": 184,
+    "healthy": 322,
+    "late_blight": 374,
+    "leaf_mold": 193,
+    "powdery_mildew": 320,
+    "septoria_leaf_spot": 413,
+    "spider_mites_two_spotted_spider_mite": 262,
+    "target_spot": 207,
+    "tomato_mosaic_virus": 159,
+    "tomato_yellow_leaf_curl_virus": 423
+  },
+  "total_train": 13271,
+  "total_valid": 3323
+}
