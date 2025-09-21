@@ -1,0 +1,34 @@
+================================================================================
+INFORME DE ARCHIVOS CON HASH SHA256 DUPLICADOS
+================================================================================
+Fecha: 2025-08-08 21:47:19
+Directorio analizado: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/
+Total de hashes únicos: 31452
+Hashes con duplicados: 1
+================================================================================
+
+ARCHIVOS CON HASH SHA256 DUPLICADOS:
+------------------------------------------------------------
+
+HASH SHA256: 4874eb88f8544a40f723bec845086b8c471c353eb13685966c394950804cffb7
+Cantidad de archivos con este hash: 2
+Tamaño del archivo: 188291 bytes
+Archivos duplicados:
+  1. 4874eb88f8544a40_septoria_leaf_spot_of_tomato186.jpg
+     Ruta completa: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/bacterial_spot/4874eb88f8544a40_septoria_leaf_spot_of_tomato186.jpg
+     Directorio: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/train/bacterial_spot
+  2. 4874eb88f8544a40_ss_925.jpg
+     Ruta completa: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/septoria_leaf_spot/4874eb88f8544a40_ss_925.jpg
+     Directorio: /home/xxxx/share/VIU/14tfm/06_actividad/tomato_dataset/same/valid/septoria_leaf_spot
+------------------------------------------------------------
+
+ESTADÍSTICAS DETALLADAS:
+------------------------------
+Total de archivos analizados: 31453
+Total de archivos duplicados: 2
+Archivos únicos: 31452
+Porcentaje de archivos duplicados: 0.01%
+Espacio desperdiciado por duplicados: 188291 bytes (0.18 MB)
+
+RESUMEN DE DUPLICADOS POR HASH:
+- 4874eb88f8544a40...: 2 archivos (188291 bytes cada uno)
