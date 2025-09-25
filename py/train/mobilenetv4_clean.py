@@ -30,7 +30,7 @@ INPUT_SIZE = (224, 224, 3)
 NUM_CLASSES = 11
 
 # Configuración de entrenamiento
-EPOCHS = 1  # Solo 1 época para debugging
+EPOCHS = 24  # Solo 1 época para debugging
 BATCH_SIZE = 16  # Reducido para modelo Large con Mixed Precision
 LEARNING_RATE = 0.001
 WEIGHT_DECAY = 0.01
@@ -205,14 +205,14 @@ def load_teacher_model():
 
 # Callback personalizado para guardar el modelo student
 class StudentModelCheckpoint(tf.keras.callbacks.Callback):
-    def __init__(self, filepath, monitor='val_accuracy', mode='max', save_best_only=True, verbose=1):
+    def __init__(self, filepath, monitor="val_accuracy", mode="max", save_best_only=True, verbose=1):
         super().__init__()
         self.filepath = filepath
         self.monitor = monitor
         self.mode = mode
         self.save_best_only = save_best_only
         self.verbose = verbose
-        self.best = -np.inf if mode == 'max' else np.inf
+        self.best = -np.inf if mode == "max" else np.inf
 
     def on_epoch_end(self, epoch, logs=None):
         logs = logs or {}
@@ -220,133 +220,125 @@ class StudentModelCheckpoint(tf.keras.callbacks.Callback):
 
         if current is None:
             if self.verbose > 0:
-                print(f'\nWarning: Can save best model only with {self.monitor} available, skipping.')
+                print(f"\nWarning: Can save best model only with {self.monitor} available, skipping.")
             return
 
-        if self.mode == 'max':
+        if self.mode == "max":
             if current > self.best:
                 old_best = self.best
                 self.best = current
                 if self.verbose > 0:
-                    print(f'\nEpoch {epoch + 1}: {self.monitor} improved from {old_best:.5f} to {current:.5f}, saving student model to {self.filepath}')
+                    print(
+                        f"\nEpoch {epoch + 1}: {self.monitor} improved from {old_best:.5f} to {current:.5f}, saving student model to {self.filepath}"
+                    )
 
                 # 🎯 SOLUCIÓN: Crear un modelo independiente con los pesos actuales del student
-                print(f'\n� Creando modelo student independiente...')
+                print(f"\n� Creando modelo student independiente...")
                 try:
                     from mobilenetv4_clean import create_mobilenetv4_model
 
                     # Crear un nuevo modelo student independiente
-                    independent_student = create_mobilenetv4_model(
-                        variant="medium",
-                        input_shape=(224, 224, 3),
-                        num_classes=11
-                    )
+                    independent_student = create_mobilenetv4_model(variant="medium", input_shape=(224, 224, 3), num_classes=11)
 
                     # Copiar los pesos exactos del student entrenado
                     student_weights = self.model.student.get_weights()
                     independent_student.set_weights(student_weights)
 
                     # Compilar el modelo independiente
-                    independent_student.compile(
-                        optimizer='adam',
-                        loss='sparse_categorical_crossentropy',
-                        metrics=['accuracy']
-                    )
+                    independent_student.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"])
 
-                    print(f'   ✅ Modelo independiente creado con {independent_student.count_params():,} parámetros')
+                    print(f"   ✅ Modelo independiente creado con {independent_student.count_params():,} parámetros")
 
                     # Verificar con datos de test rápido
                     import os
                     from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
-                    test_datagen = ImageDataGenerator(rescale=1./255)
+                    test_datagen = ImageDataGenerator(rescale=1.0 / 255)
                     test_gen = test_datagen.flow_from_directory(
-                        'dataset/test',
-                        target_size=(224, 224),
-                        batch_size=8,
-                        class_mode='sparse',
-                        shuffle=False
+                        "dataset/test", target_size=(224, 224), batch_size=8, class_mode="sparse", shuffle=False
                     )
 
                     # Evaluar modelo original vs independiente
-                    print(f'   🔍 Verificando consistencia...')
+                    print(f"   🔍 Verificando consistencia...")
                     original_results = self.model.student.evaluate(test_gen, verbose=0)
                     test_gen.reset()
                     independent_results = independent_student.evaluate(test_gen, verbose=0)
 
-                    print(f'   → Student original accuracy: {original_results[1]:.4f}')
-                    print(f'   → Student independiente accuracy: {independent_results[1]:.4f}')
-                    print(f'   → Diferencia: {abs(original_results[1] - independent_results[1]):.6f}')
+                    print(f"   → Student original accuracy: {original_results[1]:.4f}")
+                    print(f"   → Student independiente accuracy: {independent_results[1]:.4f}")
+                    print(f"   → Diferencia: {abs(original_results[1] - independent_results[1]):.6f}")
 
                     if abs(original_results[1] - independent_results[1]) < 0.001:
-                        print(f'   ✅ Pesos copiados correctamente')
+                        print(f"   ✅ Pesos copiados correctamente")
 
                         # Guardar el modelo independiente
                         independent_student.save(self.filepath)
-                        print(f'   💾 Modelo independiente guardado en: {self.filepath}')
+                        print(f"   💾 Modelo independiente guardado en: {self.filepath}")
 
                         # Verificar el guardado
                         test_gen.reset()
                         loaded_model = tf.keras.models.load_model(self.filepath)
                         loaded_results = loaded_model.evaluate(test_gen, verbose=0)
-                        print(f'   → Modelo cargado accuracy: {loaded_results[1]:.4f}')
+                        print(f"   → Modelo cargado accuracy: {loaded_results[1]:.4f}")
 
                         if abs(independent_results[1] - loaded_results[1]) < 0.001:
-                            print(f'   🎉 ¡ÉXITO! Modelo guardado correctamente con precisión preservada')
+                            print(f"   🎉 ¡ÉXITO! Modelo guardado correctamente con precisión preservada")
                         else:
-                            print(f'   ⚠️ Problema en el guardado: diferencia {abs(independent_results[1] - loaded_results[1]):.6f}')
+                            print(f"   ⚠️ Problema en el guardado: diferencia {abs(independent_results[1] - loaded_results[1]):.6f}")
                     else:
-                        print(f'   ❌ Error en copia de pesos: diferencia {abs(original_results[1] - independent_results[1]):.6f}')
+                        print(f"   ❌ Error en copia de pesos: diferencia {abs(original_results[1] - independent_results[1]):.6f}")
                         # Fallback al método original
                         self.model.student.save(self.filepath)
-                        print(f'   📦 Fallback: Guardado con método original')
+                        print(f"   📦 Fallback: Guardado con método original")
 
                 except Exception as e:
-                    print(f'   ❌ Error en guardado avanzado: {e}')
+                    print(f"   ❌ Error en guardado avanzado: {e}")
                     # Fallback al método original
                     try:
                         self.model.student.save(self.filepath)
-                        print(f'   📦 Fallback: Student model guardado con método original')
+                        print(f"   📦 Fallback: Student model guardado con método original")
                     except Exception as e2:
-                        print(f'   ❌ Error en fallback: {e2}')
+                        print(f"   ❌ Error en fallback: {e2}")
 
                 except Exception as e:
-                    print(f'   ❌ Error en verificación: {e}')
+                    print(f"   ❌ Error en verificación: {e}")
                     # Continuar con guardado normal
                     try:
                         self.model.student.save(self.filepath)
-                        print(f'   ✅ Student model saved successfully (sin verificación)')
+                        print(f"   ✅ Student model saved successfully (sin verificación)")
                     except Exception as e2:
-                        print(f'   ❌ Error saving student model: {e2}')
+                        print(f"   ❌ Error saving student model: {e2}")
 
             else:
                 if self.verbose > 0:
-                    print(f'\nEpoch {epoch + 1}: {self.monitor} did not improve from {self.best:.5f} (current: {current:.5f})')
+                    print(f"\nEpoch {epoch + 1}: {self.monitor} did not improve from {self.best:.5f} (current: {current:.5f})")
         else:
             if current < self.best:
                 old_best = self.best
                 self.best = current
                 if self.verbose > 0:
-                    print(f'\nEpoch {epoch + 1}: {self.monitor} improved from {old_best:.5f} to {current:.5f}, saving student model to {self.filepath}')
+                    print(
+                        f"\nEpoch {epoch + 1}: {self.monitor} improved from {old_best:.5f} to {current:.5f}, saving student model to {self.filepath}"
+                    )
                 try:
                     self.model.student.save(self.filepath)
-                    print(f'✅ Student model saved successfully')
+                    print(f"✅ Student model saved successfully")
                 except Exception as e:
-                    print(f'❌ Error saving student model: {e}')
+                    print(f"❌ Error saving student model: {e}")
             else:
                 if self.verbose > 0:
-                    print(f'\nEpoch {epoch + 1}: {self.monitor} did not improve from {self.best:.5f}')
+                    print(f"\nEpoch {epoch + 1}: {self.monitor} did not improve from {self.best:.5f}")
 
 
 # Callback para restaurar los mejores pesos del student
 class StudentModelRestoreBest(tf.keras.callbacks.Callback):
-    def __init__(self, filepath, monitor='val_accuracy', mode='max', verbose=1):
+    def __init__(self, filepath, monitor="val_accuracy", mode="max", verbose=1):
         super().__init__()
         self.filepath = filepath
         self.monitor = monitor
         self.mode = mode
         self.verbose = verbose
-        self.best = -np.inf if mode == 'max' else np.inf
+        self.best = -np.inf if mode == "max" else np.inf
         self.best_weights = None
 
     def on_epoch_end(self, epoch, logs=None):
@@ -356,7 +348,7 @@ class StudentModelRestoreBest(tf.keras.callbacks.Callback):
         if current is None:
             return
 
-        if self.mode == 'max':
+        if self.mode == "max":
             if current > self.best:
                 self.best = current
                 self.best_weights = self.model.student.get_weights()
@@ -368,7 +360,7 @@ class StudentModelRestoreBest(tf.keras.callbacks.Callback):
     def on_train_end(self, logs=None):
         if self.best_weights is not None:
             if self.verbose > 0:
-                print(f'\nRestoring best student weights from epoch with {self.monitor}={self.best:.5f}')
+                print(f"\nRestoring best student weights from epoch with {self.monitor}={self.best:.5f}")
             self.model.student.set_weights(self.best_weights)
 
 
@@ -449,10 +441,12 @@ class KnowledgeDistillationModel(tf.keras.Model):
 
     def get_config(self):
         config = super().get_config()
-        config.update({
-            "alpha": self.alpha,
-            "temperature": self.temperature,
-        })
+        config.update(
+            {
+                "alpha": self.alpha,
+                "temperature": self.temperature,
+            }
+        )
         return config
 
     @classmethod
@@ -830,7 +824,7 @@ def main():
 
     # Evaluar en test con métricas básicas
     print("\n📊 Evaluando métricas básicas...")
-    test_results = kd_model.evaluate(test_gen, verbose=1)    # EVALUACIÓN COMPLETA - IGUAL QUE DENSENET.PY
+    test_results = kd_model.evaluate(test_gen, verbose=1)  # EVALUACIÓN COMPLETA - IGUAL QUE DENSENET.PY
     print("\n" + "=" * 70)
     print("🔬 EVALUACIÓN COMPLETA DEL MODELO")
     print("=" * 70)
