@@ -1,10 +1,9 @@
 
-```markdown
 # TFM - Desarrollar  un  sistema  para diagnóstico  de  enfermedades en las hojas  de las  plantas  mediante Computer  Vision  y  modelos  de aprendizaje  profundo  para aplicaciones móviles.
 
 Este proyecto forma parte del Trabajo de Fin de Máster (TFM) para el desarrollo de un  sistema  para diagnóstico  de  enfermedades en las hojas  de las  plantas  mediante Computer  Vision  y  modelos  de aprendizaje  profundo  para aplicaciones móviles.
 
-## 📋 Descripción del Proyecto
+## Descripción del Proyecto
 
 El sistema permite identificar automáticamente 11 tipos diferentes de enfermedades y estados de salud en plantas de tomate mediante el análisis de imágenes de hojas. Incluye tanto el entrenamiento de modelos de Machine Learning como una aplicación móvil Android para uso en campo.
 
@@ -21,7 +20,7 @@ El sistema permite identificar automáticamente 11 tipos diferentes de enfermeda
 - **Tomato Mosaic Virus** (Virus del mosaico del tomate)
 - **Tomato Yellow Leaf Curl Virus** (Virus del rizado amarillo)
 
-## 🗂️ Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 ├── py/                          # Código Python principal
@@ -41,7 +40,7 @@ El sistema permite identificar automáticamente 11 tipos diferentes de enfermeda
     └── normalization/           # Reportes de normalización
 ```
 
-## 🚀 Configuración del Entorno
+## Configuración del Entorno
 
 ### Requisitos del Sistema
 - Python 3.8+
@@ -66,7 +65,7 @@ venv\Scripts\activate     # Windows
 pip install -r py/requirements.txt
 ```
 
-## 📊 Dataset
+## Dataset
 
 El dataset final contiene **20,664 imágenes** distribuidas como:
 - **Entrenamiento**: 13,271 imágenes
@@ -75,7 +74,7 @@ El dataset final contiene **20,664 imágenes** distribuidas como:
 
 Las imágenes están balanceadas en el conjunto de prueba (370 imágenes por clase) y desbalanceadas de forma natural en entrenamiento y validación para reflejar la distribución real de las enfermedades.
 
-## 🧠 Scripts de Preprocesamiento
+## Scripts de Preprocesamiento
 
 ### Fase 1: Normalización y Limpieza (`preprocessing/`)
 - `01_colisiones_uuid.py` - Detecta colisiones entre conjuntos de datos
@@ -98,7 +97,7 @@ Las imágenes están balanceadas en el conjunto de prueba (370 imágenes por cla
 - `107_resize_image.py` - Redimensiona imágenes
 - `108_create_validation_subset.py` - Crea subconjunto de validación
 
-## 🤖 Modelos de Machine Learning
+## Modelos de Machine Learning
 
 ### Scripts de Entrenamiento (`train/`)
 
@@ -129,7 +128,7 @@ Las imágenes están balanceadas en el conjunto de prueba (370 imágenes por cla
 - Optimizado para inferencia rápida
 - Conversión automática a TensorFlow Lite
 
-## 📱 Aplicación Android
+## Aplicación Android
 
 ### Características
 - **Detección en tiempo real** de enfermedades
@@ -151,7 +150,7 @@ cd py/android_app
 # APK generado en: app/build/outputs/apk/debug/
 ```
 
-## 📈 Resultados y Métricas
+## Resultados y Métricas
 
 Los experimentos y resultados se almacenan en `reports/experiments/`:
 - **DenseNet121**: Múltiples experimentos con diferentes configuraciones
@@ -159,7 +158,7 @@ Los experimentos y resultados se almacenan en `reports/experiments/`:
 - **Métricas**: Accuracy, Precision, Recall, F1-Score por clase
 - **Visualizaciones**: Matrices de confusión, curvas de entrenamiento
 
-## 🔧 Uso del Sistema
+## Uso del Sistema
 
 ### Entrenamiento de Modelos
 ```bash
@@ -183,22 +182,22 @@ python 02_move_colisiones_uuid.py
 # ... continuar secuencialmente
 ```
 
-## 📋 Pipeline Completo
+## Pipeline Completo
 
 1. **Preprocesamiento** (`01_*` - `08_*`): Limpieza y normalización
 2. **Procesamiento** (`101_*` - `108_*`): Análisis y organización avanzada
 3. **Entrenamiento** (`201_*` - `205_*`): Modelos y optimización
 4. **Despliegue**: Aplicación Android con TensorFlow Lite
 
-## 🏆 Objetivos del Proyecto
+## Objetivos del Proyecto
 
-- ✅ **Accuracy >95%** en clasificación de enfermedades
-- ✅ **Aplicación móvil funcional** para uso en campo
-- ✅ **Procesamiento offline** sin conexión a internet
-- ✅ **Pipeline automatizado** de preprocesamiento
-- ✅ **Modelos optimizados** para dispositivos móviles
+- **Accuracy >95%** en clasificación de enfermedades
+- **Aplicación móvil funcional** para uso en campo
+- **Procesamiento offline** sin conexión a internet
+- **Pipeline automatizado** de preprocesamiento
+- **Modelos optimizados** para dispositivos móviles
 
-## 📚 Dependencias Principales
+## Dependencias Principales
 
 - **TensorFlow 2.19.0** - Framework de Deep Learning
 - **OpenCV 4.10.0** - Procesamiento de imágenes
@@ -206,11 +205,11 @@ python 02_move_colisiones_uuid.py
 - **Matplotlib/Seaborn** - Visualización
 - **NumPy/Pandas** - Manipulación de datos
 
-## 👥 Contribuciones
+## Contribuciones
 
 Este proyecto es parte de un TFM académico.
 
-## 📄 Licencia
+## Licencia
 
 Proyecto académico - Universidad Internacional de Valencia (VIU)
 
