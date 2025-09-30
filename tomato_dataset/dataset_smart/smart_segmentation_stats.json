@@ -1,0 +1,23 @@
+{
+  "train": {
+    "total_processed": 13271,
+    "total_success": 13271,
+    "total_preserved": 13057,
+    "success_rate": 100.0,
+    "preserved_rate": 98.38746138196066
+  },
+  "valid": {
+    "total_processed": 3323,
+    "total_success": 3323,
+    "total_preserved": 3275,
+    "success_rate": 100.0,
+    "preserved_rate": 98.55552211856757
+  },
+  "test": {
+    "total_processed": 4070,
+    "total_success": 4070,
+    "total_preserved": 3990,
+    "success_rate": 100.0,
+    "preserved_rate": 98.03439803439802
+  }
+}
