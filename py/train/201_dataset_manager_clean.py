@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
 """
-Gestión y preprocesamiento de datos para el dataset de enfermedades de tomate
-Incluye split de datos, análisis de distribución y preprocesamiento con PlantCV
+Gestión y organización de datos para el dataset de enfermedades de tomate
+Incluye split de datos y análisis de distribución
 """
 
 import os
 import shutil
 import json
-import numpy as np
 from sklearn.model_selection import train_test_split
-import cv2
 
 # ==================================================================================
 # CONFIGURACIÓN - MODIFICAR ESTAS VARIABLES SEGÚN NECESIDADES
@@ -23,15 +21,6 @@ TARGET_DATASET_DIR = "dataset_final"  # Directorio final con train/valid/test
 VALIDATION_SPLIT = 0.2  # 20% del train original se convertirá en validation
 RANDOM_STATE = 42  # Para reproducibilidad
 
-# Configuración de preprocesamiento con PlantCV
-USE_PLANTCV_PREPROCESSING = False  # Cambiar a True para habilitar PlantCV
-OUTPUT_SEGMENTED_DIR = "dataset_segmented"  # Directorio para imágenes segmentadas
-
-# Parámetros de segmentación PlantCV
-HSV_LOWER_GREEN = [35, 40, 40]  # Límite inferior HSV para plantas verdes
-HSV_UPPER_GREEN = [85, 255, 255]  # Límite superior HSV para plantas verdes
-MIN_CONTOUR_AREA = 1000  # Área mínima para considerar un contorno válido
-
 # Configuración de imágenes
 TARGET_SIZE = (224, 224)  # Tamaño objetivo para las imágenes
 VALID_EXTENSIONS = {".jpg", ".jpeg", ".png", ".JPG", ".JPEG", ".PNG"}
@@ -43,14 +32,13 @@ VALID_EXTENSIONS = {".jpg", ".jpeg", ".png", ".JPG", ".JPEG", ".PNG"}
 
 class DatasetManager:
     """
-    Gestor del dataset con funcionalidades de split, análisis y preprocesamiento
+    Gestor del dataset con funcionalidades de split y análisis de distribución
     """
 
     def __init__(self):
         self.script_dir = os.path.dirname(os.path.abspath(__file__))
         self.source_dir = os.path.join(self.script_dir, SOURCE_DATASET_DIR)
         self.target_dir = os.path.join(self.script_dir, TARGET_DATASET_DIR)
-        self.segmented_dir = os.path.join(self.script_dir, OUTPUT_SEGMENTED_DIR)
 
         self.class_names = []
         self.class_distribution = {}
