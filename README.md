@@ -26,18 +26,55 @@ El sistema permite identificar automáticamente 11 tipos diferentes de enfermeda
 ├── py/                          # Código Python principal
 │   ├── requirements.txt         # Dependencias del proyecto
 │   ├── preprocessing/           # Scripts de preprocesamiento de datos
+│   │   ├── 01_colisiones_uuid.py
+│   │   ├── 02_move_colisiones_uuid.py
+│   │   ├── 03_same_name.py
+│   │   ├── 04_uuid_imagenes.py
+│   │   ├── 05_revisar_uuid.py
+│   │   ├── 06_delete_duplicate_uuid_dir.py
+│   │   ├── 07_compare_duplicate_hash.py
+│   │   ├── 08_delete_valid_duplicate_hash.py
+│   │   └── distribucion_imagenes_clase.py
 │   ├── processing/              # Scripts de procesamiento avanzado
-│   ├── train/                   # Scripts de entrenamiento de modelos
-│   └── android_app/             # Aplicación Android
+│   │   ├── 101_extract_all_real_patterns.py
+│   │   ├── 102_hybrid_pattern_grouping.py
+│   │   ├── 103_move_unique_files.py
+│   │   ├── 104_base_file_identifier.py
+│   │   ├── 105_move_base_files.py
+│   │   ├── 106_image_sizes.py
+│   │   ├── 107_resize_image.py
+│   │   └── 108_create_validation_subset.py
+│   └── train/                   # Scripts de entrenamiento de modelos
+│       ├── 201_dataset_manager_clean.py
+│       ├── 202_dataset_manager_smart.py
+│       ├── 203_densenet.py
+│       ├── 204_fixed_callback_training_v2.py
+│       ├── 205_convert_to_mobile.py
+│       └── mobilenetv4_clean.py
+├── android_app/                 # Aplicación Android (raíz del proyecto)
+│   ├── app/                     # Código fuente de la aplicación
+│   ├── gradle/                  # Configuración de Gradle
+│   ├── apk/                     # APKs generados
+│   ├── build.gradle             # Configuración de build
+│   ├── settings.gradle          # Configuración de proyecto
+│   └── gradlew                  # Gradle wrapper
 ├── tomato_dataset/              # Dataset de imágenes
 │   └── dataset_final/           # Dataset final procesado
-│       ├── train/               # Conjunto de entrenamiento
-│       ├── valid/               # Conjunto de validación
-│       └── test/                # Conjunto de prueba
+│       ├── train/               # Conjunto de entrenamiento (13,271 imágenes)
+│       ├── valid/               # Conjunto de validación (3,323 imágenes)
+│       └── test/                # Conjunto de prueba (4,070 imágenes)
 └── reports/                     # Reportes y resultados
     ├── experiments/             # Resultados de experimentos
+    │   ├── app_results/         # Resultados de pruebas en aplicación
+    │   ├── densenet121_*/       # Experimentos con DenseNet121
+    │   ├── mobilenetv4_*/       # Experimentos con MobileNetV4
+    │   ├── mobile_deployment/   # Archivos de despliegue móvil
+    │   └── mobile_testing_results/  # Resultados de pruebas móviles
     ├── inicial_group_analysis/  # Análisis inicial por grupos
-    └── normalization/           # Reportes de normalización
+    ├── inicial_normalization/   # Normalización inicial
+    ├── normalization/           # Reportes de normalización
+    ├── all_patterns_comprehensive.txt  # Análisis completo de patrones
+    └── patterns_for_algorithm.json     # Patrones para algoritmos
 ```
 
 ## Configuración del Entorno
@@ -145,9 +182,9 @@ Las imágenes están balanceadas en el conjunto de prueba (370 imágenes por cla
 
 ### Construcción
 ```bash
-cd py/android_app
+cd android_app
 ./gradlew assembleDebug
-# APK generado en: app/build/outputs/apk/debug/
+# APK generado en: apk/debug/app-debug.apk
 ```
 
 ## Resultados y Métricas
