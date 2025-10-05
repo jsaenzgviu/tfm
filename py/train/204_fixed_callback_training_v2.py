@@ -141,6 +141,19 @@ class MobileNetV4KnowledgeDistillationTrainer:
 
     def create_data_generators(self):
         """Crear generadores de datos con la normalización correcta"""
+        # Verificar que existe directorio de validación
+        if not os.path.exists(self.valid_path):
+            raise FileNotFoundError(
+                f"❌ ERROR CRÍTICO: No existe directorio de validación: {self.valid_path}\n"
+                f"   El conjunto TEST NUNCA debe usarse durante el entrenamiento.\n"
+                f"   Ejecuta primero '201_dataset_manager_clean.py' para crear el split train/valid/test."
+            )
+
+        if not os.path.exists(self.test_path):
+            raise FileNotFoundError(
+                f"❌ ERROR: No existe directorio de test: {self.test_path}\n   Se requiere un conjunto test independiente para evaluación final."
+            )
+
         # Data augmentation para train
         train_datagen = ImageDataGenerator(
             rescale=1.0 / 255,  # Normalización principal
@@ -157,25 +170,28 @@ class MobileNetV4KnowledgeDistillationTrainer:
         # Solo normalización para validación y test
         val_test_datagen = ImageDataGenerator(rescale=1.0 / 255)
 
-        # Crear generadores
+        # Crear generador de TRAIN
         train_generator = train_datagen.flow_from_directory(
             self.train_path, target_size=(IMG_SIZE, IMG_SIZE), batch_size=BATCH_SIZE, class_mode="sparse", shuffle=True
         )
 
-        # Determinar qué directorio usar para validación
-        validation_path = self.valid_path if os.path.exists(self.valid_path) else self.test_path
-        validation_type = "validación" if os.path.exists(self.valid_path) else "test (como validación)"
-
+        # Crear generador de VALIDACIÓN (usado durante entrenamiento)
         val_generator = val_test_datagen.flow_from_directory(
-            validation_path, target_size=(IMG_SIZE, IMG_SIZE), batch_size=BATCH_SIZE, class_mode="sparse", shuffle=False
+            self.valid_path, target_size=(IMG_SIZE, IMG_SIZE), batch_size=BATCH_SIZE, class_mode="sparse", shuffle=False
+        )
+
+        # Crear generador de TEST (SOLO para evaluación final, NUNCA durante entrenamiento)
+        test_generator = val_test_datagen.flow_from_directory(
+            self.test_path, target_size=(IMG_SIZE, IMG_SIZE), batch_size=BATCH_SIZE, class_mode="sparse", shuffle=False
         )
 
         print("✅ Generadores de datos creados:")
-        print(f"   • Train: {train_generator.samples} imágenes, {train_generator.num_classes} clases")
-        print(f"   • {validation_type.capitalize()}: {val_generator.samples} imágenes")
-        print(f"   • Directorio validación: {validation_path}")
+        print(f"   • Train:      {train_generator.samples:5,d} imágenes ({self.train_path})")
+        print(f"   • Validation: {val_generator.samples:5,d} imágenes ({self.valid_path})")
+        print(f"   • Test:       {test_generator.samples:5,d} imágenes ({self.test_path})")
+        print(f"   ⚠️  IMPORTANTE: Test set SOLO se usa en evaluación final, NUNCA durante entrenamiento")
 
-        return train_generator, val_generator
+        return train_generator, val_generator, test_generator
 
     def save_experiment_config(self):
         """Guardar configuración del experimento"""
@@ -512,9 +528,9 @@ class MobileNetV4KnowledgeDistillationTrainer:
         # Calcular pesos de clase
         class_weights = self.calculate_class_weights()
 
-        # Crear datasets
-        print(f"\n📂 Preparando datos...")
-        train_gen, val_gen = self.create_data_generators()
+        # Crear datasets (train, validation, test)
+        print("\n📂 Preparando datos...")
+        train_gen, val_gen, test_gen = self.create_data_generators()
 
         # Guardar configuración
         self.save_experiment_config()
@@ -603,8 +619,11 @@ class MobileNetV4KnowledgeDistillationTrainer:
         if SAVE_TRAINING_PLOTS:
             self.plot_training_history()
 
-        # Evaluar en test set
-        final_metrics = self.evaluate_model(val_gen)
+        # Evaluar en test set (conjunto independiente, NUNCA visto durante entrenamiento)
+        print("\n" + "=" * 70)
+        print("🧪 EVALUACIÓN FINAL EN TEST SET (conjunto completamente independiente)")
+        print("=" * 70)
+        final_metrics = self.evaluate_model(test_gen)
 
         # Generar reporte final
         if final_metrics:
